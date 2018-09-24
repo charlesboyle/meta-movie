@@ -1,0 +1,1131 @@
+﻿<i>please verify that the p1 ata removal...</i>
+<i>...on replacement cap part 1 and 2
+are complete.</i>
+dma m1, m2, m3 and m4 are complete.
+<i>okay. copy that, explorer.</i>
+<i>dr. stone, houston.</i>
+<i>medical is concerned
+about your ecg readings.</i>
+i'm fine, houston.
+<i>well, medical doesn't agree,
+doc. are you feeling nauseous?</i>
+<i>not any more than usual, houston.
+diagnostics are green.</i>
+<i>link to communications card
+ready for data reception.</i>
+<i>if this works, when we touch down tomorrow,
+i'm buying all you guys a round of drinks.</i>
+<i>that's a date, doctor.</i>
+<i>just remember,
+houston's partial to margaritas.</i>
+<i>booting comms card now.</i>
+<i>please confirm link.</i>
+<i>that's a negative, we're not seeing any data.</i>
+<i>stand by, houston,
+i'm gonna reboot the comms card.</i>
+<i>standing by.</i>
+<i>houston, i have a
+bad feeling about this mission.</i>
+<i>please expand.</i>
+<i>okay, let me tell you a story.</i>
+<i>it was '96. i'd been up here for 42 days.</i>
+<i>every time i passed over texas,
+i looked down...</i>
+<i>...knowing that mrs. kowalski
+was looking up, thinking of me.</i>
+<i>six weeks i'm blowing kisses at that woman.</i>
+<i>then we land at edwards and i find out
+that she's run off with this lawyer.</i>
+<i>so i packed my car, and i headed to--</i>
+<i>tijuana. you've told this story, kowalski.</i>
+<i>as houston recalls,
+she, uh, took off in your '74 gto.</i>
+<i>engineering requests fuel status
+on the jetpack prototype.</i>
+<i>five hours off the reservation
+and i show 30 percent drain.</i>
+<i>give my compliments to engineering.</i>
+<i>except for a slight malfunction
+in the nulling of the roll axis...</i>
+<i>...this jetpack is one prime piece of thrust.</i>
+<i>engineering says thank you.</i>
+tell them i still prefer
+my '67 corvette, though.
+<i>- speaking of which, did i ever tell you--
+- we know the corvette story.</i>
+even engineering?
+<i>especially engineering.</i>
+<i>we're going to miss you, matt.</i>
+<i>comms card reboot in progress.</i>
+<i>thank you, doctor.</i>
+<i>shariff, what's your status?</i>
+<i>nearly there.
+replacing battery module a 1 and c.</i>
+<i>could you be a little more specific?</i>
+<i>indeterminate estimates
+make houston anxious.</i>
+<i>no, no, no, houston. don't be anxious.</i>
+<i>anxiety's not good for the heart.</i>
+<i>system is ready to reactivate.</i>
+<i>hubble telescope engaged.
+upgrade fully functional.</i>
+<i>that applause you hear is for you, shariff.</i>
+<i>congratulations.
+kick back, take the rest of the day off.</i>
+<i>matt, do you have a visual...</i>
+<i>...on just what mission specialist shariff
+is doing up there?</i>
+he appears to be doing
+some form of the macarena.
+but that would be just a best-guess scenario
+on my part.
+<i>dr. stone, houston.</i>
+<i>medical now have you
+with a temperature drop to 35. 9...</i>
+<i>...and a heart-rate rise to 70.</i>
+<i>how are you feeling?</i>
+<i>houston, i'm fine.</i>
+<i>it's just keeping your lunch down in zero-g
+is harder than it looks.</i>
+<i>dr. stone, medical is asking
+if you want to return to explorer.</i>
+negative. we've been here a week,
+houston. let's just finish this. ahem.
+card is up.
+<i>no, that's a negative.</i>
+<i>i'm afraid we're getting nothing
+on this end, doctor.</i>
+try again.
+<i>no, still nothing.</i>
+houston, can you please
+turn that music off?
+<i>kowalski.</i>
+<i>not a problem.</i>
+thank you, kowalski.
+now, houston?
+<i>that's a negative.</i>
+could houston be misinterpreting the data?
+<i>well, we're not receiving any data.</i>
+<i>engineering is recommending
+a vis-check for component damage.</i>
+let me see what's going on.
+what have we got?
+visual examination doesn't reveal
+any damaged components.
+the problem must be originating
+from the comms panel.
+<i>yeah, that seems to be the case.</i>
+<i>engineering admits that you warned us
+that this could happen.</i>
+<i>that's as close to an apology
+as you're going to get from them.</i>
+<i>we should have listened to you, doc.</i>
+<i>well, looks like
+we're going to have to improvise.</i>
+i'm on it.
+<i>how long do you think it'll take you?</i>
+one hour. ahem.
+<i>outstanding.</i>
+<i>installing your system in the hubble
+is the purpose of this mission...</i>
+<i>...and so we appreciate
+your patience, doctor.</i>
+<i>kowalski, we know you don't care
+about things like this...</i>
+<i>...but, uh, for your information,
+this delay is not going to be long enough...</i>
+<i>...for you to break anatoly solovyev's
+spacewalking record.</i>
+<i>- it seems like you're gonna be left--
+- seventy-five minutes shy?</i>
+<i>never crossed my mind.</i>
+matt...
+<i>...it's been a privilege.</i>
+<i>right back at you, houston.</i>
+<i>enjoy your last walk.</i>
+am i a go to assist dr. stone
+in removing the panel?
+<i>- assistance appreciated.
+- permission granted.</i>
+thank you, houston. agh.
+mind if i join the fun?
+certainly.
+how you feeling?
+like a chihuahua that's being tumble-dried.
+well, it's been a rough week.
+if it makes you feel any better...
+...i coughed up everything
+but my kidneys on my first ride.
+shit.
+ah. ah. unh.
+- ha, ha.
+- sorry.
+i'm used to a basement lab in a hospital
+where things fall to the floor.
+thank you.
+well, you're the genius up here.
+i only drive the bus.
+yeah, well, call me a genius...
+...if i can get this board initialized
+in the next hour.
+<i>explorer, this is houston.</i>
+go ahead, houston.
+<i>norad reports a russian
+satellite has incurred a missile strike.</i>
+<i>the impact has created a cloud of debris...</i>
+<i>...orbiting at 20,000 miles per hour.</i>
+<i>current debris orbit does not overlap
+with your trajectory.</i>
+<i>we'll keep you posted on any developments.</i>
+<i>copy that, houston.</i>
+should we be worried?
+no, let's let the boys down there
+worry for us.
+explorer, engage arm and pivot
+to cargo bay.
+<i>stand by for arm maneuver.</i>
+aah.
+so, doc, now that you work for nasa,
+how do you like us?
+<i>kind of like winning the lottery, huh?</i>
+i was just happy that they didn't cut
+the funding to my research.
+- how long was your training?
+- oh, six months.
+<i>- including holidays?
+- uh-huh.</i>
+so, what is this scanning system?
+<i>oh, nothing, matt.</i>
+<i>it's just a new set of eyes
+to scan the edge of the universe.</i>
+it's designed for hospital use,
+but this one's a prototype.
+<i>stand by for locking.</i>
+- unh.
+- listen, they don't bankroll prototypes.
+even for your pretty blue eyes.
+well, my eyes are brown.
+right now, your eyes are bloodshot.
+<i>kowalski! is this great or what?</i>
+and to think he went to harvard.
+you gotta admit one thing:
+can't beat the view.
+so, what do you like about being up here?
+the silence.
+i could get used to it.
+terrific.
+houston, from first inspection,
+comms panel appears to be dead.
+am i a go to cut link to auxiliary?
+<i>you're the expert, doctor. it's your call.</i>
+houston, i have a bad feeling
+about this mission.
+<i>please elaborate.</i>
+it's the same feeling i had
+about mardi gras in 1987.
+<i>that is affirmative.</i>
+<i>surprisingly, control hasn't heard
+the mardi gras story.</i>
+<i>please proceed.</i>
+well, it's day one, and i'm bumping
+my way down bourbon street...
+...looking for a sister of a friend of mine.
+streets are full of people, i'm thinking
+there's no way i'm gonna find this girl.
+proceeding to override.
+then all of a sudden, i look up
+and there she is. i'm about to yell out.
+i see she's holding hands
+with some hairy guy in board shorts...
+...and a margaritaville shirt.
+and then i realize that this guy is not a guy.
+that my girl is holding hands with--
+<i>iss, this is houston.</i>
+<i>- explorer, this is houston.
+- go ahead, houston.</i>
+<i>mission abort. repeat, mission abort.</i>
+<i>initiate emergency disconnect from hubble.
+begin reentry procedure.</i>
+<i>iss, initiate emergency evacuation.</i>
+<i>copy all, houston, and in work.</i>
+<i>matt, immediate return to explorer.
+repeat, immediate return to explorer.</i>
+copy. explorer, prep airlock.
+<i>airlock engaged, ready to receive.
+- houston, elaborate.</i>
+<i>debris from the missile strike
+has caused a chain reaction...</i>
+<i>...hitting other satellites
+and creating new debris.</i>
+<i>traveling faster than a high-speed bullet
+up towards your altitude. all copy.</i>
+copy all.
+put a bow on it, dr. stone.
+i can't. the board is still initializing.
+- i'm not gonna ask you again.
+- one second.
+not one second. now. shut it down.
+that's an order.
+okay, i'm sorry. i'm sorry, i'm done.
+i'm done.
+<i>kowalski, initiate emergency
+disconnect from the hubble.</i>
+<i>- all right, sharif f, let's do this.
+- roger, matt.</i>
+houston, update.
+<i>well, we have a full-on chain reaction.</i>
+<i>it's been confirmed
+that it's the unintentional side effect...</i>
+<i>...of the russians striking
+one of their own satellites.</i>
+<i>they shot down their own satellite?
+- right of disposal.</i>
+most likely a spy sat gone bad.
+now it's shrapnel.
+explorer, ready to disengage hst.
+<i>locks releasing in three, two, one.</i>
+<i>explorer, new data coming through.</i>
+what's the blowback, houston?
+<i>it's not good. most of our systems are gone.</i>
+<i>debris chain reaction is out of control
+and rapidly expanding.</i>
+<i>multiple satellites are down
+and they keep on falling.</i>
+define "multiple satellites."
+<i>most of them are gone.</i>
+<i>telecommunication systems are dead.</i>
+<i>expect a communication blackout
+at any moment.</i>
+<i>kowalski, visual of debris at 9 o'clock.</i>
+half of north america
+just lost their facebook.
+explorer, repeat...
+<i>...expect a communication blackout
+at any moment.</i>
+<i>copy that, houston.</i>
+explorer, this is kowalski,
+confirming visual contact with debris.
+debris is from a bse sat.
+- heads up!
+- to repeat, i have--
+<i>dr. stone requesting faster transport.
+- we have to go. we have to go, go, go!</i>
+<i>kennedy reports
+meteorological conditions no-go...</i>
+houston, explorer. copy.
+<i>explorer, dr. stone requesting
+faster transport to bay area.</i>
+<i>explorer, do you copy?</i>
+- explorer, permission to retrieve dr. stone.
+- you're a go, kowalski.
+<i>houston, this is explorer, copy.</i>
+<i>- all right.
+- we've lost houston.</i>
+<i>- unh!
+- we've lost houston.</i>
+unstrap. look, we need to
+get the hell out of here.
+<i>need some help there, matt?
+- no, don't wait for us.</i>
+- unh!
+-it's stuck!
+man down! man down!
+<i>houston, this is explorer, copy.
+aah!</i>
+<i>kowalski, repor--</i>
+<i>explorer's been hit. explorer, do you read?</i>
+aah!
+explorer, over. explorer.
+<i>astronaut is off structure.
+dr. stone is off structure.</i>
+<i>- dr. stone, detach! you must detach!
+- no!</i>
+<i>if you don't detach,
+that arm's gonna carry you too far!</i>
+<i>- listen to my voice! you need to focus!
+- i can't!</i>
+<i>i'm losing visual of you.
+in a few seconds i won't be able to track you.</i>
+<i>you need to detach!</i>
+<i>- i can't see you anymore. do it now!
+- i'm trying! i'm trying!</i>
+<i>houston, i've lost visual of dr. stone.</i>
+<i>houston, i've lost visual of dr. stone.</i>
+<i>dr. stone, do you copy?</i>
+<i>repeat, do you copy?</i>
+<i>- yes, yes, yes, i copy! i'm detached!
+- give me your position.</i>
+i don't know! i don't know,
+i'm spinning! i can't--!
+<i>report your position.</i>
+gps is down. i can't-- it's down, i can't--
+<i>- give me a visual.
+- i told you, nothing. i see nothing!</i>
+<i>- do you have a visual of explorer?
+- no.</i>
+<i>- do you have a visual of iss?
+- no.</i>
+<i>you need to focus. anything, use
+the sun and the earth, give me coordinates.</i>
+<i>- i can't breathe! i can't breathe!
+- give me coordinates!</i>
+<i>dr. stone, do you copy?</i>
+kowalski? kowalski, do you copy?
+kowals-- i have a vis--
+kowalski, i have a visual.
+i have a visual of explorer.
+with north at 12 o'clock...
+...and the shuttle is at the center of the dial.
+i can see the chinese station.
+no, it's the international space station.
+iss is at...
+<i>iss is at 7 o'clock.</i>
+lieutenant kowalski, do you copy?
+explorer, do you copy?
+houston, do you copy?
+houston, this is
+mission specialist ryan stone.
+i am off structure and i am drifting.
+do you copy?
+anyone...?
+anybody- - -?
+do you copy?
+please copy.
+please.
+<i>dr. stone, do you copy?</i>
+yeah, lieutenant kowalski, yes.
+yes, lieutenant kowalski, i'm here!
+<i>- repeat, do you copy?
+- yes, yes, i copy, i'm here. i'm here.</i>
+<i>flash your light.</i>
+<i>- my light?
+- flash it so i can see you.</i>
+okay.
+okay, okay. here, here! i'm here!
+<i>there you are. hang on tight.</i>
+<i>report your status.</i>
+i'm fine, i'm fine. i'm all right.
+<i>your status. give me your readings.</i>
+three... three...
+three-point-six psi.
+<i>your o2, give me your o2.</i>
+oxygen is going down. it's going
+down fast. it's going down fast. nine--
+no, 8 percent.
+<i>you're breathing too fast.</i>
+<i>you're burning oxygen,
+and we don't wanna do that.</i>
+<i>we wanna relax. copy?</i>
+okay, sorry. yes, copy.
+- all right. nearly there.
+- copy. please hurry.
+<i>you can holster that torch, dr. stone.</i>
+sorry. sorry.
+- aah!
+- gotcha.
+all right, now i'm gonna tether you to me.
+i know, you never realized
+how devastatingly good-looking i am.
+but i need you to stop staring
+and help me with the tether.
+okay?
+okay. okay.
+uh, i got it.
+all right, here we go.
+now, to clear you from the jets,
+i'm gonna give you a little push.
+- no, no, no.
+- not a push.
+a nudge.
+no, no, no! damn it, no!
+see? where you go, i go.
+better.
+let's get out of here.
+- goddamn it! agh.
+- i know what you mean.
+damn it.
+you're burning oxygen.
+we're going back to the shuttle.
+how's that for a plan? copy?
+fuck!
+right. copy that.
+houston, in the blind. this is kowalski.
+dr. stone and i are gonna
+make our way back to base.
+can you get the explorer to prepare
+the airlock for arrival? copy?
+houston, this is kowalski.
+how do you copy?
+houston, in the blind. this is kowalski.
+they can't hear us.
+we don't know that.
+that's why we keep talking.
+if somebody is listening,
+they might just save your life.
+set your watch for 90 minutes.
+- why 90?
+- houston clocked that debris...
+...at 50,000 miles an hour.
+if you factor in our current orbit...
+...then i figure we got about 90 minutes
+before we get our asses kicked again.
+o2 down to 6 percent.
+okay. pretty scary shit
+being untethered up here, isn't it?
+yeah, pretty scary shit.
+well, you did all right.
+well, you weren't so bad yourself.
+houston, in the blind. this is kowalski.
+our current location is approximately...
+<i>...900 meters out from the explorer.</i>
+dr. stone and i would like to
+retrieve the body...
+...of mission specialist sharif f...
+...and return it to the shuttle.
+am i a go to retrieve?
+roger that.
+where is he? where is he?
+oh, my god.
+oh, my god. oh, my god.
+grab him!
+grab him! agh!
+i'm trying, i'm trying!
+you're pulling me away.
+i got him!
+- clutch him like he's your valentine.
+- i got him.
+i can't engage my thrust
+with you two yo-yoing around.
+jesus christ.
+<i>here's hoping you have a hell
+of an insurance policy, houston.</i>
+the damages to explorer...
+<i>...are catastrophic.</i>
+<i>will commence search for survivors.</i>
+<i>o2 down to 5 percent.</i>
+all right, here we go. careful of the edges!
+here. here!
+houston, in the blind. to confirm:
+mission specialist dr. stone and
+mission commander matthew kowalski...
+...are the sole survivors of the sts-157.
+i apologize for not complying.
+i should've stopped working
+as soon as you instructed me to.
+we were gonna get hit no matter what.
+there was nothing you could do
+to change that.
+hey-
+yes?
+all right...
+...we have to make our way
+to the space station.
+over there.
+it's a bit of a hike...
+...but we need to use their escape pod,
+the soyuz, to get back to earth.
+agreed?
+dr. stone...
+...agreed?
+agreed.
+all right. after you.
+oh, god.
+<i>houston, in the blind. this is kowalski.</i>
+<i>dr. stone and i have determined
+to proceed to iss...</i>
+<i>...and use one of their soyuz for reentry.</i>
+<i>iss, if you hear us...</i>
+<i>...we could sure use a rescue mission.</i>
+<i>o2 down to 2 percent.</i>
+<i>we're getting there.</i>
+<i>beautiful, don't you think?</i>
+<i>what?</i>
+the sunrise.
+that's what i'm gonna miss the most.
+so where's home, dr. stone?
+ryan, where's home?
+- home?
+- mm-hm.
+down there. mother earth.
+where do you pitch your tent?
+lake zurich.
+where the hell is that?
+illinois.
+illinois. central time zone.
+that would make it roughly...
+...8 p.m.
+what are the good people of lake zurich
+doing at 8:00?
+i don't know.
+i'm not gonna make it.
+i'm slowing you down.
+what would you be doing?
+come on, ryan.
+it's 8200.
+you've just left the hospital
+after an 18-hour shift.
+driving home.
+the radio.
+i listen to the radio.
+there we go. let me guess.
+npr?
+classical?
+ton 40?
+anything. i don't care,
+as long as they don't talk. i just drive.
+and where are you driving to?
+i just drive.
+what do you miss down there?
+is there a mr. stone?
+no.
+nobody special?
+somebody down there looking up...
+...thinking about you?
+ryan?
+i had a daughter.
+she was 4.
+she was at school playing tag.
+slipped, hit her head, and that was it.
+stupidest thing.
+i was driving when i got the call, so...
+ever since then, that's what i do.
+i wake up...
+...i go to work...
+...and i just drive.
+o2 down to 1 percent.
+well, i've got good news and bad news.
+the good news is, we're about 5 minutes
+from the iss...
+...and i know where the russians
+stash their vodka.
+and that is good,
+because i'm running on fumes here.
+the bad news is...
+...i'm gonna be about 10 minutes short
+of breaking anatoly's record, and--
+- agh!
+- what?
+i'm redlining. my o2 tank pressure is low.
+your tank is out of oxygen,
+but you still have it in your suit.
+got it.
+so you have to sip, not gulp.
+wine, not beer.
+sip, ryan.
+houston, in the blind,
+we have a visual of the iss.
+the station must have been evacuated
+because the first soyuz...
+...is missing. the second soyuz
+exhibits surface damage...
+...and its chute has been deployed.
+any use as an escape pod for reentry
+is impossible.
+shouldn't we be turning?
+we're drifting again.
+not yet.
+i wasn't kidding about those fumes.
+this can has one or two good thrusts left...
+...if we're lucky.
+steady.
+aim.
+fire.
+- brake! brake. you have to brake!
+- i can't, the can's...
+...empty. we're gonna hit hard.
+grab ahold of anything you can!
+what do i do?
+what do i do?
+ryan!
+the tether broke, i'm detached!
+i'm detached!
+grab ahold!
+grab anything!
+ryan!
+- give me five.
+- i've got you.
+i've got you. right here.
+shit!
+no,no,no!
+got you.
+got you.
+you just hold on,
+and i'm gonna start pulling you in.
+hey, doc.
+just hold on. hang on.
+- i am gonna pull you in.
+- ryan, listen.
+you have to let me go.
+- no.
+- the ropes are too loose.
+i'm pulling you with me.
+- let me go or we both die.
+- i'm not letting you go!
+we're fine! unh.
+- agh!
+- no.
+ryan, let go.
+no. no.
+you're not going anywhere.
+you're not going anywhere.
+-it's not up to you.
+- no, no, no.
+please don't do this.
+please, please, please. please don't do this.
+please don't do this. no, no, no.
+please don't, matt.
+please don't do this.
+you're gonna make it, ryan.
+no!
+i had you. i had you. i had you.
+<i>ryan, do you hear me?</i>
+<i>do you copy?</i>
+my co2 alarm went off.
+my co2 alarm went off.
+<i>look, you need to board the station.</i>
+<i>do you see the airlock?</i>
+<i>hey, ryan.</i>
+<i>you copy?</i>
+<i>look for the airlock.</i>
+<i>it's above you, next to the zarya module.</i>
+<i>you see it?</i>
+yes. yes, i see it. i see it.
+<i>all right, good. that's where you wanna go.</i>
+<i>now you're getting light-headed, right?</i>
+yeah. yes.
+<i>that's because you're breathing co2.</i>
+<i>you're losing consciousness.</i>
+<i>you need to board the station.</i>
+okay.
+<i>that second soyuz
+is too damaged for reentry...</i>
+<i>...but it's perfectly fine
+for a little sunday drive.</i>
+sunday drive?
+<i>look to the west.</i>
+<i>you see that dot in the distance?</i>
+<i>that's a chinese station.</i>
+yes.
+<i>you're gonna take the soyuz,
+and you're gonna cruise over there.</i>
+<i>chinese lifeboat is a shenzhou.</i>
+i've never flown a shenzhou.
+<i>it doesn't matter.</i>
+<i>its reentry protocol is identical to the soyuz.</i>
+okay.
+<i>you never flown the soyuz either?</i>
+only a simulator.
+<i>well, then you know.</i>
+but i crashed it.
+<i>it's a simulator, that's what it's designed for.</i>
+every time.
+i crashed it every time.
+<i>you point the damn thing
+at earth. it's not rocket science.</i>
+<i>and by this time tomorrow, you're gonna be
+back in lake zurich with a hell of a story to tell.</i>
+<i>you copy?</i>
+<i>ryan, you copy?</i>
+- i'm gonna take the soyuz and come get you.
+- no, you're not.
+<i>- i'm coming to get you.
+- i've got too much of a head start.</i>
+<i>- i'm coming to get you.
+- i'm afraid that ship already sailed.</i>
+<i>ryan, you're gonna have to learn to let go.</i>
+<i>- but i--
+- i wanna hear you say...</i>
+<i>...you're gonna make it.</i>
+<i>come on, ryan, say it.</i>
+i'm gonna make it.
+<i>all right. keep going.</i>
+<i>what kind of a name is ryan for a girl?</i>
+dad wanted a boy.
+<i>are you close to the airlock?</i>
+not yet.
+<i>keep going.</i>
+<i>so now that we have some distance
+between us...</i>
+<i>...you're attracted to me, right?</i>
+what?
+<i>well, people say i have beautiful blue eyes.</i>
+you have beautiful--
+you have beautiful blue eyes.
+<i>i have brown eyes.</i>
+<i>hey, you wanna know the good news?</i>
+what?
+<i>i'm gonna break anatoly's record...</i>
+<i>...and i think mine's
+gonna stand for a long, long time.</i>
+oh, no. i'm coming to get you.
+oh, my god.
+what? what?
+<i>wow.</i>
+<i>hey, ryan?</i>
+yeah?
+<i>you should see the sun on the ganges.</i>
+<i>it's amazing.</i>
+where are you? where are you?
+comms. comms.
+there you are. okay.
+matt, this is ryan, copy.
+matt, this is ryan, copy.
+matt, i made it, i'm here,
+i'm on the station. do you copy?
+come on, matt, talk to me.
+tell me where you are,
+give me your position.
+where are you? give me a visual.
+just tell me what you see.
+oh, come on. you've been yammering
+since we left cape canaveral.
+now you decide to shut up? talk to me.
+just say something, say anything.
+i don't care.
+hey-
+tell me about, uh, mardi gras.
+tell me about the hairy guy.
+huh? tell me what happened.
+what happened to the, uh, hairy guy?
+please talk to me.
+please.
+houston, in the blind...
+...this is mission specialist ryan stone
+reporting from the iss.
+all communications with
+mission commander matthew kowalski...
+...have been lost.
+radio transmission absent.
+visuals nonexistent.
+to confirm...
+...l, ryan stone, am the sole survivor...
+...of sts-157.
+what now?
+agh.
+okay.
+okay. where is it, where is it?
+where is the power? here you are.
+okay, great, just like training.
+undocking, undocking.
+undocking.
+red.
+okay.
+okay, where is it?
+where is it?
+come on.
+okay.
+okay. okay, i remember this.
+i remember this.
+oh, you don't have four minutes.
+we're going manual.
+come on.
+okay.
+okay. activate- activate undock.
+seven minutes to get out of here.
+all right, okay.
+what? what, what?
+no, no, no!
+unh! agh.
+stop, stop, stop!
+that's right, that's right.
+come on, come on.
+that's right, that's right, that's right.
+ahh.
+come on.
+great.
+clear skies with a chance of satellite debris.
+okay, we detach this and we go home.
+piece of cake.
+okay.
+okay, what do we have?
+okay, all right.
+shit.
+okay, come on.
+come on, come on.
+all right.
+i hate space.
+shut up.
+okay.
+all right.
+that's good.
+okay.
+let's stabilize you.
+okay.
+let's go visit the chinese station.
+houston, in the blind...
+tiangong is approximately
+...to the west...
+...and i am off its course by about...
+...13 degrees.
+i will correct trajectory.
+okay.
+okay.
+okay.
+i will engage s-ka-dae...
+...in five, four, three...
+...two, one.
+what's happening, what's happening?
+come on, come on.
+one.
+come on, come oh, come on.
+you gotta be kidding me.
+you gotta be kidding me!
+no! don't you fu--
+<i>houston, in the blind.</i>
+<i>houston, in the blind,
+this is dr. ryan stone.</i>
+<i>i'm calling from the soyuz tma-14m.</i>
+<i>i'm currently out of fuel and adrift,
+do you copy?</i>
+<i>houston. this is dr. ryan stone.</i>
+<i>do you copy?</i>
+<i>houston. this is ryan stone.</i>
+<i>do you copy?</i>
+houston, this is mission--
+mission specialist ryan stone.
+do you copy?
+houston. houston, please confirm identity.
+houston, you're coming in
+over an am frequency. copy.
+do you copy?
+is this the chinese station?
+is this tiangong? copy.
+mayday, can you copy?
+mayday, mayday. mayday.
+- mayday.
+- yes, yes. mayday, mayday.
+- mayday.
+- mayday, mayday.
+<i>aningaaq.</i>
+- aningaaq, is that your name?
+- aningaaq.
+- aningaaq is your name? is that your name?
+- mayday. aningaaq.
+<i>aningaaq. mayday-</i>
+no, no, no. no, my name is not mayday.
+i'm stone. dr. ryan stone.
+i need help. i am--
+those are dogs.
+they're calling from earth.
+- they're calling from earth.
+- ha-ha-ha!
+aningaaq...
+...make your dogs bark again for me,
+would you, please?
+your dogs. dogs, you know.
+- ha-ha-ha!
+- woof, woof. dogs.
+woof, woof.
+oh, i'm gonna die, aningaaq.
+i know, we're all gonna die.
+everybody knows that.
+but i'm gonna die today.
+funny, that.
+you know, to know...
+but the thing is, it's that i'm still scared.
+i'm really scared.
+nobody will mourn for me,
+no one will pray for my soul.
+will you mourn for me?
+will you say a prayer for me?
+or is it too late?
+i mean, i'd say one for myself,
+but i've never prayed in my life, so...
+nobody ever taught me how.
+nobody ever taught me how.
+a baby.
+there's a baby with you, huh?
+is that a lullaby you're singing?
+that's so sweet.
+i used to sing to my baby.
+i hope i see her soon.
+that's nice, aningaaq.
+keep singing, just like that.
+sing me to sleep, and i'll sleep.
+keep singing. and sing and sing.
+no, no, no, don't!
+check your watch.
+thirteen hours and 11 minutes.
+call anatoly and tell him he's been bumped.
+-it's a little gloomy in here, isn't it?
+- how did you--?
+- trust me, it's a hell of a story.
+- but how did you--?
+that's better.
+i found a little extra--
+a little extra battery power.
+it helps that i didn't have you around
+to distract me.
+i have to say, i'm glad to see you.
+i didn't think you were gonna make it.
+did you find the vodka?
+- you never told me where it was, so...
+- oh, well...
+ah, ah!
+to anatoly.
+huh? no? all right.
+let's get out of here.
+the chinese station's about 100 miles.
+just a little sunday drive.
+- we can't.
+- sure we can.
+- there's no fuel, i tried everything.
+- well, there's always something we can do.
+i tried everything.
+did you try the soft landing jets?
+they're for landing, so...
+landing is launching. it's the same.
+didn't you learn that in training?
+- i never got to land the simulator, i told you.
+- but you know about it.
+- and i crashed it every time.
+- do you wanna go back or stay here?
+i get it, it's nice up here.
+you can just shut down all the systems...
+...turn out all the lights...
+...and just close your eyes
+and tune out everybody.
+there's nobody up here that can hurt you.
+it's safe.
+i mean, what's the point of going on?
+what's the point of living?
+your kid died.
+doesn't get any rougher than that.
+but still, it's a matter of what you do now.
+if you decide to go,
+then you gotta just get on with it.
+sit back, enjoy the ride.
+you gotta plant both your feet
+on the ground and start living life.
+how did you get here?
+i'm telling you, it's a hell of a story.
+hey, ryan?
+what?
+it's time to go home.
+landing...
+landing... landing is launching.
+i said...
+okay, landing, landing.
+landing is green.
+agh.
+okay.
+okay, landing. all right.
+okay. soft landing jets
+trigger automatically...
+...at 3 meters before landing, so...
+oh, you're a clever son of a bitch, matt.
+i need to... i need to get rid of the bay-o...
+...and the engine module.
+right. okay.
+okay.
+okay.
+tri-module separation.
+go.
+okay.
+houston, here's the tricky part.
+soyuz has to think...
+...we are 3 meters off the earth.
+all right. okay.
+hey, matt?
+since i had to listen to endless hours...
+...of your storytelling this week,
+i need you to do me a favor.
+you are gonna see
+a little girl with brown hair...
+...very messy, lots of knots.
+she doesn't like to brush it.
+that's okay.
+her name is sarah.
+can you please tell her...
+...that mama found her red shoe?
+she was so worried about that shoe, matt.
+but it was just right under the bed.
+give her...
+...a big hug and a big kiss for me
+and tell her that mama misses her.
+you tell her that she is my angel.
+and she makes me so proud. so, so proud.
+and you tell her that i'm not quitting.
+you tell her that i love her, matt.
+you tell her that i love her so much.
+can you do that for me?
+roger that.
+here we go.
+you're losing altitude, tiangong.
+you keep dropping
+and you're gonna kiss the atmosphere.
+but not without me
+because you're my last ride.
+wait.
+five.
+<i>four.</i>
+three...
+no more just driving.
+let's go home.
+okay, come on.
+come on. come on.
+steady, steady.
+come on. come on. agh!
+where are you? where are you?
+forty-five, 90, 180.
+one-eighty.
+agh!
+come on.
+okay.
+damn it. agh!
+agh!
+shit!
+<i>shenzhou, come on.</i>
+<i>shenzhou.shenzhou.</i>
+fuck!
+okay, this way.
+in the soyuz, the power button is...
+...here.
+okay, uh, undocking, undocking. um--
+uh, eenie, meenie--
+okay, that doesn't sound good.
+minie...
+...mo.
+minie...
+...mo.
+okay. okay, good.
+houston. houston, in the blind.
+this is mission specialist ryan stone
+reporting from the shenzhou.
+i'm about to undock from tiangong.
+uh...
+and i have a bad feeling
+about this mission. ha, ha.
+reminds me of a story, houston. aah!
+never-- never mind the story, houston.
+never mind the story.
+it's getting hot in here. okay. all right.
+okay.
+all right, the way i see it...
+...there's only two possible outcomes.
+either i make it down there in one piece...
+...and i have one hell of a story to tell...
+...or i burn up in the next 10 minutes.
+aah.
+either way, whichever way...
+...no harm, no foul! aah!
+because either way...
+...it'll be one hell of a ride.
+i'm ready.
+<i>shenzhou, in the blind...</i>
+<i>...this is houston. indicate fm frequency.</i>
+<i>our radars detect you on a reentry trajectory.</i>
+<i>if you copy, please confirm identity.</i>
+<i>this is houston...</i>
+<i>please confirm identity.</i>
+<i>skies over the midwest
+are completely clear--</i>
+<i>rescue mission is on the way.</i>
+<i>shenzhou, in the blind, this is houston.</i>
+<i>we've deployed a rescue mission--</i>
+our radar--
+thank you.
+no.
+three, two...
+<i>...one, mark.</i>
+<i>...one, mark.</i>

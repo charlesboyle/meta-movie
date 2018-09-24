@@ -1,0 +1,1357 @@
+you know, sometimes
+when i'm iaying in bed at night
+trying to get to sieep,
+aii i can think about is this goai
+of trying to paint a vermeer.
+you know, reaiiy, i'm gonna try
+to paint a vermeer.
+and, at the face of it,
+that seems aimost impossibie.
+and i don't know if i couid do it.
+you know, it'ii be pretty remarkabie if i can,
+because i'm not a painter.
+the vermeer he's talking about
+is johannes vermeer,
+the dutch artist from the 1600s.
+some consider him the greatest painter
+of all time.
+when you look at a vermeer,
+it seems like more than paint on canvas.
+lt seems to glow like the image on
+a movie screen.
+that magical quality has mystified
+the world for 350 years.
+how did vermeer do it?
+dutch artists typically learnt
+by apprenticeship
+and they kept written records
+to prove their training.
+but no such documents have ever
+been found about vermeer.
+and strangely, when you x-ray
+these intricate images,
+you don't find the usual
+artist's sketches underneath.
+lt's as if vermeer were
+some unfathomable genius
+who could just walk up to a canvas
+and magically paint with light.
+lt's possible that vermeer
+was using technology
+to make these beautiful paintings.
+lf he did that, and, of course,
+there's no documentation that he did this,
+it's possibie he couid paint some pretty
+remarkabie pictures without a iot of training.
+it's possibie that he was more
+of an experimenter,
+more of a tinkerer, more of a geek.
+and, in that way, l feel a kinship with him,
+because l'm a computer graphics guy,
+and we use technoiogy
+to make a reaiistic, beautifui image,
+and it's possibie that's exactiy
+what vermeer was doing.
+tim jenison is not a painter,
+he's an inventor.
+he's always had a talent for figuring out
+how things work.
+when tim was growing up in lowa,
+he got a broken player piano,
+repaired it, and taught himself
+to play swing music
+by slowing down the piano rolls
+so he could follow fats waller's fingers.
+tim played keyboards in a rock band
+for a couple of years
+and taught himself to fix anything electronic
+that broke.
+the amazing wizard!
+he got married, had a family,
+and built a business repairing
+pinball machines and video games.
+then, around 1990, he invented
+a way to turn personal computers
+into tvstudios for live broadcasting.
+he called it the video toaster,
+and it won him an emmy.
+that led him to other amazing achievements
+like lightwave,
+a program for rendering 3d images,
+which won an emmy for his company,
+newtek, in 2003.
+tim's now based in san antonio, texas,
+and his company produces the tricaster,
+used in broadcast, web,
+and live performance.
+all this has given tim the money
+and free time to make things like this,
+frankie, his lip-syncing duck.
+a plane made entirely of stuff from
+a home improvement store.
+it's an eiectric moth.
+his electric moth.
+as you raise the iight,
+it comes up off the fioor,
+and it stays at exactiy the same distance
+under the iight.
+and this.
+here's the pipe organ tim put together
+from four different churches.
+once i got started,
+you have to have more pipes,
+because it's never quite enough,
+so i've got three pipe organs here,
+pius an eiectronic organ
+that i'm using for the keyboard.
+tim and i have been friends
+for a reaiiy iong time.
+if there was an artist,
+he wouid draw it, what you see...
+we've cried together
+at space shuttle launches.
+we flew his learjet down to cabo san lucas
+to see the total eclipse of the sun.
+so, the devii's in there.
+this is penn, the iast day he was abie to see
+before he iost god's most precious gift
+iooking at the eciipse.
+tim's been weightless
+in an astronaut-training plane
+and he arranged for me to try it, too.
+l vomited into my own hair.
+tim was not and is not a painter.
+so i didn't know he had
+this whoie iittie sub-obsession
+with vermeer.
+tim's vermeer project started
+when his daughter gave him a copy
+of david hockney's book, secret knowiedge.
+hockney wrote that
+when pictures started to look less like this,
+and more like this,
+that was because artists had found
+new tools to help them.
+ln 17th-century holland, high quality lenses
+and mirrors were in use everywhere.
+telescopes were all the rage
+and science hobbyists were experimenting
+with ways to project live images.
+hockney challenged conventional wisdom
+by suggesting
+that when artists of vermeer's day
+began to paint more accurately,
+they were no longer using just their eyes
+and their imaginations.
+they were secretly getting help from
+optical machines, like the camera obscura.
+camera obscura is latin for ''dark room''.
+build a box, any size.
+could be the size of a shoebox,
+but let's make this one big enough
+to stand inside.
+lt's a dark room.
+drill a little hole in one side of the box
+and you see something surprising.
+the image of whatever is outside the box,
+in the light,
+is projected on the wall opposite the hole,
+only it's upside down and backwards.
+you can make the image brighter and clearer
+by putting a lens in the hole,
+and you can change
+the size of the image on the wall
+by changing the curvature
+and position of the lens.
+here's david hockney on a tvspecial.
+he's inside a camera obscura,
+tracing the image of a live model
+projected through a lens.
+hockney was mostly focused on
+how a painter could have traced images
+through a lens.
+to me, what was most striking
+about the vermeers, as a video guy,
+l'm looking at this image,
+and l see a video signal.
+l see something that looks like
+it came out of a video camera.
+so i thought about how a painter
+couid actuaiiy copy that.
+now, most peopie that have piayed
+with a camera obscura
+got the idea that they couid take that
+projected image and somehow paint on it.
+weii, i've tried that and a iot of peopie
+have tried it, it's impossibie.
+what happens is it actuaiiy fights you,
+it works against you,
+it's worse than nothing at aii.
+painting on a projection just doesn't work.
+here's a blue that matches very closely
+the blue in the projection.
+lmagine this is wet paint.
+when you put it into the projection,
+it looks way too dark.
+on the other hand, here's a perfect match.
+the colour that matches
+the projected colour just right.
+the only colour that'll ever do that is white.
+tim went around
+the world studying vermeer.
+they called it ''painting with light. ''
+vermeer ''painted with light. ''
+you can't paint with light,
+you have to paint with paint.
+and so what they're really talking about
+is this verisimilitude that vermeer has,
+that it just pops.
+you see it from across the room
+and it looks like a slide,
+it looks like a colour slide of kodachrome.
+seeing the vermeers in person
+was a revelation.
+lt reinforced to me that
+l was on the right track.
+that what l was seeing was an accurate
+representation of the colour in that room.
+i just had a hunch that there must be a way
+to actuaiiy get the coiours accurate,
+with mechanicai means.
+some way you couid do that
+in the 1 7th century.
+i remember just having this vague idea
+of comparing two coiours with a mirror,
+and it didn't go any farther than that
+for a iong time.
+sitting in the bathtub,
+you know, that's i guess where you have
+your eureka moments,
+but, i don't know,
+there's something about bath water...
+it's just very, very reiaxing.
+and i was just picturing that mirror
+hanging there in space,
+and i pictured what i wouid see,
+and there it was.
+and so i grabbed a piece of paper,
+being carefui not to get it wet,
+made a sketch, and that was where l realised
+vermeer couid have used a mirror
+to paint those paintings.
+to test this l propped up a high school
+photograph of my father-in-law on the table.
+l put a piece of masonite down here
+to paint on.
+l set a small mirror at a 45-degree angle.
+and for the first time in my life,
+l did just what vermeer may have done.
+l picked up some oil paints and a brush.
+in vermeer's camera
+this wouid be a projection,
+a iens is projecting this image.
+but to show the actuai
+mirror painting process,
+we're using a photograph here.
+you can see that there's a refiection,
+and then there's my canvas down here.
+and right at the edge of the mirror,
+i can see both things at once.
+i'm just going to appiy paint
+and either darken or iighten the paint
+untii it's the same exact coiour.
+and at that point,
+when it's exactiy the same coiour,
+the edge of the mirror wiii disappear.
+aii right, and i'm an idiot at this,
+i have done this process
+exactiy twice in my iife before.
+what i'm doing is
+i'm moving my head up and down
+so that i can see first the originai
+and then my canvas.
+i'm iooking at both things at the same time.
+right on the forehead,
+you can see that they match,
+because you can't reaiiy see
+the edge of the mirror.
+that's, that's your ciue that
+you've matched the paint exactiy.
+it's not subjective, it's objective.
+i'm a piece of human photographic fiim
+at that point.
+what you're doing here
+is you're essentiaiiy biending?
+yep, i am either darkening or iightening
+the paint that's aiready on the surface.
+you aren't tracing any iines,
+'cause there are no iines.
+yeah, that's a characteristic of the vermeers
+that makes them unusuai,
+is that there weren't iines,
+and there weren't any iines
+drawn underneath the paint either.
+it iooks iike there's these biobs
+that are emerging into a picture.
+it doesn't iook iike...
+the order you're doing stuff in is not a...
+it's not being done mentaiiy.
+no, it's...
+and that's what's so nutty about it.
+you know, if i was better at this,
+it may be more systematic,
+i may evoive into doing it
+more systematicaiiy, but...
+no matter what i've tried,
+if i just spend enough time
+comparing the mirror to the canvas
+and stirring the paint around,
+it ends up iooking iike a photograph.
+and this was the result of tim's experiment,
+it took him five hours.
+not bad for a first oil painting.
+the father-in-law picture was proof enough
+in my mind that vermeer probably did this.
+however, my father-in-law doesn't look like
+a 17th-century dutch woman,
+so l don't think it would be very
+convincing evidence for a lot of people.
+so, l thought the best way would be
+to really do a vermeer.
+l had the suspicion that it was exactly
+the same thing.
+lf l could do the father-in-law,
+l could paint a vermeer.
+lt seemed to me the most powerful
+demonstration of the idea.
+the reason l chose the music lesson
+is probably because, of all the paintings,
+l think the music lesson
+is a great little laboratory,
+because it's so complete
+and so self-contained.
+you know where the windows are,
+you know how big the windows are,
+you can reconstruct the harpsichord
+independent of the painting,
+the spanish chair, the viola da gamba,
+the rug, all these things could be procured,
+and their appearance is gonna be what it is,
+independent of vermeer's painting.
+lt's a little scientific experiment
+waiting to happen.
+before tim went to all that trouble,
+we thought he should run
+his idea by a working artist.
+so we called up our friend,
+los angeles-based painter
+and entertainer, martin mull,
+and asked him to meet tim
+at a studio in las vegas and see his gizmo.
+oh, my god.
+oh, my god.
+hoiy cow.
+took me about haif an hour
+to iearn how to operate a paintbrush.
+good for you, it took me 40 years.
+weii, and the beauty of this technique
+is that you can make mistakes
+and see what you did wrong instantiy
+and try to fix it.
+this is astounding.
+so this is a camera obscura,
+typicai of the type
+that couid be found in the 1600's.
+this type of camera obscura
+is caiied a ''box camera obscura''.
+it generaiiy had a ground giass iike this.
+it has the abiiity to refocus
+by moving the iens in and out.
+the generai consensus of peopie
+that beiieve vermeer used optics
+was that he may have iooked at that image
+and been inspired by it.
+yeah.
+and that's the end of the story.
+so now that we know there's a way
+to copy the coiours exactiy,
+i'm proposing an aiternate history
+of vermeer.
+okay.
+his father's an art deaier,
+he knows something about art,
+he wants to make a painting.
+he iooks at this image...
+okay.
+there's my daughter, nataiie.
+what if vermeer took the camera,
+turned it sideways, and now it's verticai,
+-iike my father-in-iaw picture.
+-okay.
+he takes his canvas,
+and, the secret ingredient,
+the mirror.
+he positions the mirror here.
+which corrects the inversion?
+-yeah, it brings it back...
+-and everything...
+and there it is! ciear as can be.
+so if he's in his iiving room,
+he puts up some curtains,
+controis the iight,
+and now picks up his brush
+and starts to paint.
+my guess is that the girl with the red hat
+is that first painting.
+-wow.
+-it's painted over the top of another painting.
+we can x-ray it and see that
+there's something eise underneath,
+so maybe this was just
+a throwaway experiment.
+so i understand, tim,
+that when you go back to texas,
+you're going to construct a repiica
+of the exact room where vermeer painted?
+yeah.
+and you're going
+to do a painting in his stead,
+am i right?
+yep.
+many of vermeer's paintings appear
+to have been painted in the same room,
+likely the north-facing room
+on the second floor
+of the house vermeer lived in.
+that's the room tim plans to construct.
+i reaiiy hope to see firsthand
+what vermeer was up against,
+if he was using this technique.
+and try to get some idea
+of how iong it wouid take,
+just to get the conditions right...
+just mundane things iike how much
+usabie iighting do you get in a day.
+so you're not going to use any artificiai iight.
+that's right.
+and i'm oniy going to use materiais
+that vermeer wouid have had.
+okay.
+so, i'm going to force myseif
+into the constraint
+of having to grind the pigments
+and, you know, make the paint,
+and use oniy pigments that he had access to
+or that he used in his paintings.
+for his experiment, tim wanted
+to recreate, as closely as possible,
+the conditions that vermeer
+was working with.
+back then you couidn't just run down
+to the paint store
+and pick up a tube of paint,
+so tim had to iearn how to grind
+and mix the pigments,
+which i'm now taiking about
+something i know nothing about,
+but of grinding the pigments
+and adding in the oii
+and however you make paint.
+if it were ieft to me to make paint,
+there wouid be no paint.
+i aiso iearnt how to make ienses.
+i couidn't use a modern iens,
+they're too good.
+so i had to buiid one.
+so i had to make the form on a iathe,
+i had to meit the giass,
+i had to poiish it with
+various grades of abrasives,
+just the way they made ienses
+in the 1 7th century.
+to be sure he was getting everything right,
+tim took some time off of work
+to fly to holland.
+he visited delft,
+the city where vermeer had lived,
+and studied the light and the architecture.
+so this is it, this is where vermeer painted
+those magicai iight pictures.
+he learnt to read dutch,
+he consulted with experts,
+measured furniture in museums,
+and immersed himself in vermeer's world.
+aii right, so move it in. okay, good.
+i wouid iike to get one exactiy iike this.
+do you think you couid make one?
+that's possibie, yes.
+when he got back to san antonio,
+tim rented a warehouse that faced north,
+just like vermeer's studio,
+and invited professor philip steadman
+over from london
+to look over his experiment.
+while some believe that vermeer
+painted from his imagination,
+steadman found evidence that
+vermeer used optics.
+steadman is the author of vermeer's camera.
+ln this book, steadman analyses six
+of vermeer's paintings
+to determine the layout of vermeer's studio.
+then he uses geometry to figure out
+where the lens in a camera obscura
+would have to go
+to match each painting's viewpoint.
+now he calculates the size of the projection
+on vermeer's back wall,
+and compares that to the size
+of the corresponding painting.
+for all six, the sizes match exactly.
+lt doesn't seem like
+that would happen by chance.
+pretty convincing evidence
+that vermeer used a lens.
+weii, teii me about what you're doing.
+steadman's discovery fit perfectly
+with tim's mirror,
+so now tim set up a test that would use both.
+and this, we wiii make
+an attempt at painting this.
+-okay.
+-using the mirror.
+so, now iet's go inside the booth.
+yeah.
+he and steadman would try to paint a jug
+using his comparator mirror
+inside a camera obscura,
+as tim thought vermeer had done.
+they take turns painting.
+lt doesn't matter who does the brushstrokes,
+the process is objective,
+and any painter who uses it,
+gets the same result.
+david hockney's book came out
+just after mine.
+what do you remember about the reaction?
+there was quite a controversy around
+both books, wasn't there?
+enormous, yes, yes.
+there was a iot of upset, a reaiiy deep
+anguish amongst the art historians.
+the painters were reiaxed.
+they said, you know,
+''this is a technoiogy, fine, okay.''
+but there was something, a reaiiy deep
+hurt amongst some of the art historians
+which was to do with intrusion
+of amateurs and crass rationaiists
+into the preserves of art history.
+it was to do with a misunderstanding
+of the nature of art
+and cheating and genius,
+and the idea that an opticai method
+is some sort of cheat,
+because these are very accurate,
+measured perspectives.
+so, there are two ways you can do them.
+you can produce them opticaiiy,
+or you can set them up geometricaiiy.
+if you set them up geometricaiiy,
+you're using the standard methods,
+it's a machine, it's an aigorithm,
+you appiy the ruies.
+why is that not cheating?
+-exactiy.
+-strange, isn't it?
+so, the oniy iegitimate way to make
+a painting is to just waik up to the canvas,
+and aiia prima paint it.
+but the reason it isn't cheating
+is that it's hard.
+-yes.
+-it's geometry, it's mathematics.
+-weii, this certainiy is not easy.
+-this is not easy, no.
+-if vermeer did this, it wasn't a time saver.
+-no, indeed.
+i can't comprehend that someone
+couid paint that from their imagination.
+no. of course not.
+a human being is pretty
+remarkabie sometimes.
+to get objects at their true sizes,
+and to get aii the kind of iuminous effects...
+painters can do miracuious things,
+it's difficuit to say, ''this is impossibie,''
+but some things are more impossibie
+than others.
+i was gonna go right off the edge there.
+so.
+-great. weii, congratuiations.
+-and you.
+fantastic.
+i want to think that
+this simpie, eiegant device
+is something that vermeer couid have used.
+there's no doubt it's practicai,
+and it's simpie.
+you know, it's a piain mirror.
+this is a 1 7th-century technoiogy,
+they knew aii about mirrors,
+and you can imagine him perhaps thinking
+of something iike what tim has thought of,
+but we know nothing from
+a documentary point of view
+of how vermeer worked,
+there are no descriptions by him,
+by other peopie, there are no drawings...
+we know very iittie about his iife.
+so the oniy reai source of information
+to answer a question iike that
+wouid be the paintings themseives.
+using tim's device, it isn't easy,
+but somehow it does turn you
+into a machine.
+you become a machine.
+was vermeer a machine?
+maybe vermeer was strong-minded enough
+to think, ''i'ii become a machine''.
+that little picture of the jug
+took tim and steadman
+eight and a half hours to paint,
+and tim's method worked.
+but they were painting in black and white,
+and using powerful electric light
+that wouldn't have been around
+in vermeer's day.
+would tim's mirror work well enough
+to paint the music lesson,
+in full colour, in natural light?
+to find that out tim would need
+vermeer's room, and everything in it.
+but museums don't loan stuff from the 1600s
+to video engineers with a wacky hobby.
+it wouid be nice if i couid have hired
+somebody to buiid aii this
+but it was kind of an interactive process,
+you know, i had to first modei the room
+in lightwave 3d,
+working from the painting to get
+the dimensions and the shapes right.
+even though it was a iot of work,
+it was just easier for me to do it,
+because as i went i couid make sure
+that the furniture iooked iike
+the furniture in the vermeers.
+but tim is not a dressmaker.
+or a framer.
+or a carpenter. upholsterer.
+glazier.
+builder of virginals,
+which is a type of harpsichord.
+metalsmith.
+furniture maker.
+plasterer.
+tile layer.
+or a lens maker.
+but he's not an artist either.
+he used what he was, a technologist,
+to help him become
+all those things he wasn't,
+so that he could build his room.
+this is fun.
+i mean, this is the reai thing.
+is it safe for there to be that much smoke?
+i don't know, i've never done this before!
+couid it heat up and catch fire?
+-weii, i guess. i don't know.
+-whatever!
+it's kind of cooi. okay, here we go.
+okay, i got a probiem with the virginais ieg.
+it's supposed to be 36 and a haif inches iong,
+but my iathe oniy goes
+about 34 inches.
+i mean, i couid make the ieg in two pieces.
+but i think what i'm gonna do
+is i'm going to cut the iathe in two.
+generaiiy, you don't take a fine
+precision machine tooi and saw it in haif,
+but power toois are made to be jury-rigged.
+yeah, it's a big guitar.
+vioia da gamba is caiied a ''vioia da gamba''
+because ''gamba'' means ieg,
+and you piay it between your iegs.
+i iike it.
+i don't know much about woodworking.
+so i'm doing this, not out
+of iove for woodworking,
+but out of necessity
+because you just can't buy these
+stupid chairs anywhere,
+and i need one.
+david hockney is one
+of britain's greatest artists.
+he's famous for paintings like this.
+since his optical theory got
+tim started on this journey,
+he seemed the ideal person for tim to talk to.
+hockney invited us to visit,
+so we all went to england.
+what l knew about david hockney
+was that he was a famous artist.
+but, reading his book, l could see
+that he wasn't a typical artist,
+that he was somewhat a scientist.
+phiiip steadman and david hockney,
+to my mind,
+to the mind of a sceptic,
+prove that vermeer used some sort of device.
+but secret knowledge,
+and aii the phiiip steadman work,
+are this wonderfui, exciting, tingiy whodunit,
+that never teiis you who did it.
+hockney showed
+that artists were using lenses.
+steadman argued that
+vermeer was using a lens.
+l believed that vermeer must have
+been using more than just a lens.
+the reason to go see hockney was
+to bounce this idea off him
+and see if he thought it was plausible.
+how did you figure this out?
+what are you, a...
+weii, i started thinking about it
+after i read your book, and...
+are you an opticai... i mean...
+i design teievision equipment.
+-that's my job.
+-i see.
+so i know a bit about coiour and imagery.
+and i suspected iooking at these
+oid pictures from the goiden age,
+caravaggio, vermeer, van eyck,
+that there must have been
+a way to copy the tones.
+because that's what's quite remarkabie,
+actuaiiy. yes, it is.
+i need to stand on that side
+of the tabie for a second.
+so it's a mirror on a stick.
+aii right.
+this is what i saw when i was painting,
+if you iook straight down.
+and of course i started with a biank...
+i see, yes. yeah, yeah.
+and you can move your head up and down
+and you can see different parts of the image.
+and that's how you work your way
+from one part to the other.
+now right at the edge of the mirror,
+where you see both images,
+you can do a direct comparison of the tone.
+yeah, yeah, yeah, yeah.
+and your eye can instantiy see,
+because they're together,
+can see any contrast, and the edge
+of the mirror basicaiiy disappears.
+when you have the right coiour
+and oniy when you have the right coiour.
+yeah, yeah, yeah, i see.
+this is very ingenious.
+so you notice that there is no paraiiax
+when you move your head,
+there is no shifting.
+-that's it, no.
+-the two images stay iocked together.
+-why is that?
+-want to iook through it?
+-how is that?
+-i know, it's very ciever.
+i must say, the idea that the itaiians,
+when you think about the itaiians,
+they iove pictures,
+the idea that they didn't use this
+because this wouid have been cheating,
+i find chiidish, absoiuteiy chiidish.
+there's aiso this modern idea that
+art and technoiogy must never meet.
+you know, you go to schooi for technoiogy
+or you go to schooi for art
+but never for both.
+but in the goiden age,
+they were one and the same person.
+yeah.
+the interesting thing is that
+if this was around then,
+we are seeing photographs.
+if they were using this
+and exactiy copying that coiour.
+yeah, weii, i mean...
+-it's a photo.
+-yeah.
+after seeing this, i mean,
+it's not a compiicated piece of equipment,
+but how iikeiy do you think it is
+that they may have done this?
+-i think it's very iikeiy.
+-reaiiy.
+very iikeiy. yeah, yeah, absoiuteiy iikeiy.
+i mean, i'm pretty positive optics...
+i mean, there's no expianation
+for the paintings without optics.
+but, you know, historicai evidence,
+it'd be great to find a iost ietter
+from johannes vermeer...
+wait a minute.
+i put a joke ietter in secret knowledge.
+you did?
+a joke ietter.
+this is what historians were iooking for.
+from hugo van der goes to van eyck.
+''couid you go to ye
+brugge mirror suppiy company
+''and get one of those makeup mirrors
+for my wife, you know what i mean?''
+weii, i said,
+''you'ii never find a ietter iike that.''
+-yeah.
+-they never wrote down...
+van eyck wouid not write down
+the formuias for the paint
+for the simpie reason
+that somebody might read them.
+and there were other peopie
+that wouidn't write 'em down.
+peopie were sworn to secrecy,
+oaths that they took very seriousiy.
+you won't, you never...
+it's naive to think you'ii find something.
+paintings are documents, aren't they?
+aren't they teiiing you a iot?
+paintings are documents.
+they contain the story of their own creation.
+every brushstroke, every layer of colour,
+every shadow
+represents another piece of information.
+to the trained eye, a painting can be read
+as accurately as any written text.
+and you don't need a trained eye
+to see that vermeer's look different
+from his contemporaries.
+they look like video images.
+he painted the way a camera sees.
+ever since photography was invented,
+people have been noticing optical things
+about vermeer.
+on the giri with the red hat,
+there's this lion's head
+in the foreground that's fuzzy.
+your eye naturally refocuses
+on whatever you're looking at,
+so something in the foreground
+is not going to appear to your eye
+as out of focus.
+but it could be out of focus
+if the image was projected with a lens.
+the so-called pointilles,
+these little circles of paint,
+look similar to what you get in a bad lens.
+you look at the back of her jacket
+and there's a faint blue line.
+and that looks a lot like chromatic aberration
+which is what happens in a crude lens.
+the edges of objects can develop
+this rainbow fringe around them.
+this faiioff of iight from the window
+to the opposite corner
+is something that an artist reaiiy cannot see
+the way a camera sees it.
+it's impossibie to see it.
+but vermeer painted it
+the way a camera sees it.
+is it possibie that
+some peopie can see absoiute brightness,
+and most peopie, can't?
+you know, the way a musician
+might have perfect pitch?
+you know, that's a question for a doctor.
+i'm coiin biakemore.
+i'm a professor at oxford.
+or a scientist
+that speciaiises in human vision.
+and i've spent most of my career studying
+vision and the functions of the brain.
+is vermeer maybe some sort of a savant
+that's different
+from the rest of the human race?
+what if someone said,
+''maybe there's a savant who is so smart,
+that he couid figure that out.''
+weii, he's not smart. i mean,
+he'd have to have a very strange retina.
+our retinas are made the way they're made.
+the retina is an outgrowth of the brain.
+it's a very compiicated structure
+in terms of its nervous organisation.
+the signais go through
+a compiicated network,
+severai iayers
+of different types of nerve ceiis,
+before they finaiiy get back
+to the iast ceiis in the chain
+whose fibres make up the optic nerve.
+the optic nerve has limited bandwidth,
+so the signals have to be compressed.
+one thing we lose in that compression
+is the ability to record absolute brightness
+the way a light metre can.
+when we see two values side by side,
+it's easy to compare them.
+but when we split them,
+that ability goes away.
+there just isn't any mechanism
+in the human nervous system
+to turn the eye into a iight metre.
+and this is a very ciever trick
+for reducing information,
+but it's a disaster if you reaiiy want to know
+about the appearance of the scene
+because you just can't do it with your brain.
+look at the light on the back wall
+of the music lesson.
+every subtlety of brightness is recorded
+with absolute photographic precision.
+the unaided human eye
+is not equipped to do that.
+but if vermeer used something
+like tim's device,
+the painting becomes possible.
+the queen of england
+owns vermeer's music lesson
+and she has it there in buckingham palace.
+we thought since we were in england,
+we'd stop by the palace and check it out.
+but the queen said no.
+so we shot a whole tirade against the queen.
+but then...
+weii, i just came out of that buiiding.
+that's where the painting is,
+buckingham paiace.
+the day before tim returned home,
+the queen changed her royal mind.
+she granted tim a private audience
+with the music lesson.
+he had 30 minutes to study the painting.
+the deal was, he could only record
+the experience in his head,
+no photography allowed.
+and it was a great 30 minutes.
+the painting is amazing.
+it's very different than i thought it wouid be.
+the reproductions
+don't do it any justice at aii.
+the coiours are more muted.
+it's siightiy darker,
+it's got a kind of an overaii biuish cast.
+but the astounding thing
+is the amount of detaii.
+i put on my magnifying binocuiars
+and iooked at the virginais, and every stroke
+of that decoration is there.
+the persian carpet,
+you can see the individuai knots.
+the amount of devotion, or dedication,
+or obsession
+to get that amount of detaii
+that just makes a generai impression
+on the viewer,
+but must have taken months of hard work.
+i don't know if i can even come ciose.
+when tim got back to san antonio,
+he was in trouble.
+when he looked directly at the virginals,
+he could see the intricate pattern of
+interlocking seahorses that vermeer painted.
+when he looked at the projection
+in his camera obscura,
+all those delicate little lines were too fuzzy
+and dim to paint.
+lt was a deal-killer.
+l had visions of a failed experiment.
+tim knew there was something
+he was missing.
+he experimented with increasingly
+complex arrangements of lenses and mirrors.
+but nothing worked.
+then tim had an inspiration.
+he held a mirror against the wall
+where the image was being projected.
+now he could see a small circle of the room
+sharp and clear
+and hundreds of times brighter.
+by tilting the mirror around, he could see
+any part of the room he needed to paint.
+then he realised if he just replaced
+the flat mirror with a concave mirror,
+like a shaving mirror,
+he could make the bright circle much larger.
+so i reaiised
+that if i couid have an image that bright,
+i didn't have to have this darkroom,
+i couid paint in dayiight,
+which is a huge, huge breakthrough.
+tim started in the dark room.
+but the room is gone.
+the back wall is a concave mirror.
+all that's left
+of the traditional camera obscura is the lens.
+tim had invented a new optical instrument
+or, perhaps, rediscovered a lost one.
+ln it, he could see well enough
+to attempt vermeer's level of detail.
+he had his room. he had his machine.
+he was now ready to paint.
+oh, boy.
+boy, you know, i'm not trying
+to make this iook iike a vermeer,
+but it reaiiy iooks iike a vermeer.
+i was cieaning up,
+and getting ready to put my paiette away,
+caii it a day's work,
+and i iooked up at the monitor.
+i thought, ''man, that camera got pointed in
+the wrong direction, it's pointed at the room.
+''how did that happen?''
+and that's the thought that went through
+my head for just a coupie miiiiseconds
+before i reaiised,
+''no, i'm iooking at the painting.''
+and it was just kind of iike a...
+you know, this project
+is a iot iike watching paint dry.
+l can paint the costumes
+by putting them on mannequins.
+but to paint faces and hands,
+l need to use people.
+l do everything l can to help them hold still.
+lt sort of works.
+my daughter ciaire is home for a month
+from coiiege.
+and it's time to paint the girl,
+so i put two and two together,
+and used ciaire.
+her two sisters, are also in town,
+luren and natalie.
+so they worked on fitting the costume
+and doing her hair
+so that it looks like the girl in the picture.
+when they got aii that on,
+she was a dead ringer for the iittie dutch giri.
+with that completed,
+we put her in the head clamp,
+and positioned her just right.
+few students have ever been happier
+to go back to school.
+i may repaint that.
+excuse me a second.
+the wind's trying to biow my shade down.
+l thought you were having a ghost visitation.
+fucker!
+piece of shit.
+we're gonna have to go to pian b here.
+the frame that has my window,
+and my shades and stuff, it came ioose
+and it feii over and i think everything's okay.
+aii right.
+i tend to buiid things
+untii they're just bareiy good enough.
+and sometimes that enveiope gets exceeded.
+so if anything falls askew,
+your painting's in no danger, is that correct?
+no, i wouidn't say that.
+-okay.
+-but, you know, i can aiways start over.
+another interesting thing happened.
+what i noticed whiie i was iooking at this,
+i can see the straight iines
+of the seahorse there,
+and i can see the straight iines
+that i've ruied aiready on the canvas,
+the framework of the virginais.
+aii those are perfectiy straight iines
+because i iaid 'em out with a straight edge
+before i painted them.
+weii, when i am trying to aiign this
+very ciose now, within a tiny fraction,
+i can see that this straight iine
+isn't quite straight
+in the refiection.
+it's ever so siightiy curved.
+probabiy not enough to throw me off
+now that i'm aware of it,
+but if i had just iiteraiiy painted
+that seahorse pattern,
+it wouid have ended up curved iike this.
+and, so, i don't know why, but i went over
+and i picked up the vermeer print.
+and i go,
+''weii, obviousiy vermeer had no troubie
+''painting those iines straight.''
+and then, i heid the painting sideways
+iike this
+and i'm iooking down these straight iines.
+and there's something reaiiy crazy
+about this.
+the top and the bottom of the virginais
+are absoiuteiy straight.
+because when i iook at it down here
+at an angie,
+i can see that it's a straight iine.
+the seahorse motif is curved.
+it goes iike this.
+you can't reaiiy teii untii you iook at it
+right down those iines, but...
+there is a curvature in there.
+and there's reaiiy no iogicai expianation
+for that
+uniess he was using something iike this.
+tim caiis that bend in the seahorse pattern
+the ''seahorse smiie.''
+it's a fiaw in vermeer's painting.
+a mistake that nobody noticed for 350 years,
+and then tim aimost made the same mistake.
+tim is not iooking for something
+that wiii dupiicate vermeer's mistake.
+you know,
+he doesn't know vermeer's mistake is there.
+that's either a remarkabie coincidence
+or vermeer was using tim's machine,
+or something very much iike tim's machine
+to do his painting.
+as hockney said, paintings are documents,
+and here's a iittie bit of evidence.
+today i painted the seahorse motif.
+it was a iot of work. i couidn't reaiiy sit here
+for more than 15, 20 minutes at a time.
+your back just gets extremeiy tense.
+i tried to sit in the most reiaxed position
+i couid find, which is iike this.
+it's just reaiiy nerve-wracking, meticuious,
+demanding work.
+i'm not iooking forward
+to doing the rest of the instrument,
+but at ieast i know it's doabie.
+what i painted today is maybe, i expect
+wiii turn out to be the hardest part
+of the painting, physicaiiy, to do.
+man.
+weii, yeah this is going to be short
+because it's about 40 degrees in here.
+so kari and i came in here this morning,
+and iooked at each other, iike,
+''no.'' you know, it's reaiiy coid in here.
+so i go, ''wait, i've got this heater
+in the garage that i never assembied.
+''i got it for christmas a few years ago,
+it's one of those patio heaters.''
+so, kari said,
+''hey, i'ii put it together, iet's go get it.''
+so we went and got it, and put it together,
+it's over there.
+and fired it up and it worked great.
+it's nice and toasty, you know?
+kari was sittin' over there with his computer,
+and i said, ''hey, iook up on there
+to see if it's safe to use these indoors.''
+and kari iooks up and says,
+''yeah, you know it says here
+it's absoiuteiy not safe to use indoors.''
+and i said, ''okay. weii, iet's just run it
+''and we'ii be carefui, okay?
+''so if we notice any symptoms
+of carbon monoxide poisoning, you know,
+''we'ii shut it off.''
+so i start painting, and i actuaiiy painted
+an eiephant on the music lesson.
+i don't know why i put it there,
+but it seemed iike a good idea at the time.
+kari actuaiiy, he put his head down,
+and he said, ''i need a nap.''
+i said, ''what did you say?''
+he said, ''i need a nap.''
+i said, ''okay, iet's ieave right now.''
+''let's shut this thing off and go get iunch.''
+and on the way to iunch, driving to iunch,
+everything sort of cieared up again,
+you know, we were in a fog.
+so anyway, that was a bad idea.
+it was kind of a weird day.
+i came in and started painting
+this iower cushion,
+and sort of a wave of revulsion
+swept over me.
+l just wanted to do anything in the world
+but sit here and paint for some reason.
+i don't know, just one of those things.
+but i am pretty much ready
+for this painting to be finished.
+if we weren't making a fiim, wouid i quit?
+yeah, i definiteiy wouid. yeah.
+i'd find something eise to do right now.
+weii, yesterday
+when i was painting this chair, i was aimost
+repuised by it.
+i think maybe subconsciousiy
+i knew that it was wrong.
+and it just didn't iook iike
+it beionged in the painting to me,
+and i couidn't
+put my finger on the reason why.
+and as i was trying to get to sieep iast night,
+i was just sort of iaying there
+and i was visuaiizing that chair
+and i couid see it in my mind.
+and i go,
+''you know, that's just the wrong biue.
+''l should darken the legs. ''
+the top of the chair
+can't possibly be tilted to the left.
+lt's like l'm seeing it
+and that can't possibly be right.
+l realised that
+l had bumped the lens out of position
+and that's why
+the chair's perspective was wrong.
+it was totaiiy a subconscious thing.
+maybe i do have an inner artist
+that knew that was wrong.
+i thought that the rug wouid be
+a iittie more free-form painting.
+but this rug is ciose enough
+to the opticai equipment here
+that l can clearly see all those little stitches.
+and since i can see that, and since my ruie
+is ''paint what you see in the mirror,''
+if i want to get that kind of detaii,
+i'm gonna have to
+sort of make iike the harpsichord here
+and just go for the detaii.
+so, another day, more dots.
+ditto yesterday.
+just painting more dots.
+you know, it gets oid painting this carpet.
+oh, my god.
+we're on.
+okay, so i've been
+franticaiiy running around here,
+setting up iights.
+and it shows.
+today is the denouement, of sorts.
+the varnish job.
+for the last several months
+l've been promising myself
+that all would be better
+when the varnish went on.
+because as the paint dries,
+it gets light, it gets chalky, it desaturates.
+l've been very anxious to do this.
+l went along slowly with a small brush
+and finally l just grabbed a giant brush,
+sloshed it in the varnish
+and just started going to town.
+and everywhere l touched was magic.
+lt's pretty astounding.
+weii, you know, today...
+today's the day i've been waiting for.
+i'm sorry.
+i can't beiieve it's finished.
+we took tim's painting back to england
+to show hockney and steadman.
+weii, that's it.
+so, you know, it's my first ambitious attempt
+at oii painting,
+and that's kind of part of the experiment,
+that i'm not a painter,
+but i was trying to show
+the power of the concept.
+yeah.
+this is terrific, i must say.
+we noticed this
+when we were doing our iens experiments.
+we noticed
+that especiaiiy on these kind of cioths,
+on the projection you saw every weave
+that you couidn't in the reai one,
+and you get that in vermeer.
+now that's very, very effective.
+anybody iooking at this...
+-i think this is better than vermeer.
+-better than vermeer?
+you do feei the weave of the carpet.
+yeah, you reaiiy do.
+it iooks actuaiiy wooiiy, doesn't it?
+amazing, actuaiiy.
+it had to be something simiiar, it had to be.
+i mean, there's no doubt
+that you've proved one thing, tim,
+that you can paint a painting
+of this degree of detaii and precision in...
+weii, it's not exactiy a camera obscura,
+but it's an opticai machine.
+and that's reaiiy what i set out to prove,
+is that it couid have been done that way.
+sure. i mean there's no doubt about that.
+there's no way
+that it proves that vermeer did.
+that's the second question obviousiy, yes.
+did vermeer work that way?
+yeah, but it makes you rather convinced
+that's what he did.
+i'm getting a iittie more convinced
+aii the time.
+i wouid say i'm about 90% there.
+but, you know,
+if there was some historicai record...
+i mean, the idea
+that a painting isn't a historicai record
+is from iiterary peopie who seem to just
+not iook at pictures and just read texts.
+this is a document in itseif.
+i know peopie are going on
+about documents.
+paintings and drawings are documents,
+they teii you a great deai.
+you've made a document
+that's proving something, it is.
+it's fascinating.
+i mean, you set out to do some research.
+i think you've succeeded and, weii,
+you've shown it's possibie to do it.
+-as i say, if you've recorded it very weii...
+-yeah, yeah.
+i think it might disturb quite a iot of peopie.
+-i certainiy hope so.
+-which is fine, that's fine. why not?
+my friend tim painted a vermeer.
+ln a warehouse, in san antonio.
+he painted a vermeer.
+and is tim an artist, or is tim an inventor?
+l think the problem is not trying
+to pick one of those two for tim to be,
+but the problem is
+that we have that distinction.
+what tim has done
+is given us an image of vermeer
+as a man who is much more real,
+and in that way much more amazing.
+l mean, unfathomable genius
+doesn't really mean anything.
+now he's a fathomable genius.
+lf there's any great merit in this picture
+as a work of art, it's vermeer's.
+lt's vermeer's composition
+and it's vermeer's invention.
+lt's just been forgotten for 350 years.
+

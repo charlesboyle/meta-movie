@@ -1,0 +1,6869 @@
+﻿1
+00:01:16,578 --> 00:01:17,704
+<font color="#D900D9">(HIGH-PITCHED WHINE)</font>
+
+2
+00:01:28,381 --> 00:01:29,549
+<font color="#D900D9">(GROANS)</font>
+
+3
+00:01:31,092 --> 00:01:32,177
+<font color="#D900D9">(RUNNING FOOTSTEPS)</font>
+
+4
+00:01:48,193 --> 00:01:49,528
+<font color="#D900D9">(CELL PHONE BEEPING)</font>
+
+5
+00:01:51,112 --> 00:01:52,864
+<font color="#D900D9">(SILENCED GUNSHOTS)</font>
+
+6
+00:01:57,702 --> 00:01:59,204
+<font color="#D900D9">(SILENCED GUNSHOTS)</font>
+
+7
+00:02:16,805 --> 00:02:18,390
+<font color="#D900D9">(CLACKING)</font>
+
+8
+00:02:21,560 --> 00:02:23,061
+<font color="#D900D9">(CLACKING)</font>
+
+9
+00:02:52,048 --> 00:02:54,050
+<font color="#D900D9">(BUZZING)</font>
+<font color="#D900D9">(CELL DOOR CREAKING OPEN)</font>
+
+10
+00:03:02,934 --> 00:03:04,102
+<font color="#D900D9">(CLACKING CONTINUES)</font>
+
+11
+00:03:20,535 --> 00:03:21,620
+<font color="#D900D9">(PRISONER SPEAKING IN RUSSIAN)</font>
+
+12
+00:03:21,703 --> 00:03:23,204
+Hey, how did you open your cell door?
+
+13
+00:03:23,288 --> 00:03:24,873
+- Shh!
+- Hey! <font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+14
+00:03:24,956 --> 00:03:26,041
+What are you doing?
+
+15
+00:03:26,708 --> 00:03:27,751
+Open Sector 2!
+
+16
+00:03:27,834 --> 00:03:28,960
+<font color="#D900D9">(BUZZING)</font>
+
+17
+00:03:29,127 --> 00:03:30,211
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+18
+00:03:30,295 --> 00:03:31,379
+How did you get out?
+
+19
+00:03:33,256 --> 00:03:34,591
+Get back in your cell.
+
+20
+00:03:36,259 --> 00:03:37,886
+<i>I told you, get back in your cell!</i>
+
+21
+00:03:38,470 --> 00:03:40,513
+Let's give you a few friends to play with.
+
+22
+00:03:41,765 --> 00:03:43,642
+<font color="#D900D9">(BUZZING)</font>
+<font color="#D900D9">(CELL DOOR CREAKING OPEN)</font>
+
+23
+00:03:51,566 --> 00:03:52,984
+<font color="#D900D9">(SHOUTING ON MONITOR)</font>
+
+24
+00:03:54,277 --> 00:03:55,528
+<font color="#D900D9">(SOFTLY)</font> Sorry.
+
+25
+00:03:55,654 --> 00:03:57,072
+<font color="#D900D9">(WATER SLOSHING)</font>
+
+26
+00:04:01,451 --> 00:04:02,535
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+27
+00:04:02,619 --> 00:04:03,662
+Send some guards in.
+
+28
+00:04:03,745 --> 00:04:04,788
+I'm trying.
+
+29
+00:04:04,871 --> 00:04:05,914
+<font color="#D900D9">(TYPING)</font>
+<font color="#D900D9">(BEEPS)</font>
+
+30
+00:04:05,997 --> 00:04:07,624
+<font color="#D900D9">(BUZZING)</font>
+
+31
+00:04:11,378 --> 00:04:13,338
+Okay, I'm set.
+How's things going down below?
+
+32
+00:04:13,505 --> 00:04:15,006
+How do you think? I'm in a sewer.
+
+33
+00:04:15,090 --> 00:04:16,132
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+34
+00:04:16,216 --> 00:04:18,134
+The doors won't open! We're locked in!
+
+35
+00:04:18,218 --> 00:04:19,260
+Sound the alarm!
+
+36
+00:04:19,469 --> 00:04:20,929
+<font color="#D900D9">(ALARM WAILS)</font>
+
+37
+00:04:21,012 --> 00:04:22,681
+<font color="#D900D9">(MEN SHOUTING)</font>
+
+38
+00:04:26,685 --> 00:04:27,727
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+39
+00:04:27,811 --> 00:04:28,937
+We've lost control!
+
+40
+00:04:29,604 --> 00:04:30,689
+Captain!
+
+41
+00:04:37,654 --> 00:04:41,616
+<font color="#D900D9">(FRANTIC CHATTER IN RUSSIAN)</font>
+
+42
+00:04:46,162 --> 00:04:47,872
+I'm in position.
+
+43
+00:04:48,873 --> 00:04:50,041
+Move to phase 2.
+
+44
+00:04:52,961 --> 00:04:56,673
+<i><font color="#D900D9">(AIN'T THAT A KICK IN THE HEAD?</i>
+PLAYING OVER PA)</font>
+
+45
+00:04:58,717 --> 00:05:00,218
+<font color="#D900D9">(BUZZING)</font>
+<font color="#D900D9">(CELL DOOR CREAKING OPEN)</font>
+
+46
+00:05:23,992 --> 00:05:25,285
+<font color="#D900D9">(BUZZING)</font>
+
+47
+00:05:37,756 --> 00:05:39,632
+<font color="#D900D9">(SIGHS)</font>
+
+48
+00:05:43,845 --> 00:05:45,513
+<font color="#808080">BENJI:</font> <i>What are you doing?
+What are you doing?</i>
+
+49
+00:05:45,638 --> 00:05:47,390
+What's wrong?
+What's happening, Benji?
+
+50
+00:05:47,515 --> 00:05:49,142
+Oh, God.
+He's not going to the extraction point.
+
+51
+00:05:49,267 --> 00:05:51,436
+Stay focused.
+He knows where he's going.
+
+52
+00:05:51,519 --> 00:05:53,480
+<font color="#D900D9">(SONG CONTINUES PLAYING)</font>
+
+53
+00:05:58,818 --> 00:06:01,946
+No, I'm not. I won't.
+I will not open that door.
+
+54
+00:06:02,030 --> 00:06:05,241
+Please go to the extraction point, Ethan.
+I know.
+
+55
+00:06:05,366 --> 00:06:08,119
+I know what this means, but I can't.
+I'm not authorized...
+
+56
+00:06:09,621 --> 00:06:11,289
+Go to the extraction point, Ethan.
+
+57
+00:06:11,414 --> 00:06:12,916
+Go to the extraction point!
+
+58
+00:06:13,541 --> 00:06:15,168
+Oh, you're just going to wait.
+
+59
+00:06:15,293 --> 00:06:17,337
+We're going to wait. Great. I can wait.
+
+60
+00:06:19,881 --> 00:06:21,091
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+61
+00:06:27,472 --> 00:06:29,474
+Okay, fine. Fine! Fine!
+
+62
+00:06:29,557 --> 00:06:30,975
+<font color="#D900D9">(BUZZING)</font>
+- There.
+
+63
+00:06:31,059 --> 00:06:33,728
+We'll just screw
+the whole thing up on purpose.
+
+64
+00:06:35,105 --> 00:06:36,815
+<font color="#D900D9">(GUARD SHOUTS IN RUSSIAN)</font>
+
+65
+00:06:39,567 --> 00:06:42,320
+Uh, Jane? We're going
+to have a slight delay.
+
+66
+00:06:44,656 --> 00:06:45,740
+<font color="#D900D9">(BUZZING)</font>
+
+67
+00:07:00,672 --> 00:07:03,258
+<font color="#808080">BENJI:</font> Why do you want to go in there?
+
+68
+00:07:09,139 --> 00:07:10,181
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+69
+00:07:10,265 --> 00:07:11,307
+Bogdan!
+
+70
+00:07:11,933 --> 00:07:12,976
+Bogdan!
+
+71
+00:07:14,644 --> 00:07:15,687
+Sergei?
+
+72
+00:07:16,104 --> 00:07:17,147
+Time to go!
+
+73
+00:07:17,647 --> 00:07:18,690
+Now?
+
+74
+00:07:19,065 --> 00:07:20,108
+Yes, now!
+
+75
+00:07:23,695 --> 00:07:26,364
+I don't know what he's doing,
+and for some reason, I'm helping him.
+
+76
+00:07:26,489 --> 00:07:28,783
+As long as he's where he should be
+when the song ends.
+
+77
+00:07:28,867 --> 00:07:30,869
+<font color="#D900D9">(SONG CONTINUES PLAYING)</font>
+<font color="#D900D9">(WHISTLE BLASTS)</font>
+
+78
+00:07:32,787 --> 00:07:35,081
+Uh, we have a passenger.
+
+79
+00:07:37,750 --> 00:07:38,835
+<font color="#D900D9">(GROANING)</font>
+
+80
+00:07:59,772 --> 00:08:00,857
+<font color="#D900D9">(BUZZING)</font>
+
+81
+00:08:01,774 --> 00:08:02,901
+Sergei!
+
+82
+00:08:13,369 --> 00:08:15,038
+<i>Open all of them!</i>
+
+83
+00:08:18,541 --> 00:08:19,834
+<font color="#D900D9">(BUZZING)</font>
+
+84
+00:08:29,302 --> 00:08:31,179
+<font color="#D900D9">(URGING IN RUSSIAN)</font>
+
+85
+00:08:32,764 --> 00:08:33,806
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+86
+00:08:33,890 --> 00:08:34,933
+Oh God!
+
+87
+00:08:35,266 --> 00:08:38,144
+Oh God oh God oh God...
+
+88
+00:08:38,519 --> 00:08:42,106
+Sergei, please tell me
+there's more to this plan!
+
+89
+00:08:42,190 --> 00:08:43,358
+<font color="#D900D9">(SONG ENDS)</font>
+<font color="#D900D9">(BEEPING)</font>
+
+90
+00:08:43,441 --> 00:08:45,235
+<font color="#D900D9">(PULSATING LOW-PITCHED TONE)</font>
+
+91
+00:08:45,318 --> 00:08:47,195
+<font color="#D900D9">(RUMBLING)</font>
+
+92
+00:08:53,576 --> 00:08:54,994
+<font color="#D900D9">(MACHINE POWERING DOWN)</font>
+
+93
+00:08:57,538 --> 00:08:58,581
+<font color="#D900D9">(WIND WHISTLES)</font>
+
+94
+00:08:59,082 --> 00:09:00,208
+<font color="#D900D9">(WHOOSHING)</font>
+
+95
+00:09:13,763 --> 00:09:15,306
+Whoa!
+
+96
+00:09:19,811 --> 00:09:20,895
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+97
+00:09:20,979 --> 00:09:22,021
+Let's go...
+
+98
+00:09:22,146 --> 00:09:23,356
+Agent Hunt?
+
+99
+00:09:23,439 --> 00:09:24,524
+And you are?
+
+100
+00:09:25,149 --> 00:09:26,234
+Agent Carter.
+
+101
+00:09:26,985 --> 00:09:28,069
+Okay.
+
+102
+00:09:29,862 --> 00:09:30,947
+<font color="#808080">JANE:</font> Who's your pal?
+
+103
+00:09:31,030 --> 00:09:32,240
+I'll tell you on the way!
+
+104
+00:09:36,577 --> 00:09:38,037
+Light the fuse.
+
+105
+00:09:40,665 --> 00:09:42,667
+<i><font color="#D900D9">(MISSION: IMPOSSIBLE
+THEME</i> PLAYING)</font>
+
+106
+00:11:29,148 --> 00:11:30,191
+<font color="#D900D9">(SIRENS WAILING)</font>
+
+107
+00:11:36,364 --> 00:11:37,407
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+108
+00:11:37,490 --> 00:11:38,866
+Sergei, what's going on?
+
+109
+00:11:38,950 --> 00:11:39,992
+It's OK, Bogdan.
+
+110
+00:11:40,076 --> 00:11:41,911
+I don't mean to bring up
+the elephant in the room,
+
+111
+00:11:41,994 --> 00:11:43,788
+but what's with the big, hairy Russian?
+
+112
+00:11:43,913 --> 00:11:47,125
+Who, Bogdan? He fed me intel. If I left
+him there, they would've killed him.
+
+113
+00:11:47,250 --> 00:11:48,709
+So we're gonna give him his freedom.
+
+114
+00:11:48,793 --> 00:11:49,877
+Did you call in the sweepers?
+
+115
+00:11:49,961 --> 00:11:51,003
+On their way.
+
+116
+00:11:51,087 --> 00:11:52,797
+Good, good.
+
+117
+00:11:54,298 --> 00:11:56,884
+Uh, Benji, how is it you're here?
+
+118
+00:11:57,301 --> 00:11:59,011
+Oh, I passed the field exam.
+
+119
+00:11:59,637 --> 00:12:01,139
+Crazy, right?
+
+120
+00:12:01,639 --> 00:12:03,182
+Yeah. Crazy.
+
+121
+00:12:03,307 --> 00:12:04,851
+- DNA test.
+- It's me.
+
+122
+00:12:04,934 --> 00:12:06,811
+<font color="#808080">JANE:</font> It's procedure.
+I'm just confirming it's you.
+
+123
+00:12:06,894 --> 00:12:08,729
+<font color="#808080">ETHAN:</font> - You're very thorough.
+- Sergei?
+
+124
+00:12:08,813 --> 00:12:10,648
+- Are you not Russian?
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+125
+00:12:10,731 --> 00:12:11,816
+Relax.
+
+126
+00:12:12,316 --> 00:12:14,318
+Sweepers approaching! Brooms are out!
+
+127
+00:12:14,402 --> 00:12:15,903
+<font color="#808080">ETHAN:</font> - Roger that.
+- Sergei.
+
+128
+00:12:17,071 --> 00:12:19,365
+Are you not Sergei?
+
+129
+00:12:20,908 --> 00:12:22,076
+<font color="#D900D9">(GROANING)</font>
+
+130
+00:12:24,120 --> 00:12:25,538
+You'll be fine.
+
+131
+00:12:25,663 --> 00:12:26,873
+Bogdan.
+
+132
+00:12:26,998 --> 00:12:28,416
+I always take care of my friends.
+
+133
+00:12:28,541 --> 00:12:30,460
+My friend.
+
+134
+00:12:36,757 --> 00:12:38,217
+Messy bringing him along.
+
+135
+00:12:38,384 --> 00:12:39,886
+I thought it went rather well.
+
+136
+00:12:40,011 --> 00:12:41,971
+Mind telling me what you were doing
+in a Russian prison?
+
+137
+00:12:42,096 --> 00:12:43,931
+Mind telling me why you broke me out?
+
+138
+00:12:45,433 --> 00:12:47,310
+This wasn't a rescue mission?
+
+139
+00:12:47,393 --> 00:12:48,936
+Uh, let me put it this way.
+
+140
+00:12:49,020 --> 00:12:51,689
+If the Secretary wanted me out of there,
+
+141
+00:12:52,857 --> 00:12:54,775
+it must be pretty bad out here.
+
+142
+00:12:58,112 --> 00:12:59,614
+We were after a file.
+
+143
+00:13:00,364 --> 00:13:01,657
+We lost it.
+
+144
+00:13:01,782 --> 00:13:04,285
+"We"? Who lost it? You?
+
+145
+00:13:09,790 --> 00:13:10,958
+Agent Hanaway.
+
+146
+00:13:11,459 --> 00:13:12,710
+Where's Hanaway?
+
+147
+00:13:22,803 --> 00:13:25,139
+<font color="#808080">JANE:</font> <i>It was a letter drop.</i>
+
+148
+00:13:25,223 --> 00:13:26,891
+<i>Classified file.</i>
+
+149
+00:13:27,308 --> 00:13:29,560
+<i>It should have been a simple intercept.</i>
+
+150
+00:13:37,902 --> 00:13:39,862
+<i>We knew which train
+the courier was on.</i>
+
+151
+00:13:39,946 --> 00:13:41,781
+Uh, ETA, two minutes on the courier.
+
+152
+00:13:41,864 --> 00:13:43,324
+<i>But there was one thing we didn't know.</i>
+
+153
+00:13:43,407 --> 00:13:45,618
+Bobcat, your train's six minutes out.
+
+154
+00:13:45,743 --> 00:13:46,869
+<i>Who the courier was.</i>
+
+155
+00:13:47,537 --> 00:13:48,579
+<font color="#D900D9">(GROANS)</font>
+
+156
+00:13:55,836 --> 00:13:56,921
+<font color="#D900D9">(BONES CRUNCH)</font>
+
+157
+00:13:58,047 --> 00:13:59,131
+<font color="#D900D9">(STABBING)</font>
+
+158
+00:14:00,841 --> 00:14:02,301
+It's now or never, Bobcat.
+
+159
+00:14:03,177 --> 00:14:06,556
+The courier delivering the file,
+what's his name?
+
+160
+00:14:06,639 --> 00:14:08,182
+<font color="#808080">MAN OVER RADIO:</font> <i>Go ahead. Shoot.</i>
+
+161
+00:14:08,307 --> 00:14:10,184
+We are out of time.
+
+162
+00:14:16,065 --> 00:14:19,360
+I need a name, folks.
+I can't track all these people at once.
+
+163
+00:14:19,443 --> 00:14:20,570
+<font color="#D900D9">(MAN GROANING ON RADIO)</font>
+
+164
+00:14:20,653 --> 00:14:24,031
+<font color="#808080">MAN:</font> <i>Marek. Stefanski.
+For the love of God!</i>
+
+165
+00:14:24,156 --> 00:14:25,199
+<font color="#D900D9">(PANTS)</font> You got it?
+
+166
+00:14:25,366 --> 00:14:27,285
+<font color="#808080">BENJI:</font> Marek Stefanski.
+
+167
+00:14:29,870 --> 00:14:30,913
+Searching.
+
+168
+00:14:36,335 --> 00:14:37,628
+<font color="#D900D9">(BEEPING)</font>
+
+169
+00:14:44,302 --> 00:14:46,137
+I'll take it from here.
+
+170
+00:14:51,142 --> 00:14:52,560
+Ow! Ow!
+
+171
+00:14:55,980 --> 00:14:57,815
+Hey, you all right, buddy?
+
+172
+00:14:57,898 --> 00:15:00,026
+<font color="#808080">JANE:</font> <i>Hanaway dropped the mark
+and grabbed his bag.</i>
+
+173
+00:15:00,109 --> 00:15:02,612
+Sit down. Catch your breath.
+
+174
+00:15:03,988 --> 00:15:07,533
+<font color="#808080">JANE:</font> <i>He had the file in his hands.
+Easy in, easy out.</i>
+
+175
+00:15:07,658 --> 00:15:08,701
+File secured.
+
+176
+00:15:10,328 --> 00:15:13,247
+<font color="#808080">JANE:</font> <i>But we weren't
+the only ones after it.</i>
+
+177
+00:15:13,331 --> 00:15:16,250
+Bobcat, someone else
+has crashed this party.
+
+178
+00:15:16,667 --> 00:15:17,752
+<font color="#D900D9">(SIGHS)</font>
+
+179
+00:15:18,169 --> 00:15:19,420
+I'm not alone.
+
+180
+00:15:20,463 --> 00:15:21,547
+<font color="#808080">JANE ON RADIO:</font> <i>Local police?</i>
+
+181
+00:15:21,631 --> 00:15:23,841
+<font color="#808080">HANAWAY:</font> No. Armed hostiles.
+
+182
+00:15:28,346 --> 00:15:29,430
+<font color="#D900D9">(GROANS)</font>
+
+183
+00:15:31,223 --> 00:15:34,018
+Hang tight, I'm coming!
+Outrigger, back him up.
+
+184
+00:15:34,644 --> 00:15:35,936
+<font color="#808080">HANAWAY:</font> <i>Negative, Outrigger.</i>
+
+185
+00:15:36,020 --> 00:15:38,439
+<i>Rendezvous southwest corner,
+60 seconds.</i>
+
+186
+00:15:40,316 --> 00:15:43,569
+<font color="#808080">JANE:</font> <i>Hanaway's lens cam drew a facial
+match and triggered a warning.</i>
+
+187
+00:15:43,653 --> 00:15:44,695
+<font color="#D900D9">(CELL PHONE BEEPING)</font>
+
+188
+00:15:44,779 --> 00:15:46,614
+<font color="#D900D9">(SILENCED GUNSHOTS)</font>
+
+189
+00:15:46,697 --> 00:15:48,074
+<i>But it was too late.</i>
+
+190
+00:15:55,206 --> 00:15:56,374
+No!
+
+191
+00:16:01,045 --> 00:16:02,630
+You're going to be okay.
+
+192
+00:16:06,342 --> 00:16:07,843
+You're so beautiful.
+
+193
+00:16:08,010 --> 00:16:09,553
+<font color="#D900D9">(GRUNTS)</font>
+
+194
+00:16:09,637 --> 00:16:13,015
+I'm sorry, I... I should have told you.
+
+195
+00:16:13,474 --> 00:16:14,725
+<font color="#D900D9">(WHISPERING)</font>
+
+196
+00:16:17,728 --> 00:16:19,313
+<font color="#808080">JANE:</font> <i>It was my op.</i>
+
+197
+00:16:21,023 --> 00:16:22,858
+<i>I put him in the field.</i>
+
+198
+00:16:23,651 --> 00:16:26,737
+<i>And she left him
+just alive enough for me to see him die.</i>
+
+199
+00:16:44,338 --> 00:16:45,506
+I'm sorry.
+
+200
+00:16:48,884 --> 00:16:49,927
+You know her?
+
+201
+00:16:50,511 --> 00:16:53,013
+That's Sabine Moreau. Contract killer.
+
+202
+00:16:54,014 --> 00:16:55,683
+Works for diamonds.
+
+203
+00:16:56,934 --> 00:16:58,185
+What was in the file?
+
+204
+00:17:06,485 --> 00:17:08,362
+Russian nuclear launch codes.
+
+205
+00:17:16,287 --> 00:17:20,040
+IMF's been looking for an emerging
+extremist, code name, Cobalt.
+
+206
+00:17:20,124 --> 00:17:23,252
+He's determined to detonate
+a nuclear weapon however he can.
+
+207
+00:17:23,335 --> 00:17:25,504
+We know Moreau's
+worked for him before.
+
+208
+00:17:25,588 --> 00:17:27,757
+What else does IMF know about him?
+
+209
+00:17:28,924 --> 00:17:30,259
+As much as you do now.
+
+210
+00:17:30,634 --> 00:17:32,386
+But if Moreau has nuclear launch codes,
+
+211
+00:17:32,470 --> 00:17:35,097
+you can bet Cobalt's gone
+from a person of interest
+
+212
+00:17:35,181 --> 00:17:36,599
+to enemy number one.
+
+213
+00:17:37,516 --> 00:17:38,601
+We're here.
+
+214
+00:17:58,829 --> 00:18:00,164
+<font color="#D900D9">(ELECTRONIC TONE)</font>
+
+215
+00:18:02,082 --> 00:18:03,459
+<font color="#808080">FEMALE VOICE:</font> <i>Agent confirmed.</i>
+
+216
+00:18:03,793 --> 00:18:05,586
+Why was he in prison?
+
+217
+00:18:06,629 --> 00:18:10,424
+He disappeared after he and his wife...
+You know.
+
+218
+00:18:11,509 --> 00:18:14,595
+I thought he'd just been transferred.
+Put on leave.
+
+219
+00:18:15,596 --> 00:18:19,683
+There were rumors, though.
+Talk of an unsanctioned hit.
+
+220
+00:18:19,767 --> 00:18:21,352
+<font color="#808080">MALE VOICE:</font> <i>Welcome back, Mr. Hunt.</i>
+
+221
+00:18:21,435 --> 00:18:24,730
+<i>In your absence,
+IMF has learned that Cobalt is or was</i>
+
+222
+00:18:24,814 --> 00:18:27,525
+<i>a level-1 nuclear strategist
+for Russian intelligence.</i>
+
+223
+00:18:27,608 --> 00:18:30,736
+<i>Therefore, the only way to uncover
+his actual identity</i>
+
+224
+00:18:30,820 --> 00:18:33,113
+<i>is to infiltrate the Kremlin itself.</i>
+
+225
+00:18:33,948 --> 00:18:35,574
+<i>In order to get past their checkpoints,</i>
+
+226
+00:18:35,658 --> 00:18:38,577
+<i>you'll be impersonating
+General Anatoly Fedorov.</i>
+
+227
+00:18:38,661 --> 00:18:40,621
+<i>We believe Cobalt
+will do everything he can</i>
+
+228
+00:18:40,704 --> 00:18:42,706
+<i>to destroy any record of his identity.</i>
+
+229
+00:18:42,790 --> 00:18:44,875
+<i>Your mission,
+should you choose to accept it,</i>
+
+230
+00:18:44,959 --> 00:18:48,087
+<i>is to penetrate the highly-secured
+archive inside the Kremlin</i>
+
+231
+00:18:48,170 --> 00:18:50,381
+<i>and retrieve Cobalt's file
+before he can destroy it.</i>
+
+232
+00:18:50,965 --> 00:18:54,844
+<i>New intel suggests Cobalt
+is already en route, leaving you...</i>
+
+233
+00:18:54,927 --> 00:18:57,513
+<font color="#808080">ELECTRONIC VOICE:</font>
+<i>...4 hours 52 minutes...</i>
+
+234
+00:18:57,596 --> 00:18:58,889
+<font color="#808080">MALE VOICE:</font> <i>...to infiltrate.</i>
+
+235
+00:18:58,973 --> 00:19:01,642
+<i>To save time,
+we've chosen your team for you.</i>
+
+236
+00:19:01,725 --> 00:19:03,102
+<i>Agents Carter and Dunn.</i>
+
+237
+00:19:05,855 --> 00:19:10,025
+<i>As always, should you or any member
+of your team be caught or killed,</i>
+
+238
+00:19:10,109 --> 00:19:13,112
+<i>the Secretary will disavow
+any knowledge of your actions.</i>
+
+239
+00:19:13,195 --> 00:19:15,698
+<i>This message
+will self-destruct in five seconds.</i>
+
+240
+00:19:15,781 --> 00:19:17,032
+<i>Good luck, Ethan.</i>
+
+241
+00:19:36,802 --> 00:19:38,012
+<font color="#D900D9">(HISSING)</font>
+
+242
+00:19:40,848 --> 00:19:42,182
+<font color="#808080">JANE:</font> What do you got?
+
+243
+00:19:46,854 --> 00:19:48,856
+We're going into the Kremlin.
+
+244
+00:19:49,607 --> 00:19:50,941
+<font color="#D900D9">(CHUCKLES)</font>
+
+245
+00:19:51,025 --> 00:19:52,860
+I thought you said "The Kremlin."
+
+246
+00:19:54,653 --> 00:19:56,780
+I thought you said "The Kremlin."
+
+247
+00:19:59,199 --> 00:20:00,492
+Okay.
+
+248
+00:20:28,020 --> 00:20:29,605
+<font color="#D900D9">(PEOPLE CHATTERING INDISTINCTLY)</font>
+
+249
+00:20:37,905 --> 00:20:39,907
+<font color="#D900D9">(WHISPERING)</font> This is very exciting.
+
+250
+00:20:41,408 --> 00:20:42,910
+Being out in the field.
+
+251
+00:20:43,243 --> 00:20:44,745
+With you, you know.
+
+252
+00:20:45,079 --> 00:20:47,414
+It's a bit of a dream for me.
+
+253
+00:20:49,583 --> 00:20:53,045
+Love your disguise, by the way
+You look just like him.
+
+254
+00:20:53,587 --> 00:20:57,424
+It's a shame we're not wearing masks.
+You know, like, full masks.
+
+255
+00:20:58,425 --> 00:21:00,928
+Everybody gets to
+wear a mask but Benji.
+
+256
+00:21:02,012 --> 00:21:03,013
+Sorry.
+
+257
+00:21:03,097 --> 00:21:04,848
+I'm tense. I babble when I'm nervous.
+
+258
+00:21:04,932 --> 00:21:06,934
+I'm doing it again. Shut up, Benji.
+
+259
+00:21:09,687 --> 00:21:10,854
+<font color="#D900D9">(LENS WHIRRING)</font>
+
+260
+00:21:20,948 --> 00:21:22,533
+Okay, seven security guards.
+
+261
+00:21:22,616 --> 00:21:25,202
+X-ray machines. Cameras.
+Metal detectors.
+
+262
+00:21:25,285 --> 00:21:27,454
+Just what we expected. We can do this.
+
+263
+00:21:27,705 --> 00:21:28,914
+<font color="#D900D9">(WHIRRING)</font>
+
+264
+00:21:32,459 --> 00:21:35,796
+Releasing in three, two, one.
+
+265
+00:21:37,381 --> 00:21:38,882
+<font color="#D900D9">(CLATTERING)</font>
+
+266
+00:21:41,301 --> 00:21:42,720
+<font color="#D900D9">(PULSATING TONE)</font>
+
+267
+00:21:42,803 --> 00:21:45,639
+<font color="#808080">BENJI:</font> <font color="#D900D9">(SOFTLY)</font> Game face,
+game face. Kremlin game face.
+
+268
+00:21:47,725 --> 00:21:49,226
+Uh... <font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+269
+00:21:49,309 --> 00:21:50,811
+General...
+
+270
+00:21:51,812 --> 00:21:52,980
+I am Major Egorov.
+
+271
+00:21:53,731 --> 00:21:54,982
+Your documents.
+
+272
+00:22:00,612 --> 00:22:01,697
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+273
+00:22:01,780 --> 00:22:04,575
+You should know your boss.
+
+274
+00:22:17,421 --> 00:22:18,797
+<font color="#D900D9">(BEEPING)</font>
+
+275
+00:22:20,090 --> 00:22:21,341
+<font color="#D900D9">(PULSATING TONE)</font>
+
+276
+00:22:22,760 --> 00:22:24,094
+<font color="#D900D9">(BEEPING CONTINUES)</font>
+
+277
+00:22:28,807 --> 00:22:29,892
+<font color="#D900D9">(ALL SPEAKING IN RUSSIAN)</font>
+
+278
+00:22:29,975 --> 00:22:31,435
+I can't find you.
+
+279
+00:22:37,357 --> 00:22:38,650
+Run it again...
+
+280
+00:22:38,776 --> 00:22:39,860
+...Private.
+
+281
+00:22:39,943 --> 00:22:41,487
+Egorov.
+
+282
+00:22:48,702 --> 00:22:50,287
+<font color="#D900D9">(BEEPS)</font>
+
+283
+00:22:51,538 --> 00:22:54,500
+Excuse me, General. I didn't recognize you.
+
+284
+00:22:55,876 --> 00:22:58,378
+You're going to regret this, Egorov.
+
+285
+00:22:58,712 --> 00:22:59,797
+<font color="#D900D9">(BLOWS RASPBERRY)</font>
+
+286
+00:23:03,801 --> 00:23:05,010
+<font color="#D900D9">(EXHALES)</font>
+
+287
+00:23:07,137 --> 00:23:08,180
+<font color="#D900D9">(WHISPERING)</font>
+I think that went quite well.
+
+288
+00:23:08,305 --> 00:23:09,306
+<font color="#D900D9">(BOTH SPEAKING IN RUSSIAN)</font>
+
+289
+00:23:09,389 --> 00:23:10,474
+Just shut it.
+
+290
+00:23:10,557 --> 00:23:11,642
+Sorry.
+
+291
+00:23:55,352 --> 00:23:56,937
+<font color="#D900D9">(BEEPING)</font>
+
+292
+00:24:22,212 --> 00:24:23,839
+<font color="#D900D9">(PHONE RINGING)</font>
+
+293
+00:24:23,922 --> 00:24:25,132
+<font color="#D900D9">(CLEARS THROAT)</font>
+
+294
+00:24:26,049 --> 00:24:27,885
+<font color="#D900D9">(GUARD SPEAKING IN RUSSIAN)</font>
+
+295
+00:24:35,976 --> 00:24:37,060
+<font color="#D900D9">(SOFTLY)</font> It's going to work.
+
+296
+00:24:38,312 --> 00:24:41,982
+I'm sorry, by the way.
+About you and Julia.
+
+297
+00:24:43,483 --> 00:24:45,319
+You know, not working out.
+
+298
+00:24:45,652 --> 00:24:49,072
+I wanted to say something
+before you went away, but...
+
+299
+00:24:49,156 --> 00:24:50,449
+I liked her, you know.
+
+300
+00:24:50,574 --> 00:24:51,575
+<font color="#D900D9">(RECEIVER CLICKS)</font>
+
+301
+00:24:51,658 --> 00:24:53,327
+He's off the phone now.
+
+302
+00:24:59,917 --> 00:25:01,919
+<font color="#D900D9">(CLICKING)</font>
+<font color="#D900D9">(DRIPPING SOUND ECHOES)</font>
+
+303
+00:25:04,838 --> 00:25:06,423
+<font color="#D900D9">(DRIP)</font>
+
+304
+00:25:38,956 --> 00:25:40,123
+<font color="#D900D9">(DRIP)</font>
+
+305
+00:26:08,485 --> 00:26:10,320
+<font color="#D900D9">(DRIP)</font>
+
+306
+00:28:30,627 --> 00:28:31,962
+It's empty.
+
+307
+00:28:33,046 --> 00:28:34,464
+The nest is empty.
+
+308
+00:28:34,548 --> 00:28:37,634
+<font color="#D900D9">(CRACKLING OVER RADIO)</font>
+
+309
+00:28:39,302 --> 00:28:40,345
+<font color="#D900D9">(GROANS)</font>
+
+310
+00:28:40,470 --> 00:28:42,556
+<font color="#D900D9">(HEAVY BREATHING OVER RADIO)</font>
+
+311
+00:28:42,639 --> 00:28:44,141
+<font color="#D900D9">(CHOKING)</font>
+
+312
+00:28:45,308 --> 00:28:47,018
+<font color="#D900D9">(GRUNTS)</font>
+<font color="#D900D9">(NECK SNAPPING)</font>
+
+313
+00:28:49,396 --> 00:28:50,689
+Check in, Team Leader.
+
+314
+00:28:50,897 --> 00:28:51,982
+<font color="#808080">ON RADIO:</font> Over.
+
+315
+00:28:52,065 --> 00:28:54,234
+<i>Repeat. Check in, Team Leader.</i>
+
+316
+00:28:54,985 --> 00:28:56,570
+Have you made it to the Archive Room?
+
+317
+00:28:56,653 --> 00:28:57,696
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+318
+00:28:57,821 --> 00:28:58,822
+Captain! The Archive Room!
+
+319
+00:28:58,905 --> 00:28:59,990
+Run!
+
+320
+00:29:00,824 --> 00:29:02,242
+<font color="#D900D9">(GASPS)</font>
+
+321
+00:29:02,325 --> 00:29:03,535
+<font color="#D900D9">(WHISPERING)</font> Someone is
+piggybacking our frequency.
+
+322
+00:29:03,660 --> 00:29:04,661
+<font color="#D900D9">(SHUSHING)</font>
+
+323
+00:29:04,744 --> 00:29:05,787
+<font color="#808080">MAN ON RADIO:</font> Team Leader,
+
+324
+00:29:05,871 --> 00:29:09,708
+awaiting your go-sign.
+Standing by to detonate.
+
+325
+00:29:09,833 --> 00:29:10,917
+Abort.
+
+326
+00:29:14,588 --> 00:29:16,256
+Rendezvous nine-two.
+
+327
+00:29:17,883 --> 00:29:19,885
+<font color="#D900D9">(GUARD SPEAKING IN RUSSIAN)</font>
+
+328
+00:29:20,010 --> 00:29:21,344
+<font color="#D900D9">(BEEPING)</font>
+
+329
+00:29:34,524 --> 00:29:36,109
+<font color="#D900D9">(RAPID BEEPING)</font>
+
+330
+00:29:46,536 --> 00:29:48,079
+<font color="#D900D9">(ANXIOUS CHATTER IN RUSSIAN)</font>
+
+331
+00:29:55,587 --> 00:29:57,088
+<font color="#D900D9">(GUARD SHOUTS ORDERS
+IN RUSSIAN)</font>
+
+332
+00:30:19,569 --> 00:30:20,904
+<font color="#D900D9">(PANTING)</font>
+
+333
+00:30:35,627 --> 00:30:36,711
+<font color="#D900D9">(ORDERING IN RUSSIAN)</font>
+
+334
+00:30:36,795 --> 00:30:37,921
+Shut the gate!
+
+335
+00:30:39,798 --> 00:30:40,840
+Quickly!
+
+336
+00:31:15,792 --> 00:31:16,793
+<font color="#D900D9">(RUMBLING)</font>
+
+337
+00:31:16,876 --> 00:31:17,961
+<font color="#D900D9">(PEOPLE GASPING)</font>
+
+338
+00:31:19,296 --> 00:31:20,964
+<font color="#D900D9">(PEOPLE SCREAMING)</font>
+
+339
+00:31:29,139 --> 00:31:30,181
+<font color="#D900D9">(YELPS)</font>
+
+340
+00:31:45,655 --> 00:31:46,990
+<font color="#D900D9">(INAUDIBLE)</font>
+
+341
+00:31:49,826 --> 00:31:51,745
+<font color="#D900D9">(VOICES ECHO FAINTLY)</font>
+
+342
+00:31:53,663 --> 00:31:55,498
+<font color="#D900D9">(HEART MONITOR BEEPING)</font>
+
+343
+00:31:58,668 --> 00:32:00,337
+<font color="#D900D9">(VOICES GETTING LOUDER)</font>
+
+344
+00:32:07,677 --> 00:32:09,888
+<font color="#D900D9">(MAN SPEAKING
+IN RUSSIAN ON TV)</font>
+
+345
+00:32:32,494 --> 00:32:34,162
+Our media is no more
+truthful than yours,
+
+346
+00:32:35,038 --> 00:32:36,456
+American.
+
+347
+00:32:37,123 --> 00:32:40,794
+But we both know
+that the real cause of the explosion
+
+348
+00:32:41,127 --> 00:32:42,462
+was you.
+
+349
+00:32:47,801 --> 00:32:49,928
+<font color="#808080">MAN ON RECORDING:</font>
+<i>Awaiting your go-sign, Team Leader.</i>
+
+350
+00:32:50,053 --> 00:32:52,055
+<i>Standing by to detonate.</i>
+
+351
+00:32:52,972 --> 00:32:54,474
+The worst part for you,
+
+352
+00:32:55,266 --> 00:32:56,559
+"Team Leader,"
+
+353
+00:32:57,394 --> 00:33:00,647
+is I am the man assigned
+to make you suffer for it.
+
+354
+00:33:01,147 --> 00:33:03,316
+For what you did to my country.
+
+355
+00:33:05,735 --> 00:33:06,820
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+356
+00:33:06,903 --> 00:33:08,571
+This is a hospital...
+
+357
+00:33:08,655 --> 00:33:09,739
+Not a night club.
+
+358
+00:33:10,407 --> 00:33:11,741
+Misha... help me here...
+
+359
+00:33:12,992 --> 00:33:14,077
+Room twelve.
+
+360
+00:33:28,425 --> 00:33:29,467
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+361
+00:33:29,592 --> 00:33:32,470
+The doctors say he's lucky to be alive.
+
+362
+00:33:35,348 --> 00:33:37,475
+Only a mild concussion.
+
+363
+00:33:37,642 --> 00:33:39,602
+I don't give a damn about his health.
+
+364
+00:33:42,188 --> 00:33:45,275
+I have questions that need answering.
+
+365
+00:33:47,485 --> 00:33:48,778
+Be careful!
+
+366
+00:33:50,697 --> 00:33:52,031
+Prepare a transport.
+
+367
+00:33:57,620 --> 00:33:58,663
+Check over there!
+
+368
+00:34:06,504 --> 00:34:08,840
+<font color="#D900D9">(BREATHING HEAVILY)</font>
+
+369
+00:34:39,996 --> 00:34:41,664
+Not a good idea.
+
+370
+00:34:43,082 --> 00:34:45,919
+It seemed like one a minute ago.
+
+371
+00:35:03,520 --> 00:35:05,104
+<font color="#D900D9">(ENGINE STARTS)</font>
+
+372
+00:35:22,872 --> 00:35:23,957
+<font color="#D900D9">(GROANS)</font>
+
+373
+00:35:24,874 --> 00:35:29,212
+<font color="#D900D9">(DRIVER SHOUTS IN RUSSIAN)</font>
+
+374
+00:35:39,597 --> 00:35:40,640
+<font color="#D900D9">(SHOUTING IN RUSSIAN)</font>
+
+375
+00:35:40,723 --> 00:35:42,892
+All agents! Hot target heading west!
+
+376
+00:35:50,817 --> 00:35:52,068
+<font color="#D900D9">(SIRENS WAILING)</font>
+
+377
+00:36:02,161 --> 00:36:03,288
+<font color="#808080">WOMAN ON PHONE:</font>
+<i>Consolidated Insurance.</i>
+
+378
+00:36:03,413 --> 00:36:04,414
+<i>How may I help you?</i>
+
+379
+00:36:04,497 --> 00:36:08,459
+SAT 20. Agent 82-Delta-Echo
+requesting immediate evac.
+
+380
+00:36:08,793 --> 00:36:11,087
+Rendezvous Alpha 113.
+
+381
+00:36:11,170 --> 00:36:14,007
+<i>Confirmed. Alpha 113.</i>
+
+382
+00:36:15,592 --> 00:36:16,634
+<font color="#D900D9">(CLANGING)</font>
+
+383
+00:36:24,100 --> 00:36:26,102
+<font color="#D900D9">(MAN SPEAKING
+IN RUSSIAN ON TV)</font>
+
+384
+00:36:30,607 --> 00:36:31,941
+<font color="#D900D9">(EXPLOSION)</font>
+
+385
+00:36:37,363 --> 00:36:40,283
+<font color="#808080">WOMAN ON TV:</font> <i>Details surrounding
+the intricate system of gas lines</i>
+
+386
+00:36:40,366 --> 00:36:43,077
+<i>that run beneath the square
+are still forthcoming,</i>
+
+387
+00:36:43,161 --> 00:36:46,122
+<i>but the majority of
+those lines date back to the Soviet era</i>
+
+388
+00:36:46,205 --> 00:36:47,665
+<i>and have not been updated in at least...</i>
+
+389
+00:36:47,790 --> 00:36:48,791
+<font color="#D900D9">(MAN SPEAKING IN RUSSIAN)</font>
+
+390
+00:36:48,875 --> 00:36:53,838
+Anna... Anna... I've been thinking...
+
+391
+00:36:54,964 --> 00:36:55,965
+It looks like we...
+
+392
+00:36:56,049 --> 00:36:57,300
+<font color="#D900D9">(BOY SPEAKING IN RUSSIAN)</font>
+
+393
+00:37:00,637 --> 00:37:02,639
+We should leave town
+for a couple of days.
+
+394
+00:37:02,722 --> 00:37:05,391
+Alex, you, me. Vacations.
+
+395
+00:37:06,225 --> 00:37:07,602
+- Now?
+- Tonight.
+
+396
+00:37:07,685 --> 00:37:08,811
+<font color="#D900D9">(BOY SPEAKING IN RUSSIAN)</font>
+
+397
+00:37:08,895 --> 00:37:10,396
+<i>Why are you speaking in English?</i>
+
+398
+00:37:10,480 --> 00:37:11,981
+Just...
+
+399
+00:37:12,065 --> 00:37:13,858
+Just the three of us.
+
+400
+00:37:13,983 --> 00:37:17,695
+<font color="#808080">WOMAN ON TV:</font> <i>...may not have been
+an accident, but a targeted attack.</i>
+
+401
+00:37:19,072 --> 00:37:20,406
+<i>Preliminary numbers are just starting...</i>
+
+402
+00:37:20,490 --> 00:37:21,824
+Where will we go?
+
+403
+00:37:21,908 --> 00:37:24,160
+<i>...to come in regarding
+those wounded in the blast.</i>
+
+404
+00:37:24,243 --> 00:37:26,537
+<i>We can confirm that 11 tourists...</i>
+
+405
+00:37:26,663 --> 00:37:27,664
+Leonid?
+
+406
+00:37:27,747 --> 00:37:29,165
+<i>...their nationalities still unconfirmed,</i>
+
+407
+00:37:29,248 --> 00:37:32,669
+<i>have been transported
+to area hospitals for treatment.</i>
+
+408
+00:37:33,044 --> 00:37:36,422
+<font color="#808080">MAN ON TV:</font> <i>While Russian officials
+continue to blame a gas-main break,</i>
+
+409
+00:37:36,506 --> 00:37:40,843
+<i>experts are citing the shape of the blast
+area and the size of the debris field</i>
+
+410
+00:37:40,927 --> 00:37:43,721
+<i>as more consistent
+with that of a set explosive,</i>
+
+411
+00:37:43,846 --> 00:37:45,807
+<i>leading to speculation
+that this may have been</i>
+
+412
+00:37:45,890 --> 00:37:48,142
+<i>an undeclared act of aggression.</i>
+
+413
+00:37:48,226 --> 00:37:50,395
+<i>Although the Defense Ministry
+is maintaining</i>
+
+414
+00:37:50,520 --> 00:37:51,813
+<i>that this is strictly an accident...</i>
+
+415
+00:37:51,896 --> 00:37:54,607
+Anna, pack a bag for Alex.
+
+416
+00:37:55,900 --> 00:37:57,276
+We're leaving now.
+
+417
+00:37:58,695 --> 00:37:59,946
+Anya!
+
+418
+00:38:01,781 --> 00:38:03,032
+Anya!
+
+419
+00:38:06,369 --> 00:38:07,870
+<font color="#D900D9">(WEEPING)</font>
+
+420
+00:38:15,086 --> 00:38:16,796
+We have work to do.
+
+421
+00:38:18,381 --> 00:38:19,716
+<font color="#D900D9">(SIRENS WAILING)</font>
+
+422
+00:38:46,659 --> 00:38:47,744
+Mr. Secretary.
+
+423
+00:38:52,081 --> 00:38:53,416
+I wasn't aware you were in Russia.
+
+424
+00:38:53,499 --> 00:38:57,086
+I'm not.
+Not since a bomb blew up the Kremlin.
+
+425
+00:39:01,507 --> 00:39:04,260
+Yesterday I flew in
+to accept the Order of Friendship
+
+426
+00:39:04,343 --> 00:39:05,845
+from the Russian Prime Minister.
+
+427
+00:39:06,095 --> 00:39:08,598
+Now I'm headed back to Washington
+
+428
+00:39:08,681 --> 00:39:11,350
+to hand the President my resignation.
+
+429
+00:39:14,353 --> 00:39:16,773
+My Chief Analyst, William Brandt.
+
+430
+00:39:18,357 --> 00:39:19,609
+Do you have a pen?
+
+431
+00:39:19,692 --> 00:39:20,777
+- Pardon me?
+- A pen.
+
+432
+00:39:22,278 --> 00:39:23,362
+Yeah.
+
+433
+00:39:25,531 --> 00:39:27,200
+Ethan, what happened in the Kremlin?
+
+434
+00:39:28,534 --> 00:39:29,619
+Chief Analyst, you say?
+
+435
+00:39:29,702 --> 00:39:31,454
+If you're implying that
+I made a bad call...
+
+436
+00:39:31,537 --> 00:39:32,789
+European male.
+
+437
+00:39:32,872 --> 00:39:36,125
+Fifties. About six-foot,
+180 pounds. Blue eyes.
+
+438
+00:39:36,209 --> 00:39:37,543
+Who is he?
+
+439
+00:39:39,378 --> 00:39:42,256
+A crude drawing,
+but by your description,
+
+440
+00:39:42,340 --> 00:39:43,716
+that could be Kurt Hendricks.
+
+441
+00:39:43,800 --> 00:39:47,386
+190 IQ. Served in
+Swedish Special Forces.
+
+442
+00:39:47,470 --> 00:39:50,389
+Professor of physics,
+Stockholm University.
+
+443
+00:39:50,473 --> 00:39:52,183
+Specialist in nuclear endgame theory.
+
+444
+00:39:52,308 --> 00:39:53,976
+Asked to resign...
+
+445
+00:39:55,561 --> 00:39:57,230
+Well, because he's crazy.
+
+446
+00:39:58,231 --> 00:39:59,315
+Cobalt.
+
+447
+00:40:02,401 --> 00:40:04,487
+You have to alert the Kremlin
+that one of their strategists
+
+448
+00:40:04,570 --> 00:40:06,030
+has a nuclear launch device
+
+449
+00:40:06,405 --> 00:40:09,242
+and one of his operatives
+has the codes to activate it.
+
+450
+00:40:09,325 --> 00:40:10,576
+And what makes you say that?
+
+451
+00:40:11,828 --> 00:40:12,870
+I saw him
+
+452
+00:40:13,746 --> 00:40:16,249
+<i>leaving the executive armory,
+bag in hand.</i>
+
+453
+00:40:16,332 --> 00:40:18,626
+He set off that explosion
+to cover his tracks.
+
+454
+00:40:18,709 --> 00:40:20,837
+It could be weeks
+before the Russians know it's missing.
+
+455
+00:40:20,920 --> 00:40:22,004
+Unless we tell them.
+
+456
+00:40:22,088 --> 00:40:23,673
+<font color="#808080">IMF SECRETARY:</font>
+They won't listen to us.
+
+457
+00:40:23,756 --> 00:40:27,718
+As far as the Russians are concerned,
+we just bombed the Kremlin.
+
+458
+00:40:28,344 --> 00:40:30,763
+The tension between
+the United States and Russia
+
+459
+00:40:30,847 --> 00:40:33,850
+hasn't been this high
+since the Cuban Missile Crisis.
+
+460
+00:40:34,225 --> 00:40:38,271
+And the blame, right or wrong,
+points to IMF.
+
+461
+00:40:43,025 --> 00:40:46,696
+The President has initiated
+Ghost Protocol.
+
+462
+00:40:47,405 --> 00:40:50,533
+The entire IMF has been disavowed.
+
+463
+00:40:53,536 --> 00:40:55,454
+So what happens now?
+
+464
+00:40:55,538 --> 00:40:58,875
+Now, I've been ordered
+to take you back to Washington,
+
+465
+00:40:58,958 --> 00:41:02,044
+where the DOD will label you
+as a rogue extremist
+
+466
+00:41:02,128 --> 00:41:04,714
+and hang the Kremlin bombing
+on you and your team.
+
+467
+00:41:05,715 --> 00:41:07,091
+Unless,
+
+468
+00:41:07,800 --> 00:41:09,385
+you were to escape
+
+469
+00:41:09,468 --> 00:41:12,722
+somewhere between here
+and the airport,
+
+470
+00:41:12,805 --> 00:41:16,434
+having assaulted Mr. Brandt and me.
+
+471
+00:41:16,559 --> 00:41:17,560
+Sir?
+
+472
+00:41:18,477 --> 00:41:19,729
+You would then
+
+473
+00:41:19,812 --> 00:41:21,814
+illegally scrounge
+whatever material you could
+
+474
+00:41:21,898 --> 00:41:24,442
+from a backup supply cache
+that I've overlooked.
+
+475
+00:41:24,567 --> 00:41:27,862
+The same cache where
+your team are waiting for further orders.
+
+476
+00:41:27,945 --> 00:41:28,988
+Sir, you may want to...
+
+477
+00:41:29,071 --> 00:41:33,826
+You will then disappear, and this
+conversation never having taken place,
+
+478
+00:41:33,910 --> 00:41:36,579
+your intentions would be unclear.
+
+479
+00:41:36,662 --> 00:41:40,416
+But if any one of your team
+is caught or killed,
+
+480
+00:41:40,499 --> 00:41:42,668
+they will be branded terrorists,
+
+481
+00:41:42,752 --> 00:41:46,255
+out to incite global nuclear war.
+
+482
+00:41:53,429 --> 00:41:54,472
+Your mission,
+
+483
+00:41:55,681 --> 00:41:57,808
+should you choose to accept it.
+
+484
+00:42:02,438 --> 00:42:04,649
+<font color="#D900D9">(SIGHS)</font> Ethan, you were my best man.
+
+485
+00:42:05,942 --> 00:42:07,693
+And I'm sorry it's come to this,
+
+486
+00:42:07,777 --> 00:42:10,279
+after all the sacrifices you made.
+
+487
+00:42:12,615 --> 00:42:14,784
+If we don't meet again,
+I just want you to know,
+
+488
+00:42:15,993 --> 00:42:17,411
+I've always considered you a friend.
+
+489
+00:42:17,495 --> 00:42:18,871
+<font color="#D900D9">(EXPLOSION)</font>
+
+490
+00:42:19,538 --> 00:42:21,666
+<font color="#D900D9">(GUNFIRE)</font>
+- Stay down! Drive, drive, drive!
+
+491
+00:42:26,879 --> 00:42:28,339
+<font color="#D900D9">(TIRES SCREECH)</font>
+
+492
+00:42:38,349 --> 00:42:39,475
+<font color="#D900D9">(GRUNTING)</font>
+
+493
+00:42:44,855 --> 00:42:46,357
+<font color="#D900D9">(COUGHING)</font>
+
+494
+00:42:48,317 --> 00:42:49,360
+You okay?
+
+495
+00:42:49,485 --> 00:42:50,486
+<font color="#D900D9">(GRUNTS)</font> Yeah.
+
+496
+00:42:50,987 --> 00:42:53,698
+Take a deep breath. Stay with me.
+
+497
+00:42:53,823 --> 00:42:55,074
+- Ready?
+- Yeah.
+
+498
+00:43:00,663 --> 00:43:01,872
+<font color="#D900D9">(GUNSHOTS)</font>
+
+499
+00:43:16,929 --> 00:43:18,514
+<font color="#D900D9">(GASPING)</font>
+
+500
+00:43:19,682 --> 00:43:20,933
+What do we do?
+
+501
+00:43:22,518 --> 00:43:23,561
+Wait here.
+
+502
+00:43:25,855 --> 00:43:27,690
+Where else am I going to go?
+
+503
+00:43:42,788 --> 00:43:44,540
+Hey! Hey, hey, hey!
+
+504
+00:43:44,707 --> 00:43:45,875
+<font color="#D900D9">(SHOUTING IN RUSSIAN)</font>
+
+505
+00:43:54,633 --> 00:43:56,385
+<font color="#D900D9">(BOTH GASP)</font>
+
+506
+00:43:58,471 --> 00:43:59,555
+<font color="#D900D9">(ORDERING IN RUSSIAN)</font>
+
+507
+00:43:59,638 --> 00:44:01,474
+Hold your fire! Hold your fire!
+
+508
+00:44:01,557 --> 00:44:02,808
+Hold your fire!
+
+509
+00:44:03,726 --> 00:44:04,935
+Hold your fire!
+
+510
+00:44:05,144 --> 00:44:06,395
+Weapons down!
+
+511
+00:44:08,064 --> 00:44:09,774
+What are you firing at?
+
+512
+00:44:16,906 --> 00:44:19,075
+<font color="#D900D9">(OVERLAPPING CHATTER
+IN RUSSIAN)</font>
+
+513
+00:44:30,002 --> 00:44:31,087
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+514
+00:44:31,170 --> 00:44:34,340
+Two prisoners escaped
+from Rankow Prison today.
+
+515
+00:44:42,264 --> 00:44:43,307
+And this one?...
+
+516
+00:44:44,308 --> 00:44:45,851
+What do we know about <i>him?</i>
+
+517
+00:44:49,688 --> 00:44:51,148
+Why would that work?
+
+518
+00:44:52,775 --> 00:44:53,943
+Why would what work?
+
+519
+00:44:54,026 --> 00:44:56,195
+The flare on the body,
+why would that work?
+
+520
+00:44:56,278 --> 00:44:57,446
+It did work.
+
+521
+00:44:57,530 --> 00:44:59,365
+- Yeah, I know, but...
+- Hey!
+
+522
+00:44:59,448 --> 00:45:03,661
+But why? I mean, how did you know
+that would draw their fire?
+
+523
+00:45:03,786 --> 00:45:05,955
+I didn't. I played a hunch.
+
+524
+00:45:07,623 --> 00:45:10,960
+Okay. All right,
+so what was your scenario?
+
+525
+00:45:11,043 --> 00:45:13,796
+Right, you...
+There's a guy being shot at in the water.
+
+526
+00:45:13,879 --> 00:45:17,007
+All of a sudden, decides to light up
+a flare and swim around?
+
+527
+00:45:18,134 --> 00:45:20,761
+I mean, what did you assume
+they'd be thinking?
+
+528
+00:45:20,845 --> 00:45:22,555
+- Thinking?
+- Yeah.
+
+529
+00:45:22,638 --> 00:45:25,474
+<font color="#D900D9">(CHUCKLES)</font> I didn't assume
+they were thinking.
+
+530
+00:45:25,558 --> 00:45:27,560
+I assumed they were shooting
+at anything that moved.
+
+531
+00:45:27,685 --> 00:45:30,062
+I just gave them a target.
+Look, these... <font color="#D900D9">(CHUCKLES)</font>
+
+532
+00:45:30,146 --> 00:45:32,898
+These guys aren't
+Rhodes Scholars, you know?
+
+533
+00:45:37,027 --> 00:45:38,654
+It's really happening, isn't it?
+
+534
+00:45:39,488 --> 00:45:41,574
+- Yeah.
+<font color="#D900D9">(TRAIN HORN BLARES)</font>
+
+535
+00:45:41,657 --> 00:45:43,117
+Okay, you know what that sound is?
+
+536
+00:45:43,200 --> 00:45:44,994
+That's our ride out of here!
+
+537
+00:45:45,077 --> 00:45:48,330
+All right, it's a green car. Number 47.
+
+538
+00:45:51,542 --> 00:45:53,085
+I see green!
+
+539
+00:45:53,169 --> 00:45:54,712
+Okay, let's do it.
+
+540
+00:45:54,837 --> 00:45:56,338
+Go, go, go. Go!
+
+541
+00:45:57,923 --> 00:46:00,050
+All right, 47.
+
+542
+00:46:00,176 --> 00:46:01,385
+I don't see it.
+
+543
+00:46:01,510 --> 00:46:02,928
+47.
+
+544
+00:46:03,012 --> 00:46:04,346
+Oh, shit!
+
+545
+00:46:07,683 --> 00:46:09,018
+Whoa! Ho!
+
+546
+00:46:10,769 --> 00:46:12,897
+This is it. The manifest.
+
+547
+00:46:13,022 --> 00:46:14,565
+<font color="#808080">FEMALE VOICE:</font> <i>Enter your code.</i>
+
+548
+00:46:14,690 --> 00:46:15,691
+Pole!
+
+549
+00:46:15,774 --> 00:46:17,359
+Ah! <font color="#D900D9">(PANTS)</font>
+
+550
+00:46:17,526 --> 00:46:18,569
+<font color="#D900D9">(BEEPING)</font>
+
+551
+00:46:18,694 --> 00:46:19,862
+<font color="#D900D9">(PANTS)</font> Jeez...
+
+552
+00:46:21,363 --> 00:46:22,865
+<font color="#808080">FEMALE VOICE:</font> <i>Press enter.</i>
+
+553
+00:46:23,365 --> 00:46:24,783
+<font color="#D900D9">(WHIRRING)</font>
+
+554
+00:46:25,201 --> 00:46:26,577
+Retinal scanner!
+
+555
+00:46:26,702 --> 00:46:27,703
+Huh?
+
+556
+00:46:30,206 --> 00:46:32,374
+<font color="#808080">FEMALE VOICE:</font> <i>Retinal scan required.</i>
+
+557
+00:46:32,458 --> 00:46:33,792
+Watch out!
+
+558
+00:46:34,627 --> 00:46:36,629
+<font color="#808080">FEMALE VOICE:</font> <i>Retinal scan required.</i>
+
+559
+00:46:36,712 --> 00:46:38,297
+<i>Agent confirmed.</i>
+
+560
+00:46:48,724 --> 00:46:50,226
+<font color="#D900D9">(BOTH PANTING)</font>
+
+561
+00:46:51,894 --> 00:46:54,647
+Ethan? Jeez, I thought you were dead!
+
+562
+00:46:54,730 --> 00:46:56,482
+- We are.
+- Who's this?
+
+563
+00:46:56,565 --> 00:46:59,902
+Agents Dunn and Carter.
+William Brandt, Chief Analyst.
+
+564
+00:46:59,985 --> 00:47:01,320
+Analyst?
+
+565
+00:47:05,991 --> 00:47:07,660
+<font color="#808080">FEMALE VOICE:</font> <i>Agent confirmed.</i>
+
+566
+00:47:11,580 --> 00:47:14,333
+<font color="#D900D9">(MAN SPEAKING IN SWEDISH
+OVER HEADPHONES)</font>
+
+567
+00:47:15,084 --> 00:47:19,171
+<font color="#808080">FEMALE VOICE:</font> <font color="#D900D9">(TRANSLATING)</font>
+<i>How will the world finally end?</i>
+
+568
+00:47:19,255 --> 00:47:22,174
+<i>It is my job to predict the unthinkable.</i>
+
+569
+00:47:23,759 --> 00:47:26,303
+<i>To treat the death of billions as a game.</i>
+
+570
+00:47:27,930 --> 00:47:31,267
+<i>After 20 years of this, I was numb.</i>
+
+571
+00:47:32,101 --> 00:47:35,104
+<i>Until a new question crossed my mind.</i>
+
+572
+00:47:36,105 --> 00:47:38,941
+<i>What happens after
+the end of the world?</i>
+
+573
+00:47:39,024 --> 00:47:41,193
+Are you sure your line is secure?
+
+574
+00:47:41,277 --> 00:47:43,028
+<font color="#808080">FEMALE VOICE:</font>
+<i>Every two or three million years...</i>
+
+575
+00:47:43,112 --> 00:47:46,198
+Are you certain your line is secure?
+
+576
+00:47:46,282 --> 00:47:50,369
+<i>...some natural catastrophe
+devastates all life on Earth.</i>
+
+577
+00:47:50,452 --> 00:47:52,121
+<i>But life goes on.</i>
+
+578
+00:47:52,454 --> 00:47:56,041
+<i>And what little remains
+is made stronger.</i>
+
+579
+00:47:56,125 --> 00:48:00,129
+<i>Put simply,
+world destruction is an unpleasant,</i>
+
+580
+00:48:00,212 --> 00:48:02,631
+<i>but necessary part of evolution.</i>
+
+581
+00:48:02,715 --> 00:48:04,300
+<font color="#D900D9">(WHOOSHING)</font>
+
+582
+00:48:05,301 --> 00:48:07,344
+<i>What happens then, I wondered,</i>
+
+583
+00:48:07,678 --> 00:48:10,055
+<i>when mankind faces
+the next end of the world?</i>
+
+584
+00:48:10,139 --> 00:48:13,142
+I don't care what you have to do
+to get him to Dubai.
+
+585
+00:48:13,225 --> 00:48:15,728
+I'll make it worth his while. Just do it.
+
+586
+00:48:15,811 --> 00:48:18,314
+<font color="#808080">FEMALE VOICE:</font>
+<i>I looked to Hiroshima, Nagasaki...</i>
+
+587
+00:48:18,397 --> 00:48:19,565
+I'll be waiting for your call.
+
+588
+00:48:19,648 --> 00:48:22,151
+<i>...thriving cities rebuilt from the ashes,</i>
+
+589
+00:48:22,234 --> 00:48:24,612
+<i>monuments to the unimaginable,</i>
+
+590
+00:48:24,695 --> 00:48:26,572
+<i>dedicated to the concept of peace.</i>
+
+591
+00:48:27,239 --> 00:48:31,785
+<i>It occurred to me here
+that nuclear war might have a place</i>
+
+592
+00:48:31,869 --> 00:48:33,329
+<i>in the natural order.</i>
+
+593
+00:48:33,412 --> 00:48:35,497
+<i>But only if it could be controlled.</i>
+
+594
+00:48:35,914 --> 00:48:40,169
+<i>Only if it touched
+every living soul equally.</i>
+
+595
+00:48:41,670 --> 00:48:44,715
+IMF now believes this man,
+Kurt Hendricks,
+
+596
+00:48:44,840 --> 00:48:47,760
+is the nuclear extremist,
+code name Cobalt.
+
+597
+00:48:47,843 --> 00:48:49,762
+Today he was seen leaving the Kremlin,
+
+598
+00:48:49,845 --> 00:48:52,514
+with what is likely
+a nuclear launch device.
+
+599
+00:48:54,892 --> 00:48:57,978
+Two days ago, Sabine Moreau killed
+one of our agents in Budapest
+
+600
+00:48:58,062 --> 00:49:00,731
+and relieved him
+of Russian nuclear launch codes.
+
+601
+00:49:00,856 --> 00:49:05,277
+Intel indicates she will check into
+the Burj Hotel in Dubai in 36 hours.
+
+602
+00:49:06,570 --> 00:49:08,739
+Marius Wistrom
+is a known operative of Cobalt.
+
+603
+00:49:08,947 --> 00:49:11,283
+Wistrom is currently en route to Dubai.
+
+604
+00:49:11,367 --> 00:49:15,079
+For the launch device to work,
+Cobalt needs the activation codes.
+
+605
+00:49:15,204 --> 00:49:18,040
+He's sending Wistrom
+to buy them from Moreau.
+
+606
+00:49:18,957 --> 00:49:20,459
+The Secretary
+
+607
+00:49:22,044 --> 00:49:23,253
+is dead.
+
+608
+00:49:28,592 --> 00:49:31,428
+The President
+has invoked Ghost Protocol.
+
+609
+00:49:32,137 --> 00:49:33,722
+We're shut down.
+
+610
+00:49:33,806 --> 00:49:37,810
+No satellite, safe house,
+support, or extraction.
+
+611
+00:49:37,893 --> 00:49:41,063
+The four of us
+and the contents of this car
+
+612
+00:49:41,146 --> 00:49:43,816
+are all that remain of the IMF.
+
+613
+00:49:43,899 --> 00:49:48,237
+And as of this moment, any action
+is unsanctioned. So if you want out,
+
+614
+00:49:48,320 --> 00:49:49,655
+speak now.
+
+615
+00:50:06,255 --> 00:50:07,464
+Our mission is Hendricks.
+
+616
+00:50:07,840 --> 00:50:09,675
+We're all that stands
+between him and his goal.
+
+617
+00:50:09,758 --> 00:50:11,009
+Nothing can be left to chance.
+
+618
+00:50:11,093 --> 00:50:13,095
+Everyone connected with this man
+
+619
+00:50:13,178 --> 00:50:16,432
+is considered an asset with valuable
+information about our target.
+
+620
+00:50:16,515 --> 00:50:17,933
+No one can know we're still on line.
+
+621
+00:50:18,016 --> 00:50:20,352
+We lose Hendricks now,
+we lose him forever.
+
+622
+00:50:20,436 --> 00:50:22,020
+So, what's the play?
+
+623
+00:50:22,104 --> 00:50:24,732
+Wistrom will take delivery from Moreau
+in 36 hours.
+
+624
+00:50:24,815 --> 00:50:26,942
+Now we cannot let
+the launch codes leave the hotel,
+
+625
+00:50:27,025 --> 00:50:29,945
+but we need Wistrom
+to lead us to Hendricks.
+
+626
+00:50:30,028 --> 00:50:32,114
+He'll only do that if he has the codes.
+
+627
+00:50:32,197 --> 00:50:33,615
+<font color="#808080">JANE:</font> Or if he thinks he has them.
+
+628
+00:50:33,699 --> 00:50:35,951
+Our objective is to intercept the sale,
+
+629
+00:50:36,034 --> 00:50:38,287
+replace the authentic
+codes with counterfeits
+
+630
+00:50:38,370 --> 00:50:40,164
+and follow Wistrom to Hendricks.
+
+631
+00:50:40,289 --> 00:50:41,623
+Well, that's simple enough.
+
+632
+00:50:41,707 --> 00:50:43,917
+We snatch the codes,
+we gin up some fakes.
+
+633
+00:50:44,001 --> 00:50:48,630
+Jane, you double Moreau, and sell the
+codes to Wistrom and Bob's your uncle.
+
+634
+00:50:48,714 --> 00:50:52,134
+And how do you propose
+we just snatch the codes from Moreau?
+
+635
+00:50:52,217 --> 00:50:53,302
+We take her out.
+
+636
+00:50:55,387 --> 00:50:58,140
+Yeah, we take her out.
+But, you know, discreetly.
+
+637
+00:50:58,223 --> 00:50:59,475
+Discreetly?
+
+638
+00:51:00,058 --> 00:51:01,185
+Yeah.
+
+639
+00:51:02,227 --> 00:51:05,606
+Right, she's an asset. Right. I get it.
+Sorry. Nothing left to chance.
+
+640
+00:51:05,689 --> 00:51:08,150
+He said... I'm spitballing.
+It's not all gonna be gold.
+
+641
+00:51:08,233 --> 00:51:09,902
+- We don't touch Wistrom.
+<font color="#808080">BENJI:</font> - All right.
+
+642
+00:51:09,985 --> 00:51:11,069
+Or Moreau.
+
+643
+00:51:13,322 --> 00:51:16,408
+She'll answer for Hanaway,
+but it has to be when I say.
+
+644
+00:51:16,492 --> 00:51:18,202
+After we hit Hendricks.
+
+645
+00:51:24,249 --> 00:51:25,459
+<font color="#808080">ETHAN:</font> Only pack what we need.
+
+646
+00:51:25,542 --> 00:51:28,086
+Yeah, absolutely. Only pack what we...
+You never know.
+
+647
+00:51:54,446 --> 00:51:55,614
+<font color="#D900D9">(HORN HONKING)</font>
+
+648
+00:51:56,031 --> 00:51:58,450
+<font color="#808080">BRANDT:</font> So even if we can double
+Wistrom and Moreau,
+
+649
+00:51:59,201 --> 00:52:01,328
+how do we keep them in separate rooms
+
+650
+00:52:01,411 --> 00:52:04,081
+while having them think that
+they're in the same room?
+
+651
+00:52:04,206 --> 00:52:06,208
+<font color="#808080">ETHAN:</font> We give the hotel a facelift.
+
+652
+00:52:06,416 --> 00:52:09,127
+Wistrom will think
+he's arriving at Moreau's suite,
+
+653
+00:52:09,211 --> 00:52:11,463
+but, really, he'll be
+walking into our decoy room.
+
+654
+00:52:11,588 --> 00:52:13,090
+Where I'll double Moreau.
+
+655
+00:52:13,382 --> 00:52:14,716
+Downstairs, Benji will double Wistrom.
+
+656
+00:52:15,133 --> 00:52:16,176
+Masks!
+
+657
+00:52:16,260 --> 00:52:17,719
+And meet with the real Moreau.
+
+658
+00:52:17,928 --> 00:52:19,304
+And, uh... <font color="#D900D9">(CHUCKLES)</font>
+
+659
+00:52:20,055 --> 00:52:21,223
+What am I doing?
+
+660
+00:52:21,932 --> 00:52:24,434
+You? You're the helper!
+
+661
+00:52:26,061 --> 00:52:28,730
+<font color="#D900D9">(CHUCKLES)</font> Helper. That's great.
+
+662
+00:52:29,273 --> 00:52:33,277
+Okay, so to the extent I understand
+what you're talking about here...
+
+663
+00:52:34,570 --> 00:52:36,905
+The Burj Khalifa,
+it's the tallest building in the world,
+
+664
+00:52:36,989 --> 00:52:39,324
+and you want to alter its infrastructure
+
+665
+00:52:39,408 --> 00:52:42,202
+with the hopes of convincing
+two people that they've
+
+666
+00:52:42,286 --> 00:52:45,622
+had a meeting,
+which actually really never happened.
+
+667
+00:52:46,331 --> 00:52:47,416
+Right?
+
+668
+00:52:48,292 --> 00:52:49,585
+- Uh...
+<font color="#D900D9">(TIRES SCREECH)</font>
+
+669
+00:52:49,751 --> 00:52:51,420
+Oh!
+
+670
+00:52:51,587 --> 00:52:52,588
+<font color="#D900D9">(JANE GROANS)</font>
+
+671
+00:52:52,671 --> 00:52:53,755
+<font color="#D900D9">(LAUGHTER)</font>
+
+672
+00:52:56,091 --> 00:52:57,092
+Camels.
+
+673
+00:53:44,640 --> 00:53:46,767
+<font color="#808080">ETHAN ON RADIO:</font>
+<i>ETA on dry cleaning.</i>
+
+674
+00:53:46,850 --> 00:53:48,352
+On my way up.
+
+675
+00:53:51,897 --> 00:53:53,732
+Okay, 34 minutes to door knock.
+
+676
+00:53:57,569 --> 00:53:59,321
+WOW, um... <font color="#D900D9">(CLEARS THROAT)</font>
+
+677
+00:54:00,572 --> 00:54:04,743
+Okay, this is a slight wrinkle,
+but nothing to worry about.
+
+678
+00:54:04,826 --> 00:54:08,163
+We're just going to have to go into
+the server room from the outside.
+
+679
+00:54:09,373 --> 00:54:10,415
+What?
+
+680
+00:54:10,916 --> 00:54:14,169
+Well, the firewalls on this building's
+server are military grade.
+
+681
+00:54:14,252 --> 00:54:16,088
+I mean, this would be a cinch
+
+682
+00:54:16,171 --> 00:54:17,589
+if I could call Youssef
+back at headquarters,
+
+683
+00:54:17,673 --> 00:54:19,675
+but Youssef doesn't exist any more,
+and neither do we.
+
+684
+00:54:19,758 --> 00:54:21,176
+I could hack it,
+but it would take too long.
+
+685
+00:54:21,259 --> 00:54:22,386
+Then hardwire in.
+
+686
+00:54:22,511 --> 00:54:24,012
+And there's four layers
+of next-gen security
+
+687
+00:54:24,096 --> 00:54:25,347
+between us and the server room.
+
+688
+00:54:25,430 --> 00:54:27,265
+There's no way
+we can get to it from inside.
+
+689
+00:54:28,016 --> 00:54:30,519
+If we can't get to the server,
+we don't control the elevators,
+
+690
+00:54:30,602 --> 00:54:32,479
+we don't control the security cameras.
+
+691
+00:54:32,562 --> 00:54:34,648
+This operation is over
+before it even begins.
+
+692
+00:54:34,731 --> 00:54:36,692
+I'm telling you,
+we can get to it from outside.
+
+693
+00:54:36,775 --> 00:54:37,859
+"We"?
+
+694
+00:54:39,069 --> 00:54:40,278
+I'm... I'm on the computer.
+
+695
+00:54:42,406 --> 00:54:44,157
+I'm just, uh...
+
+696
+00:54:44,241 --> 00:54:45,575
+The helper.
+
+697
+00:54:48,912 --> 00:54:50,163
+What floor is it on?
+
+698
+00:54:50,247 --> 00:54:51,790
+Oh, 130.
+
+699
+00:54:52,582 --> 00:54:54,251
+130?
+
+700
+00:54:58,463 --> 00:54:59,631
+- Vent ducts.
+- Pressure sensitive.
+
+701
+00:54:59,715 --> 00:55:00,757
+Not enough time.
+
+702
+00:55:00,882 --> 00:55:02,217
+- Elevator shaft.
+- Infrared sensors.
+
+703
+00:55:02,300 --> 00:55:03,385
+Not enough time.
+
+704
+00:55:06,930 --> 00:55:08,682
+How am I supposed to do this?
+
+705
+00:55:08,765 --> 00:55:10,308
+<font color="#D900D9">(ELECTRICAL WHINE)</font>
+
+706
+00:55:14,813 --> 00:55:16,314
+<font color="#808080">BENJI:</font> God damn it!
+
+707
+00:55:19,818 --> 00:55:21,153
+Oh, that's high.
+
+708
+00:55:24,573 --> 00:55:26,616
+<font color="#D900D9">(HIGH-PITCHED WHINE)</font>
+
+709
+00:55:26,742 --> 00:55:30,704
+Okay, now remember, it's a rolling off
+motion that disengages the bond.
+
+710
+00:55:30,787 --> 00:55:32,956
+When the meter is blue,
+that's full adhesion.
+
+711
+00:55:33,081 --> 00:55:35,208
+Easy way to remember, blue is glue.
+
+712
+00:55:35,292 --> 00:55:36,752
+- And when it's red?
+- Dead.
+
+713
+00:55:36,835 --> 00:55:39,713
+Here's your cutter, okay?
+And your server interface.
+
+714
+00:55:39,796 --> 00:55:42,632
+Both going back here. One, two.
+
+715
+00:55:42,966 --> 00:55:46,803
+Okay, Ethan, the hotel server is
+eleven stories up and seven units over.
+
+716
+00:55:46,928 --> 00:55:48,847
+Okay? Comm check.
+
+717
+00:55:49,639 --> 00:55:51,141
+Yeah. Copy.
+
+718
+00:55:52,768 --> 00:55:53,935
+So...
+
+719
+00:55:57,856 --> 00:56:00,442
+It's 26 minutes to door knock.
+
+720
+00:56:02,444 --> 00:56:03,612
+Yeah.
+
+721
+00:56:09,284 --> 00:56:10,702
+<font color="#D900D9">(WIND WHISTLES)</font>
+
+722
+00:56:18,335 --> 00:56:20,295
+<font color="#D900D9">(WIND HOWLS)</font>
+
+723
+00:56:27,511 --> 00:56:28,970
+<font color="#D900D9">(HIGH-PITCHED WHINE)</font>
+
+724
+00:56:43,985 --> 00:56:45,487
+<font color="#D900D9">(GASPS)</font>
+
+725
+00:56:58,250 --> 00:57:00,418
+<font color="#808080">BRANDT ON RADIO:</font>
+<i>25 minutes to door knock.</i>
+
+726
+00:57:00,752 --> 00:57:02,587
+<font color="#D900D9">(GRUNTING)</font>
+
+727
+00:57:15,433 --> 00:57:16,768
+What the hell is that?
+
+728
+00:57:19,271 --> 00:57:21,857
+<font color="#D900D9">(WIND HOWLS)</font>
+
+729
+00:57:32,117 --> 00:57:34,452
+<font color="#808080">ETHAN ON RADIO:</font>
+<i>Yeah, what the hell is that?</i>
+
+730
+00:57:35,954 --> 00:57:37,622
+<font color="#808080">BENJI:</font> It's a sandstorm.
+
+731
+00:57:39,791 --> 00:57:40,876
+It's a long way off, Ethan.
+
+732
+00:57:40,959 --> 00:57:42,294
+<i>Shouldn't be a problem.</i>
+
+733
+00:57:45,297 --> 00:57:47,883
+<i>24 minutes to door knock.</i>
+
+734
+00:57:50,802 --> 00:57:51,928
+Where's Ethan?
+
+735
+00:57:54,973 --> 00:57:56,308
+You've got to be kidding me.
+
+736
+00:58:03,773 --> 00:58:05,400
+<font color="#D900D9">(GLOVE CRACKLING)</font>
+
+737
+00:58:07,736 --> 00:58:09,446
+<font color="#D900D9">(BEEPS)</font>
+<font color="#D900D9">(SQUEAKING)</font>
+
+738
+00:58:10,906 --> 00:58:11,907
+<font color="#D900D9">(GROANS)</font>
+
+739
+00:58:13,450 --> 00:58:14,993
+<font color="#D900D9">(HIGH-PITCHED WHINE)</font>
+
+740
+00:58:15,952 --> 00:58:17,579
+<font color="#D900D9">(BEEPING)</font>
+<font color="#D900D9">(SQUEAKING)</font>
+
+741
+00:58:46,191 --> 00:58:49,361
+<font color="#808080">BRANDT ON RADIO:</font>
+<i>23 minutes to door knock.</i>
+
+742
+00:58:49,444 --> 00:58:50,946
+<font color="#D900D9">(ELECTRICAL BUZZING)</font>
+
+743
+00:58:53,490 --> 00:58:55,492
+<font color="#D900D9">(CRACKLES)</font>
+
+744
+00:58:55,617 --> 00:58:57,661
+<font color="#D900D9">(HIGH-PITCHED WHINE)</font>
+
+745
+00:59:08,046 --> 00:59:09,381
+<font color="#808080">ETHAN:</font> <i>I'm at server level.</i>
+
+746
+00:59:20,058 --> 00:59:21,726
+<font color="#D900D9">(ELECTRICAL CRACKLING)</font>
+
+747
+00:59:29,401 --> 00:59:30,652
+<font color="#D900D9">(GROANING)</font>
+
+748
+00:59:32,153 --> 00:59:33,488
+22 minutes to door knock.
+
+749
+00:59:33,571 --> 00:59:34,656
+<font color="#D900D9">(PANTING)</font>
+
+750
+00:59:34,739 --> 00:59:37,242
+The countdown is not helping.
+
+751
+00:59:39,244 --> 00:59:40,328
+I'm just saying.
+
+752
+00:59:59,889 --> 01:00:01,182
+<font color="#D900D9">(GRUNTS)</font>
+
+753
+01:00:04,019 --> 01:00:05,687
+<font color="#D900D9">(GROANS)</font>
+
+754
+01:00:06,855 --> 01:00:08,565
+<font color="#D900D9">(CRACKLING)</font>
+
+755
+01:00:10,525 --> 01:00:11,568
+<font color="#808080">ETHAN:</font> I'm in.
+
+756
+01:00:11,693 --> 01:00:13,111
+That's great, Ethan.
+You're halfway home.
+
+757
+01:00:13,194 --> 01:00:14,779
+<font color="#D900D9">(WHIRRING)</font>
+
+758
+01:00:20,952 --> 01:00:22,203
+<font color="#808080">ETHAN:</font> <i>Located server.</i>
+
+759
+01:00:28,084 --> 01:00:29,210
+<font color="#D900D9">(BEEPING)</font>
+
+760
+01:00:29,294 --> 01:00:30,837
+Please tell me we're online.
+
+761
+01:00:30,920 --> 01:00:32,213
+All right, we're live.
+
+762
+01:00:32,464 --> 01:00:36,509
+Okay, I now have control of
+the elevators and the security cameras.
+
+763
+01:00:36,593 --> 01:00:37,635
+Time to redecorate.
+
+764
+01:00:37,719 --> 01:00:40,722
+Okay, you drive.
+And look out for Wistrom and Moreau.
+
+765
+01:00:46,061 --> 01:00:48,396
+<font color="#D900D9">(WHIRRING)</font>
+
+766
+01:00:55,487 --> 01:00:57,739
+<font color="#808080">BRANDT:</font> Moreau is at the elevators
+ahead of schedule.
+
+767
+01:00:58,740 --> 01:00:59,908
+Go.
+
+768
+01:01:05,580 --> 01:01:07,207
+We can't open this door, can we?
+
+769
+01:01:07,290 --> 01:01:08,583
+<font color="#808080">BRANDT:</font> <i>The door? No.</i>
+
+770
+01:01:08,666 --> 01:01:10,502
+Ethan, you gotta get down here now.
+
+771
+01:01:11,836 --> 01:01:13,338
+<i>Ethan!</i>
+
+772
+01:01:13,838 --> 01:01:16,091
+<i>Is there a problem? Ethan?</i>
+
+773
+01:01:23,348 --> 01:01:24,391
+We're not gonna make it.
+
+774
+01:01:24,474 --> 01:01:25,517
+We have to make it.
+
+775
+01:01:26,684 --> 01:01:27,769
+Where's Ethan?
+
+776
+01:01:41,783 --> 01:01:42,951
+<font color="#D900D9">(GRUNTS)</font>
+
+777
+01:01:50,458 --> 01:01:52,043
+Your line's not long enough!
+
+778
+01:01:52,627 --> 01:01:53,878
+No shit!
+
+779
+01:02:09,811 --> 01:02:10,895
+<font color="#D900D9">(GROANS)</font>
+
+780
+01:02:10,979 --> 01:02:12,147
+<font color="#D900D9">(ALL GASP)</font>
+
+781
+01:02:12,230 --> 01:02:13,898
+<font color="#D900D9">(PANTING)</font>
+
+782
+01:02:30,540 --> 01:02:32,000
+<font color="#D900D9">(ALL PANTING)</font>
+
+783
+01:02:37,672 --> 01:02:39,007
+<font color="#D900D9">(SIGHS DEEPLY)</font>
+
+784
+01:02:39,090 --> 01:02:40,842
+Whoo! <font color="#D900D9">(LAUGHS)</font>
+
+785
+01:02:40,925 --> 01:02:42,552
+That was not easy,
+
+786
+01:02:42,677 --> 01:02:44,345
+but I did it.
+
+787
+01:02:46,764 --> 01:02:47,932
+<font color="#D900D9">(PANTING)</font> What'd I miss?
+
+788
+01:02:50,435 --> 01:02:51,853
+<font color="#D900D9">(WIND HOWLING)</font>
+
+789
+01:02:55,231 --> 01:02:58,693
+<font color="#808080">JANE:</font> The lens might be
+a little uncomfortable.
+
+790
+01:02:58,776 --> 01:03:01,613
+It captures images and transmits them
+to the printer in the briefcase.
+
+791
+01:03:01,696 --> 01:03:02,739
+<font color="#D900D9">(GROANS)</font>
+
+792
+01:03:02,864 --> 01:03:04,699
+- All right?
+- Mmm.
+
+793
+01:03:04,782 --> 01:03:07,285
+I can't see out of one eye, but I'm fine.
+
+794
+01:03:07,368 --> 01:03:08,953
+Blink twice to activate the shutter.
+
+795
+01:03:10,288 --> 01:03:11,873
+Notice the numbers are in order?
+
+796
+01:03:15,376 --> 01:03:16,461
+A perfect copy.
+
+797
+01:03:18,796 --> 01:03:20,465
+But the numbers are scrambled.
+
+798
+01:03:22,050 --> 01:03:23,092
+Masks?
+
+799
+01:03:23,218 --> 01:03:25,220
+60 seconds.
+You sure I shouldn't wear a mask?
+
+800
+01:03:25,303 --> 01:03:27,472
+You know,
+'cause I'm not exactly Omar Sharif.
+
+801
+01:03:27,555 --> 01:03:29,724
+I'll play it French.
+This is your tracking device.
+
+802
+01:03:29,807 --> 01:03:31,476
+- This is what you're tracking.
+- The paper clip?
+
+803
+01:03:31,559 --> 01:03:32,602
+No, it's the paper.
+
+804
+01:03:32,727 --> 01:03:35,188
+It's in the briefcase. It's coated with
+isotopes which give off a unique...
+
+805
+01:03:35,271 --> 01:03:36,731
+It just means
+that you can track the documents
+
+806
+01:03:36,814 --> 01:03:37,941
+even if they switch briefcases.
+
+807
+01:03:38,066 --> 01:03:39,067
+Range?
+
+808
+01:03:39,150 --> 01:03:40,193
+Not that good. It's, like, half a mile.
+
+809
+01:03:40,276 --> 01:03:42,403
+Safest thing to do would be not let
+Wistrom out of your sight.
+
+810
+01:03:42,487 --> 01:03:43,905
+Is that Wistrom?
+
+811
+01:03:48,243 --> 01:03:49,285
+Who's that with him?
+
+812
+01:03:49,410 --> 01:03:51,996
+I don't know. We don't have an uplink,
+so there's no facial recognition.
+
+813
+01:03:52,080 --> 01:03:53,498
+Who's that with him?
+
+814
+01:03:54,832 --> 01:03:57,502
+That's Leonid Lisenker.
+Polish-born cryptographer.
+
+815
+01:03:57,585 --> 01:04:00,004
+He redesigned Russia's nuclear
+security after the Cold War.
+
+816
+01:04:00,672 --> 01:04:02,632
+He's here to authenticate
+the launch codes.
+
+817
+01:04:02,757 --> 01:04:04,801
+- Yes, he is. We are blown.
+- No, we're not blown.
+
+818
+01:04:04,926 --> 01:04:07,095
+Well, we will be as soon as he sees
+the counterfeit launch codes.
+
+819
+01:04:07,178 --> 01:04:08,263
+We're not blown.
+
+820
+01:04:09,013 --> 01:04:10,056
+<font color="#808080">BENJI:</font> He's in the elevator.
+
+821
+01:04:10,139 --> 01:04:11,349
+<font color="#808080">ETHAN:</font> Delay them.
+
+822
+01:04:13,184 --> 01:04:14,936
+<font color="#D900D9">(ELEVATOR STOPS)</font>
+
+823
+01:04:20,692 --> 01:04:22,443
+Benji, how long would it take you
+to reprogram the case?
+
+824
+01:04:22,527 --> 01:04:24,779
+A couple of seconds. What for, though?
+
+825
+01:04:24,862 --> 01:04:27,031
+To make an exact copy
+of the launch codes.
+
+826
+01:04:27,115 --> 01:04:28,700
+- What?
+- You can't do that.
+
+827
+01:04:28,783 --> 01:04:30,285
+- Wistrom's on 22!
+- Slow him down.
+
+828
+01:04:30,368 --> 01:04:31,452
+I'll do what I can.
+
+829
+01:04:31,619 --> 01:04:33,454
+<font color="#D900D9">(ELEVATOR STOPS)</font>
+
+830
+01:04:34,205 --> 01:04:35,790
+Wait, wait. Ethan, hang on now!
+
+831
+01:04:35,873 --> 01:04:37,208
+Hang on. Just a second.
+
+832
+01:04:37,292 --> 01:04:40,795
+You're talking about handing over active
+nuclear launch codes to Wistrom?
+
+833
+01:04:40,878 --> 01:04:41,921
+Yes. Reprogram the case.
+
+834
+01:04:42,005 --> 01:04:43,047
+Listen... Stop!
+
+835
+01:04:43,131 --> 01:04:44,173
+Just listen to what you're saying.
+
+836
+01:04:44,299 --> 01:04:45,967
+You're fixating.
+You're not thinking clearly.
+
+837
+01:04:46,050 --> 01:04:49,137
+It's not gonna happen. I won't let it!
+
+838
+01:04:49,220 --> 01:04:50,513
+33 and climbing!
+
+839
+01:04:50,638 --> 01:04:51,806
+Brandt, use your head now.
+
+840
+01:04:51,889 --> 01:04:53,600
+The mission is not the codes,
+the mission is Hendricks.
+
+841
+01:04:53,683 --> 01:04:56,102
+Then just let it play out.
+Give him bad codes. Neutralize him.
+
+842
+01:04:56,185 --> 01:04:57,228
+You know that won't do it.
+
+843
+01:04:57,312 --> 01:04:59,856
+Failure to a terrorist
+is just a rehearsal for success.
+
+844
+01:04:59,981 --> 01:05:01,316
+41!
+
+845
+01:05:01,399 --> 01:05:03,651
+We lose Hendricks today,
+he shows up somewhere else tomorrow.
+
+846
+01:05:03,735 --> 01:05:04,819
+He finds another way.
+
+847
+01:05:04,902 --> 01:05:06,362
+With no IMF to stop him.
+
+848
+01:05:06,487 --> 01:05:08,656
+No. It's now or never.
+Now, Brandt, give me the case.
+
+849
+01:05:08,740 --> 01:05:10,908
+Nothing can be left to chance.
+You said that.
+
+850
+01:05:10,992 --> 01:05:12,035
+You're the analyst.
+
+851
+01:05:12,160 --> 01:05:14,162
+Now, tell me there's not another way
+for Hendricks to get those codes.
+
+852
+01:05:14,245 --> 01:05:15,288
+<font color="#808080">BENJI:</font> 50!
+
+853
+01:05:15,371 --> 01:05:17,915
+You tell me that this is his only avenue,
+right here, right now, today.
+
+854
+01:05:17,999 --> 01:05:20,418
+You tell me that, I'll walk away.
+
+855
+01:05:20,501 --> 01:05:21,711
+<font color="#D900D9">(HISSING)</font>
+
+856
+01:05:21,836 --> 01:05:23,004
+<font color="#D900D9">(BEEPING)</font>
+
+857
+01:05:24,380 --> 01:05:26,007
+<font color="#D900D9">(MOTOR STOPS)</font>
+<font color="#D900D9">(SIGHS)</font>
+
+858
+01:05:28,092 --> 01:05:29,761
+- We go without.
+- Without masks?
+
+859
+01:05:29,844 --> 01:05:31,137
+- Jane needs to go.
+- Ethan!
+
+860
+01:05:31,220 --> 01:05:32,263
+We have no choice.
+
+861
+01:05:32,347 --> 01:05:33,931
+Ethan, you'd be walking in
+on Moreau unarmed.
+
+862
+01:05:34,015 --> 01:05:35,266
+Face-first. Literally.
+
+863
+01:05:35,350 --> 01:05:36,392
+How do we know they've met?
+
+864
+01:05:36,601 --> 01:05:38,436
+- How do we know they haven't?
+- Doesn't matter!
+
+865
+01:05:39,771 --> 01:05:41,105
+Damn it.
+
+866
+01:05:41,356 --> 01:05:42,690
+We have no choice.
+
+867
+01:06:04,420 --> 01:06:05,546
+<font color="#D900D9">(SPRAY HISSES)</font>
+
+868
+01:06:24,232 --> 01:06:25,400
+<font color="#D900D9">(KNOCKING ON DOOR)</font>
+
+869
+01:06:34,158 --> 01:06:35,493
+Goggles.
+
+870
+01:06:37,829 --> 01:06:39,414
+What if they have met?
+
+871
+01:06:41,916 --> 01:06:43,835
+<font color="#808080">JANE:</font> <font color="#D900D9">(IN FRENCH ACCENT)</font> Come in.
+
+872
+01:07:18,703 --> 01:07:20,955
+<font color="#D900D9">(IN FRENCH ACCENT)</font>
+Which one of you is Wistrom?
+
+873
+01:07:21,789 --> 01:07:23,374
+Which one of you is Wistrom?
+
+874
+01:07:26,210 --> 01:07:27,545
+I am.
+
+875
+01:07:29,046 --> 01:07:30,882
+I admire your work.
+
+876
+01:07:46,314 --> 01:07:47,482
+Sit.
+
+877
+01:07:56,699 --> 01:07:57,992
+Where are my codes?
+
+878
+01:07:59,494 --> 01:08:00,995
+Where are my diamonds?
+
+879
+01:08:02,163 --> 01:08:03,414
+Close by.
+
+880
+01:08:04,332 --> 01:08:05,666
+You have my payment?
+
+881
+01:08:05,917 --> 01:08:07,543
+When I see the codes.
+
+882
+01:08:07,668 --> 01:08:08,669
+<font color="#D900D9">(KNOCKING ON DOOR)</font>
+
+883
+01:08:08,753 --> 01:08:10,505
+Not to worry. Come in!
+
+884
+01:08:11,255 --> 01:08:12,924
+I thought we could have tea.
+
+885
+01:08:15,384 --> 01:08:19,013
+<i>Mademoiselle. Messieurs.</i>
+
+886
+01:08:20,264 --> 01:08:22,600
+No diamonds, no codes.
+
+887
+01:08:23,100 --> 01:08:25,436
+No codes, no diamonds.
+
+888
+01:08:27,438 --> 01:08:28,689
+<font color="#D900D9">(SIGHS)</font>
+
+889
+01:08:29,357 --> 01:08:30,358
+Kill this one.
+
+890
+01:08:30,525 --> 01:08:32,443
+<font color="#808080">ETHAN:</font> We didn't come alone.
+
+891
+01:08:32,777 --> 01:08:34,445
+That hallway out there is a kill-box.
+
+892
+01:08:34,612 --> 01:08:35,905
+You know who we work for.
+
+893
+01:08:36,030 --> 01:08:38,533
+We come back with the codes,
+or we don't come back.
+
+894
+01:08:40,451 --> 01:08:41,786
+How good is your backup?
+
+895
+01:08:42,036 --> 01:08:43,412
+The best.
+
+896
+01:08:43,538 --> 01:08:45,373
+Hmm. <font color="#D900D9">(CHUCKLES)</font>
+
+897
+01:08:46,874 --> 01:08:49,210
+<font color="#808080">MOREAU ON RADIO:</font>
+<i>I've killed the best.</i>
+
+898
+01:08:50,127 --> 01:08:51,796
+<font color="#D900D9">(IN FRENCH ACCENT)</font>
+Do you care for some sugar?
+
+899
+01:08:56,133 --> 01:08:57,802
+<font color="#808080">ETHAN ON RADIO:</font>
+<i>Enough. Let's get this done.</i>
+
+900
+01:08:58,135 --> 01:09:00,555
+You want payment, I want guarantees.
+
+901
+01:09:01,138 --> 01:09:02,431
+When he's authenticated the codes,
+
+902
+01:09:02,557 --> 01:09:05,059
+I'll make the call
+and you get your diamonds.
+
+903
+01:09:05,142 --> 01:09:06,811
+That or
+
+904
+01:09:07,395 --> 01:09:09,397
+we all go home in buckets.
+
+905
+01:09:10,314 --> 01:09:12,817
+Nobody leaves this hotel alive.
+
+906
+01:09:16,529 --> 01:09:17,530
+Get the papers.
+
+907
+01:09:32,336 --> 01:09:33,671
+<font color="#808080">JANE:</font> Is there a problem?
+
+908
+01:09:34,338 --> 01:09:35,673
+It's locked.
+
+909
+01:09:39,677 --> 01:09:43,514
+<font color="#808080">JANE:</font> Ah, forgive me.
+There must be a key.
+
+910
+01:09:44,682 --> 01:09:46,350
+One moment, huh?
+
+911
+01:09:49,103 --> 01:09:50,605
+<font color="#D900D9">(CLEARS THROAT)</font> Messieurs.
+
+912
+01:10:22,011 --> 01:10:23,137
+<font color="#D900D9">(CAMERA CLICKING)</font>
+
+913
+01:10:28,309 --> 01:10:29,352
+<font color="#D900D9">(CLEARS THROAT)</font>
+
+914
+01:10:43,658 --> 01:10:48,204
+<font color="#D900D9">(EXCLAIMS)</font> My mistake.
+It is a combination, not a key.
+
+915
+01:10:48,746 --> 01:10:50,414
+You tell me the numbers.
+
+916
+01:10:56,379 --> 01:10:57,421
+They're good.
+
+917
+01:10:57,672 --> 01:10:58,714
+Zero.
+
+918
+01:11:00,341 --> 01:11:01,425
+Zero.
+
+919
+01:11:03,260 --> 01:11:04,345
+Zero.
+
+920
+01:11:17,191 --> 01:11:18,359
+<font color="#D900D9">(VIBRATES)</font>
+
+921
+01:11:21,445 --> 01:11:22,697
+Come on, come on, come on.
+
+922
+01:11:31,455 --> 01:11:32,873
+<font color="#D900D9">(KNOCKING ON DOOR)</font>
+
+923
+01:11:44,218 --> 01:11:45,469
+<font color="#D900D9">(RATTLING)</font>
+
+924
+01:12:06,157 --> 01:12:08,409
+It was a pleasure doing business with...
+
+925
+01:12:08,492 --> 01:12:10,661
+Wistrom has the launch codes.
+He's on the move.
+
+926
+01:12:11,162 --> 01:12:14,665
+Hey, I did as you asked. I did.
+Now let my family go!
+
+927
+01:12:14,915 --> 01:12:16,333
+Release Leonid's family.
+
+928
+01:12:16,417 --> 01:12:17,710
+<font color="#D900D9">(SIGHS)</font> Thank God.
+
+929
+01:12:17,793 --> 01:12:19,170
+You can thank him in person.
+
+930
+01:12:19,253 --> 01:12:20,504
+<font color="#D900D9">(SILENCED GUNSHOTS)</font>
+
+931
+01:12:26,844 --> 01:12:28,262
+<font color="#D900D9">(DIAMONDS RATTLE)</font>
+
+932
+01:12:35,019 --> 01:12:37,438
+<font color="#808080">MOREAU:</font> It was a pleasure
+doing business with you.
+
+933
+01:12:43,194 --> 01:12:44,278
+<font color="#D900D9">(MOREAU ORDERING IN FRENCH)</font>
+
+934
+01:12:44,361 --> 01:12:45,446
+Kill him!
+
+935
+01:12:54,038 --> 01:12:55,206
+Moreau's on the move!
+
+936
+01:12:56,207 --> 01:12:57,541
+I've got her.
+
+937
+01:12:58,793 --> 01:12:59,835
+Jane?
+
+938
+01:12:59,960 --> 01:13:01,003
+<i>She's an asset!</i>
+
+939
+01:13:01,170 --> 01:13:02,505
+I need her
+
+940
+01:13:02,630 --> 01:13:03,631
+alive!
+
+941
+01:13:05,007 --> 01:13:06,175
+<font color="#808080">ETHAN:</font> <i>Acknowledge!</i>
+
+942
+01:13:06,842 --> 01:13:07,885
+Acknowledge!
+
+943
+01:13:17,812 --> 01:13:18,896
+<font color="#D900D9">(GUNSHOT)</font>
+
+944
+01:13:19,230 --> 01:13:22,733
+Uh, Ethan, Wistrom is in the elevator.
+I can't see Leonid, though.
+
+945
+01:13:23,150 --> 01:13:24,401
+<font color="#D900D9">(GROANS)</font>
+
+946
+01:13:24,652 --> 01:13:27,696
+Benji, slow him down.
+Get me an elevator.
+
+947
+01:13:27,822 --> 01:13:29,657
+<font color="#D900D9">(ELEVATOR STOPS)</font>
+
+948
+01:13:31,826 --> 01:13:33,577
+<font color="#D900D9">(BONES CRUNCH)</font>
+<font color="#D900D9">(GROANING)</font>
+
+949
+01:13:40,084 --> 01:13:41,335
+Find Leonid.
+
+950
+01:13:54,431 --> 01:13:57,143
+Benji, I've got a lock on Wistrom.
+But I can't tell.
+
+951
+01:13:57,226 --> 01:13:58,853
+<i>Is he still in the elevator?</i>
+
+952
+01:13:58,936 --> 01:14:00,229
+<font color="#D900D9">(LINE DISTORTING)</font>
+
+953
+01:14:00,354 --> 01:14:01,355
+Benn?
+
+954
+01:14:01,522 --> 01:14:02,940
+<font color="#D900D9">(ELEVATOR STOPS)</font>
+
+955
+01:14:03,023 --> 01:14:04,191
+<font color="#D900D9">(ELEVATOR CHIMES)</font>
+
+956
+01:14:05,359 --> 01:14:06,360
+Ethan. Over?
+
+957
+01:14:06,443 --> 01:14:07,486
+Benji.
+
+958
+01:14:07,570 --> 01:14:08,612
+<font color="#D900D9">(LINE DISTORTING)</font>
+- Benji, I lost...
+
+959
+01:14:08,696 --> 01:14:10,239
+Ethan, can you hear me?
+
+960
+01:14:10,322 --> 01:14:11,782
+Ethan, can you hear me? Over.
+
+961
+01:14:11,866 --> 01:14:12,950
+<font color="#D900D9">(DOOR BANGS OPEN)</font>
+
+962
+01:14:13,033 --> 01:14:14,201
+Jesus!
+
+963
+01:14:20,332 --> 01:14:21,584
+Sit down!
+
+964
+01:14:23,502 --> 01:14:25,212
+- Watch her.
+- Why me?
+
+965
+01:14:25,296 --> 01:14:26,797
+Because if I do, I'll kill her.
+
+966
+01:14:55,409 --> 01:14:56,452
+<font color="#D900D9">(GUN CLICKS)</font>
+
+967
+01:14:56,535 --> 01:14:58,871
+Hold it, Team Leader.
+
+968
+01:14:59,830 --> 01:15:02,333
+Did you really think
+I wouldn't catch up with you?
+
+969
+01:15:02,416 --> 01:15:04,418
+You and I are not enemies.
+It was a set-up...
+
+970
+01:15:04,501 --> 01:15:07,296
+We'll find out your lies soon enough.
+
+971
+01:15:07,713 --> 01:15:08,923
+Move it!
+
+972
+01:15:09,965 --> 01:15:11,550
+I'm sorry about this.
+
+973
+01:15:11,884 --> 01:15:13,719
+<font color="#D900D9">(GASPS)</font>
+<font color="#D900D9">(PEOPLE SCREAMING)</font>
+
+974
+01:15:34,323 --> 01:15:35,824
+Leonid. Benji?
+
+975
+01:15:36,283 --> 01:15:37,326
+Go for Benji.
+
+976
+01:15:37,409 --> 01:15:39,286
+I've got Leonid by the elevators.
+He's been shot.
+
+977
+01:15:39,370 --> 01:15:40,412
+What?
+
+978
+01:15:40,496 --> 01:15:41,664
+<font color="#D900D9">(THUDDING)</font>
+
+979
+01:15:48,003 --> 01:15:49,255
+<font color="#D900D9">(RIPPING)</font>
+
+980
+01:15:51,215 --> 01:15:53,926
+Hey, hey. Stay with me. Stay with me.
+
+981
+01:16:13,028 --> 01:16:14,571
+No, no, no, no, no, no, no, no, no, no,
+
+982
+01:16:14,655 --> 01:16:15,781
+<font color="#D900D9">(FIRING)</font>
+
+983
+01:16:20,953 --> 01:16:22,579
+<font color="#808080">BRANDT:</font> Jane! No!
+
+984
+01:16:22,997 --> 01:16:24,623
+<font color="#D900D9">(SCREAMS)</font>
+
+985
+01:16:27,459 --> 01:16:28,961
+<font color="#D900D9">(WIND WHISTLES)</font>
+
+986
+01:16:38,345 --> 01:16:40,556
+<font color="#D900D9">(PEOPLE SHOUTING)</font>
+
+987
+01:16:45,144 --> 01:16:46,979
+<font color="#D900D9">(LOW RUMBLING)</font>
+
+988
+01:17:01,660 --> 01:17:03,746
+<font color="#D900D9">(TIRES SCREECH)</font>
+<font color="#D900D9">(HORNS HONKING)</font>
+
+989
+01:17:05,706 --> 01:17:07,207
+<font color="#D900D9">(SAND HISSING)</font>
+
+990
+01:17:26,060 --> 01:17:28,103
+<font color="#D900D9">(WIND SURGES)</font>
+
+991
+01:17:33,317 --> 01:17:35,861
+<font color="#D900D9">(MEN SHOUTING IN ARABIC)</font>
+
+992
+01:17:46,497 --> 01:17:47,539
+<font color="#D900D9">(WOMEN EXCLAIM FEARFULLY)</font>
+
+993
+01:17:47,623 --> 01:17:49,208
+<font color="#D900D9">(WOMEN COUGHING)</font>
+
+994
+01:17:52,503 --> 01:17:53,879
+<font color="#D900D9">(DOG BARKING)</font>
+
+995
+01:18:05,891 --> 01:18:07,101
+<font color="#D900D9">(WIND HOWLS)</font>
+
+996
+01:18:07,184 --> 01:18:08,519
+<font color="#D900D9">(WHOOSH ES)</font>
+
+997
+01:18:12,272 --> 01:18:13,941
+<font color="#D900D9">(BREATHES HEAVILY)</font>
+
+998
+01:18:14,191 --> 01:18:16,193
+<font color="#D900D9">(BEEPING)</font>
+
+999
+01:18:26,245 --> 01:18:27,913
+<font color="#D900D9">(STEADY BEEPING)</font>
+
+1000
+01:18:29,248 --> 01:18:30,707
+<font color="#D900D9">(BEEPING ACCELERATES RAPIDLY)</font>
+
+1001
+01:18:32,751 --> 01:18:34,253
+<font color="#D900D9">(ETHAN GRUNTS)</font>
+
+1002
+01:18:42,636 --> 01:18:44,179
+<font color="#D900D9">(TIRES SCREECH)</font>
+
+1003
+01:18:49,143 --> 01:18:50,686
+<font color="#D900D9">(TIRES SCREECH)</font>
+
+1004
+01:18:56,775 --> 01:18:58,068
+<font color="#D900D9">(EXCLAIMS)</font>
+
+1005
+01:19:07,911 --> 01:19:10,289
+<font color="#D900D9">(BEEPING)</font>
+
+1006
+01:19:18,380 --> 01:19:20,257
+<font color="#D900D9">(MAN SHOUTS IN ARABIC)</font>
+
+1007
+01:19:22,134 --> 01:19:23,802
+<font color="#D900D9">(GRUNTS)</font>
+<font color="#D900D9">(BEEPING)</font>
+
+1008
+01:19:23,927 --> 01:19:25,554
+<font color="#D900D9">(MUFFLED)</font> Come on. Come on.
+
+1009
+01:19:28,390 --> 01:19:29,725
+<font color="#D900D9">(MEN YELL IN ARABIC)</font>
+
+1010
+01:19:34,646 --> 01:19:36,607
+<font color="#D900D9">(MEN SHOUT IN ARABIC)</font>
+<font color="#D900D9">(TIRES SQUEAL)</font>
+
+1011
+01:19:36,690 --> 01:19:38,609
+<font color="#D900D9">(ENGINE ROARS)</font>
+
+1012
+01:19:44,239 --> 01:19:45,574
+<font color="#D900D9">(BEEPING)</font>
+
+1013
+01:19:46,867 --> 01:19:48,202
+<font color="#D900D9">(TIRES SCREECH)</font>
+
+1014
+01:20:09,181 --> 01:20:10,682
+<font color="#D900D9">(HORNS HONKING)</font>
+
+1015
+01:20:19,983 --> 01:20:21,235
+<font color="#D900D9">(TIRES SCREECH)</font>
+
+1016
+01:20:24,696 --> 01:20:25,864
+<font color="#D900D9">(GROANS)</font>
+
+1017
+01:20:52,683 --> 01:20:55,143
+<font color="#D900D9">(BEEPING ACCELERATES RAPIDLY)</font>
+
+1018
+01:21:03,110 --> 01:21:04,361
+<font color="#D900D9">(GROANS)</font>
+
+1019
+01:21:04,444 --> 01:21:05,862
+<font color="#D900D9">(CRASHING)</font>
+
+1020
+01:21:10,242 --> 01:21:11,577
+<font color="#D900D9">(GRUNTING)</font>
+
+1021
+01:21:36,560 --> 01:21:37,769
+<font color="#D900D9">(PANTS)</font>
+
+1022
+01:21:47,446 --> 01:21:49,031
+<font color="#D900D9">(GRUNTS)</font>
+
+1023
+01:22:14,306 --> 01:22:15,432
+<font color="#D900D9">(PANTING)</font>
+
+1024
+01:22:19,186 --> 01:22:20,687
+Now, what happened
+with Moreau, Jane?
+
+1025
+01:22:20,771 --> 01:22:21,813
+She couldn't help us with Hendricks.
+
+1026
+01:22:21,897 --> 01:22:23,398
+So let's throw her off the building!
+
+1027
+01:22:23,482 --> 01:22:24,524
+I didn't throw her.
+
+1028
+01:22:24,608 --> 01:22:25,692
+Let's throw her off the building!
+
+1029
+01:22:25,817 --> 01:22:28,153
+She was not the mission, Jane!
+
+1030
+01:22:28,236 --> 01:22:33,200
+The mission was to track the file
+back to Hendricks, who is in the wind
+
+1031
+01:22:33,283 --> 01:22:35,410
+with nuclear launch codes!
+
+1032
+01:22:35,494 --> 01:22:38,288
+<font color="#808080">JANE:</font> Maybe you didn't notice the gun
+she had pointed at me.
+
+1033
+01:22:38,372 --> 01:22:40,582
+<font color="#808080">BRANDT:</font> Yeah, like you didn't notice
+the open window,
+
+1034
+01:22:40,666 --> 01:22:42,542
+or that we're about a mile up in the air!
+
+1035
+01:22:42,626 --> 01:22:44,252
+<font color="#808080">JANE:</font> It was an instinctive move.
+
+1036
+01:22:44,336 --> 01:22:45,379
+<font color="#808080">BRANDT:</font> It doesn't matter!
+
+1037
+01:22:45,462 --> 01:22:47,255
+We're talking about a nuclear war.
+
+1038
+01:22:47,339 --> 01:22:49,841
+The asset is more important than you.
+
+1039
+01:22:49,925 --> 01:22:52,260
+<font color="#808080">JANE:</font> Where do you get off telling me
+how well I executed?
+
+1040
+01:22:52,344 --> 01:22:54,137
+- We inherited you.
+<font color="#D900D9">(PHONE VIBRATES)</font>
+
+1041
+01:22:54,221 --> 01:22:56,181
+You're just a bureaucrat!
+
+1042
+01:22:56,264 --> 01:22:58,684
+Better have good news for me.
+Is he here?
+
+1043
+01:22:58,767 --> 01:23:01,061
+<font color="#808080">JANE:</font> You think I need you to tell me
+what the mission is?
+
+1044
+01:23:01,144 --> 01:23:03,939
+Yeah, I got it. Dunhill lighter.
+I'll be there.
+
+1045
+01:23:04,022 --> 01:23:05,691
+And no one will be following me.
+
+1046
+01:23:05,774 --> 01:23:07,567
+Just make sure no one's following you.
+
+1047
+01:23:07,651 --> 01:23:09,361
+And how the hell
+did the Russians find us?
+
+1048
+01:23:09,444 --> 01:23:11,279
+- What are you asking me for?
+- Because you're communications!
+
+1049
+01:23:11,363 --> 01:23:13,115
+You're in charge of covering our tracks.
+
+1050
+01:23:13,198 --> 01:23:16,034
+<font color="#808080">BRANDT:</font> You cannot afford to
+make mistakes like that now, Benji.
+
+1051
+01:23:16,118 --> 01:23:18,453
+You're not a technician any more.
+You're a field agent.
+
+1052
+01:23:18,537 --> 01:23:21,081
+And you're just an "analyst."
+
+1053
+01:23:21,164 --> 01:23:22,249
+Right?
+
+1054
+01:23:23,041 --> 01:23:24,209
+Right?
+
+1055
+01:23:25,502 --> 01:23:27,546
+Who are you really, Brandt?
+
+1056
+01:23:29,214 --> 01:23:31,091
+- What are you asking?
+- What am I asking?
+
+1057
+01:23:31,174 --> 01:23:32,884
+Let me see if I can put it another way.
+
+1058
+01:23:40,058 --> 01:23:44,229
+How does an agent with skills like that
+end up an analyst?
+
+1059
+01:23:47,274 --> 01:23:49,192
+<font color="#D900D9">(MAGAZINE CLATTERS)</font>
+
+1060
+01:23:52,404 --> 01:23:54,573
+Well, we all have our secrets.
+
+1061
+01:23:56,074 --> 01:23:57,701
+Don't we, Ethan?
+
+1062
+01:24:02,622 --> 01:24:05,250
+You tell me yours, I'll tell you mine.
+
+1063
+01:24:15,761 --> 01:24:17,387
+<font color="#D900D9">(PHONE VIBRATES)</font>
+
+1064
+01:24:24,936 --> 01:24:27,189
+I have friends in the region.
+Just sit tight.
+
+1065
+01:24:27,272 --> 01:24:28,815
+I'll send someone to get you out of here.
+
+1066
+01:24:28,899 --> 01:24:30,025
+<font color="#808080">JANE:</font> What about Hendricks?
+What's the plan?
+
+1067
+01:24:30,108 --> 01:24:32,861
+The plan was for us
+to stop him together.
+
+1068
+01:24:33,278 --> 01:24:35,447
+<font color="#808080">BENJI:</font> Well, what are you going to do?
+
+1069
+01:24:35,530 --> 01:24:36,573
+Change the plan.
+
+1070
+01:24:36,656 --> 01:24:38,867
+<font color="#808080">JANE:</font> Wait. That's it?
+
+1071
+01:24:38,950 --> 01:24:41,870
+What are you going to do,
+go after him alone?
+
+1072
+01:24:43,455 --> 01:24:46,583
+Would you care to explain yourself,
+Agent Brandt?
+
+1073
+01:24:58,303 --> 01:25:00,555
+<font color="#D900D9">(OVERLAPPING CHATTER
+IN ARABIC)</font>
+
+1074
+01:25:50,397 --> 01:25:53,441
+I was on a protection detail in Croatia.
+
+1075
+01:25:53,525 --> 01:25:56,653
+Shadowing the assets,
+husband and wife.
+
+1076
+01:25:57,737 --> 01:25:59,614
+They were never supposed to know
+we were there.
+
+1077
+01:25:59,698 --> 01:26:02,409
+Whole thing's routine, it was a milk run.
+
+1078
+01:26:05,036 --> 01:26:06,538
+Three days in
+
+1079
+01:26:07,706 --> 01:26:11,334
+we caught wind that a Serbian hit squad
+was after our couple.
+
+1080
+01:26:11,418 --> 01:26:14,004
+But my team had it under control.
+
+1081
+01:26:14,087 --> 01:26:16,047
+We knew they were coming.
+
+1082
+01:26:16,673 --> 01:26:20,927
+But I couldn't shake this feeling that I
+should warn the couple somehow.
+
+1083
+01:26:21,011 --> 01:26:23,388
+I wanted to find a way to let them know.
+
+1084
+01:26:25,724 --> 01:26:28,685
+But, you know, orders are orders,
+so I didn't.
+
+1085
+01:26:31,688 --> 01:26:32,981
+<font color="#D900D9">(SIGHS)</font>
+
+1086
+01:26:33,607 --> 01:26:37,986
+One day, the husband decides
+to leave the hotel and go for a run,
+
+1087
+01:26:38,069 --> 01:26:42,073
+so I follow him,
+and I leave two men with the wife.
+
+1088
+01:26:43,658 --> 01:26:47,746
+When I get back, my guys are
+unconscious and the wife is gone.
+
+1089
+01:26:49,706 --> 01:26:52,584
+Local police found her body
+three days later.
+
+1090
+01:26:53,668 --> 01:26:55,587
+What was left of her, anyway.
+
+1091
+01:27:01,259 --> 01:27:03,637
+That was my last day in the field.
+
+1092
+01:27:04,679 --> 01:27:07,724
+I couldn't face another
+life-or-death situation after that.
+
+1093
+01:27:07,807 --> 01:27:10,393
+So what happened to the husband?
+
+1094
+01:27:10,477 --> 01:27:11,645
+I never saw him again.
+
+1095
+01:27:13,563 --> 01:27:15,315
+Until two days ago in Moscow,
+
+1096
+01:27:15,398 --> 01:27:18,151
+when the Secretary
+introduced me to Ethan Hunt.
+
+1097
+01:27:21,863 --> 01:27:25,325
+No, that's not what happened.
+She left him.
+
+1098
+01:27:25,408 --> 01:27:28,161
+<font color="#808080">BRANDT:</font> Yeah, I heard that one,
+too, Benji.
+
+1099
+01:27:28,620 --> 01:27:31,581
+But, unfortunately, I was there.
+
+1100
+01:27:32,958 --> 01:27:36,753
+Just like I was there
+when the Secretary got the phone call
+
+1101
+01:27:36,836 --> 01:27:41,174
+that Ethan was in custody for killing
+six Serbian nationals in cold blood.
+
+1102
+01:27:41,257 --> 01:27:42,384
+An unsanctioned hit.
+
+1103
+01:27:42,467 --> 01:27:43,510
+Yeah.
+
+1104
+01:27:43,593 --> 01:27:45,345
+Disavowed.
+
+1105
+01:27:47,722 --> 01:27:49,224
+<font color="#D900D9">(SIGHS)</font>
+
+1106
+01:27:54,020 --> 01:27:55,271
+The next thing I know,
+
+1107
+01:27:56,189 --> 01:27:58,149
+I'm on a plane to Dubai,
+
+1108
+01:27:59,859 --> 01:28:03,279
+wondering the whole time, do I tell him?
+
+1109
+01:28:05,490 --> 01:28:07,158
+How do I tell him?
+
+1110
+01:28:09,411 --> 01:28:11,204
+That I'm responsible.
+
+1111
+01:28:13,790 --> 01:28:14,958
+I could have warned him.
+
+1112
+01:28:15,041 --> 01:28:17,043
+I should have warned him.
+
+1113
+01:28:19,504 --> 01:28:20,964
+But I didn't.
+
+1114
+01:28:22,674 --> 01:28:24,175
+And she died.
+
+1115
+01:28:30,640 --> 01:28:34,310
+Sergei! Sergei, my friend!
+
+1116
+01:28:34,394 --> 01:28:37,439
+I told you I would get him here.
+Didn't I say?
+
+1117
+01:28:37,522 --> 01:28:38,648
+How do I know it's him?
+
+1118
+01:28:38,732 --> 01:28:42,193
+Yes, it's him.
+You trust me, I trust you. Right?
+
+1119
+01:28:42,736 --> 01:28:44,195
+This is the guy!
+
+1120
+01:28:44,279 --> 01:28:46,948
+This is the guy, the one I told you about.
+
+1121
+01:28:47,032 --> 01:28:49,576
+So we can take these things off.
+
+1122
+01:28:49,659 --> 01:28:51,453
+<font color="#D900D9">(RATTLES HANDCUFFS)</font>
+
+1123
+01:28:54,372 --> 01:28:57,250
+Sorry. He's a great guy,
+but he doesn't know you like I do.
+
+1124
+01:28:57,333 --> 01:29:00,378
+<font color="#808080">MAN:</font> So, you work for
+the American government.
+
+1125
+01:29:01,796 --> 01:29:03,298
+<font color="#808080">ETHAN:</font> And you're an arms dealer.
+
+1126
+01:29:03,381 --> 01:29:05,717
+<font color="#808080">BOGDAN:</font> No, no, no. Sergei. Sergei.
+
+1127
+01:29:06,301 --> 01:29:10,346
+He's "independent
+defense coordinator." Right?
+
+1128
+01:29:11,556 --> 01:29:13,516
+That you are. Very classy job.
+
+1129
+01:29:13,600 --> 01:29:14,684
+Listen. He's a friend.
+
+1130
+01:29:14,768 --> 01:29:16,311
+Those diamonds are for Bogdan.
+
+1131
+01:29:16,394 --> 01:29:18,438
+No, no. It's okay. You can have them.
+
+1132
+01:29:18,521 --> 01:29:21,649
+Whatever arrangements you made with
+my cousin is between you and him.
+
+1133
+01:29:21,733 --> 01:29:24,611
+You want something from me, you pay.
+
+1134
+01:29:24,694 --> 01:29:28,948
+You misunderstand.
+I'm not buying. I'm selling.
+
+1135
+01:29:29,699 --> 01:29:31,826
+You're selling. <font color="#D900D9">(CHUCKLES)</font>
+
+1136
+01:29:31,910 --> 01:29:33,161
+Selling what?
+
+1137
+01:29:33,244 --> 01:29:34,621
+The future.
+
+1138
+01:29:34,704 --> 01:29:37,499
+Yeah, I got all I need, thank you.
+
+1139
+01:29:37,582 --> 01:29:39,250
+<font color="#808080">ETHAN:</font> Our countries
+are on the brink of war.
+
+1140
+01:29:39,834 --> 01:29:41,711
+War is very good for business.
+
+1141
+01:29:41,795 --> 01:29:43,338
+Nuclear war?
+
+1142
+01:29:53,765 --> 01:29:54,849
+Go on.
+
+1143
+01:29:54,933 --> 01:29:56,893
+I'm looking for a man
+named Kurt Hendricks.
+
+1144
+01:29:56,976 --> 01:29:58,603
+You may know him as Cobalt.
+
+1145
+01:29:58,686 --> 01:30:01,439
+In either case,
+I think you know what he wants.
+
+1146
+01:30:01,523 --> 01:30:04,192
+I'll bet he even tried
+to buy it from you at some point.
+
+1147
+01:30:05,610 --> 01:30:06,653
+Go on.
+
+1148
+01:30:06,736 --> 01:30:08,822
+He has a case, he has codes.
+
+1149
+01:30:09,572 --> 01:30:12,867
+But they're worthless
+without a tactical satellite.
+
+1150
+01:30:12,951 --> 01:30:15,286
+I want to know where he'd get it.
+
+1151
+01:30:15,954 --> 01:30:19,457
+A man with information like that
+would be a potential terrorist.
+
+1152
+01:30:20,375 --> 01:30:22,335
+And to your government,
+
+1153
+01:30:22,418 --> 01:30:26,506
+a potential terrorist is a terrorist.
+
+1154
+01:30:29,467 --> 01:30:30,510
+If you help me,
+
+1155
+01:30:31,803 --> 01:30:34,806
+my friends become your friends.
+
+1156
+01:30:37,934 --> 01:30:39,102
+Sorry.
+
+1157
+01:30:40,395 --> 01:30:42,063
+I cannot help you.
+
+1158
+01:30:47,569 --> 01:30:50,613
+I certainly cannot tell you
+that Russia quietly sold
+
+1159
+01:30:50,697 --> 01:30:54,492
+an obsolete tactical satellite
+to a certain telecom in Mumbai.
+
+1160
+01:30:56,327 --> 01:30:58,246
+And whoever gave them that idea?
+
+1161
+01:30:58,329 --> 01:31:02,125
+<font color="#D900D9">(CHUCKLES)</font> An enterprising third party.
+
+1162
+01:31:02,208 --> 01:31:03,710
+Working on commission.
+
+1163
+01:31:03,793 --> 01:31:07,046
+Helping old friends. Making new ones.
+
+1164
+01:31:07,714 --> 01:31:09,090
+Can the satellite be shut down?
+
+1165
+01:31:09,174 --> 01:31:11,092
+That would take special skills,
+
+1166
+01:31:12,010 --> 01:31:13,511
+and you cannot do it alone.
+
+1167
+01:31:39,871 --> 01:31:41,497
+What's in the bags?
+
+1168
+01:31:41,581 --> 01:31:42,957
+It's our gear.
+
+1169
+01:31:43,041 --> 01:31:44,834
+How'd you get it?
+
+1170
+01:31:44,918 --> 01:31:46,085
+Made a friend.
+
+1171
+01:31:47,212 --> 01:31:48,463
+Well, I'm glad we could help.
+
+1172
+01:31:48,546 --> 01:31:50,340
+You could help now.
+
+1173
+01:31:50,423 --> 01:31:52,300
+Look, Ethan, before we...
+
+1174
+01:31:52,383 --> 01:31:53,635
+<font color="#808080">ETHAN:</font> Whatever happened, happened.
+
+1175
+01:31:54,177 --> 01:31:56,930
+We still have a chance to clean this up,
+but we have to do it now.
+
+1176
+01:31:57,931 --> 01:32:00,141
+And we have to do it together.
+
+1177
+01:32:07,398 --> 01:32:08,775
+Okay. So, where are we going?
+
+1178
+01:32:10,526 --> 01:32:11,569
+India.
+
+1179
+01:32:15,031 --> 01:32:16,574
+- India? India?
+- Sure.
+
+1180
+01:32:16,658 --> 01:32:17,742
+Okay. Great.
+
+1181
+01:32:21,412 --> 01:32:22,914
+Love the jet.
+
+1182
+01:32:23,623 --> 01:32:25,416
+Wait till you see the car.
+
+1183
+01:32:26,668 --> 01:32:28,127
+<font color="#D900D9">(CELL PHONE RINGS)</font>
+
+1184
+01:32:30,838 --> 01:32:31,923
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+1185
+01:32:32,006 --> 01:32:33,049
+Sidorov.
+
+1186
+01:32:33,216 --> 01:32:34,759
+<i>How have you been, old friend?</i>
+
+1187
+01:32:34,926 --> 01:32:36,052
+Oh, it's you.
+
+1188
+01:32:37,011 --> 01:32:40,181
+I've been busy with other things.
+
+1189
+01:32:40,265 --> 01:32:42,225
+<i>But I'll be after you again soon enough.</i>
+
+1190
+01:32:43,017 --> 01:32:44,060
+<font color="#D900D9">(CHUCKLES)</font>
+
+1191
+01:32:44,769 --> 01:32:47,647
+I understand you're looking
+for an American...
+
+1192
+01:32:47,814 --> 01:32:48,856
+I am.
+
+1193
+01:32:49,983 --> 01:32:53,318
+You're also looking for a nuclear launch
+device stolen from the Kremlin two days ago.
+
+1194
+01:32:53,319 --> 01:32:55,822
+<i>You're also looking for a nuclear launch
+device stolen from the Kremlin two days ago.</i>
+
+1195
+01:32:56,239 --> 01:32:57,282
+I am?
+
+1196
+01:32:57,532 --> 01:32:59,826
+I can help you find both.
+
+1197
+01:33:00,785 --> 01:33:03,746
+If... we can come to an understanding.
+
+1198
+01:33:09,877 --> 01:33:11,087
+<font color="#808080">JANE:</font> Brij Nath.
+
+1199
+01:33:11,170 --> 01:33:13,673
+<font color="#808080">ETHAN:</font> Brij Nath. Playboy.
+Multimedia tycoon.
+
+1200
+01:33:13,756 --> 01:33:16,718
+On the surface,
+his entire network is state-of-the-art.
+
+1201
+01:33:16,801 --> 01:33:18,720
+But it's built on illegally acquired.
+
+1202
+01:33:18,803 --> 01:33:22,682
+Cold War cast-offs, including this,
+the Novosti satellite.
+
+1203
+01:33:22,765 --> 01:33:24,559
+Hendricks needs it
+to launch a nuclear strike,
+
+1204
+01:33:24,642 --> 01:33:27,145
+and we have to shut it down
+before he gets that chance.
+
+1205
+01:33:27,228 --> 01:33:29,814
+And to do that, we need to get
+the access code from him.
+
+1206
+01:33:29,897 --> 01:33:31,232
+One way or another.
+
+1207
+01:33:32,483 --> 01:33:34,027
+And if I don't,
+
+1208
+01:33:34,986 --> 01:33:36,529
+none of this works.
+
+1209
+01:33:37,822 --> 01:33:38,948
+You can do this.
+
+1210
+01:33:39,032 --> 01:33:40,158
+Yeah.
+
+1211
+01:33:40,992 --> 01:33:43,786
+A week ago, I would have believed you.
+
+1212
+01:33:49,000 --> 01:33:51,419
+I don't blame you for what happened.
+
+1213
+01:33:56,174 --> 01:33:59,844
+She took someone you cared about.
+That's not something you just
+
+1214
+01:34:00,261 --> 01:34:01,304
+let go.
+
+1215
+01:34:03,014 --> 01:34:05,141
+Did it make you feel better?
+
+1216
+01:34:07,643 --> 01:34:10,563
+When you killed the men
+who killed your wife?
+
+1217
+01:34:18,654 --> 01:34:20,531
+We can't get them back.
+
+1218
+01:34:26,913 --> 01:34:28,164
+Okay, to shut down the satellite,
+
+1219
+01:34:28,247 --> 01:34:31,042
+we have to manually tap into
+the central server.
+
+1220
+01:34:31,125 --> 01:34:33,586
+You'll enter through the exhaust vent,
+wearing this under your suit.
+
+1221
+01:34:33,669 --> 01:34:34,754
+<font color="#D900D9">(ELECTRICAL HUM)</font>
+
+1222
+01:34:34,837 --> 01:34:37,465
+Drop down into the computer array,
+and I'll catch you,
+
+1223
+01:34:37,548 --> 01:34:40,843
+Then move you along the relay room
+and you jack into the panel.
+
+1224
+01:34:40,927 --> 01:34:42,929
+<font color="#D900D9">(HUM STOPS)</font>
+<font color="#D900D9">(SUIT CLATTERS)</font>
+
+1225
+01:34:44,555 --> 01:34:47,141
+Okay, so we enter the party
+separately as guests.
+
+1226
+01:34:47,225 --> 01:34:49,018
+Ethan quarterbacks while Jane...
+
+1227
+01:34:49,102 --> 01:34:50,603
+Gets the codes from the billionaire.
+
+1228
+01:34:50,686 --> 01:34:52,730
+I switch off the fan,
+you jump into the computer array,
+
+1229
+01:34:52,814 --> 01:34:54,857
+and I catch you,
+you plug in the transmitter
+
+1230
+01:34:54,941 --> 01:34:58,611
+then Ethan feeds me the codes which I
+then use to pinpoint Hendricks' location.
+
+1231
+01:34:58,694 --> 01:35:01,864
+Okay, but you just breezed over
+something I think is really important.
+
+1232
+01:35:01,948 --> 01:35:04,784
+The computer array part, where I just...
+
+1233
+01:35:05,827 --> 01:35:06,869
+Jump?
+
+1234
+01:35:07,703 --> 01:35:09,330
+- And I catch you.
+- Yeah.
+
+1235
+01:35:09,414 --> 01:35:11,165
+I don't... Why is that so hard to grasp?
+
+1236
+01:35:11,833 --> 01:35:12,875
+Well...
+
+1237
+01:35:12,959 --> 01:35:17,672
+Why? It's a 25-foot drop.
+And we're using magnets.
+
+1238
+01:35:17,755 --> 01:35:19,090
+Yeah.
+
+1239
+01:35:19,841 --> 01:35:22,927
+In light of our recent efforts,
+the technology's...
+
+1240
+01:35:23,010 --> 01:35:24,971
+The science is sound. All right?
+
+1241
+01:35:25,054 --> 01:35:26,681
+I'd be more worried about the heat.
+
+1242
+01:35:27,974 --> 01:35:30,101
+And then there's that. What heat?
+
+1243
+01:35:30,893 --> 01:35:32,103
+Well, it's like any computer, isn't it?
+
+1244
+01:35:32,186 --> 01:35:35,189
+If you switch off the fan,
+it's gonna get really hot!
+
+1245
+01:35:35,273 --> 01:35:36,357
+<font color="#D900D9">(CHUCKLES)</font> Of course.
+
+1246
+01:35:36,441 --> 01:35:38,067
+Relatively, you know.
+
+1247
+01:35:39,569 --> 01:35:43,072
+Of course it will. So I'm jumping into a...
+
+1248
+01:35:44,490 --> 01:35:47,452
+Uh, an oven, essentially.
+
+1249
+01:35:48,077 --> 01:35:49,745
+Yeah. Essentially.
+
+1250
+01:35:50,079 --> 01:35:52,248
+But, um, I'll catch you.
+
+1251
+01:35:54,125 --> 01:35:55,293
+Great.
+
+1252
+01:36:23,988 --> 01:36:26,491
+<i>Aapka swagat hai, sir. Welcome, sir.</i>
+
+1253
+01:36:48,513 --> 01:36:50,515
+<font color="#D900D9">(LIVELY CHATTER)</font>
+
+1254
+01:37:18,167 --> 01:37:19,544
+Comm check.
+
+1255
+01:37:20,211 --> 01:37:22,922
+Saturn's got your five-by-five, Jupiter.
+
+1256
+01:37:24,549 --> 01:37:26,050
+This is Pluto.
+
+1257
+01:37:28,219 --> 01:37:30,304
+I have arrived at the party.
+
+1258
+01:37:30,846 --> 01:37:32,181
+<font color="#D900D9">(LAUGHTER)</font>
+
+1259
+01:37:33,724 --> 01:37:34,809
+There he is.
+
+1260
+01:37:40,898 --> 01:37:42,650
+<font color="#D900D9">(TAKES DEEP BREATH)</font>
+
+1261
+01:37:46,946 --> 01:37:48,573
+Get us that code.
+
+1262
+01:37:57,248 --> 01:37:59,041
+Venus moving in on target.
+
+1263
+01:38:10,886 --> 01:38:12,221
+Hook's in.
+
+1264
+01:38:14,265 --> 01:38:16,267
+You do make an impression.
+
+1265
+01:38:18,102 --> 01:38:19,562
+<font color="#D900D9">(WHIRRING)</font>
+
+1266
+01:38:20,187 --> 01:38:21,230
+Why am I Pluto?
+
+1267
+01:38:21,355 --> 01:38:23,190
+<i>It's not even a planet any more.</i>
+
+1268
+01:38:23,274 --> 01:38:25,026
+Well, I think Uranus is available.
+
+1269
+01:38:25,109 --> 01:38:27,403
+<font color="#D900D9">(LAUGHS SARCASTICALLY)</font>
+It's funny 'cause you said "anus."
+
+1270
+01:38:34,619 --> 01:38:35,703
+<font color="#D900D9">(GRUNTS)</font>
+
+1271
+01:38:41,792 --> 01:38:42,835
+I'm in position.
+
+1272
+01:38:43,377 --> 01:38:45,171
+Sending in the Rover.
+
+1273
+01:38:49,800 --> 01:38:51,010
+He's moving to you.
+
+1274
+01:38:51,093 --> 01:38:52,803
+<i>Give him your back.</i>
+
+1275
+01:38:53,679 --> 01:38:55,306
+<i>Don't want to make it too easy for him.</i>
+
+1276
+01:38:55,389 --> 01:38:56,891
+Are you gonna be talking
+the whole time?
+
+1277
+01:38:58,059 --> 01:39:01,437
+In 20 minutes, I want a glass of
+Cuvée Louis in every guest's hand.
+
+1278
+01:39:01,520 --> 01:39:04,523
+And make sure all of them have a bottle
+to take home by the end of the night.
+
+1279
+01:39:04,607 --> 01:39:05,691
+Sure.
+
+1280
+01:39:09,320 --> 01:39:10,529
+Impressed yet?
+
+1281
+01:39:11,822 --> 01:39:13,366
+I'm more of a bourbon girl.
+
+1282
+01:39:19,538 --> 01:39:20,665
+I'm Brij Nath.
+
+1283
+01:39:21,165 --> 01:39:23,209
+Welcome to my humble home.
+
+1284
+01:39:24,669 --> 01:39:26,754
+<font color="#D900D9">(CELL PHONE RINGS)</font>
+
+1285
+01:39:30,174 --> 01:39:31,467
+<font color="#D900D9">(SIGHS)</font>
+
+1286
+01:39:41,060 --> 01:39:42,603
+<font color="#D900D9">(LOUD WHIRRING)</font>
+
+1287
+01:39:45,773 --> 01:39:47,358
+<font color="#808080">BENJI ON RADIO:</font>
+<i>And Rover's in position.</i>
+
+1288
+01:39:48,693 --> 01:39:49,902
+Spinning down the turbine.
+
+1289
+01:39:49,985 --> 01:39:51,696
+<font color="#D900D9">(MOTOR WINDS DOWN)</font>
+
+1290
+01:39:56,951 --> 01:39:57,993
+<font color="#D900D9">(SIGHS)</font>
+
+1291
+01:39:58,077 --> 01:39:59,120
+<font color="#808080">ETHAN:</font> <i>He's e-mailing.</i>
+
+1292
+01:39:59,787 --> 01:40:01,288
+Venus. Be Venus.
+
+1293
+01:40:01,372 --> 01:40:02,707
+<i>Be Venus.</i>
+
+1294
+01:40:11,006 --> 01:40:12,216
+Husband?
+
+1295
+01:40:12,883 --> 01:40:13,926
+Boyfriend?
+
+1296
+01:40:14,927 --> 01:40:16,262
+More of a
+
+1297
+01:40:17,179 --> 01:40:18,222
+co-worker.
+
+1298
+01:40:19,014 --> 01:40:21,016
+Saturn, take the leap.
+
+1299
+01:40:21,809 --> 01:40:23,144
+<font color="#D900D9">(BREATH ES DEEPLY)</font>
+
+1300
+01:40:25,604 --> 01:40:27,898
+Okay. <font color="#D900D9">(CLEARS THROAT)</font>
+
+1301
+01:40:30,276 --> 01:40:32,153
+<font color="#D900D9">(EXHALES)</font> Jumping.
+
+1302
+01:40:32,236 --> 01:40:34,155
+Jumping now. <font color="#D900D9">(GRUNTS)</font>
+
+1303
+01:40:36,240 --> 01:40:37,283
+Jump now?
+
+1304
+01:40:37,366 --> 01:40:39,410
+Yes. Commit. Jump.
+
+1305
+01:40:39,702 --> 01:40:41,370
+<font color="#808080">BRANDT:</font> - Jump.
+- Jump.
+
+1306
+01:40:41,454 --> 01:40:43,372
+- And I catch you.
+- Now.
+
+1307
+01:40:46,917 --> 01:40:50,045
+So, you're sure
+about this suit, right, Benji?
+
+1308
+01:40:50,129 --> 01:40:51,172
+Pretty sure.
+
+1309
+01:40:51,922 --> 01:40:54,717
+<font color="#D900D9">(LAUGHS NERVOUSLY)</font>
+Now you're pretty sure?
+
+1310
+01:40:55,801 --> 01:40:56,844
+Jump.
+
+1311
+01:40:57,928 --> 01:41:00,097
+<font color="#D900D9">(EXHALES)</font> Oh, God. All right.
+
+1312
+01:41:01,098 --> 01:41:02,725
+- Jump, <font color="#D900D9">(GROANS)</font>
+
+1313
+01:41:03,517 --> 01:41:04,560
+Jump!
+
+1314
+01:41:04,685 --> 01:41:06,353
+<font color="#D900D9">(SCREAMS)</font>
+
+1315
+01:41:07,062 --> 01:41:08,397
+<font color="#D900D9">(CRUNCHING)</font>
+- Ow!
+
+1316
+01:41:08,689 --> 01:41:10,316
+<font color="#D900D9">(PEOPLE APPLAUDING)</font>
+
+1317
+01:41:14,779 --> 01:41:16,447
+<font color="#D900D9">(DANCE MUSIC PLAYING)</font>
+
+1318
+01:41:22,661 --> 01:41:25,164
+<font color="#808080">JANE ON RADIO:</font> <i>Jupiter, he's gone.</i>
+
+1319
+01:41:29,627 --> 01:41:30,669
+Did you jump?
+
+1320
+01:41:30,753 --> 01:41:32,630
+Should I not have jumped?
+
+1321
+01:41:33,631 --> 01:41:34,673
+Cause I jumped!
+
+1322
+01:41:36,926 --> 01:41:38,219
+Stand by.
+
+1323
+01:41:46,227 --> 01:41:47,728
+I'm playing a hunch.
+
+1324
+01:41:48,813 --> 01:41:50,272
+Don't hit me.
+
+1325
+01:42:01,158 --> 01:42:02,618
+<font color="#D900D9">(CELL PHONE RINGS)</font>
+
+1326
+01:42:07,665 --> 01:42:08,707
+Hello?
+
+1327
+01:42:08,791 --> 01:42:10,543
+My God, you are
+
+1328
+01:42:10,626 --> 01:42:12,753
+<i>a passionate creature.</i>
+
+1329
+01:42:14,672 --> 01:42:17,633
+I would like to show you
+my collection of art.
+
+1330
+01:42:18,300 --> 01:42:20,135
+I was waiting for you to ask.
+
+1331
+01:42:20,219 --> 01:42:21,971
+Then you have to find me.
+
+1332
+01:42:22,054 --> 01:42:23,264
+You're on.
+
+1333
+01:42:23,347 --> 01:42:25,516
+<font color="#808080">ETHAN:</font> I'm heading upstairs.
+
+1334
+01:42:43,325 --> 01:42:44,827
+<font color="#808080">BENJI ON RADIO:</font>
+<i>All right, now be careful,</i>
+
+1335
+01:42:44,910 --> 01:42:47,121
+<i>because it's probably getting a bit hot.</i>
+<font color="#D900D9">(EXHALES)</font>
+
+1336
+01:42:47,204 --> 01:42:49,582
+<i>We have to get to that satellite
+before Hendricks does.</i>
+
+1337
+01:43:04,555 --> 01:43:07,308
+<font color="#808080">BRIJ ON PHONE:</font>
+<i>Look left. Look up.</i>
+
+1338
+01:43:07,391 --> 01:43:10,060
+<i>I find your capricious passion intriguing.</i>
+
+1339
+01:43:11,395 --> 01:43:13,564
+<i>Let me tell you one thing.
+He's not your type.</i>
+
+1340
+01:43:13,647 --> 01:43:16,901
+<i>Completely not your type.
+He's completely cold. I'm hot.</i>
+
+1341
+01:43:18,986 --> 01:43:21,363
+<i>Like all Indian men, I'm very hot.</i>
+
+1342
+01:43:21,447 --> 01:43:22,489
+Eight o'clock.
+
+1343
+01:43:22,573 --> 01:43:23,616
+<font color="#808080">BRIJ:</font> <i>Hot! Very hot.</i>
+
+1344
+01:43:23,699 --> 01:43:25,492
+He's at your eight o'clock.
+
+1345
+01:43:25,576 --> 01:43:27,912
+<font color="#808080">BRIJ:</font> <i>As you move towards me,
+you're getting hotter.</i>
+
+1346
+01:43:28,913 --> 01:43:31,832
+Whoa. Ow! Ah! Up, up! Up, up!
+
+1347
+01:43:31,916 --> 01:43:34,376
+Ah! Too much, too much, too much!
+
+1348
+01:43:38,923 --> 01:43:40,257
+I see you.
+
+1349
+01:43:41,967 --> 01:43:45,512
+I'd heard you have one of the finest
+private collections in the world.
+
+1350
+01:43:45,596 --> 01:43:48,182
+Well, at the very least, it's private.
+
+1351
+01:43:57,274 --> 01:43:58,525
+<font color="#D900D9">(EXHALES)</font>
+
+1352
+01:44:07,284 --> 01:44:09,244
+Saturn? How we doing
+in the relay room?
+
+1353
+01:44:09,328 --> 01:44:10,371
+In position.
+
+1354
+01:44:12,706 --> 01:44:14,041
+I see the satellite.
+
+1355
+01:44:20,839 --> 01:44:22,091
+Can I help you, gentlemen?
+
+1356
+01:44:22,174 --> 01:44:23,759
+I don't think so.
+
+1357
+01:44:23,884 --> 01:44:25,552
+<font color="#D900D9">(SILENCED GUNSHOTS)</font>
+
+1358
+01:44:28,639 --> 01:44:30,057
+<font color="#D900D9">(PANTS)</font>
+
+1359
+01:44:30,140 --> 01:44:31,642
+Need those codes, guys.
+
+1360
+01:44:40,526 --> 01:44:43,529
+All originals from Chhatarpur District.
+
+1361
+01:44:46,865 --> 01:44:49,076
+You know, the Tantrics believe
+
+1362
+01:44:50,661 --> 01:44:55,416
+that the <i>Swadhisthana</i> chakra hides
+our most subconscious of desires.
+
+1363
+01:44:55,499 --> 01:44:56,709
+<font color="#D900D9">(GROANS)</font>
+
+1364
+01:45:15,561 --> 01:45:16,645
+Mmm.
+
+1365
+01:45:47,384 --> 01:45:51,305
+Uplink to satellite.
+Reboot to original military specs.
+
+1366
+01:45:51,638 --> 01:45:53,390
+Download the virus.
+
+1367
+01:45:56,685 --> 01:45:58,062
+<font color="#D900D9">(LOUD WHIRRING)</font>
+
+1368
+01:46:01,231 --> 01:46:02,524
+What the hell is that?
+
+1369
+01:46:04,401 --> 01:46:05,486
+What the hell is that?
+
+1370
+01:46:05,569 --> 01:46:06,653
+What the hell is what?
+
+1371
+01:46:06,737 --> 01:46:07,988
+It's going haywire!
+
+1372
+01:46:08,072 --> 01:46:09,990
+It's downloaded a virus
+from the satellite.
+
+1373
+01:46:10,074 --> 01:46:11,283
+Hendricks is killing the server
+
+1374
+01:46:11,366 --> 01:46:12,993
+<i>before we can kill the satellite.</i>
+
+1375
+01:46:13,077 --> 01:46:15,162
+Hendricks is reprogramming
+the satellite.
+
+1376
+01:46:15,245 --> 01:46:18,332
+<i>He's gonna have launch
+capability in five minutes!</i>
+
+1377
+01:46:18,415 --> 01:46:20,375
+- Something wrong?
+- No.
+
+1378
+01:46:21,043 --> 01:46:23,212
+Jane, you gotta move.
+We need that code.
+
+1379
+01:46:23,295 --> 01:46:25,172
+Finally we're alone.
+
+1380
+01:46:28,759 --> 01:46:29,885
+<font color="#D900D9">(HUMMING)</font>
+
+1381
+01:46:32,930 --> 01:46:35,349
+Venus, now's the time. Kick his ass
+
+1382
+01:46:35,432 --> 01:46:37,101
+<i>and get the code.</i>
+
+1383
+01:46:37,434 --> 01:46:40,604
+We are alone, aren't we?
+
+1384
+01:46:41,271 --> 01:46:43,941
+No one will interrupt us.
+
+1385
+01:46:48,278 --> 01:46:49,947
+Move and I break your neck.
+
+1386
+01:46:50,030 --> 01:46:52,616
+The override sequence
+for the relay station.
+
+1387
+01:46:52,699 --> 01:46:54,993
+Say it now or never speak again.
+
+1388
+01:46:55,452 --> 01:46:57,204
+<font color="#D900D9">(GROANS)</font>
+- The codes.
+
+1389
+01:46:58,455 --> 01:47:00,749
+<font color="#808080">BRIJ ON RADIO:</font> <i>46, 82,</i>
+
+1390
+01:47:01,625 --> 01:47:03,127
+<i>93.</i>
+
+1391
+01:47:03,627 --> 01:47:05,462
+<font color="#D900D9">(WHIRRING STOPS)</font>
+
+1392
+01:47:06,004 --> 01:47:07,047
+Benji, what happened?
+
+1393
+01:47:07,131 --> 01:47:08,882
+The system's crashed! We're too late.
+
+1394
+01:47:08,966 --> 01:47:10,592
+<font color="#808080">ETHAN:</font> <i>No, no, no.
+He's revealed himself.</i>
+
+1395
+01:47:10,676 --> 01:47:12,302
+Benji, can you pinpoint
+Hendricks' location?
+
+1396
+01:47:13,512 --> 01:47:15,556
+Uh, Hendricks is signaling
+out of a state-run.
+
+1397
+01:47:15,639 --> 01:47:17,516
+<i>TV station 6.7 miles from here.</i>
+
+1398
+01:47:17,599 --> 01:47:18,642
+Send me the coordinates.
+
+1399
+01:47:18,725 --> 01:47:20,394
+Good work, Brandt.
+Now get the hell out of there.
+
+1400
+01:47:20,477 --> 01:47:21,562
+Back me up!
+
+1401
+01:47:21,645 --> 01:47:23,730
+Jane, tie it off with Nath
+and meet me at the rally point.
+
+1402
+01:47:28,485 --> 01:47:29,570
+<font color="#D900D9">(GROANS)</font>
+<font color="#D900D9">(SPEAKING HINDI)</font>
+
+1403
+01:47:29,653 --> 01:47:30,737
+Sleep tight.
+
+1404
+01:47:31,989 --> 01:47:33,866
+Faster, Benji! Just straight through!
+
+1405
+01:47:36,660 --> 01:47:37,911
+<font color="#D900D9">(GROANS)</font>
+
+1406
+01:47:37,995 --> 01:47:39,371
+Wait! Stop!
+
+1407
+01:47:39,454 --> 01:47:40,956
+<font color="#808080">BRANDT:</font> <i>Take me through!</i>
+
+1408
+01:47:41,039 --> 01:47:44,042
+<font color="#808080">BENJI:</font> <i>It's not responding! A little bit of
+patience would be appreciated!</i>
+
+1409
+01:47:59,725 --> 01:48:01,602
+I can't reach the top!
+
+1410
+01:48:03,520 --> 01:48:05,397
+More fan! More fan!
+
+1411
+01:48:05,480 --> 01:48:06,857
+<i>More fan!</i>
+
+1412
+01:48:06,940 --> 01:48:08,817
+There's nothing I can do! It's maxed out!
+
+1413
+01:48:08,901 --> 01:48:10,277
+<font color="#D900D9">(BEEPING)</font>
+
+1414
+01:48:25,083 --> 01:48:26,126
+<font color="#D900D9">(GROANS)</font>
+
+1415
+01:48:26,210 --> 01:48:27,419
+<font color="#808080">BENJI:</font> <i>Brandt?</i>
+
+1416
+01:48:27,502 --> 01:48:28,712
+<i>Brandt?</i>
+
+1417
+01:48:30,255 --> 01:48:33,592
+Next time, I get to seduce the rich guy.
+
+1418
+01:48:44,436 --> 01:48:46,647
+Satellite weaponized and online.
+
+1419
+01:48:46,772 --> 01:48:49,107
+Upload the new authentication codes.
+
+1420
+01:48:49,191 --> 01:48:51,151
+Lock Russian Central Command
+out of the system.
+
+1421
+01:48:51,610 --> 01:48:52,986
+Isolate the sub.
+
+1422
+01:48:53,111 --> 01:48:57,783
+We'll fire just one missile,
+an apparent retaliation for the Kremlin.
+
+1423
+01:48:58,283 --> 01:49:00,035
+That should start the ball rolling.
+
+1424
+01:49:00,118 --> 01:49:01,203
+<font color="#808080">BENJI:</font> <i>I'm here, Ethan.</i>
+
+1425
+01:49:01,286 --> 01:49:03,372
+How long until Hendricks
+can launch a missile?
+
+1426
+01:49:04,790 --> 01:49:05,791
+Less than 30 seconds!
+
+1427
+01:49:07,459 --> 01:49:09,336
+We need another route.
+
+1428
+01:49:10,462 --> 01:49:12,089
+Turn left up ahead,
+take the alley on the right.
+
+1429
+01:49:12,172 --> 01:49:14,174
+<font color="#D900D9">(TIRES SCREECH)</font>
+<font color="#D900D9">(ENGINE REVS)</font>
+
+1430
+01:49:27,354 --> 01:49:28,480
+We have uplink.
+
+1431
+01:49:39,074 --> 01:49:41,660
+Ethan, Hendricks
+has started the launch sequence.
+
+1432
+01:49:41,743 --> 01:49:43,412
+How much time until missiles are flying?
+
+1433
+01:49:43,495 --> 01:49:44,746
+<i>Three minutes!</i>
+
+1434
+01:49:46,373 --> 01:49:47,749
+<font color="#D900D9">(GASPS)</font>
+<font color="#D900D9">(MEN SHOUT)</font>
+
+1435
+01:49:48,500 --> 01:49:50,002
+We're three and a half minutes out.
+
+1436
+01:49:53,505 --> 01:49:54,506
+We can make it.
+
+1437
+01:49:56,341 --> 01:49:57,342
+We can make it.
+
+1438
+01:50:02,180 --> 01:50:03,807
+<font color="#D900D9">(RADIO CHATTER)</font>
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+1439
+01:50:03,890 --> 01:50:04,933
+Captain...
+
+1440
+01:50:09,688 --> 01:50:12,190
+Connect to Central Command
+for launch verification.
+
+1441
+01:50:12,274 --> 01:50:13,358
+Right away.
+
+1442
+01:50:14,026 --> 01:50:15,068
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+1443
+01:50:15,193 --> 01:50:17,863
+Proceed with Operation "Iron Fist".
+
+1444
+01:50:18,030 --> 01:50:19,865
+<i>Command to Launch is confirmed.</i>
+
+1445
+01:50:20,198 --> 01:50:22,200
+Cease all further communication.
+
+1446
+01:50:22,367 --> 01:50:23,410
+<i>Over and out.</i>
+
+1447
+01:50:25,746 --> 01:50:26,913
+<font color="#808080">JANE:</font> Next left.
+
+1448
+01:50:27,039 --> 01:50:28,290
+<font color="#D900D9">(TIRES SCREECH)</font>
+
+1449
+01:50:30,876 --> 01:50:32,419
+<font color="#D900D9">(TIRES SCREECH)</font>
+
+1450
+01:50:39,259 --> 01:50:40,344
+<font color="#D900D9">(SPEAKING IN RUSSIAN)</font>
+
+1451
+01:50:40,427 --> 01:50:41,470
+Proceed.
+
+1452
+01:50:44,890 --> 01:50:45,974
+<font color="#D900D9">(SIGHS)</font>
+
+1453
+01:51:02,741 --> 01:51:04,951
+Ethan? We're too late.
+
+1454
+01:51:05,077 --> 01:51:07,079
+<i>The missile's in the air.</i>
+
+1455
+01:51:17,589 --> 01:51:19,091
+<font color="#D900D9">(ENGINE REVVING)</font>
+
+1456
+01:51:19,424 --> 01:51:21,176
+There has to be a way
+to abort the warhead.
+
+1457
+01:51:21,259 --> 01:51:23,011
+If there is one,
+it'll be on the launch device.
+
+1458
+01:51:23,095 --> 01:51:24,471
+We're gonna get that case.
+
+1459
+01:51:33,271 --> 01:51:34,606
+<font color="#D900D9">(EXHALES)</font>
+
+1460
+01:51:35,148 --> 01:51:37,776
+May there be peace on Earth.
+
+1461
+01:51:38,777 --> 01:51:40,445
+<font color="#D900D9">(CAR APPROACHES)</font>
+
+1462
+01:51:42,781 --> 01:51:44,366
+Disable the relay.
+
+1463
+01:51:45,784 --> 01:51:47,828
+Get Wistrom! Inside, inside!
+
+1464
+01:52:17,566 --> 01:52:18,733
+<font color="#D900D9">(GROANS)</font>
+
+1465
+01:52:18,817 --> 01:52:19,985
+<font color="#D900D9">(RUSTLING)</font>
+
+1466
+01:52:22,320 --> 01:52:24,197
+Wistrom destroyed the relay.
+
+1467
+01:52:24,322 --> 01:52:25,490
+Ethan went after Hendricks
+and the case, but...
+
+1468
+01:52:25,574 --> 01:52:27,826
+Doesn't matter if he has the case.
+We can't transmit the abort codes.
+
+1469
+01:52:28,034 --> 01:52:29,077
+Can you fix it?
+
+1470
+01:52:29,161 --> 01:52:31,872
+Uh, yeah... It's gonna be pointless
+if we don't have any power.
+
+1471
+01:52:31,997 --> 01:52:32,998
+Wistrom!
+
+1472
+01:52:33,874 --> 01:52:34,958
+<font color="#D900D9">(JANE GROANS)</font>
+
+1473
+01:52:35,041 --> 01:52:36,710
+- Jane!
+- I'm okay.
+
+1474
+01:52:38,503 --> 01:52:40,755
+No, you are not okay. She's hit.
+
+1475
+01:52:41,173 --> 01:52:42,757
+You stay here and cover Benji.
+
+1476
+01:52:42,841 --> 01:52:45,844
+Benji, get this thing rewired
+and back online. I'll get the power on.
+
+1477
+01:52:45,927 --> 01:52:47,512
+We can do this.
+
+1478
+01:52:59,024 --> 01:53:01,193
+<font color="#D900D9">(HELICOPTER WHIRRING)</font>
+
+1479
+01:53:13,538 --> 01:53:14,706
+<font color="#D900D9">(HORNS HONKING)</font>
+
+1480
+01:53:39,397 --> 01:53:40,732
+<font color="#D900D9">(BOTH PANTING)</font>
+
+1481
+01:53:57,082 --> 01:53:58,917
+<font color="#D900D9">(CLANGING)</font>
+<font color="#D900D9">(GROANS)</font>
+
+1482
+01:54:10,845 --> 01:54:11,930
+Ow!
+
+1483
+01:54:32,951 --> 01:54:34,035
+Ow!
+
+1484
+01:54:36,288 --> 01:54:37,455
+<font color="#D900D9">(GROANS)</font>
+
+1485
+01:55:24,544 --> 01:55:25,587
+<font color="#D900D9">(PANTS)</font>
+
+1486
+01:55:25,670 --> 01:55:26,755
+<font color="#D900D9">(GROANS)</font>
+
+1487
+01:56:01,873 --> 01:56:04,709
+I'm taking that briefcase!
+
+1488
+01:56:08,213 --> 01:56:09,714
+No! No!
+
+1489
+01:56:15,095 --> 01:56:16,596
+<font color="#D900D9">(PANTING)</font>
+
+1490
+01:56:35,740 --> 01:56:37,158
+<font color="#D900D9">(ENGINE STARTS)</font>
+
+1491
+01:56:55,844 --> 01:56:56,928
+<font color="#D900D9">(GROANS)</font>
+
+1492
+01:56:57,011 --> 01:56:58,471
+<font color="#808080">BENJI:</font> He's been gone too long.
+
+1493
+01:56:58,596 --> 01:57:00,014
+Damn it! Listen.
+
+1494
+01:57:00,098 --> 01:57:03,101
+When the power comes on,
+these two drives go into this bay, okay?
+
+1495
+01:57:08,815 --> 01:57:10,191
+<font color="#D900D9">(GROANS)</font>
+
+1496
+01:57:47,103 --> 01:57:49,689
+Mission accomplished!
+
+1497
+01:57:52,776 --> 01:57:54,152
+<font color="#D900D9">(STRAINING)</font>
+
+1498
+01:57:55,111 --> 01:57:56,321
+<font color="#D900D9">(GUNSHOT)</font>
+
+1499
+01:57:59,991 --> 01:58:01,159
+<font color="#D900D9">(GRUNTS)</font>
+
+1500
+01:58:09,000 --> 01:58:10,001
+<font color="#D900D9">(GRUNTS)</font>
+
+1501
+01:58:30,021 --> 01:58:31,064
+<font color="#D900D9">(MAN SHOUTS IN RUSSIAN)</font>
+
+1502
+01:58:31,189 --> 01:58:32,398
+Don't touch him!
+
+1503
+01:58:39,072 --> 01:58:40,907
+This one is mine.
+
+1504
+01:58:53,044 --> 01:58:55,880
+So, we are not enemies.
+
+1505
+01:58:57,757 --> 01:59:00,510
+The phone call
+from that arms dealer in Dubai.
+
+1506
+01:59:00,760 --> 01:59:02,387
+You wanted me to find you.
+
+1507
+01:59:06,391 --> 01:59:08,434
+How else to believe this?
+
+1508
+01:59:16,067 --> 01:59:17,193
+Hospital?
+
+1509
+01:59:19,362 --> 01:59:21,406
+<font color="#808080">WOMAN ON TV:</font>
+<i>And in other news, eight weeks later,</i>
+
+1510
+01:59:21,531 --> 01:59:23,283
+<i>the debate continues.</i>
+
+1511
+01:59:23,408 --> 01:59:27,495
+<i>Eyewitnesses remain adamant
+that the object was some sort of aircraft,</i>
+
+1512
+01:59:27,579 --> 01:59:31,416
+<i>but officials with the Department of
+Defense insist it was simply a meteor</i>
+
+1513
+01:59:31,541 --> 01:59:34,252
+<i>large enough to be
+visible during daylight.</i>
+
+1514
+01:59:34,460 --> 01:59:36,421
+You actually said that.
+
+1515
+01:59:36,754 --> 01:59:38,047
+Out loud.
+
+1516
+01:59:38,631 --> 01:59:40,049
+"Mission accomplished."
+
+1517
+01:59:40,133 --> 01:59:41,175
+I said it.
+
+1518
+01:59:41,259 --> 01:59:43,803
+You're still corny, Ethan.
+
+1519
+01:59:43,928 --> 01:59:46,764
+I can't imagine
+the look on that guy's face.
+
+1520
+01:59:48,558 --> 01:59:50,560
+- Hey.
+- This must be them.
+
+1521
+01:59:50,643 --> 01:59:53,938
+Luther Stickell,
+the firm of Carter, Dunn and Brandt.
+
+1522
+01:59:55,607 --> 01:59:59,444
+I blew an entire weekend
+on the bottom of the San Francisco Bay
+
+1523
+02:00:00,570 --> 02:00:02,488
+no thanks to you clowns.
+
+1524
+02:00:04,824 --> 02:00:06,451
+No, man, you know I got this.
+
+1525
+02:00:07,452 --> 02:00:09,913
+I know. I'll see you in Kandahar.
+
+1526
+02:00:13,666 --> 02:00:15,793
+Thanks for meeting me.
+
+1527
+02:00:15,919 --> 02:00:18,171
+So, I hear the insurance
+company's refusing
+
+1528
+02:00:18,296 --> 02:00:20,465
+to pay the claim
+on that car you crashed, Ethan.
+
+1529
+02:00:20,590 --> 02:00:24,177
+Something about intentional 100-meter
+vertical drops not being covered.
+
+1530
+02:00:24,302 --> 02:00:25,428
+Go figure.
+
+1531
+02:00:25,511 --> 02:00:26,971
+<font color="#D900D9">(ALL CHUCKLE)</font>
+
+1532
+02:00:29,015 --> 02:00:30,642
+How's the leg?
+
+1533
+02:00:30,767 --> 02:00:31,976
+Still working.
+
+1534
+02:00:32,977 --> 02:00:33,978
+You?
+
+1535
+02:00:34,354 --> 02:00:35,647
+Heaf ing.
+
+1536
+02:00:37,482 --> 02:00:38,650
+I'm fine, by the way.
+
+1537
+02:00:39,984 --> 02:00:41,653
+I mean, I'm not actually sleeping, per se.
+
+1538
+02:00:41,945 --> 02:00:44,781
+You know. Cold sweats.
+Middle of the night.
+
+1539
+02:00:46,449 --> 02:00:48,993
+All these people
+are just happy and smiling
+
+1540
+02:00:49,118 --> 02:00:50,828
+and they are completely
+oblivious to the fact
+
+1541
+02:00:50,954 --> 02:00:52,997
+that they were almost vaporized.
+
+1542
+02:00:54,123 --> 02:00:55,708
+And if it hadn't been for...
+
+1543
+02:00:55,833 --> 02:00:57,168
+Dumb luck?
+
+1544
+02:00:57,627 --> 02:00:58,711
+<font color="#808080">ETHAN:</font> Was it?
+
+1545
+02:01:00,046 --> 02:01:03,549
+I mean, look,
+we were unprepared, in the dark.
+
+1546
+02:01:04,050 --> 02:01:05,385
+Disavowed.
+
+1547
+02:01:06,636 --> 02:01:08,388
+And the only thing
+that functioned properly
+
+1548
+02:01:09,347 --> 02:01:10,848
+on that mission
+
+1549
+02:01:11,849 --> 02:01:13,351
+was this team.
+
+1550
+02:01:15,353 --> 02:01:18,022
+I don't know how we ended up together,
+
+1551
+02:01:19,732 --> 02:01:21,192
+but I'm glad we did.
+
+1552
+02:01:28,700 --> 02:01:29,867
+Your missions.
+
+1553
+02:01:30,827 --> 02:01:32,704
+Choose to accept them.
+
+1554
+02:01:38,209 --> 02:01:39,877
+Hey, look, I'm in.
+
+1555
+02:01:40,253 --> 02:01:41,838
+Seriously. It's not as if any mission
+
+1556
+02:01:41,921 --> 02:01:44,048
+is gonna be rougher
+than the last one, is it?
+
+1557
+02:01:44,173 --> 02:01:46,759
+<font color="#D900D9">(GIGGLES)</font> I mean, that's just...
+
+1558
+02:01:46,884 --> 02:01:48,511
+Bomb... Is it?
+
+1559
+02:01:49,387 --> 02:01:50,763
+<font color="#D900D9">(ALL LAUGH)</font>
+
+1560
+02:02:06,904 --> 02:02:08,239
+Thanks, Ethan.
+
+1561
+02:02:08,531 --> 02:02:09,741
+Thank you.
+
+1562
+02:02:11,617 --> 02:02:12,660
+Agent Hunt.
+
+1563
+02:02:12,744 --> 02:02:14,120
+Agent Carter.
+
+1564
+02:02:22,754 --> 02:02:23,755
+Brandt.
+
+1565
+02:02:27,425 --> 02:02:28,968
+I'm not picking up that phone, Ethan,
+
+1566
+02:02:29,093 --> 02:02:31,637
+because I don't think
+you want me in the field.
+
+1567
+02:02:34,599 --> 02:02:36,601
+I know your wife is dead.
+
+1568
+02:02:38,770 --> 02:02:40,938
+I was there in Croatia.
+
+1569
+02:02:42,732 --> 02:02:44,150
+I was there for one reason.
+
+1570
+02:02:44,275 --> 02:02:45,443
+One.
+
+1571
+02:02:46,235 --> 02:02:47,653
+And I failed.
+
+1572
+02:02:52,241 --> 02:02:53,785
+It was my job to protect her.
+
+1573
+02:02:54,494 --> 02:02:55,953
+How do you know she's dead?
+
+1574
+02:02:59,332 --> 02:03:00,458
+There was a body.
+
+1575
+02:03:00,917 --> 02:03:02,126
+Did you see it?
+
+1576
+02:03:05,797 --> 02:03:07,840
+You killed those Serbians.
+
+1577
+02:03:07,965 --> 02:03:09,008
+I had to get her back.
+
+1578
+02:03:09,133 --> 02:03:10,635
+You were sent to Rankow Prison.
+
+1579
+02:03:10,760 --> 02:03:12,512
+That was a sacrifice
+I was willing to make.
+
+1580
+02:03:12,637 --> 02:03:15,431
+IMF suspected Hendricks
+had people in Rankow.
+
+1581
+02:03:18,142 --> 02:03:20,812
+And six dead Serbians
+was the ideal cover.
+
+1582
+02:03:22,647 --> 02:03:24,482
+Waste not, want not.
+
+1583
+02:03:32,156 --> 02:03:33,574
+<font color="#D900D9">(SIGHS)</font>
+
+1584
+02:03:33,658 --> 02:03:34,992
+<font color="#D900D9">(CHUCKLES)</font>
+
+1585
+02:03:41,499 --> 02:03:43,626
+The Secretary never told me.
+
+1586
+02:03:46,879 --> 02:03:50,716
+I accepted the Rankow Prison mission
+on one condition:
+
+1587
+02:03:50,842 --> 02:03:53,010
+That no one could know
+she was still alive.
+
+1588
+02:03:54,637 --> 02:03:56,889
+But you're telling me.
+
+1589
+02:03:58,683 --> 02:04:00,017
+<font color="#D900D9">(CHUCKLES)</font>
+
+1590
+02:04:05,022 --> 02:04:07,525
+When did you find out
+that I was in Croatia?
+
+1591
+02:04:08,192 --> 02:04:10,194
+I pulled your file after India.
+
+1592
+02:04:11,028 --> 02:04:12,238
+Right.
+
+1593
+02:04:14,198 --> 02:04:16,742
+So you had to fake your wife's death.
+
+1594
+02:04:17,577 --> 02:04:20,997
+As long as we were together,
+she could never be safe.
+
+1595
+02:04:21,914 --> 02:04:24,709
+It wasn't your job to protect her, Brandt.
+
+1596
+02:04:27,211 --> 02:04:28,504
+It's mine.
+
+1597
+02:04:30,715 --> 02:04:31,757
+Okay.
+
+1598
+02:04:35,720 --> 02:04:37,054
+So we're good.
+
+1599
+02:04:38,347 --> 02:04:39,724
+We're good.
+
+1600
+02:04:56,908 --> 02:04:58,242
+<font color="#D900D9">(COINS CLATTERING)</font>
+
+1601
+02:05:39,450 --> 02:05:41,160
+<font color="#808080">MAN:</font> Come on! <font color="#D900D9">(TSKS)</font>
+
+1602
+02:06:01,138 --> 02:06:02,223
+<font color="#808080">MAN ON HEADPHONES:</font>
+<i>Good evening, Mr. Hunt.</i>
+
+1603
+02:06:02,306 --> 02:06:06,686
+<i>36 hours ago, there was a breach
+in our military's communication network.</i>
+
+1604
+02:06:06,811 --> 02:06:10,189
+<i>Now, an emerging terror
+organization known as The Syndicate</i>
+
+1605
+02:06:10,314 --> 02:06:13,985
+<i>has control of our entire drone fleet.
+Their targets: Unknown.</i>
+
+1606
+02:06:14,277 --> 02:06:16,988
+<i>Your mission,
+should you choose to accept it...</i>

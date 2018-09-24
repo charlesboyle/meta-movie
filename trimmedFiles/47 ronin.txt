@@ -1,0 +1,944 @@
+﻿<b><font color="#ffff00">narrator: <i>ancient feudal japan,
+a land shrouded in mystery,</i></font></b>
+<b><font color="#ffff00"><i>forbidden to foreigners.</i></font></b>
+<b><font color="#ffff00"><i>a group of magical islands
+home to witches and demons.</i></font></b>
+<b><font color="#ffff00"><i>a nation of rival provinces</i></font></b>
+<b><font color="#ffff00"><i>whose lords were ruled by a
+shogun whose will is absolute.</i></font></b>
+<b><font color="#ffff00"><i>peace in the realm is
+kept by the samurai,</i></font></b>
+<b><font color="#ffff00"><i>master swordsmen</i></font></b>
+<b><font color="#ffff00"><i>tasked with protecting their lord</i></font></b>
+<b><font color="#ffff00"><i>and their province at all costs.</i></font></b>
+<b><font color="#ffff00"><i>should a samurai ever
+lose or fail his master,</i></font></b>
+<b><font color="#ffff00"><i>he suffers the greatest shame
+in all japanese society.</i></font></b>
+<b><font color="#ffff00"><i>he becomes a ronin.</i></font></b>
+<b><font color="#ffff00"><i>and yet, to know the
+story of the 47 ronin,</i></font></b>
+<b><font color="#ffff00"><i>is to know the story of all japan.</i></font></b>
+<b><font color="#ffff00"><i>it began with a boy.</i></font></b>
+<b><font color="#ffff00"><i>no one knew where he came from
+or how he found his way to ako.</i></font></b>
+<b><font color="#ffff00"><i>some said he was a changeling,
+no better than a beast.</i></font></b>
+<b><font color="#ffff00"><i>many believed he'd been
+raised by the tengu,</i></font></b>
+<b><font color="#ffff00"><i>the demons of the forest</i></font></b>
+<b><font color="#ffff00"><i>who had taught him
+their dark powers</i></font></b>
+<b><font color="#ffff00"><i>and trained him in their
+lethal arts of killing.</i></font></b>
+<b><font color="#ffff00"><i>the evil he had fled had
+left its mark upon him.</i></font></b>
+<b><font color="#ffff00">oishi!</font></b>
+<b><font color="#ffff00">my lord, it is a demon.</font></b>
+<b><font color="#ffff00">he's a child, just like you.</font></b>
+<b><font color="#ffff00">help me pick him up, oishi.</font></b>
+<b><font color="#ffff00"><i>narrator:
+lord asano, of the province ako,</i></font></b>
+<b><font color="#ffff00"><i>saved him that day,</i></font></b>
+<b><font color="#ffff00"><i>seeing something in the
+boy that oishi did not.</i></font></b>
+<b><font color="#ffff00"><i>lord asano's daughter,
+mike, saw it too.</i></font></b>
+<b><font color="#ffff00"><i>mika's father allowed the
+boy to live amongst them,</i></font></b>
+<b><font color="#ffff00"><i>against the advice of his samurai.</i></font></b>
+<b><font color="#ffff00">look.</font></b>
+<b><font color="#ffff00">what do you see?</font></b>
+<b><font color="#ffff00">a branch?</font></b>
+<b><font color="#ffff00">no.</font></b>
+<b><font color="#ffff00">it's a deer.</font></b>
+<b><font color="#ffff00">oh.</font></b>
+<b><font color="#ffff00">it took this path.</font></b>
+<b><font color="#ffff00">you keep it, kai.</font></b>
+<b><font color="#ffff00"><i>narrator:
+the samurai believed his presence</i></font></b>
+<b><font color="#ffff00"><i>would bring misfortune
+to their land.</i></font></b>
+<b><font color="#ffff00"><i>mika only saw a gentle boy.</i></font></b>
+<b><font color="#ffff00"><i>although he lived as an outcast,</i></font></b>
+<b><font color="#ffff00"><i>kai was determined
+to repay the love</i></font></b>
+<b><font color="#ffff00">he received from
+mike and her father,</font></b>
+<b><font color="#ffff00"><i>whatever the cost.</i></font></b>
+<b><font color="#ffff00">oishi: kai.</font></b>
+<b><font color="#ffff00">well?</font></b>
+<b><font color="#ffff00">there is something wrong
+with the creature.</font></b>
+<b><font color="#ffff00">it's up there on the rise, but
+it will come down again to hunt.</font></b>
+<b><font color="#ffff00">it would be safer to set a
+trap and wait for it here.</font></b>
+<b><font color="#ffff00">it's up on the rise, lord asano.</font></b>
+<b><font color="#ffff00">(growling)</font></b>
+<b><font color="#ffff00">(roaring)</font></b>
+<b><font color="#ffff00">my lord.</font></b>
+<b><font color="#ffff00">kill it!</font></b>
+<b><font color="#ffff00">(neighing)</font></b>
+<b><font color="#ffff00">(exclaims)</font></b>
+<b><font color="#ffff00">(snarling)</font></b>
+<b><font color="#ffff00">(roaring)</font></b>
+<b><font color="#ffff00">(bellowing)</font></b>
+<b><font color="#ffff00">i would rather have been killed by
+that beast than saved by a half-breed.</font></b>
+<b><font color="#ffff00">(horses approaching)</font></b>
+<b><font color="#ffff00">samurai: yasuno!</font></b>
+<b><font color="#ffff00">ako owes you a great debt, yasuno.</font></b>
+<b><font color="#ffff00">we can finally welcome
+the shogun without fear.</font></b>
+<b><font color="#ffff00">for ako!</font></b>
+<b><font color="#ffff00">all: for ako!</font></b>
+<b><font color="#ffff00">well done.</font></b>
+<b><font color="#ffff00">(horses retreating)</font></b>
+<b><font color="#ffff00">get out.</font></b>
+<b><font color="#ffff00">get out!</font></b>
+<b><font color="#ffff00">does lord asano live?</font></b>
+<b><font color="#ffff00">yes.</font></b>
+<b><font color="#ffff00">mmm.</font></b>
+<b><font color="#ffff00">mika:
+hosting the shogun's tournament</font></b>
+<b><font color="#ffff00">is a great honor for my father.</font></b>
+<b><font color="#ffff00">everything must be perfect.</font></b>
+<b><font color="#ffff00">my lady, mika.</font></b>
+<b><font color="#ffff00">lord asano and the hunting
+party have returned.</font></b>
+<b><font color="#ffff00">they killed the beast.</font></b>
+<b><font color="#ffff00">(all murmuring)</font></b>
+<b><font color="#ffff00">father!</font></b>
+<b><font color="#ffff00">i was worried.</font></b>
+<b><font color="#ffff00">the hunt took longer than we hoped.</font></b>
+<b><font color="#ffff00">yasuno showed great courage.</font></b>
+<b><font color="#ffff00">is anyone badly hurt?</font></b>
+<b><font color="#ffff00">who are you looking for?</font></b>
+<b><font color="#ffff00">is everything prepared for
+the shogun's arrival?</font></b>
+<b><font color="#ffff00">yes, father.</font></b>
+<b><font color="#ffff00">lord asano: i want all of ako
+to share in this honor</font></b>
+<b><font color="#ffff00">of hosting our great commander.</font></b>
+<b><font color="#ffff00">mika:
+i have made special arrangements</font></b>
+<b><font color="#ffff00">for the visiting lords, as well.</font></b>
+<b><font color="#ffff00">i've ordered stands put
+up all along the route.</font></b>
+<b><font color="#ffff00">your mother would have been proud.</font></b>
+<b><font color="#ffff00">(wood striking)</font></b>
+<b><font color="#ffff00">i was worried.</font></b>
+<b><font color="#ffff00">you always worry.</font></b>
+<b><font color="#ffff00">riku: he so wants your approval.</font></b>
+<b><font color="#ffff00">chikara has been training
+every chance he gets.</font></b>
+<b><font color="#ffff00">my lady, kai has returned.</font></b>
+<b><font color="#ffff00">they told me you were hurt.</font></b>
+<b><font color="#ffff00">it's nothing, my lady.</font></b>
+<b><font color="#ffff00">your back.</font></b>
+<b><font color="#ffff00">sit down.</font></b>
+<b><font color="#ffff00">someone should have
+seen to this before.</font></b>
+<b><font color="#ffff00">thank you.</font></b>
+<b><font color="#ffff00">i saw the shame in yasuno's eyes
+when they were praising him.</font></b>
+<b><font color="#ffff00">even when you try to help
+them, they hate you.</font></b>
+<b><font color="#ffff00">your father's samurai have always
+treated me as well as can be expected.</font></b>
+<b><font color="#ffff00">and is that all you expect?</font></b>
+<b><font color="#ffff00">it's all i know.</font></b>
+<b><font color="#ffff00">it doesn't have to be, kai.</font></b>
+<b><font color="#ffff00">this is no place for you, my lady.</font></b>
+<b><font color="#ffff00">are you sending me away?</font></b>
+<b><font color="#ffff00">look at me and tell
+me you don't love me.</font></b>
+<b><font color="#ffff00">i will always love you.</font></b>
+<b><font color="#ffff00">but you have your place</font></b>
+<b><font color="#ffff00">and i have mine.</font></b>
+<b><font color="#ffff00">asano <i>takumi no kami,</i> ruler of ako.</font></b>
+<b><font color="#ffff00">his highness, shogun tokugawa,</font></b>
+<b><font color="#ffff00">lord of provinces and
+master of all japan</font></b>
+<b><font color="#ffff00">thanks you for your welcome.</font></b>
+<b><font color="#ffff00">lord asano,</font></b>
+<b><font color="#ffff00">my friend.</font></b>
+<b><font color="#ffff00">ako is magnificent,</font></b>
+<b><font color="#ffff00">as always.</font></b>
+<b><font color="#ffff00">we anticipate with pleasure
+tomorrows tournament.</font></b>
+<b><font color="#ffff00">lord asano:
+great shogun tokugawa tsunayoshi...</font></b>
+<b><font color="#ffff00">and hope the entertainment
+we have prepared</font></b>
+<b><font color="#ffff00">meets your august approval.</font></b>
+<b><font color="#ffff00">father.</font></b>
+<b><font color="#ffff00">what are you doing in my home?</font></b>
+<b><font color="#ffff00">last week at the hunt i saw a fox.</font></b>
+<b><font color="#ffff00">i didn't realize at the
+time that it was a witch.</font></b>
+<b><font color="#ffff00">a witch?</font></b>
+<b><font color="#ffff00">i believe i saw the same
+creature again tonight.</font></b>
+<b><font color="#ffff00">she was in human form among
+the nobles' concubines.</font></b>
+<b><font color="#ffff00">my lord.</font></b>
+<b><font color="#ffff00">they say only demons have the power</font></b>
+<b><font color="#ffff00">to see past a witch's disguise.</font></b>
+<b><font color="#ffff00">are you a demon?</font></b>
+<b><font color="#ffff00">no.</font></b>
+<b><font color="#ffff00">then i suggest you are simply
+bewitched by a beautiful girl.</font></b>
+<b><font color="#ffff00">adjutant: lord asano, may we
+present lord kira yoshinaka,</font></b>
+<b><font color="#ffff00">master of nagato, from
+the northern provinces.</font></b>
+<b><font color="#ffff00">ako is as beautiful as i
+remember, lord asano.</font></b>
+<b><font color="#ffff00">we are honored by your
+visit, lord kira.</font></b>
+<b><font color="#ffff00">i look forward to the tournament.</font></b>
+<b><font color="#ffff00">i had no idea your concubine
+was so lovely, lord asano.</font></b>
+<b><font color="#ffff00">she's my daughter.</font></b>
+<b><font color="#ffff00">oh.</font></b>
+<b><font color="#ffff00">forgive me, my lady.</font></b>
+<b><font color="#ffff00">may i ask that your
+daughter sit with us?</font></b>
+<b><font color="#ffff00">i should like to make
+up for my rudeness.</font></b>
+<b><font color="#ffff00">(music playing)</font></b>
+<b><font color="#ffff00">(music stops)</font></b>
+<b><font color="#ffff00">(men chanting)</font></b>
+<b><font color="#ffff00">father, who is that?</font></b>
+<b><font color="#ffff00">my fighter.</font></b>
+<b><font color="#ffff00">i'm sure your father's champion
+will be an even contest.</font></b>
+<b><font color="#ffff00">yasuno.</font></b>
+<b><font color="#ffff00">(gasping)</font></b>
+<b><font color="#ffff00">yasuno. yasuno!</font></b>
+<b><font color="#ffff00">yasuno!</font></b>
+<b><font color="#ffff00">what's wrong with him?</font></b>
+<b><font color="#ffff00">witchcraft</font></b>
+<b><font color="#ffff00">get your father.</font></b>
+<b><font color="#ffff00">there is no time.</font></b>
+<b><font color="#ffff00">if we have no fighter,</font></b>
+<b><font color="#ffff00">ako will be disgraced.</font></b>
+<b><font color="#ffff00">only a samurai can fight.</font></b>
+<b><font color="#ffff00">enough.</font></b>
+<b><font color="#ffff00">your fighter?</font></b>
+<b><font color="#ffff00">adjutant:
+champions, prepare for combat!</font></b>
+<b><font color="#ffff00">bring them steel!</font></b>
+<b><font color="#ffff00">(audience murmuring)</font></b>
+<b><font color="#ffff00">(sighs)</font></b>
+<b><font color="#ffff00">stop!</font></b>
+<b><font color="#ffff00">you are not a samurai.</font></b>
+<b><font color="#ffff00">kill it.</font></b>
+<b><font color="#ffff00">no!</font></b>
+<b><font color="#ffff00">no!</font></b>
+<b><font color="#ffff00">forgive me, my lord.</font></b>
+<b><font color="#ffff00">the fault is mine.</font></b>
+<b><font color="#ffff00">strip him of his armor.</font></b>
+<b><font color="#ffff00">beat him.</font></b>
+<b><font color="#ffff00">stop!</font></b>
+<b><font color="#ffff00">i'm sorry.</font></b>
+<b><font color="#ffff00">mika: my lord!</font></b>
+<b><font color="#ffff00">not now!</font></b>
+<b><font color="#ffff00">father, please!</font></b>
+<b><font color="#ffff00">lord asano's mind is unsettled.</font></b>
+<b><font color="#ffff00">it is time to take ako.</font></b>
+<b><font color="#ffff00">it is what you hoped for, it
+is what we have planned for.</font></b>
+<b><font color="#ffff00">what are you afraid of, my lord?</font></b>
+<b><font color="#ffff00">show me your courage.</font></b>
+<b><font color="#ffff00">give me your heart.</font></b>
+<b><font color="#ffff00">after this, there
+is no turning back.</font></b>
+<b><font color="#ffff00">you are bound to me, and i to you.</font></b>
+<b><font color="#ffff00">rivers of blood</font></b>
+<b><font color="#ffff00">and mountains of corpses</font></b>
+<b><font color="#ffff00">will not stand in our way.</font></b>
+<b><font color="#ffff00">nor the tears of widows.</font></b>
+<b><font color="#ffff00">find your envy and hatred.</font></b>
+<b><font color="#ffff00">and i will give you all you desire.</font></b>
+<b><font color="#ffff00">(blowing)</font></b>
+<b><font color="#ffff00">father.</font></b>
+<b><font color="#ffff00">mika: father!</font></b>
+<b><font color="#ffff00">(mika screaming in distance)</font></b>
+<b><font color="#ffff00">father!</font></b>
+<b><font color="#ffff00">mika.</font></b>
+<b><font color="#ffff00">father!</font></b>
+<b><font color="#ffff00">mika.</font></b>
+<b><font color="#ffff00">father!</font></b>
+<b><font color="#ffff00">(screaming echoing)</font></b>
+<b><font color="#ffff00">father!</font></b>
+<b><font color="#ffff00">help!</font></b>
+<b><font color="#ffff00">(exclaims)</font></b>
+<b><font color="#ffff00">what is this?</font></b>
+<b><font color="#ffff00">stand back!</font></b>
+<b><font color="#ffff00">my lord!</font></b>
+<b><font color="#ffff00">please!</font></b>
+<b><font color="#ffff00">father!</font></b>
+<b><font color="#ffff00">samurai:
+everyone, go back to your posts!</font></b>
+<b><font color="#ffff00">the law is clear.</font></b>
+<b><font color="#ffff00">you have struck an unarmed guest
+and have shamed your home.</font></b>
+<b><font color="#ffff00">the penalty is death.</font></b>
+<b><font color="#ffff00">because of your rank and the
+service you have done ako,</font></b>
+<b><font color="#ffff00">i will allow you to regain your
+honor and the honor of your house</font></b>
+<b><font color="#ffff00">through seppuku,</font></b>
+<b><font color="#ffff00">death by your own hand,</font></b>
+<b><font color="#ffff00">so that you may show courage
+and dignity in death</font></b>
+<b><font color="#ffff00">as you once showed in life.</font></b>
+<b><font color="#ffff00">the shogun could have had
+me hanged like a criminal.</font></b>
+<b><font color="#ffff00">instead, he has allowed me</font></b>
+<b><font color="#ffff00">to take my life with honor.</font></b>
+<b><font color="#ffff00">you were bewitched, my lord.</font></b>
+<b><font color="#ffff00">your mind was poisoned.</font></b>
+<b><font color="#ffff00">if i accept my fate,</font></b>
+<b><font color="#ffff00">no one will question the
+honor of our people</font></b>
+<b><font color="#ffff00">or punish them for my crime.</font></b>
+<b><font color="#ffff00">promise me</font></b>
+<b><font color="#ffff00">you will protect mika and
+ako from our enemies.</font></b>
+<b><font color="#ffff00">my lord.</font></b>
+<b><font color="#ffff00">i am ready, oishi.</font></b>
+<b><font color="#ffff00">and when i die,</font></b>
+<b><font color="#ffff00">i would be honored if you
+would act as my second,</font></b>
+<b><font color="#ffff00">my friend.</font></b>
+<b><font color="#ffff00">father!</font></b>
+<b><font color="#ffff00">(sobbing)</font></b>
+<b><font color="#ffff00">don't let them see you cry.</font></b>
+<b><font color="#ffff00">no.</font></b>
+<b><font color="#ffff00">yasuno: we must have revenge.</font></b>
+<b><font color="#ffff00">horibe:
+whatever the cost, it is our duty.</font></b>
+<b><font color="#ffff00">my lord, what will you have us do?</font></b>
+<b><font color="#ffff00">if we fight now, we die.</font></b>
+<b><font color="#ffff00">and not just us.</font></b>
+<b><font color="#ffff00">every farmer and villager
+in ako will be killed.</font></b>
+<b><font color="#ffff00">we have to think of them first.</font></b>
+<b><font color="#ffff00">(sniffling)</font></b>
+<b><font color="#ffff00">poison, my lady.
+it will end your pain.</font></b>
+<b><font color="#ffff00">we have not lost ako yet.</font></b>
+<b><font color="#ffff00">your highness.</font></b>
+<b><font color="#ffff00">lady asano,</font></b>
+<b><font color="#ffff00">i am sorry for your father's death.</font></b>
+<b><font color="#ffff00">he accepted it with dignity.</font></b>
+<b><font color="#ffff00">your highness, as my
+father's only child,</font></b>
+<b><font color="#ffff00">i ask that i may look after his
+lands until such time as i marry.</font></b>
+<b><font color="#ffff00">i have already considered
+this, my lady.</font></b>
+<b><font color="#ffff00">so that there will be no
+feud between your clans,</font></b>
+<b><font color="#ffff00">i decree that from this day,</font></b>
+<b><font color="#ffff00">they will be one.</font></b>
+<b><font color="#ffff00">sealed by the marriage bond
+between you and lord kira.</font></b>
+<b><font color="#ffff00">you are granted one year to mourn.</font></b>
+<b><font color="#ffff00">but you will remain a guest of
+lord kira's until you are married.</font></b>
+<b><font color="#ffff00">oishi.</font></b>
+<b><font color="#ffff00">you are now ronin.</font></b>
+<b><font color="#ffff00">masterless samurai.</font></b>
+<b><font color="#ffff00">i forbid you to seek vengeance
+for lord asano's death.</font></b>
+<b><font color="#ffff00">lord kira,</font></b>
+<b><font color="#ffff00">i leave ako with you.</font></b>
+<b><font color="#ffff00">from this moment on, you are
+banished from these lands.</font></b>
+<b><font color="#ffff00">those who remain
+will be hunted down</font></b>
+<b><font color="#ffff00">and executed.</font></b>
+<b><font color="#ffff00">you will never see him again,
+my lady. take a last look.</font></b>
+<b><font color="#ffff00">i don't trust oishi.</font></b>
+<b><font color="#ffff00">he no longer has the
+protection of his rank.</font></b>
+<b><font color="#ffff00">throw him in the pit.</font></b>
+<b><font color="#ffff00">break his will.</font></b>
+<b><font color="#ffff00">(groans)</font></b>
+<b><font color="#ffff00">(door opening)</font></b>
+<b><font color="#ffff00">father!</font></b>
+<b><font color="#ffff00">father.</font></b>
+<b><font color="#ffff00">get away! get away from me.</font></b>
+<b><font color="#ffff00">chikara, help him up.</font></b>
+<b><font color="#ffff00">where are my men?</font></b>
+<b><font color="#ffff00">they have all left ako.</font></b>
+<b><font color="#ffff00">and lady asano?</font></b>
+<b><font color="#ffff00">her time of mourning
+is almost over.</font></b>
+<b><font color="#ffff00">lord kira took her to his castle</font></b>
+<b><font color="#ffff00">to begin preparing
+for their wedding.</font></b>
+<b><font color="#ffff00">chikara,</font></b>
+<b><font color="#ffff00">what of the half-breed?</font></b>
+<b><font color="#ffff00">kira's men took him to the dutch
+island and sold him into slavery.</font></b>
+<b><font color="#ffff00">we need three horses.</font></b>
+<b><font color="#ffff00">now.</font></b>
+<b><font color="#ffff00">riku.</font></b>
+<b><font color="#ffff00">you must make the whole world
+believe you've divorced me.</font></b>
+<b><font color="#ffff00">it is the only way to protect
+you from what i have to do.</font></b>
+<b><font color="#ffff00">no one but you and i
+can know that you are,</font></b>
+<b><font color="#ffff00">and will always be,</font></b>
+<b><font color="#ffff00">the joy of my life.</font></b>
+<b><font color="#ffff00">i am the wife of a samurai.</font></b>
+<b><font color="#ffff00">whatever your duty is,
+it is mine too.</font></b>
+<b><font color="#ffff00">show them this</font></b>
+<b><font color="#ffff00">and tell them to meet me at
+the black lake in a week.</font></b>
+<b><font color="#ffff00">remember, the enemy
+will be watching.</font></b>
+<b><font color="#ffff00">foreman: hey, stranger.</font></b>
+<b><font color="#ffff00">what's your business here?</font></b>
+<b><font color="#ffff00">i'm looking for a half-breed.</font></b>
+<b><font color="#ffff00">foreman: good luck, samurai!</font></b>
+<b><font color="#ffff00">(men cheering)</font></b>
+<b><font color="#ffff00">(groaning)</font></b>
+<b><font color="#ffff00">all: (chanting)
+half-breed! half-breed! half-breed!</font></b>
+<b><font color="#ffff00">(laughing)</font></b>
+<b><font color="#ffff00">kai!</font></b>
+<b><font color="#ffff00">it's oishi.</font></b>
+<b><font color="#ffff00">kai!</font></b>
+<b><font color="#ffff00">it's me!</font></b>
+<b><font color="#ffff00">kai! lady asano.</font></b>
+<b><font color="#ffff00">mika.</font></b>
+<b><font color="#ffff00">she needs your help.</font></b>
+<b><font color="#ffff00">all:
+half-breed! half-breed! half-breed!</font></b>
+<b><font color="#ffff00">kai! soon kira will marry mika.</font></b>
+<b><font color="#ffff00">we must stop him!
+are you with me?</font></b>
+<b><font color="#ffff00">now!</font></b>
+<b><font color="#ffff00">(men shouting)</font></b>
+<b><font color="#ffff00">(grunts)</font></b>
+<b><font color="#ffff00">lady asano is to be
+married in a week.</font></b>
+<b><font color="#ffff00">what do you care?</font></b>
+<b><font color="#ffff00">when kira took her away,
+you were on your knees.</font></b>
+<b><font color="#ffff00">we would have all been killed.
+you too.</font></b>
+<b><font color="#ffff00">what use are you to her dead?</font></b>
+<b><font color="#ffff00">what use am i to you?</font></b>
+<b><font color="#ffff00">either follow me or go
+back to what you were.</font></b>
+<b><font color="#ffff00">don't turn your back on me, ronin.</font></b>
+<b><font color="#ffff00">(unsheathing sword)</font></b>
+<b><font color="#ffff00">follow you for what?</font></b>
+<b><font color="#ffff00">(sheathing sword)</font></b>
+<b><font color="#ffff00">kira has 1,000 men
+under his command.</font></b>
+<b><font color="#ffff00">he's also protected by witchcraft.</font></b>
+<b><font color="#ffff00">when i told you that,
+you turned me away.</font></b>
+<b><font color="#ffff00">i was wrong.</font></b>
+<b><font color="#ffff00">i failed my lord.</font></b>
+<b><font color="#ffff00">i don't know who or what you are,</font></b>
+<b><font color="#ffff00">but i need your help.</font></b>
+<b><font color="#ffff00">clothes.</font></b>
+<b><font color="#ffff00">i'll come with you,</font></b>
+<b><font color="#ffff00">but if you ever kneel before
+kira again, i'll take your head.</font></b>
+<b><font color="#ffff00">where did you learn
+to fight like that?</font></b>
+<b><font color="#ffff00">from demons.</font></b>
+<b><font color="#ffff00">(grunting)</font></b>
+<b><font color="#ffff00">my lord, forgive me.</font></b>
+<b><font color="#ffff00">the half-breed has escaped
+from the dutch island.</font></b>
+<b><font color="#ffff00">they say a samurai helped him.</font></b>
+<b><font color="#ffff00">oishi.</font></b>
+<b><font color="#ffff00">find oishi. i need him dead.</font></b>
+<b><font color="#ffff00">(shouts)</font></b>
+<b><font color="#ffff00">yasuno, it's oishi!</font></b>
+<b><font color="#ffff00">(exclaims)</font></b>
+<b><font color="#ffff00">he's back!</font></b>
+<b><font color="#ffff00">ronin 1: everyone, oishi's back!</font></b>
+<b><font color="#ffff00">ronin 2: oishi's back!</font></b>
+<b><font color="#ffff00">father.</font></b>
+<b><font color="#ffff00">well done, chikara.</font></b>
+<b><font color="#ffff00">oishi: today we may be ronin,</font></b>
+<b><font color="#ffff00">but now the time has come.</font></b>
+<b><font color="#ffff00">what i propose ends in death.</font></b>
+<b><font color="#ffff00">even if we succeed,</font></b>
+<b><font color="#ffff00">we will be hanged as criminals
+for defying the shogun's orders.</font></b>
+<b><font color="#ffff00">i take a vow before you</font></b>
+<b><font color="#ffff00">that i will not rest
+until justice is done,</font></b>
+<b><font color="#ffff00">will not sleep until our
+master lies in peace,</font></b>
+<b><font color="#ffff00">and will not pray</font></b>
+<b><font color="#ffff00">unless it is to ask the
+heavens' forgiveness</font></b>
+<b><font color="#ffff00">for sending kira to hell!</font></b>
+<b><font color="#ffff00">(all cheering)</font></b>
+<b><font color="#ffff00">there are only two ways in.</font></b>
+<b><font color="#ffff00">the main gate here</font></b>
+<b><font color="#ffff00">and this point beneath
+the west wall.</font></b>
+<b><font color="#ffff00">both are heavily guarded.</font></b>
+<b><font color="#ffff00">our best chance is to strike when kira
+leaves the safety of his fortress.</font></b>
+<b><font color="#ffff00">he will travel to his ancestors'
+shrine to offer prayers.</font></b>
+<b><font color="#ffff00">we don't know yet when he
+will make the journey.</font></b>
+<b><font color="#ffff00">isogai, you ride ahead
+to his temple town</font></b>
+<b><font color="#ffff00">and see what you can find out.</font></b>
+<b><font color="#ffff00">remember, even near holy sites</font></b>
+<b><font color="#ffff00">there are brothels and plenty of
+loose-tongued officials who visit them.</font></b>
+<b><font color="#ffff00">even if we know the route, we
+will need more men for an ambush.</font></b>
+<b><font color="#ffff00">then we'll get them.</font></b>
+<b><font color="#ffff00">you and chuzaemon and okuda</font></b>
+<b><font color="#ffff00">will gather as many of our
+former samurai as you can</font></b>
+<b><font color="#ffff00">and meet us here at a farmhouse
+horibe has found for us.</font></b>
+<b><font color="#ffff00">forgive me, sir, but how can we
+succeed without good swords?</font></b>
+<b><font color="#ffff00">take mine.</font></b>
+<b><font color="#ffff00">when we meet again, i'll
+have more waiting for you.</font></b>
+<b><font color="#ffff00">the rest of us will go to uetsu.</font></b>
+<b><font color="#ffff00">the finest swordmakers
+in the land work there.</font></b>
+<b><font color="#ffff00">why is the half-breed here?</font></b>
+<b><font color="#ffff00">i asked him to come.</font></b>
+<b><font color="#ffff00">we can't take him with us.
+he's not a samurai.</font></b>
+<b><font color="#ffff00">none of us are samurai anymore.</font></b>
+<b><font color="#ffff00">(talking indistinctly)</font></b>
+<b><font color="#ffff00">who are you?</font></b>
+<b><font color="#ffff00">we are farmers from shimobe, sir.</font></b>
+<b><font color="#ffff00">we have come to buy tools.</font></b>
+<b><font color="#ffff00">this is lord kira's village now.</font></b>
+<b><font color="#ffff00">these are not farmer's hands.</font></b>
+<b><font color="#ffff00">take the swords,
+whatever you can salvage.</font></b>
+<b><font color="#ffff00">we'll need more.</font></b>
+<b><font color="#ffff00">help him.</font></b>
+<b><font color="#ffff00">eat, my lady.</font></b>
+<b><font color="#ffff00">you think i care if you starve?</font></b>
+<b><font color="#ffff00">soon my lord will be
+ruler of all japan</font></b>
+<b><font color="#ffff00">and you can take your life
+like your father did.</font></b>
+<b><font color="#ffff00">you killed my father.</font></b>
+<b><font color="#ffff00">weren't you the one
+who broke his heart?</font></b>
+<b><font color="#ffff00">you betrayed him with your lust.</font></b>
+<b><font color="#ffff00">we can go to hida.
+they will give us weapons.</font></b>
+<b><font color="#ffff00">you will find nothing in hida.</font></b>
+<b><font color="#ffff00">kira's men will have taken
+over this entire region.</font></b>
+<b><font color="#ffff00">there is another way.</font></b>
+<b><font color="#ffff00">you will find swords
+in the sea of trees.</font></b>
+<b><font color="#ffff00">the tengu forest</font></b>
+<b><font color="#ffff00">that is just a myth.</font></b>
+<b><font color="#ffff00">i've seen them.</font></b>
+<b><font color="#ffff00">how do you know about
+the tengu forest?</font></b>
+<b><font color="#ffff00">i was raised there
+before i fled to ako.</font></b>
+<b><font color="#ffff00">those scars on your head.</font></b>
+<b><font color="#ffff00">are they the ones who marked you?</font></b>
+<b><font color="#ffff00">yes.</font></b>
+<b><font color="#ffff00">and taught you to fight?</font></b>
+<b><font color="#ffff00">to kill.</font></b>
+<b><font color="#ffff00">they have many strange
+and magical ways</font></b>
+<b><font color="#ffff00">to protect themselves
+and their beliefs.</font></b>
+<b><font color="#ffff00">they wanted to show me that this
+life has nothing to offer but death.</font></b>
+<b><font color="#ffff00">they wanted me to be like
+them and renounce the world.</font></b>
+<b><font color="#ffff00">i vowed never to use the
+magical powers they taught me.</font></b>
+<b><font color="#ffff00">although i was still a child, i knew
+my place was among other men.</font></b>
+<b><font color="#ffff00">and do you think that these
+tengu would give us weapons?</font></b>
+<b><font color="#ffff00">they will test our will.</font></b>
+<b><font color="#ffff00">(indistinct talking)</font></b>
+<b><font color="#ffff00">isogai:
+my wife just won't stop nagging me.</font></b>
+<b><font color="#ffff00">she wants me to find her the best
+view of lord kim's procession.</font></b>
+<b><font color="#ffff00">procession? what procession?</font></b>
+<b><font color="#ffff00">nobody knows when kira
+will leave his fortress,</font></b>
+<b><font color="#ffff00">not even his own guards.</font></b>
+<b><font color="#ffff00">he will hurry back
+before anyone is awake.</font></b>
+<b><font color="#ffff00">what is your name?</font></b>
+<b><font color="#ffff00">yuki.</font></b>
+<b><font color="#ffff00">where do you come from, yuki?</font></b>
+<b><font color="#ffff00">tengu lord: you've come back.</font></b>
+<b><font color="#ffff00">are we lost?</font></b>
+<b><font color="#ffff00">no. they know we're here.</font></b>
+<b><font color="#ffff00">(whooshing)</font></b>
+<b><font color="#ffff00">hara: what is that noise?</font></b>
+<b><font color="#ffff00">kai: ghosts.</font></b>
+<b><font color="#ffff00">spirits of the old and infirm
+who are left hereto die.</font></b>
+<b><font color="#ffff00">unwanted children, too.</font></b>
+<b><font color="#ffff00">only you.</font></b>
+<b><font color="#ffff00">i'm coming with you.</font></b>
+<b><font color="#ffff00">no.</font></b>
+<b><font color="#ffff00">do as he says.</font></b>
+<b><font color="#ffff00">stay here.</font></b>
+<b><font color="#ffff00">whatever happens in there,
+whatever you see,</font></b>
+<b><font color="#ffff00">don't draw your weapon.</font></b>
+<b><font color="#ffff00">(voices whispering)</font></b>
+<b><font color="#ffff00">wait here.</font></b>
+<b><font color="#ffff00">how do we know the half-breed
+hasn't led him into a trap?</font></b>
+<b><font color="#ffff00">oishi trusts him.</font></b>
+<b><font color="#ffff00">of course, he has no choice.
+we need weapons.</font></b>
+<b><font color="#ffff00">if he doesn't come back soon,</font></b>
+<b><font color="#ffff00">i'm going after him.</font></b>
+<b><font color="#ffff00">so the terrified boy
+returns as a man.</font></b>
+<b><font color="#ffff00">i have come for your help.</font></b>
+<b><font color="#ffff00">we are in need of swords.</font></b>
+<b><font color="#ffff00">then take it.</font></b>
+<b><font color="#ffff00">these swords were forged to defend
+us against the hatred of men.</font></b>
+<b><font color="#ffff00">men who persecuted
+us for our beliefs.</font></b>
+<b><font color="#ffff00">the same men who despise
+you for being different.</font></b>
+<b><font color="#ffff00">and now you're here to help them.</font></b>
+<b><font color="#ffff00">they are good men.</font></b>
+<b><font color="#ffff00">their cause is just.</font></b>
+<b><font color="#ffff00">tengu lord:
+many come for our steel,</font></b>
+<b><font color="#ffff00">but none return.</font></b>
+<b><font color="#ffff00">you told him not to draw his sword.</font></b>
+<b><font color="#ffff00">if he does,</font></b>
+<b><font color="#ffff00">he and all his men will die.</font></b>
+<b><font color="#ffff00">was it worth it? what you
+found in the outside world?</font></b>
+<b><font color="#ffff00">the love of a woman
+you can never have?</font></b>
+<b><font color="#ffff00">yes.</font></b>
+<b><font color="#ffff00">let me tell you of love, kai.</font></b>
+<b><font color="#ffff00">the love of one night</font></b>
+<b><font color="#ffff00">that brought you into this world.</font></b>
+<b><font color="#ffff00">an english sailor
+and a peasant girl.</font></b>
+<b><font color="#ffff00">your loving mother abandoned
+you to die in these woods.</font></b>
+<b><font color="#ffff00">a monster, a half-breed child.</font></b>
+<b><font color="#ffff00">yet we found you,</font></b>
+<b><font color="#ffff00">accepted you, trained you.</font></b>
+<b><font color="#ffff00">we taught you many things.</font></b>
+<b><font color="#ffff00">but you fled</font></b>
+<b><font color="#ffff00">and you turned your
+back on those gifts.</font></b>
+<b><font color="#ffff00">gifts of death.</font></b>
+<b><font color="#ffff00">no matter what you do,</font></b>
+<b><font color="#ffff00">mika will never be
+yours in this life.</font></b>
+<b><font color="#ffff00">then i will go to my death and
+pray i find her in the next.</font></b>
+<b><font color="#ffff00">yasuno: sir?</font></b>
+<b><font color="#ffff00">what are you doing here?</font></b>
+<b><font color="#ffff00">i told you to stay.</font></b>
+<b><font color="#ffff00">no! yasuno!</font></b>
+<b><font color="#ffff00"><i>tengu lord: draw your sword.</i></font></b>
+<b><font color="#ffff00"><i>save them.</i></font></b>
+<b><font color="#ffff00"><i>draw your sword.</i></font></b>
+<b><font color="#ffff00"><i>save them.</i></font></b>
+<b><font color="#ffff00"><i>draw your sword.</i></font></b>
+<b><font color="#ffff00"><i>save your men!</i></font></b>
+<b><font color="#ffff00">no more talk.</font></b>
+<b><font color="#ffff00">will you give me what i ask?</font></b>
+<b><font color="#ffff00">take the blade, kai.</font></b>
+<b><font color="#ffff00">if you can reach it before me.</font></b>
+<b><font color="#ffff00"><i>save your men. help them.</i></font></b>
+<b><font color="#ffff00"><i>draw your sword, oishi.</i></font></b>
+<b><font color="#ffff00"><i>save them.</i></font></b>
+<b><font color="#ffff00">chikara!</font></b>
+<b><font color="#ffff00">a gift not forgotten.</font></b>
+<b><font color="#ffff00">kai: you passed their test.</font></b>
+<b><font color="#ffff00">your men are safe.</font></b>
+<b><font color="#ffff00">you've got your swords.</font></b>
+<b><font color="#ffff00">basho: what's so special
+about these swords?</font></b>
+<b><font color="#ffff00">what do they do?</font></b>
+<b><font color="#ffff00">it depends.</font></b>
+<b><font color="#ffff00">on what?</font></b>
+<b><font color="#ffff00">who uses them.</font></b>
+<b><font color="#ffff00">what about a tall, strong,
+brave man like me?</font></b>
+<b><font color="#ffff00">they cut.</font></b>
+<b><font color="#ffff00">(men laughing)</font></b>
+<b><font color="#ffff00">i think mine is broken.</font></b>
+<b><font color="#ffff00">your sword.</font></b>
+<b><font color="#ffff00">you keep it, hazama.
+i told you we'd bring others.</font></b>
+<b><font color="#ffff00">i have the information
+you requested.</font></b>
+<b><font color="#ffff00">lord kira leaves for his
+ancestors' shrine tonight.</font></b>
+<b><font color="#ffff00">well done.</font></b>
+<b><font color="#ffff00">come, isogai. gather the men.</font></b>
+<b><font color="#ffff00">father.</font></b>
+<b><font color="#ffff00">i want to go with you.</font></b>
+<b><font color="#ffff00">no.</font></b>
+<b><font color="#ffff00">horibe, stay with him.</font></b>
+<b><font color="#ffff00">i ride to my ancestors' shrine
+to offer thanks for our wedding.</font></b>
+<b><font color="#ffff00">is there anything you
+wish me to pray for?</font></b>
+<b><font color="#ffff00">my lord will not like my answer.</font></b>
+<b><font color="#ffff00">you may look down on me, my lady,</font></b>
+<b><font color="#ffff00">but our children and their
+children will be of one blood.</font></b>
+<b><font color="#ffff00">oishi: take care, hazama.</font></b>
+<b><font color="#ffff00">(gagging)</font></b>
+<b><font color="#ffff00">sorry.</font></b>
+<b><font color="#ffff00">(shouts)</font></b>
+<b><font color="#ffff00">(screaming)</font></b>
+<b><font color="#ffff00">it's a trap! go! go!</font></b>
+<b><font color="#ffff00">ronin 1: get back! get back!</font></b>
+<b><font color="#ffff00">ronin 2: get out!</font></b>
+<b><font color="#ffff00">yasuno!</font></b>
+<b><font color="#ffff00">yasuno!</font></b>
+<b><font color="#ffff00">(grunting)</font></b>
+<b><font color="#ffff00">kai: oishi, help me!
+it's basho.</font></b>
+<b><font color="#ffff00">hazama!</font></b>
+<b><font color="#ffff00">- no!
+- oishi!</font></b>
+<b><font color="#ffff00">(yells)</font></b>
+<b><font color="#ffff00">it belonged to oishi, my lord.</font></b>
+<b><font color="#ffff00">your half-breed is dead.</font></b>
+<b><font color="#ffff00">so are dozens of your father's men.</font></b>
+<b><font color="#ffff00">all killed</font></b>
+<b><font color="#ffff00">trying to save you.</font></b>
+<b><font color="#ffff00">perhaps now you understand</font></b>
+<b><font color="#ffff00">the price of your love.</font></b>
+<b><font color="#ffff00">i promised my lord</font></b>
+<b><font color="#ffff00">i would not harm</font></b>
+<b><font color="#ffff00">a hair on your head.</font></b>
+<b><font color="#ffff00">but what you do to yourself</font></b>
+<b><font color="#ffff00">is not my concern.</font></b>
+<b><font color="#ffff00">good night.</font></b>
+<b><font color="#ffff00">basho: kai.</font></b>
+<b><font color="#ffff00">i have a confession to make.</font></b>
+<b><font color="#ffff00">when i was a boy,</font></b>
+<b><font color="#ffff00">i used to wait in the
+woods outside your hut,</font></b>
+<b><font color="#ffff00">and when you came out,</font></b>
+<b><font color="#ffff00">i'd throw stones at you,</font></b>
+<b><font color="#ffff00">then hide.</font></b>
+<b><font color="#ffff00">i knew it was you.</font></b>
+<b><font color="#ffff00">i could see your belly sticking
+out from behind the trees.</font></b>
+<b><font color="#ffff00">(grunting)</font></b>
+<b><font color="#ffff00">i'm sorry, kai.</font></b>
+<b><font color="#ffff00">you're a good man.</font></b>
+<b><font color="#ffff00">i should have acted the
+day lord asano died.</font></b>
+<b><font color="#ffff00">our anger should have
+been sudden and swift.</font></b>
+<b><font color="#ffff00">then even if we'd failed,</font></b>
+<b><font color="#ffff00">it would have been with honor.</font></b>
+<b><font color="#ffff00">you are samurai.</font></b>
+<b><font color="#ffff00">we still have swords and
+the advantage of surprise.</font></b>
+<b><font color="#ffff00">kira thinks we're ghosts.</font></b>
+<b><font color="#ffff00">we can use that,
+turn it to our advantage.</font></b>
+<b><font color="#ffff00">he'll never expect us.</font></b>
+<b><font color="#ffff00">we can still do what we came for.</font></b>
+<b><font color="#ffff00">eat.</font></b>
+<b><font color="#ffff00">- your arm?
+yasuno: fine.</font></b>
+<b><font color="#ffff00">kai: go get your father.</font></b>
+<b><font color="#ffff00">(slow music playing)</font></b>
+<b><font color="#ffff00">yasuno: stay where you are!</font></b>
+<b><font color="#ffff00">what is this?</font></b>
+<b><font color="#ffff00">we are not some village troupe
+to be held up by bandits.</font></b>
+<b><font color="#ffff00">lord kira himself has hired us
+to perform at his wedding.</font></b>
+<b><font color="#ffff00">i have the letters and
+passes to prove it.</font></b>
+<b><font color="#ffff00">there is no need.</font></b>
+<b><font color="#ffff00">we saw you perform in ako.</font></b>
+<b><font color="#ffff00">you are lord asano's men.</font></b>
+<b><font color="#ffff00">we need your help.</font></b>
+<b><font color="#ffff00">yasuno: kai.</font></b>
+<b><font color="#ffff00">forgive me for not thanking
+you for defeating the beast</font></b>
+<b><font color="#ffff00">and saving my life.</font></b>
+<b><font color="#ffff00">a samurai does not take credit
+for victories of others.</font></b>
+<b><font color="#ffff00">this belonged to basho.</font></b>
+<b><font color="#ffff00">a samurai wears two swords.</font></b>
+<b><font color="#ffff00"><i>oishi:
+when a crime goes unpunished,</i></font></b>
+<b><font color="#ffff00">the world is unbalanced.</font></b>
+<b><font color="#ffff00">when a wrong is unavenged,</font></b>
+<b><font color="#ffff00">the heavens look
+down on us in shame.</font></b>
+<b><font color="#ffff00"><i>we too must die for this circle
+of vengeance to be closed.</i></font></b>
+<b><font color="#ffff00"><i>we will leave this
+record of our courage</i></font></b>
+<b><font color="#ffff00"><i>so the world will know who
+we were and what we did.</i></font></b>
+<b><font color="#ffff00"><i>tonight we will regain our honor</i></font></b>
+<b><font color="#ffff00"><i>and avenge our lord.</i></font></b>
+<b><font color="#ffff00"><i>none of us knows
+how long he shall five</i></font></b>
+<b><font color="#ffff00"><i>or when his time will come.</i></font></b>
+<b><font color="#ffff00"><i>but soon all that will be
+left of our brief lives</i></font></b>
+<b><font color="#ffff00"><i>is the pride our children feel
+when they speak our names.</i></font></b>
+<b><font color="#ffff00">kai.</font></b>
+<b><font color="#ffff00">we end this now.</font></b>
+<b><font color="#ffff00">now</font></b>
+<b><font color="#ffff00">we are 47.</font></b>
+<b><font color="#ffff00">what do you see?</font></b>
+<b><font color="#ffff00">the omens are good.</font></b>
+<b><font color="#ffff00">soon you will travel far.</font></b>
+<b><font color="#ffff00">in every town and village,
+people shall bow before you.</font></b>
+<b><font color="#ffff00">guard: halt!</font></b>
+<b><font color="#ffff00">(sniffs)</font></b>
+<b><font color="#ffff00">let them through.</font></b>
+<b><font color="#ffff00">man: five minutes!</font></b>
+<b><font color="#ffff00">lord kira, we are proud
+to present to you</font></b>
+<b><font color="#ffff00">our performance as a
+gift for your wedding.</font></b>
+<b><font color="#ffff00">(drums beating)</font></b>
+<b><font color="#ffff00">(audience exclaiming in awe)</font></b>
+<b><font color="#ffff00">(gasps)</font></b>
+<b><font color="#ffff00">(slow music playing)</font></b>
+<b><font color="#ffff00">(grunts)</font></b>
+<b><font color="#ffff00">(audience gasping)</font></b>
+<b><font color="#ffff00">(both grunting)</font></b>
+<b><font color="#ffff00">ronin: don't hurt the princess!</font></b>
+<b><font color="#ffff00">mika: kai!</font></b>
+<b><font color="#ffff00">get them!</font></b>
+<b><font color="#ffff00">stay there!</font></b>
+<b><font color="#ffff00">i knew you'd come for me.</font></b>
+<b><font color="#ffff00">nothing will ever keep
+me away from you.</font></b>
+<b><font color="#ffff00">nothing, half-breed?</font></b>
+<b><font color="#ffff00">even death?</font></b>
+<b><font color="#ffff00">i know what you are.</font></b>
+<b><font color="#ffff00">you have no idea.</font></b>
+<b><font color="#ffff00">i'm not afraid of you.</font></b>
+<b><font color="#ffff00">you should be.</font></b>
+<b><font color="#ffff00">(snarling)</font></b>
+<b><font color="#ffff00">come on.</font></b>
+<b><font color="#ffff00">(yelling)</font></b>
+<b><font color="#ffff00">know now the depth
+of my lord's courage.</font></b>
+<b><font color="#ffff00">(screaming)</font></b>
+<b><font color="#ffff00">(roaring)</font></b>
+<b><font color="#ffff00">(gasping)</font></b>
+<b><font color="#ffff00">in the name of lord asano of ako!</font></b>
+<b><font color="#ffff00">for lord asano!</font></b>
+<b><font color="#ffff00">chikara.</font></b>
+<b><font color="#ffff00">rest now, my lord.</font></b>
+<b><font color="#ffff00">you are avenged.</font></b>
+<b><font color="#ffff00">shogun tsunayoshi: oishi,</font></b>
+<b><font color="#ffff00">i gave you a command forbidding
+you to take revenge.</font></b>
+<b><font color="#ffff00">forgive me, your highness,</font></b>
+<b><font color="#ffff00">but a man may not live
+under the same heaven</font></b>
+<b><font color="#ffff00">as the murderer of his lord.</font></b>
+<b><font color="#ffff00">all i ask is respect for my men.</font></b>
+<b><font color="#ffff00">they are brave, my lord.</font></b>
+<b><font color="#ffff00">the bravest i know.</font></b>
+<b><font color="#ffff00">i beg you to let them die</font></b>
+<b><font color="#ffff00">with the dignity they deserve.</font></b>
+<b><font color="#ffff00">for the crime of disobedience,</font></b>
+<b><font color="#ffff00">you should all be executed
+as common criminals.</font></b>
+<b><font color="#ffff00">but you and your men</font></b>
+<b><font color="#ffff00">followed the old ways of bushido</font></b>
+<b><font color="#ffff00">to honor your lord</font></b>
+<b><font color="#ffff00">and to avenge treachery.</font></b>
+<b><font color="#ffff00">i see only samurai before me.</font></b>
+<b><font color="#ffff00">i grant you a samurai's death,</font></b>
+<b><font color="#ffff00">to be buried alongside your lord</font></b>
+<b><font color="#ffff00">with honor.</font></b>
+<b><font color="#ffff00">thank you, your highness.</font></b>
+<b><font color="#ffff00">lady asano is like her father.</font></b>
+<b><font color="#ffff00">she will make ako great again.</font></b>
+<b><font color="#ffff00">yes.</font></b>
+<b><font color="#ffff00">i know.</font></b>
+<b><font color="#ffff00">my father told me</font></b>
+<b><font color="#ffff00">this world was only a
+preparation for the next,</font></b>
+<b><font color="#ffff00">that all we can ask is that
+we leave it having loved</font></b>
+<b><font color="#ffff00">and being loved.</font></b>
+<b><font color="#ffff00">i will search for you
+through 1,000 worlds</font></b>
+<b><font color="#ffff00">and 10,000 lifetimes
+until i find you.</font></b>
+<b><font color="#ffff00">i will wait for you in all of them.</font></b>
+<b><font color="#ffff00">wait!</font></b>
+<b><font color="#ffff00">chikara,</font></b>
+<b><font color="#ffff00">son of oishi,</font></b>
+<b><font color="#ffff00">step out.</font></b>
+<b><font color="#ffff00">oishi,</font></b>
+<b><font color="#ffff00">i will not deny our
+country your bloodline.</font></b>
+<b><font color="#ffff00">your son shall live</font></b>
+<b><font color="#ffff00">to serve ako</font></b>
+<b><font color="#ffff00">as you and your samurai have done.</font></b>
+<b><font color="#ffff00">(grunts)</font></b>
+<b><font color="#ffff00"><i>kai: i will search for you
+through 1,000 worlds</i></font></b>
+<b><font color="#ffff00"><i>and 10,000 lifetimes</i></font></b>
+<b><font color="#ffff00"><i>until i find you.</i></font></b>
+<b><font color="#ffff00"><i>narrator:
+the memory of the 47 ronin</i></font></b>
+<b><font color="#ffff00"><i>who put duty and justice
+before their fear of death</i></font></b>
+<b><font color="#ffff00"><i>has lived down through
+the centuries</i></font></b>
+<b><font color="#ffff00"><i>as one of the greatest
+examples of honor and loyalty</i></font></b>
+<b><font color="#ffff00"><i>in japanese culture.</i></font></b>

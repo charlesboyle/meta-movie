@@ -1,0 +1,4980 @@
+1
+00:00:04,160 --> 00:00:08,163
+TEKKEN - 2010
+sub edit by ME [npdv.id@gmail.com]
+
+2
+00:00:08,164 --> 00:00:14,438
+[CLASSICAL SCORE PLAYING]
+
+3
+00:00:14,439 --> 00:00:17,225
+Man's voice:
+After the Terror Wars, governments fell.
+
+4
+00:00:18,216 --> 00:00:20,073
+Corporations took control,
+
+5
+00:00:20,102 --> 00:00:21,992
+fighting over what remained.
+
+6
+00:00:30,310 --> 00:00:32,231
+[GUNS FIRING]
+
+7
+00:00:38,022 --> 00:00:40,072
+Eight companies survived
+
+8
+00:00:40,102 --> 00:00:42,311
+and divided up the world.
+
+9
+00:00:42,343 --> 00:00:45,449
+Those companies were
+collectively known as Iron Fist.
+
+10
+00:00:48,165 --> 00:00:49,382
+[PEOPLE CHEERS]
+
+11
+00:00:50,566 --> 00:00:54,153
+The American territories fell
+to the mightiest corporation of all,
+
+12
+00:00:54,182 --> 00:00:55,750
+Tekken.
+
+13
+00:00:58,790 --> 00:01:01,224
+Once a year,
+they hosted a tournament
+
+14
+00:01:01,254 --> 00:01:04,681
+which was no game,
+kill or be killed.
+
+15
+00:01:07,813 --> 00:01:10,472
+Outside the Walls of Tekken City,
+
+16
+00:01:10,502 --> 00:01:12,807
+in the burned-out slums
+they call the Anvil,
+
+17
+00:01:14,212 --> 00:01:15,781
+that's where it all started.
+
+18
+00:01:24,229 --> 00:01:26,150
+[CROWD CHEERING]
+
+19
+00:01:36,934 --> 00:01:38,854
+[HEART BEATING]
+
+20
+00:01:40,837 --> 00:01:42,758
+[ROCK MUSIC PLAYING]
+
+21
+00:01:44,709 --> 00:01:47,687
+<i># Define your meaning of war #</i>
+
+22
+00:01:47,715 --> 00:01:49,733
+<i># To me it's what #
+# we do when we're bored #</i>
+
+23
+00:01:49,764 --> 00:01:52,519
+<i># I feeI the heat #
+# comin' off of the blacktop #</i>
+
+24
+00:01:52,548 --> 00:01:54,662
+<i># And it makes me want it more... #
+[EXPLOSIONS]</i>
+
+25
+00:01:54,692 --> 00:01:57,381
+<i># Because I'm hyped up #
+# outta control... #</i>
+
+26
+00:01:57,411 --> 00:02:00,197
+<i>[MEN YELLING)
+# If it's a fight, I'm ready to go #</i>
+
+27
+00:02:00,228 --> 00:02:02,918
+<i># I wouldn't put my money #
+# on the other guy #</i>
+
+28
+00:02:02,949 --> 00:02:05,286
+<i># If you know what #
+# I know that I know #</i>
+
+29
+00:02:05,315 --> 00:02:07,718
+<i># It's been a long time coming #</i>
+
+30
+00:02:07,748 --> 00:02:10,150
+<i># And the table's turned around #</i>
+
+31
+00:02:10,180 --> 00:02:13,190
+<i># 'Cause one of us is goin' #</i>
+
+32
+00:02:13,219 --> 00:02:16,582
+<i># One of us is goin' down #</i>
+
+33
+00:02:16,611 --> 00:02:18,436
+<i># I'm not runnin' #</i>
+
+34
+00:02:18,468 --> 00:02:20,741
+<i># It's a little different now... #
+[SCREAMS]</i>
+
+35
+00:02:20,771 --> 00:02:23,237
+<i># 'Cause one of us is goin' #</i>
+
+36
+00:02:23,267 --> 00:02:27,078
+<i># One of us is goin' down! #</i>
+
+37
+00:02:27,107 --> 00:02:28,100
+<i>Man: You're mine!</i>
+
+38
+00:02:32,066 --> 00:02:33,379
+That's gotta hurt.
+
+39
+00:02:35,874 --> 00:02:37,667
+<i># Define your meaning of fun... #
+Man #2: Here!</i>
+
+40
+00:02:38,627 --> 00:02:40,932
+<i># To me it's when #
+# we're getting it done #</i>
+
+41
+00:02:40,962 --> 00:02:43,588
+<i># I feeI the heat coming off #
+# of the blacktop... #</i>
+
+42
+00:02:43,619 --> 00:02:45,893
+<i>[MEN YELLING]
+# So get ready for another one #</i>
+
+43
+00:02:45,922 --> 00:02:48,645
+<i># Let's take a trip #
+# down memory lane #</i>
+
+44
+00:02:48,675 --> 00:02:51,045
+<i># The words circulate #
+# in my brain #</i>
+
+45
+00:02:51,073 --> 00:02:53,924
+<i># You can treat this #
+# like another, all the same #</i>
+
+46
+00:02:53,953 --> 00:02:56,547
+<i># But don't cry like a bitch #
+# when you feel the pain #</i>
+
+47
+00:02:56,578 --> 00:02:58,916
+<i># It's been a long time coming #</i>
+
+48
+00:02:58,945 --> 00:03:01,412
+<i># And the table's turned around #</i>
+
+49
+00:03:01,442 --> 00:03:04,453
+<i># 'Cause one of us is goin' #</i>
+
+50
+00:03:04,481 --> 00:03:07,748
+<i># One of us is goin' down #</i>
+
+51
+00:03:07,778 --> 00:03:11,685
+<i># I'm not runnin' #
+# it's a little different now #</i>
+
+52
+00:03:11,715 --> 00:03:14,084
+<i># 'Cause one of us is goin' #</i>
+
+53
+00:03:14,113 --> 00:03:17,860
+<i># One of us is goin' down! #</i>
+
+54
+00:03:19,042 --> 00:03:20,995
+The rooftop!
+
+55
+00:03:24,737 --> 00:03:28,164
+<i># One of us is goin' down... #</i>
+
+56
+00:03:30,401 --> 00:03:31,874
+Whoa!
+
+57
+00:03:35,137 --> 00:03:38,436
+<i># One of us is goin' down! #</i>
+
+58
+00:03:38,464 --> 00:03:42,115
+<i># I'm not running #
+# it's a little different now #</i>
+
+59
+00:03:42,144 --> 00:03:45,219
+<i># 'Cause one of us is goin'... #
+[HELICOPTER WHIRRING]</i>
+
+60
+00:03:45,248 --> 00:03:48,579
+<i># One of us is goin' down! #</i>
+
+61
+00:03:55,616 --> 00:03:57,249
+Sh...
+[MAN YELLS]
+
+62
+00:03:59,137 --> 00:04:00,898
+[YELLS]
+
+63
+00:04:08,480 --> 00:04:11,522
+<i># One of us is goin' down! #</i>
+
+64
+00:04:25,600 --> 00:04:28,674
+[MEN SPEAK JAPANESE]
+
+65
+00:04:31,007 --> 00:04:32,928
+- [THUNDER RUMBLING)
+- [BEEPS]
+
+66
+00:04:34,464 --> 00:04:36,384
+- Hey.
+- [HELICOPTER WHIRRING]
+
+67
+00:04:42,207 --> 00:04:44,129
+[ROCK MUSIC PLAYING]
+
+68
+00:04:47,168 --> 00:04:49,186
+<i>[KNOCKING]
+# Don't seem to do no good... #</i>
+
+69
+00:04:49,215 --> 00:04:52,450
+<i>Open up. Come on.
+# I think I'lI sort it out on my own #</i>
+
+70
+00:04:52,479 --> 00:04:54,816
+<i># It's your turn to listen, baby #</i>
+
+71
+00:04:54,847 --> 00:04:58,307
+<i># You'd better leave me alone,
+gonna leave you behind... #</i>
+
+72
+00:04:58,335 --> 00:05:01,601
+- I told you to use the side entrance.
+- I knocked, nobody answered.
+
+73
+00:05:01,630 --> 00:05:03,198
+You can't hear anything
+over this old noise.
+
+74
+00:05:03,231 --> 00:05:05,312
+Hey, this is real music,
+
+75
+00:05:05,343 --> 00:05:07,488
+not that corporate shit
+they play in the city.
+
+76
+00:05:07,519 --> 00:05:10,465
+What was that song you were playing
+last week? The Roaches?
+
+77
+00:05:10,495 --> 00:05:13,665
+The Beatles.
+You see what I'm talking about?
+
+78
+00:05:13,694 --> 00:05:16,417
+Loss of art...
+the end of creative thought.
+
+79
+00:05:17,374 --> 00:05:18,783
+What happened to you?
+
+80
+00:05:19,838 --> 00:05:22,047
+- It's nothing.
+- You're the only one who gets
+
+81
+00:05:22,078 --> 00:05:24,223
+through the gang zones.
+I don't know how you do it.
+
+82
+00:05:24,253 --> 00:05:26,655
+- I guess I'm motivated.
+- What you are, Jin,
+
+83
+00:05:26,685 --> 00:05:29,087
+is a believer in the cause.
+You just don't know it.
+
+84
+00:05:29,118 --> 00:05:31,872
+- I'm not a joiner, Bonner.
+- Come on, man.
+
+85
+00:05:31,902 --> 00:05:35,745
+Play your cards right,
+one day this could all be yours.
+
+86
+00:05:40,157 --> 00:05:41,983
+Ahh.
+
+87
+00:05:42,013 --> 00:05:44,223
+Oh.
+[CHUCKLES]
+
+88
+00:05:44,253 --> 00:05:45,791
+[BEEPS, HUMMING]
+
+89
+00:05:45,821 --> 00:05:48,031
+20,000 gigs.
+
+90
+00:05:48,061 --> 00:05:50,463
+Get some serious speed with this.
+
+91
+00:05:50,493 --> 00:05:53,568
+- For what?
+- Secret internet, new underground,
+
+92
+00:05:53,597 --> 00:05:55,839
+- off the Tekken sub grid.
+- I'm sorry I asked.
+
+93
+00:05:55,869 --> 00:05:57,951
+Used to be you had a choice,
+free market, justice system,
+
+94
+00:05:57,981 --> 00:05:59,967
+- Now everything's Tekken.
+- Look, would you save the speech
+
+95
+00:05:59,997 --> 00:06:03,295
+- until after you've paid me?
+- Whoa.
+
+96
+00:06:06,908 --> 00:06:08,509
+Keep the change.
+
+97
+00:06:11,325 --> 00:06:13,662
+What's this, Bonner?
+You said Global dollars.
+
+98
+00:06:13,692 --> 00:06:15,741
+I say a lot of things. I drink.
+
+99
+00:06:15,772 --> 00:06:17,501
+You said Global dollars.
+
+100
+00:06:17,531 --> 00:06:19,421
+Oh.
+
+101
+00:06:22,620 --> 00:06:24,766
+- We good?
+- [CLEARS THROAT]
+
+102
+00:06:26,460 --> 00:06:27,996
+Now we're good.
+
+103
+00:06:28,027 --> 00:06:29,628
+When you gonna need another run?
+
+104
+00:06:29,660 --> 00:06:32,542
+Don't know.
+Iron Fist coming up.
+
+105
+00:06:32,572 --> 00:06:34,269
+The Jackhammers are cracking down.
+
+106
+00:06:34,299 --> 00:06:36,285
+Now you tell me.
+
+107
+00:06:36,315 --> 00:06:37,757
+Jin, kick back.
+
+108
+00:06:37,788 --> 00:06:39,645
+- Gotta learn how to relax.
+- [LAUGHS]
+
+109
+00:06:41,500 --> 00:06:43,420
+[MAN SPEAKING JAPANESE OVER P.A.]
+
+110
+00:06:45,692 --> 00:06:49,246
+Man #2 over P.A.:
+Honor through discipline.
+
+111
+00:06:50,523 --> 00:06:53,374
+Peace through grace.
+
+112
+00:06:53,403 --> 00:06:56,125
+These are the goals
+
+113
+00:06:56,155 --> 00:06:58,365
+demonstrated each year
+
+114
+00:06:58,395 --> 00:07:00,732
+at the Iron Fist Tournament.
+
+115
+00:07:00,762 --> 00:07:04,670
+As reigning champion
+for the past four years,
+
+116
+00:07:04,698 --> 00:07:06,748
+we are honored
+
+117
+00:07:06,779 --> 00:07:09,725
+to host the Iron Fist Tournament
+
+118
+00:07:09,754 --> 00:07:11,773
+in Tekken City.
+
+119
+00:07:11,803 --> 00:07:16,383
+Strength through order.
+
+120
+00:07:16,411 --> 00:07:19,710
+That is Tekken.
+
+121
+00:07:20,699 --> 00:07:24,350
+Woman over P.A.: Thank you for
+your loyal listening and appreciation.
+
+122
+00:07:26,011 --> 00:07:27,804
+- [ROCK MUSIC PLAYING)
+- [PEOPLE CHATTERING]
+
+123
+00:07:27,834 --> 00:07:30,044
+Announcer on TV: There are
+just two nights left before the kickoff
+
+124
+00:07:30,074 --> 00:07:32,603
+- of the Iron Fist Tournament.
+- Announcer #2: That's right.
+
+125
+00:07:32,634 --> 00:07:34,331
+Just two days left
+and the competition begins
+
+126
+00:07:34,362 --> 00:07:36,346
+back where it started,
+here in Tekken City.
+
+127
+00:07:36,377 --> 00:07:39,516
+- How's the Iron Fist action going?
+- Ah. Too early to tell.
+
+128
+00:07:39,546 --> 00:07:42,300
+Two-time semifinalist Marshall Law
+didn't even make it
+
+129
+00:07:42,330 --> 00:07:45,437
+through the preliminary rounds
+and is forced to fight in an open call
+
+130
+00:07:45,466 --> 00:07:46,875
+for the wild card spot.
+
+131
+00:07:46,905 --> 00:07:50,203
+- How's my tab?
+- You're up to 350.
+
+132
+00:07:50,233 --> 00:07:51,579
+tapped out.
+
+133
+00:07:54,424 --> 00:07:56,187
+- How about now?
+- Ooh.
+
+134
+00:07:56,218 --> 00:07:58,171
+That's why
+you're my favorite customer.
+
+135
+00:07:58,202 --> 00:07:59,579
+Catch you later.
+
+136
+00:08:01,497 --> 00:08:04,443
+- Hey.
+- Hey.
+
+137
+00:08:04,472 --> 00:08:05,914
+You got anything interesting?
+
+138
+00:08:05,945 --> 00:08:09,019
+Everything I got is
+interesting to somebody,
+
+139
+00:08:09,049 --> 00:08:10,393
+you know what I mean?
+
+140
+00:08:10,425 --> 00:08:14,429
+- How about coffee?
+- Coffee. [LAUGHS]
+
+141
+00:08:14,457 --> 00:08:15,866
+Yeah, coffee.
+
+142
+00:08:19,512 --> 00:08:22,427
+- That's 100 an ounce.
+- Jesus.
+
+143
+00:08:22,456 --> 00:08:24,826
+Hey, man, there's none
+of that freeze-fried,
+
+144
+00:08:24,857 --> 00:08:27,131
+stepped-on instant bullshit,
+you know what I mean?
+
+145
+00:08:27,159 --> 00:08:29,561
+You know what
+they used to call Colombian?
+
+146
+00:08:29,592 --> 00:08:32,891
+That's what that is right there.
+This is the good shit, my friend.
+
+147
+00:08:32,919 --> 00:08:35,674
+All right. Give me one
+of those oranges too.
+
+148
+00:08:36,953 --> 00:08:38,072
+And a bar of chocolate.
+
+149
+00:08:38,104 --> 00:08:40,667
+Ah. Business must be booming.
+
+150
+00:08:40,696 --> 00:08:42,584
+That'll be 200 Tekken red.
+
+151
+00:08:42,615 --> 00:08:44,344
+How about 100 Global blue?
+
+152
+00:08:44,375 --> 00:08:46,234
+That will work.
+
+153
+00:08:49,399 --> 00:08:51,544
+- Nice doing business with you.
+- Always.
+
+154
+00:08:53,816 --> 00:08:56,057
+Hey, Jin! I haven't
+seen you around, man.
+
+155
+00:08:56,087 --> 00:08:58,938
+- I've been busy.
+- Thought anymore about our offer?
+
+156
+00:08:58,967 --> 00:09:02,330
+- No. Sorry.
+- Hey, just wait a minute, man.
+
+157
+00:09:02,360 --> 00:09:05,467
+Now you're tough, man.
+I used to watch you street fight.
+
+158
+00:09:05,495 --> 00:09:09,114
+- That was for money.
+- And this is for a cause.
+
+159
+00:09:09,143 --> 00:09:11,993
+Heihachi Mishima and his
+Tekken gestapo treat us like slaves.
+
+160
+00:09:12,023 --> 00:09:14,393
+I've got my own life,
+my own problems.
+
+161
+00:09:14,423 --> 00:09:16,568
+I told you, man.
+This asshole is a waste of time.
+
+162
+00:09:16,599 --> 00:09:19,738
+No no, he's just another punk
+who'd rather die in the Anvil
+
+163
+00:09:19,767 --> 00:09:21,239
+than stand up like a man.
+
+164
+00:09:23,670 --> 00:09:25,303
+Hey. Hey, man.
+
+165
+00:09:26,456 --> 00:09:29,626
+- [HELICOPTER BUZZES)
+- [DRUMS PLAYING]
+
+166
+00:09:29,654 --> 00:09:31,575
+[MAN SHOUTING IN JAPANESE]
+
+167
+00:09:34,999 --> 00:09:37,144
+[JACKS SHOUTING IN JAPANESE]
+
+168
+00:09:48,022 --> 00:09:50,007
+Is everything prepared?
+
+169
+00:09:50,038 --> 00:09:53,432
+Representative fighters are en route
+from their home corporations.
+
+170
+00:09:53,461 --> 00:09:56,087
+Good good.
+I'm transferring command
+
+171
+00:09:56,118 --> 00:09:59,289
+of the Tekken Jackhammers to you
+for the duration of the tournament.
+
+172
+00:10:00,309 --> 00:10:01,846
+Oh, Father, I am honored.
+
+173
+00:10:01,878 --> 00:10:04,249
+Tighten security in the Anvil
+and the outer sectors.
+
+174
+00:10:04,277 --> 00:10:07,256
+I will send additional units to patrol
+for anti-corporate insurgents.
+
+175
+00:10:07,286 --> 00:10:09,495
+Not even minor infringements
+will be tolerated.
+
+176
+00:10:11,061 --> 00:10:12,406
+With respect,
+
+177
+00:10:13,398 --> 00:10:15,191
+I should've given
+the speech today.
+
+178
+00:10:15,222 --> 00:10:18,232
+A chance to pass the torch
+from father to son.
+
+179
+00:10:18,261 --> 00:10:20,984
+When I think you're ready.
+
+180
+00:10:21,014 --> 00:10:23,159
+I have been ready for years.
+
+181
+00:10:23,189 --> 00:10:25,270
+Your job is to maintain security.
+
+182
+00:10:25,301 --> 00:10:26,741
+Do not disappoint me.
+
+183
+00:10:31,092 --> 00:10:33,013
+[HELICOPTER WHIRRING]
+
+184
+00:10:34,932 --> 00:10:37,974
+Woman over P.A.:
+The Anvil curfew begins in five minutes.
+
+185
+00:10:38,005 --> 00:10:39,733
+Please return to your homes.
+
+186
+00:10:40,948 --> 00:10:43,446
+The Anvil curfew begins
+in five minutes.
+
+187
+00:10:43,475 --> 00:10:45,429
+Please return to your homes.
+
+188
+00:10:50,709 --> 00:10:52,022
+- [DOOR OPENS]
+- The Anvil curfew
+
+189
+00:10:52,052 --> 00:10:53,973
+begins in five minutes.
+
+190
+00:10:54,003 --> 00:10:56,214
+Please return to your homes.
+
+191
+00:10:59,125 --> 00:11:00,501
+I remember those moves.
+
+192
+00:11:00,533 --> 00:11:03,287
+You should.
+You were my best student.
+
+193
+00:11:03,317 --> 00:11:06,039
+- I was your only student, Mom.
+- Are you hungry?
+
+194
+00:11:06,068 --> 00:11:08,181
+I've been rationing protein squares.
+
+195
+00:11:08,212 --> 00:11:10,871
+- How about an orange?
+- Very funny.
+
+196
+00:11:17,107 --> 00:11:18,644
+- Coffee?
+- You always talked
+
+197
+00:11:18,676 --> 00:11:21,046
+- about missing it so much.
+- This must've cost a fortune.
+
+198
+00:11:21,075 --> 00:11:23,412
+I can afford it.
+Runs have been good.
+
+199
+00:11:23,444 --> 00:11:26,166
+Jin, running anti-Tekken contraband
+will get you killed.
+
+200
+00:11:26,195 --> 00:11:28,053
+Or I could always enter Iron Fist,
+
+201
+00:11:28,083 --> 00:11:30,132
+make some real money, huh?
+
+202
+00:11:30,163 --> 00:11:32,596
+You will have nothing to do
+with Tekken, do you understand?
+
+203
+00:11:32,627 --> 00:11:35,060
+I wilI not have you waste your talent.
+
+204
+00:11:35,091 --> 00:11:37,685
+But it wouldn't be a waste.
+It pays.
+
+205
+00:11:37,715 --> 00:11:39,989
+And what difference does it make?
+
+206
+00:11:40,018 --> 00:11:42,003
+Who cares where
+the money comes from?
+
+207
+00:11:42,034 --> 00:11:45,236
+I care. This is not
+what I trained you for.
+
+208
+00:11:45,267 --> 00:11:47,091
+Then what the hell
+did you train me for?
+
+209
+00:11:47,123 --> 00:11:49,749
+Do you think that life
+on the other side of that wall
+
+210
+00:11:49,778 --> 00:11:51,572
+will bring you happiness?
+
+211
+00:11:51,602 --> 00:11:53,652
+Trust me, it won't.
+
+212
+00:11:53,683 --> 00:11:54,706
+Oh, here we go.
+
+213
+00:11:54,738 --> 00:11:57,684
+The world burned
+because people had to have more.
+
+214
+00:11:57,714 --> 00:11:59,347
+And this is better?
+
+215
+00:11:59,378 --> 00:12:01,363
+Rationing protein squares?
+
+216
+00:12:02,322 --> 00:12:04,180
+Is that what my father
+would've wanted for us?
+
+217
+00:12:04,210 --> 00:12:06,772
+- Don't.
+- Why won't you ever talk about him?
+
+218
+00:12:06,802 --> 00:12:09,653
+Your father is dead,
+that's all you need to know.
+
+219
+00:12:09,682 --> 00:12:11,924
+You know what? Forget it.
+I'm out of here.
+
+220
+00:12:11,953 --> 00:12:13,779
+There's a curfew tonight.
+There are Jacks everywhere.
+
+221
+00:12:13,809 --> 00:12:18,101
+- The Jacks are always everywhere.
+- I am telling you not to go.
+
+222
+00:12:19,121 --> 00:12:19,121
+[DOOR CLOSES]
+
+223
+00:12:27,473 --> 00:12:31,093
+- Jin?
+- Hey, Hara.
+
+224
+00:12:31,121 --> 00:12:32,659
+Come here.
+
+225
+00:12:35,153 --> 00:12:37,523
+- Where have you been?
+- I've been around.
+
+226
+00:12:41,169 --> 00:12:43,379
+- What is it?
+- Chocolate.
+
+227
+00:12:44,368 --> 00:12:45,810
+Are you serious?
+
+228
+00:12:48,720 --> 00:12:50,225
+Mmm. [LAUGHS]
+
+229
+00:12:50,256 --> 00:12:51,793
+Sounds like I've been replaced.
+
+230
+00:12:52,753 --> 00:12:54,771
+- Bonner: Are we tied in yet?
+- Another minute.
+
+231
+00:12:54,800 --> 00:12:56,369
+I'm dropping over
+the last firewall here.
+
+232
+00:12:56,400 --> 00:13:01,044
+We'll be inside
+the Tekken video sub grid for 60 seconds.
+
+233
+00:13:01,072 --> 00:13:03,474
+We interrupt this program
+to bring you the truth.
+
+234
+00:13:03,504 --> 00:13:06,130
+No one understands
+how you're not dead.
+
+235
+00:13:06,160 --> 00:13:08,049
+I guess I'm lucky.
+
+236
+00:13:09,616 --> 00:13:11,473
+About to get lucky.
+
+237
+00:13:18,448 --> 00:13:20,114
+[JACK SHOUTS IN JAPANESE]
+
+238
+00:13:30,704 --> 00:13:32,593
+I missed you.
+
+239
+00:13:38,639 --> 00:13:41,970
+It wasn't easy back tracing your hack.
+
+240
+00:13:41,999 --> 00:13:44,144
+You were smart
+to use none of Tekken's hardware.
+
+241
+00:13:45,903 --> 00:13:48,689
+Well, almost none.
+
+242
+00:13:51,022 --> 00:13:52,559
+[SCREAMS]
+
+243
+00:13:56,751 --> 00:13:59,888
+Now this is an American classic.
+
+244
+00:14:04,911 --> 00:14:08,595
+The revolution will not be televised.
+
+245
+00:14:08,622 --> 00:14:09,775
+[GUNSHOT]
+
+246
+00:14:12,078 --> 00:14:14,256
+[MAN SPEAKS OVER P.A.]
+
+247
+00:14:14,287 --> 00:14:16,528
+[BEEPING]
+
+248
+00:14:17,614 --> 00:14:18,798
+- Oh shit.
+- Woman over P.A.: This is
+
+249
+00:14:18,830 --> 00:14:20,687
+- a Tekken security alert.
+- The Jacks!
+
+250
+00:14:21,709 --> 00:14:25,072
+Woman: Please be prepared
+for search and seizure.
+
+251
+00:14:25,102 --> 00:14:27,311
+We've gotta separate.
+You'll be fine.
+
+252
+00:14:33,678 --> 00:14:37,168
+[BOTH SPEAK JAPANESE]
+
+253
+00:14:53,485 --> 00:14:56,527
+Man: Sir, we've located
+the insurgents in Sector 9.
+
+254
+00:14:56,556 --> 00:14:59,599
+Burn everything and everyone.
+
+255
+00:14:59,630 --> 00:15:01,423
+Man:
+But, sir, our men are still in there.
+
+256
+00:15:01,452 --> 00:15:03,342
+Hazuya:
+I don't care. Destroy it!
+
+257
+00:15:05,644 --> 00:15:09,455
+[BOTH SPEAK JAPANESE]
+
+258
+00:15:09,483 --> 00:15:11,726
+[BEEPS]
+
+259
+00:15:16,172 --> 00:15:17,900
+Ah!
+
+260
+00:15:40,844 --> 00:15:43,470
+[HEART BEATING]
+
+261
+00:16:23,595 --> 00:16:25,772
+Mother's voice: You will have
+nothing to do with Tekken.
+
+262
+00:16:25,802 --> 00:16:26,987
+Do you understand?
+
+263
+00:16:32,554 --> 00:16:35,436
+I wilI not
+have you waste your talent.
+
+264
+00:16:35,466 --> 00:16:37,324
+Hyah!
+
+265
+00:16:54,345 --> 00:16:55,978
+Tekken?
+
+266
+00:17:00,969 --> 00:17:02,058
+Jin.
+
+267
+00:17:05,737 --> 00:17:07,147
+I should've been here.
+
+268
+00:17:07,177 --> 00:17:09,163
+She asked me not to go.
+
+269
+00:17:09,194 --> 00:17:10,698
+It's not your fault.
+
+270
+00:17:10,729 --> 00:17:12,587
+Heihachi Mishima killed her.
+
+271
+00:17:12,617 --> 00:17:14,282
+I know how you feel.
+
+272
+00:17:14,313 --> 00:17:16,458
+My father was killed in a Jackhammer,
+
+273
+00:17:16,489 --> 00:17:18,955
+And what did anyone
+do about it? Nothing!
+
+274
+00:17:18,984 --> 00:17:22,378
+What does anyone
+ever do about it? Nothing!
+
+275
+00:17:23,529 --> 00:17:25,353
+He's gonna pay
+for what he has done.
+
+276
+00:17:27,560 --> 00:17:28,874
+[HELICOPTER APPROACHING]
+
+277
+00:17:28,905 --> 00:17:32,555
+Announcer on TV: Now has an unknown
+ever won a spot in an open call?
+
+278
+00:17:32,583 --> 00:17:36,299
+Announcer #2: No, it's an Iron Fist
+tradition that Heihachi Mishima started
+
+279
+00:17:36,327 --> 00:17:39,787
+all the way back in the beginning,
+and he continues it to this day.
+
+280
+00:17:39,817 --> 00:17:41,801
+<i>In other news, terrorist
+leader Bonner...</i>
+
+281
+00:17:41,832 --> 00:17:43,817
+Man over P.A.:
+Contestants for open call,
+
+282
+00:17:43,847 --> 00:17:46,313
+please proceed to Tekken east gate.
+
+283
+00:17:46,344 --> 00:17:49,163
+Man #2:
+Okay, ladies and gentlemen, listen up!
+
+284
+00:17:50,345 --> 00:17:52,329
+So who's gonna be
+the next people's choice
+
+285
+00:17:52,361 --> 00:17:54,409
+and the next
+Iron Fist champion, huh?
+
+286
+00:17:54,439 --> 00:17:56,681
+Hey, we would never win
+this shit anyway.
+
+287
+00:17:56,712 --> 00:17:59,594
+Ain't nothing but a goddamn
+meat grinder to pump up the crowd.
+
+288
+00:17:59,624 --> 00:18:02,057
+- Piss off! Don't!
+- Hey.
+
+289
+00:18:03,272 --> 00:18:05,961
+We all know winter's coming,
+so my guess is
+
+290
+00:18:05,991 --> 00:18:08,168
+you're going to need oil
+to keep those kiddies from freezing.
+
+291
+00:18:08,199 --> 00:18:10,889
+Now I've got 100 Global dollars.
+
+292
+00:18:12,231 --> 00:18:15,368
+100 Global dollars to any man
+who can go one round
+
+293
+00:18:15,399 --> 00:18:17,289
+against Marshall Law.
+One round.
+
+294
+00:18:17,319 --> 00:18:18,633
+Woman:
+Got it, man?
+
+295
+00:18:18,662 --> 00:18:20,872
+You're a bunch of wankers...
+every last one of you.
+
+296
+00:18:20,904 --> 00:18:24,201
+Except you, white boy. Inside.
+
+297
+00:18:26,214 --> 00:18:27,559
+Man #3:
+He called him out. Did you see that?
+
+298
+00:18:27,590 --> 00:18:29,095
+- He called him out.
+- Last call.
+
+299
+00:18:30,086 --> 00:18:31,559
+Going.
+
+300
+00:18:32,711 --> 00:18:34,921
+- Going.
+- Wait!
+
+301
+00:18:34,950 --> 00:18:37,257
+[MAN WHISTLES]
+Good going! Good going!
+
+302
+00:18:38,630 --> 00:18:40,166
+I wanna sign up.
+
+303
+00:18:41,638 --> 00:18:42,951
+Woman #2:
+Take his money.
+
+304
+00:18:44,007 --> 00:18:46,696
+Okay. Sign there.
+
+305
+00:18:47,717 --> 00:18:49,416
+Leave the bag.
+
+306
+00:18:49,446 --> 00:18:52,200
+[SCATTERED APPLAUSE, CHEERING]
+
+307
+00:18:52,230 --> 00:18:52,230
+- Knock yourself out.
+- Man: Dead man walking!
+
+308
+00:18:55,462 --> 00:18:58,088
+- [CROWD SHOUTING, CHEERING)
+- [GRUNTING]
+
+309
+00:18:59,429 --> 00:19:00,966
+Hey, they're with me.
+
+310
+00:19:00,997 --> 00:19:03,207
+Hey, gentlemen, as you know,
+this is a qualifying event.
+
+311
+00:19:03,237 --> 00:19:05,800
+Three-minute rounds,
+so please make it entertaining.
+
+312
+00:19:12,197 --> 00:19:13,895
+Hey, big guy, you're up first.
+
+313
+00:19:19,365 --> 00:19:20,519
+Are you scared?
+
+314
+00:19:22,085 --> 00:19:24,198
+- I'm fine.
+- [CRACKS]
+
+315
+00:19:24,228 --> 00:19:26,406
+[CROWD CHEERS LOUDLY]
+
+316
+00:19:26,438 --> 00:19:27,494
+I'm not.
+
+317
+00:19:28,517 --> 00:19:30,918
+- Hey, where you going?
+- To hell with this.
+
+318
+00:19:31,941 --> 00:19:33,286
+Wanker.
+
+319
+00:19:35,556 --> 00:19:38,727
+- [CHEERING CONTINUES]
+- Yeah! Yeah!
+
+320
+00:19:41,445 --> 00:19:42,886
+[GATE BUZZES]
+
+321
+00:19:45,796 --> 00:19:47,717
+[MAN GROANING]
+
+322
+00:19:51,940 --> 00:19:54,854
+Hey, he's up next.
+Get him in the cage. Now.
+
+323
+00:20:04,067 --> 00:20:06,021
+Announcer on TV: Here comes
+another unknown contestant...
+
+324
+00:20:06,051 --> 00:20:08,228
+- Man: Hey, isn't that Jin?
+- ...to face Marshall Law.
+
+325
+00:20:08,259 --> 00:20:11,045
+- Law is in peak physical condition.
+- Man: Hey, everyone, it's Jin.
+
+326
+00:20:11,075 --> 00:20:12,996
+Announcer: Hey, remember
+last year's spectacular bout
+
+327
+00:20:13,028 --> 00:20:16,391
+where he knocked out Paul Phoenix
+in 28 seconds, citizens?
+
+328
+00:20:16,420 --> 00:20:19,239
+[CROWD CHANTS]
+Fight fight fight fight fight fight!
+
+329
+00:20:21,379 --> 00:20:24,453
+I'm going to Iron Fist
+and you're in my way.
+
+330
+00:20:24,483 --> 00:20:27,429
+You need to learn some respect.
+[SPITS]
+
+331
+00:20:31,395 --> 00:20:33,796
+Announcer: Any way you cut it,
+this kid doesn't have what it takes
+
+332
+00:20:33,826 --> 00:20:36,197
+- to stand up to Marshall Law.
+- Man: He's gonna be road kill.
+
+333
+00:20:36,226 --> 00:20:37,988
+[CHEERING]
+
+334
+00:20:49,443 --> 00:20:52,036
+- Fight fight!
+- [LAW SHOUTS]
+
+335
+00:21:07,234 --> 00:21:10,950
+- Announcer: Oh my! Off the cage!
+- Yes!
+
+336
+00:21:12,290 --> 00:21:14,947
+- Announcer: What a feat of athleticism!
+- Crowd: Fight fight fight fight fight
+
+337
+00:21:16,513 --> 00:21:19,204
+fight fight fight
+fight fight fight fight
+
+338
+00:21:19,234 --> 00:21:21,891
+fight fight fight fight!
+[CHEERING]
+
+339
+00:21:28,672 --> 00:21:30,146
+Hyah!
+
+340
+00:21:31,425 --> 00:21:32,866
+[YELLS]
+
+341
+00:21:49,121 --> 00:21:51,523
+Announcer #2: He had me going there.
+I thought he had a chance.
+
+342
+00:21:51,553 --> 00:21:53,570
+Announcer: He was a big surprise.
+I gotta telI ya.
+
+343
+00:21:57,953 --> 00:21:59,233
+Announcer #2:
+That's gotta hurt.
+
+344
+00:22:11,392 --> 00:22:15,363
+- Yeah! Yeah!
+- [CROWD CHEERING LOUDLY]
+
+345
+00:22:15,392 --> 00:22:16,608
+Shit.
+
+346
+00:22:22,112 --> 00:22:23,297
+Hyah!
+
+347
+00:22:23,327 --> 00:22:24,769
+- Break free!
+- I can't!
+
+348
+00:22:24,800 --> 00:22:26,946
+If you can still breathe,
+you can still fight.
+
+349
+00:22:26,976 --> 00:22:29,666
+You're only beaten
+when you decide to be.
+
+350
+00:22:29,696 --> 00:22:31,394
+Again!
+
+351
+00:22:31,423 --> 00:22:33,408
+- [LAW GRUNTS)
+- [CROWD CHEERING]
+
+352
+00:22:55,647 --> 00:22:57,376
+- Yes! Come on.
+- Come on, Jin.
+
+353
+00:22:57,407 --> 00:22:59,905
+Announcer: An unknown has
+just become the people's choice.
+
+354
+00:22:59,935 --> 00:23:01,248
+[CROWD CHEERING]
+
+355
+00:23:01,279 --> 00:23:04,578
+Respect. Do you hear it?
+
+356
+00:23:04,607 --> 00:23:07,617
+[CROWD CHANTING]
+Jin, Jin, Jin, Jin, Jin, Jin,
+
+357
+00:23:07,647 --> 00:23:10,818
+Jin, Jin, Jin, Jin, Jin, Jin, Jin, Jin,
+
+358
+00:23:10,847 --> 00:23:13,984
+Jin, Jin, Jin, Jin,
+Jin, Jin, Jin, Jin,
+
+359
+00:23:14,015 --> 00:23:16,000
+Jin, Jin, Jin, Jin, Jin,
+Jin, Jin, Jin, Jin, Jin.
+
+360
+00:23:18,750 --> 00:23:20,480
+[HELICOPTER PASSES OVERHEAD]
+
+361
+00:23:24,702 --> 00:23:28,096
+I've never seen Marshall Law
+beaten by an amateur.
+
+362
+00:23:28,126 --> 00:23:29,502
+Ratings are up.
+
+363
+00:23:29,533 --> 00:23:31,678
+Heihachi:
+Our viewers love him.
+
+364
+00:23:31,709 --> 00:23:34,816
+He represents the street.
+
+365
+00:23:34,846 --> 00:23:37,631
+Let's see what
+the street has taught him.
+
+366
+00:23:37,661 --> 00:23:40,158
+- [PEOPLE CHATTERING]
+- Man: Come on, give him some space.
+
+367
+00:23:40,189 --> 00:23:42,430
+Move! Come on.
+Out of the way. Come on.
+
+368
+00:23:42,461 --> 00:23:44,606
+Give him some space.
+What's your name?
+
+369
+00:23:44,637 --> 00:23:46,078
+- Jin.
+- Jin.
+
+370
+00:23:46,109 --> 00:23:49,503
+Do you know what you just did, Jin?
+You just beat a Tekken fighter.
+
+371
+00:23:50,524 --> 00:23:53,791
+Hey, you say
+you're from the Anvil, yeah?
+
+372
+00:23:53,821 --> 00:23:56,255
+- Right.
+- So who taught you to fight?
+
+373
+00:23:56,285 --> 00:23:58,526
+- My mother.
+- [CHUCKLES] Your mother?
+
+374
+00:23:58,556 --> 00:24:00,574
+- No way.
+- She's dead.
+
+375
+00:24:02,300 --> 00:24:05,984
+Hey. Look, you just won
+the only open slot in Iron Fist.
+
+376
+00:24:06,012 --> 00:24:08,830
+Every other fighter in this
+tournament has sponsors,
+
+377
+00:24:08,860 --> 00:24:11,711
+everyone except you...
+taking care of registration, paperwork,
+
+378
+00:24:11,740 --> 00:24:13,629
+training,
+all the silly little details.
+
+379
+00:24:15,772 --> 00:24:17,790
+I can take care of that for you.
+
+380
+00:24:18,908 --> 00:24:21,662
+- What's in it for you?
+- About, uh, 30%?
+
+381
+00:24:21,692 --> 00:24:24,255
+- But you'll take 10.
+- [LAUGHS]
+
+382
+00:24:24,284 --> 00:24:26,878
+I like your attitude, but no.
+
+383
+00:24:26,909 --> 00:24:30,624
+- 20% and we're done.
+- Fine.
+
+384
+00:24:32,220 --> 00:24:34,557
+It's a smart choice. Let's go.
+
+385
+00:24:35,580 --> 00:24:37,373
+Hey, you don't have
+anything to pack, do you?
+
+386
+00:24:38,908 --> 00:24:40,828
+I didn't think so. Come on.
+
+387
+00:24:52,186 --> 00:24:53,467
+Jin's voice:
+I remember those moves.
+
+388
+00:24:53,498 --> 00:24:56,349
+Jun's voice: You should.
+You were my best student.
+
+389
+00:24:56,379 --> 00:24:59,869
+You will have nothing to do
+with Tekken. Do you understand?
+
+390
+00:25:00,826 --> 00:25:03,741
+The world burned because
+people had to have more.
+
+391
+00:25:03,771 --> 00:25:06,845
+Tekken was built
+on people wanting more!
+
+392
+00:25:20,890 --> 00:25:22,458
+Hi.
+
+393
+00:25:25,211 --> 00:25:27,099
+What's the old man waiting for?
+
+394
+00:25:28,442 --> 00:25:29,723
+[KISSES]
+
+395
+00:25:29,754 --> 00:25:32,412
+I'm his son, his heir.
+
+396
+00:25:36,538 --> 00:25:38,588
+Tekken should be mine now.
+
+397
+00:25:50,778 --> 00:25:53,724
+- Heihachi: Hazuya.
+- Father.
+
+398
+00:25:54,809 --> 00:25:57,499
+[CLEARS THROAT]
+I didn't see you there.
+
+399
+00:26:01,464 --> 00:26:03,610
+Explain yourself.
+
+400
+00:26:04,921 --> 00:26:06,970
+We wiped out
+a pocket of insurgents.
+
+401
+00:26:07,993 --> 00:26:11,260
+I took a moment to... unwind.
+
+402
+00:26:11,289 --> 00:26:13,435
+You should be
+making preparations for Iron Fist.
+
+403
+00:26:13,465 --> 00:26:15,290
+Everything's being taken care of.
+
+404
+00:26:15,321 --> 00:26:16,537
+[BOTTLE SHATTERS]
+
+405
+00:26:16,568 --> 00:26:18,457
+- After all this time...
+- [CHOKING]
+
+406
+00:26:18,488 --> 00:26:20,793
+...and you still don't understand.
+
+407
+00:26:24,248 --> 00:26:28,028
+Winning Iron Fist means
+power and prestige for Tekken
+
+408
+00:26:28,056 --> 00:26:30,106
+and honor for the Mishima name.
+
+409
+00:26:30,137 --> 00:26:34,172
+Winning here means
+we win the world.
+
+410
+00:26:34,199 --> 00:26:35,897
+So you've said.
+
+411
+00:27:08,759 --> 00:27:11,417
+Hey, you stay close to me, okay?
+Keep your mouth shut.
+
+412
+00:27:11,447 --> 00:27:14,457
+Hey. [CHUCKLES]
+You've got to stop checking for Jacks.
+
+413
+00:27:14,487 --> 00:27:16,984
+- Why?
+- It's not the Anvil.
+
+414
+00:27:18,808 --> 00:27:21,306
+This is civilization, my friend,
+
+415
+00:27:21,335 --> 00:27:23,128
+the land of opportunity.
+
+416
+00:27:23,158 --> 00:27:25,592
+- Let's go.
+- [PEOPLE CHATTERING]
+
+417
+00:27:28,790 --> 00:27:31,513
+Hazuya:
+Raven, G-Corp.
+
+418
+00:27:31,542 --> 00:27:33,496
+Former military intelligence,
+
+419
+00:27:33,526 --> 00:27:35,576
+from technology to wet work.
+
+420
+00:27:35,607 --> 00:27:38,424
+- Lethal Ninjitsu expert.
+- [CROWD CHEERS]
+
+421
+00:27:38,454 --> 00:27:40,568
+Eddie Gordo from Valencorp.
+
+422
+00:27:40,599 --> 00:27:43,064
+Capoeira master.
+Underworld enforcer.
+
+423
+00:27:43,095 --> 00:27:45,591
+There's a price on his head
+from a Neo-Salvadorian group.
+
+424
+00:27:45,623 --> 00:27:49,915
+He's powerful
+but he's easily frustrated.
+
+425
+00:27:49,942 --> 00:27:51,799
+Sergei Dragonov.
+
+426
+00:27:51,829 --> 00:27:53,431
+Sambo fighter,
+
+427
+00:27:53,462 --> 00:27:56,472
+trained by the now defunct
+Russian military.
+
+428
+00:27:56,501 --> 00:27:58,359
+Spent a year in a Siberian gulag
+
+429
+00:27:58,389 --> 00:28:00,375
+for supporting
+government reintegration.
+
+430
+00:28:01,461 --> 00:28:04,888
+Anna and Nina Williams, sisters.
+
+431
+00:28:04,918 --> 00:28:08,024
+Professional assassins
+from Eyderdex.
+
+432
+00:28:08,053 --> 00:28:11,704
+Wanted by three corporations
+for exec-level hits.
+
+433
+00:28:11,733 --> 00:28:13,943
+Masters of Kenpo and Aikido.
+
+434
+00:28:14,965 --> 00:28:17,719
+Christie Monteiro
+from Vectrocorp.
+
+435
+00:28:17,749 --> 00:28:20,568
+Skilled mixed martial artist trained
+by her grandfather.
+
+436
+00:28:20,597 --> 00:28:23,319
+Also easy on the eyes.
+
+437
+00:28:24,405 --> 00:28:27,159
+Miguel Rojo,
+a Zipota specialist.
+
+438
+00:28:27,189 --> 00:28:29,590
+He's all style and strategy,
+
+439
+00:28:29,621 --> 00:28:31,734
+but he's a crowd pleaser.
+
+440
+00:28:32,916 --> 00:28:34,518
+Yoshimitsu.
+
+441
+00:28:34,548 --> 00:28:36,054
+Master swordsman.
+
+442
+00:28:36,085 --> 00:28:38,487
+A true samurai warrior.
+
+443
+00:28:40,724 --> 00:28:43,799
+And finally, Bryan Fury.
+
+444
+00:28:43,828 --> 00:28:45,590
+Power Boxer.
+
+445
+00:28:45,620 --> 00:28:48,182
+Kenpo fighter
+at his physical peak
+
+446
+00:28:49,460 --> 00:28:52,823
+and our current Iron Fist champion.
+
+447
+00:28:56,661 --> 00:28:58,838
+[BUZZING]
+
+448
+00:28:58,867 --> 00:29:00,789
+[BEEPS]
+
+449
+00:29:02,421 --> 00:29:03,670
+Hyah! Hyah!
+
+450
+00:29:03,699 --> 00:29:05,108
+Here.
+
+451
+00:29:06,100 --> 00:29:08,053
+- What's this?
+- Are you kidding me?
+
+452
+00:29:08,084 --> 00:29:09,909
+They have signature.
+
+453
+00:29:09,939 --> 00:29:11,028
+[CHUCKLES]
+
+454
+00:29:13,012 --> 00:29:14,165
+I'm not wearing those.
+
+455
+00:29:17,203 --> 00:29:19,092
+Man:
+See, things are different now, Jin.
+
+456
+00:29:19,122 --> 00:29:20,820
+This is Iron Fist.
+
+457
+00:29:20,851 --> 00:29:23,348
+lron Fist, image is key.
+
+458
+00:29:23,380 --> 00:29:26,165
+You have your signature move
+and guess what...
+
+459
+00:29:26,195 --> 00:29:27,315
+now you have your signature look.
+
+460
+00:29:31,219 --> 00:29:32,596
+Steve Fox.
+
+461
+00:29:34,004 --> 00:29:37,366
+- Fury: Who is this guy?
+- Raven: Never seen him before.
+
+462
+00:29:37,395 --> 00:29:39,445
+Here's your room. Sign in.
+
+463
+00:29:39,474 --> 00:29:42,549
+- Who reps him?
+- Fury: Just another amateur.
+
+464
+00:29:43,571 --> 00:29:46,837
+- He's nothing.
+- [CHUCKLES] Someone must love you.
+
+465
+00:29:46,867 --> 00:29:48,531
+They gave you Marshall Law's digs.
+
+466
+00:29:49,523 --> 00:29:51,221
+Stick around.
+I'll be right back.
+
+467
+00:30:07,377 --> 00:30:08,850
+What's your problem?
+
+468
+00:30:10,162 --> 00:30:11,730
+Nothing.
+
+469
+00:30:12,914 --> 00:30:14,291
+You know, it's rude to stare.
+
+470
+00:30:15,826 --> 00:30:19,220
+I'm sorry.
+I was just admiring your toes.
+
+471
+00:30:20,210 --> 00:30:24,021
+- Excuse me?
+- I mean Bagua Zhang requires
+
+472
+00:30:24,049 --> 00:30:25,971
+very precise foot placement.
+
+473
+00:30:26,002 --> 00:30:28,853
+The way you spread your toes,
+it's... uh
+
+474
+00:30:29,842 --> 00:30:31,731
+it's impressive.
+
+475
+00:30:33,969 --> 00:30:35,731
+You studied Bagua?
+
+476
+00:30:36,720 --> 00:30:37,809
+A little.
+
+477
+00:30:39,057 --> 00:30:40,881
+Who are you, anyway?
+
+478
+00:30:40,912 --> 00:30:42,481
+Name's Jin.
+
+479
+00:30:43,856 --> 00:30:46,484
+So you're the People's Choice?
+
+480
+00:30:46,513 --> 00:30:48,242
+You seem surprised.
+
+481
+00:30:50,064 --> 00:30:51,888
+You don't look like much.
+
+482
+00:30:51,922 --> 00:30:54,771
+You'll remember you said that
+when I win Iron Fist.
+
+483
+00:30:56,176 --> 00:30:57,648
+Right.
+
+484
+00:30:57,681 --> 00:30:59,314
+[FOX CLEARS THROAT]
+
+485
+00:31:00,305 --> 00:31:01,873
+Hey, Jin, this way.
+
+486
+00:31:04,431 --> 00:31:06,385
+See you in the arena.
+
+487
+00:31:10,961 --> 00:31:14,483
+TV announcer: Coming to you live
+from this year's Iron Fist tournament
+
+488
+00:31:14,511 --> 00:31:16,208
+- in Tekken City.
+- [CROWD CHEERING]
+
+489
+00:31:16,240 --> 00:31:18,257
+TV announcer #2:
+Last night history was made
+
+490
+00:31:18,288 --> 00:31:21,586
+when for the first time
+a wildcard open call fight
+
+491
+00:31:21,616 --> 00:31:23,826
+was won by an unknown.
+
+492
+00:31:23,855 --> 00:31:25,744
+His name is Jin.
+
+493
+00:31:25,775 --> 00:31:28,049
+This young fighter won
+with spectacular style
+
+494
+00:31:28,080 --> 00:31:30,834
+and will appear next
+to the world's greatest fighters.
+
+495
+00:31:30,863 --> 00:31:33,586
+Fight announcer:
+Raven!
+
+496
+00:31:33,615 --> 00:31:34,639
+Yeah!
+
+497
+00:31:34,670 --> 00:31:38,450
+Announcer:
+Miguel Rojo!
+
+498
+00:31:38,479 --> 00:31:41,426
+Nina Williams!
+
+499
+00:31:41,455 --> 00:31:45,266
+Anna Williams!
+
+500
+00:31:45,295 --> 00:31:49,010
+Sergei Dragonov!
+
+501
+00:31:49,039 --> 00:31:51,633
+Bryan Fury!
+
+502
+00:31:52,622 --> 00:31:55,921
+Eddie Gordo, Valencorp!
+
+503
+00:31:55,950 --> 00:31:59,153
+Staring at my ass is
+a good way to get yours kicked.
+
+504
+00:31:59,182 --> 00:32:01,327
+I'd keep my head
+in the game if I were you.
+
+505
+00:32:01,358 --> 00:32:04,208
+[GRUNTS]
+
+506
+00:32:04,238 --> 00:32:08,017
+Announcer:
+Christie Monteiro, Vectrocorp!
+
+507
+00:32:08,046 --> 00:32:11,377
+Hey, Jin, you feel okay?
+
+508
+00:32:13,455 --> 00:32:15,056
+I feel sick.
+
+509
+00:32:15,086 --> 00:32:17,104
+- Think you're gonna puke?
+- I already did that.
+
+510
+00:32:17,135 --> 00:32:19,888
+Announcer:
+The first Anvil fighter ever
+
+511
+00:32:19,918 --> 00:32:21,839
+- to win an open call...
+- Go on.
+
+512
+00:32:21,870 --> 00:32:25,073
+...Jin, the People's Choice!
+
+513
+00:32:25,101 --> 00:32:27,022
+[CHEERING, SCATTERED BOOS]
+
+514
+00:32:28,173 --> 00:32:30,127
+He was quite impressive yesterday.
+
+515
+00:32:30,157 --> 00:32:32,559
+Yeah, but not on the same level
+as the other fighters.
+
+516
+00:32:32,590 --> 00:32:34,927
+Maybe you should ask Marshall Law.
+
+517
+00:32:34,957 --> 00:32:37,134
+He caught Law at a weak moment.
+
+518
+00:32:37,165 --> 00:32:39,183
+Why are you
+so threatened by this fighter?
+
+519
+00:32:39,213 --> 00:32:40,846
+I'm not.
+
+520
+00:32:41,805 --> 00:32:44,816
+I'd just hate to see
+Tekken embarrassed by a lucky amateur.
+
+521
+00:33:00,557 --> 00:33:02,765
+[CHEERING)
+[DISPLAY BEEPING]
+
+522
+00:33:04,077 --> 00:33:08,785
+[DINGS]
+Announcer: Raven versus Eddie Gordo
+
+523
+00:33:08,813 --> 00:33:12,271
+in the first round
+of the Iron Fist tournament!
+
+524
+00:33:26,060 --> 00:33:29,327
+[EDDIE PANTS)
+[RAVEN SHOUTS]
+
+525
+00:33:29,357 --> 00:33:31,181
+Hyah!
+
+526
+00:33:54,539 --> 00:33:55,979
+Ah!
+
+527
+00:34:04,523 --> 00:34:06,955
+- Bring it on, boy!
+- Come on!
+
+528
+00:34:38,729 --> 00:34:41,163
+[CROWD CHEERING LOUDLY]
+
+529
+00:34:43,593 --> 00:34:46,220
+Announcer:
+Raven is the winner
+
+530
+00:34:46,249 --> 00:34:49,100
+advancing to the next round.
+
+531
+00:34:49,129 --> 00:34:52,044
+[BEEPS]
+
+532
+00:34:53,226 --> 00:34:54,571
+[BELL DINGS]
+
+533
+00:34:58,025 --> 00:34:59,370
+[DISPLAY BEEPING]
+
+534
+00:35:02,025 --> 00:35:05,035
+- [DINGS]
+- Announcer: Miguel Rojo!
+
+535
+00:35:07,978 --> 00:35:09,931
+[BEEPING]
+
+536
+00:35:13,192 --> 00:35:17,676
+- [DINGS]
+- Announcer: Jin, the People's Choice!
+
+537
+00:35:20,137 --> 00:35:21,481
+You're up, kid.
+
+538
+00:35:25,097 --> 00:35:26,569
+Good luck.
+
+539
+00:35:28,488 --> 00:35:30,377
+[CROWD CHEERING]
+
+540
+00:35:31,656 --> 00:35:34,283
+This guy's a prick.
+He thinks he's the second coming.
+
+541
+00:35:34,312 --> 00:35:37,193
+- He's egotistical, way overconfident...
+- He's damn good.
+
+542
+00:35:37,224 --> 00:35:39,370
+Yeah, he is.
+You use that ego against him,
+
+543
+00:35:39,400 --> 00:35:41,898
+use your speed against him.
+Tire this guy out, okay?
+
+544
+00:35:41,928 --> 00:35:43,241
+Stick and move.
+
+545
+00:35:44,904 --> 00:35:46,184
+Miguel:
+Let's go! Come on!
+
+546
+00:35:47,143 --> 00:35:49,097
+Come on!
+You ready? Let's go!
+
+547
+00:35:49,128 --> 00:35:51,561
+- Hey, one last thing, okay?
+- Miguel: I haven't got all day, Jin!
+
+548
+00:35:51,591 --> 00:35:53,448
+You get Rojo to jab,
+when he throws his right,
+
+549
+00:35:53,479 --> 00:35:54,920
+every time he throws his right,
+
+550
+00:35:54,952 --> 00:35:57,706
+he locks out his left knee, okay?
+
+551
+00:35:57,735 --> 00:35:59,977
+Great. Thanks.
+
+552
+00:36:00,008 --> 00:36:01,609
+Miguel: Let's go, Jin!
+What are you waiting for?
+
+553
+00:36:02,952 --> 00:36:04,424
+Use it.
+
+554
+00:36:04,455 --> 00:36:06,249
+Miguel:
+Let's go! Come on!
+
+555
+00:36:06,280 --> 00:36:08,937
+I'm waiting here. Come on!
+
+556
+00:36:10,568 --> 00:36:12,489
+[CHEERING CONTINUES, SCATTERED BOOING]
+
+557
+00:36:51,686 --> 00:36:53,159
+Like I said,
+
+558
+00:36:53,190 --> 00:36:55,207
+not in their league.
+
+559
+00:36:55,238 --> 00:36:56,711
+You know where you are?
+
+560
+00:36:56,741 --> 00:36:59,175
+- [PANTS]
+- This is Iron Fist!
+
+561
+00:36:59,206 --> 00:37:01,319
+- [CHEERING]
+- Come on!
+
+562
+00:37:03,398 --> 00:37:06,665
+- Yes.
+- Crowd: Come on, Jin! Come on, Jin!
+
+563
+00:37:16,389 --> 00:37:18,118
+- [MIGUEL GRUNTS]
+- Yes.
+
+564
+00:37:19,686 --> 00:37:21,415
+Hyah!
+
+565
+00:37:41,669 --> 00:37:43,687
+- Wow! Whoo!
+- Get him!
+
+566
+00:37:49,284 --> 00:37:50,630
+That's it, kid.
+
+567
+00:37:57,828 --> 00:38:00,005
+Get up, Jin!
+Shake it off! Get up!
+
+568
+00:38:02,084 --> 00:38:04,165
+So much for the People's Choice.
+
+569
+00:38:04,196 --> 00:38:06,277
+- Shut up.
+- What's the matter, Monteiro?
+
+570
+00:38:07,299 --> 00:38:09,253
+The Anvil rat got under your skin?
+
+571
+00:38:09,283 --> 00:38:11,654
+Why don't we see what's
+under your skin, cyborg?
+
+572
+00:38:11,684 --> 00:38:13,060
+What did you say?
+
+573
+00:38:14,051 --> 00:38:15,524
+You heard me.
+
+574
+00:38:16,546 --> 00:38:19,717
+- [YOUNG JIN SHOUTS]
+- Never underestimate your opponent.
+
+575
+00:38:19,747 --> 00:38:21,572
+Watch. Adapt.
+
+576
+00:38:21,602 --> 00:38:24,838
+Every strike should be your best.
+
+577
+00:38:24,867 --> 00:38:27,814
+- [CROWD CHEERING]
+- That's it, kid. Get up!
+
+578
+00:38:49,122 --> 00:38:52,838
+- [CRACKS]
+- [SCREAMS]
+
+579
+00:38:53,953 --> 00:38:56,996
+- [CROWD CHEERS]
+- Do it! Do it, Jin!
+
+580
+00:39:11,458 --> 00:39:13,828
+[SHOUTS]
+
+581
+00:39:13,858 --> 00:39:14,914
+Fox: Jin!
+
+582
+00:39:16,513 --> 00:39:17,762
+Jin!
+
+583
+00:39:19,682 --> 00:39:20,963
+Stop it, Jin! It's over!
+
+584
+00:39:20,993 --> 00:39:22,914
+[CHEERING CONTINUES]
+
+585
+00:39:25,281 --> 00:39:27,683
+You were saying?
+
+586
+00:39:37,953 --> 00:39:39,874
+[CHEERING CONTINUES]
+
+587
+00:39:42,786 --> 00:39:45,284
+- Thanks for the tip.
+- Well, that's my job.
+
+588
+00:39:45,312 --> 00:39:48,066
+See, the more fights you win,
+the more money l make.
+
+589
+00:39:48,097 --> 00:39:49,985
+- Ah!
+- Does that hurt?
+
+590
+00:39:50,016 --> 00:39:51,522
+- It hurts everywhere.
+- [CHUCKLES]
+
+591
+00:39:51,552 --> 00:39:55,011
+Nice finish.
+Very entertaining,
+
+592
+00:39:55,041 --> 00:39:57,474
+but completely out of control.
+
+593
+00:39:57,504 --> 00:40:00,130
+You know you don't have time
+for that shit, right? Huh?
+
+594
+00:40:00,160 --> 00:40:01,537
+I know why I'm here.
+
+595
+00:40:01,569 --> 00:40:03,202
+- You do?
+- Yeah.
+
+596
+00:40:03,232 --> 00:40:04,898
+Good, 'cause you were
+damn lucky in there.
+
+597
+00:40:04,928 --> 00:40:07,009
+Next time you've got to get
+everyone as quick as you can.
+
+598
+00:40:07,040 --> 00:40:08,289
+You've gotta hit 'em hard,
+you've gotta hit 'em high.
+
+599
+00:40:08,320 --> 00:40:12,484
+Steve Fox.
+Back from the Anvil.
+
+600
+00:40:12,512 --> 00:40:14,465
+Well, we both know
+Tekken City is my home.
+
+601
+00:40:14,495 --> 00:40:16,064
+Of course.
+
+602
+00:40:16,095 --> 00:40:19,394
+I've heard you've leant
+your expertise to our new fighter.
+
+603
+00:40:19,423 --> 00:40:21,761
+Let me introduce you.
+This is... this is Jin,
+
+604
+00:40:21,791 --> 00:40:23,553
+the People's Choice.
+
+605
+00:40:23,583 --> 00:40:27,171
+Well, congratulations
+on a spectacular fight.
+
+606
+00:40:27,199 --> 00:40:30,369
+You've impressed my father...
+not an easy task.
+
+607
+00:40:30,399 --> 00:40:32,961
+I'd like to thank
+Mr. Mishima in person
+
+608
+00:40:32,992 --> 00:40:34,528
+for this opportunity.
+
+609
+00:40:34,559 --> 00:40:36,449
+Well, continue winning
+and you will.
+
+610
+00:40:37,440 --> 00:40:40,322
+There's something familiar
+about your style.
+
+611
+00:40:41,407 --> 00:40:43,552
+Did your father ever fight
+in Iron Fist?
+
+612
+00:40:43,583 --> 00:40:45,888
+- Didn't know my father.
+- [CHUCKLES]
+
+613
+00:40:45,919 --> 00:40:47,713
+Well, not uncommon in the Anvil.
+
+614
+00:40:47,743 --> 00:40:49,920
+Work hard, keep training
+
+615
+00:40:49,951 --> 00:40:51,905
+and someday you could be
+an asset to Tekken.
+
+616
+00:40:51,935 --> 00:40:53,823
+I’ll never belong to Tekken.
+
+617
+00:40:53,854 --> 00:40:56,224
+We'll see about that.
+
+618
+00:41:03,423 --> 00:41:06,946
+- What was that?
+- Just-just do your job.
+
+619
+00:41:10,269 --> 00:41:12,191
+[GRUNTING]
+
+620
+00:41:19,518 --> 00:41:22,753
+Jun's voice:
+Defeat is a choice! So is victory.
+
+621
+00:41:22,781 --> 00:41:25,760
+You're only beaten
+when you decide! Again!
+
+622
+00:41:27,006 --> 00:41:28,030
+[YOUNG JIN SHOUTING]
+
+623
+00:41:49,117 --> 00:41:50,974
+[KNOCKS ON DOOR]
+
+624
+00:42:04,124 --> 00:42:06,591
+I gotta get out of here for awhile.
+
+625
+00:42:06,621 --> 00:42:08,287
+Thought that was against the rules.
+
+626
+00:42:10,300 --> 00:42:12,190
+Not if you don't get caught.
+
+627
+00:42:22,780 --> 00:42:24,286
+[BEEPING]
+
+628
+00:42:54,715 --> 00:42:56,444
+Christie: Come on.
+
+629
+00:42:56,476 --> 00:42:58,717
+[ROCK MUSIC PLAYING]
+
+630
+00:42:58,747 --> 00:43:01,693
+Man over P.A.: We've got Jin,
+the People's Choice, entering the club!
+
+631
+00:43:01,722 --> 00:43:03,515
+- Let's go! Give it up!
+- Hey, Jin.
+
+632
+00:43:03,546 --> 00:43:06,075
+- You were great today.
+- Thank you.
+
+633
+00:43:07,259 --> 00:43:10,110
+Three days ago,
+I had gangbangers trying to kilI me.
+
+634
+00:43:10,139 --> 00:43:13,759
+And today you're a celebrity.
+Get used to it.
+
+635
+00:43:13,787 --> 00:43:17,598
+# decide if I wilI #
+# have you come home with me #
+
+636
+00:43:17,626 --> 00:43:21,790
+# Love my mind, but you know
+you know you don't... #
+
+637
+00:43:21,818 --> 00:43:24,059
+So what happened
+out there with Rojo?
+
+638
+00:43:24,089 --> 00:43:26,075
+I beat him.
+That's what happened.
+
+639
+00:43:26,106 --> 00:43:28,059
+You did more than just beat him.
+You almost killed him.
+
+640
+00:43:28,090 --> 00:43:31,677
+Can I give you a little advice?
+Iron Fist isn't about killing
+
+641
+00:43:31,706 --> 00:43:34,556
+- or getting yourself killed.
+- So you brought me here to warn me?
+
+642
+00:43:34,586 --> 00:43:37,084
+I'm just saying an attitude
+like that is gonna get you in trouble.
+
+643
+00:43:37,113 --> 00:43:40,604
+I guess I should be
+more in control... like you.
+
+644
+00:43:42,105 --> 00:43:44,187
+You don't know anything about me.
+
+645
+00:43:45,178 --> 00:43:47,515
+You grew up just outside
+the American territories.
+
+646
+00:43:47,545 --> 00:43:49,435
+Your grandfather
+taught you how to fight,
+
+647
+00:43:49,466 --> 00:43:51,067
+entered you
+into amateur leagues,
+
+648
+00:43:51,098 --> 00:43:52,603
+made you a champion.
+
+649
+00:43:52,632 --> 00:43:54,778
+I've seen all the Iron Fist promos.
+
+650
+00:43:54,809 --> 00:43:57,146
+Well, those promos
+don't showcase all my skills.
+
+651
+00:43:57,178 --> 00:43:59,163
+# I want reaI hard candy #
+
+652
+00:43:59,193 --> 00:44:00,826
+# Sugar Hiller #
+
+653
+00:44:02,232 --> 00:44:04,346
+# Sugar Hiller #
+
+654
+00:44:05,497 --> 00:44:08,924
+- # Sugar Hiller #
+- # Sugar Hiller #
+
+655
+00:44:08,952 --> 00:44:12,827
+# Am I to die? So sweet,
+so slow, it kills me #
+
+656
+00:44:12,857 --> 00:44:16,475
+- # Sugar Hiller #
+- # Sugar Hiller #
+
+657
+00:44:16,504 --> 00:44:18,073
+# Sugar Hiller #
+
+658
+00:44:19,801 --> 00:44:23,228
+# Sugar Hiller,
+are you dying for more? #
+
+659
+00:44:23,255 --> 00:44:27,131
+# To die, so sweet,
+so slow, it kills me #
+
+660
+00:44:34,104 --> 00:44:37,628
+# Seek you out,
+creeping in your pleasure dome... #
+
+661
+00:44:44,279 --> 00:44:45,560
+[CHUCKLES SOFTLY]
+Shh shh shh.
+
+662
+00:44:46,551 --> 00:44:47,575
+Okay, he's gone.
+
+663
+00:44:55,127 --> 00:44:58,715
+- Oh, I shouldn't.
+- I think you should.
+
+664
+00:45:04,727 --> 00:45:06,489
+Oh, I need sleep.
+
+665
+00:45:06,518 --> 00:45:09,048
+I may have to kick your ass
+tomorrow morning.
+
+666
+00:45:09,079 --> 00:45:10,647
+You promise?
+
+667
+00:45:15,383 --> 00:45:17,049
+Mmm.
+
+668
+00:45:17,079 --> 00:45:19,416
+[SIGHS]
+Go to bed.
+
+669
+00:45:36,951 --> 00:45:38,071
+Woman: Hyah!
+
+670
+00:45:39,926 --> 00:45:41,110
+[WEAPONS ZING]
+
+671
+00:45:41,142 --> 00:45:43,672
+- [WOMEN SHOUT]
+- [JIN GRUNTING]
+
+672
+00:45:47,094 --> 00:45:49,912
+[GLASS SHATTERS]
+
+673
+00:46:00,790 --> 00:46:02,262
+- [DOOR RATTLES]
+- [WHISPERING] Jin!
+
+674
+00:46:21,461 --> 00:46:24,792
+Stand up for Christ's sake.
+[GRUNTS]
+
+675
+00:46:26,004 --> 00:46:28,278
+I knew it. They're worried
+
+676
+00:46:28,308 --> 00:46:30,358
+because they actually believe
+you have a shot.
+
+677
+00:46:30,388 --> 00:46:32,054
+Nothing changes.
+There's no way...
+
+678
+00:46:32,084 --> 00:46:35,320
+No way they're gonna let someone
+from the Anvil win the Iron Fist.
+
+679
+00:46:37,108 --> 00:46:39,574
+Jin: Maybe it has to do
+with something else.
+
+680
+00:46:41,940 --> 00:46:43,958
+Where did you get this?
+
+681
+00:46:43,989 --> 00:46:45,302
+It belonged to my mother.
+
+682
+00:46:49,140 --> 00:46:50,356
+Jun Hazama.
+
+683
+00:46:51,347 --> 00:46:52,596
+I knew her.
+
+684
+00:46:53,620 --> 00:46:57,143
+- You knew her?
+- We were in Iron Fist together.
+
+685
+00:46:57,172 --> 00:46:59,253
+That's not possible.
+
+686
+00:46:59,283 --> 00:47:02,807
+She was a Tekken fighter, Jin.
+She was good.
+
+687
+00:47:02,836 --> 00:47:04,533
+You don't know
+what you're talking about.
+
+688
+00:47:04,564 --> 00:47:08,791
+Everything about
+your mother was... unique,
+
+689
+00:47:08,819 --> 00:47:10,260
+even her fighting style.
+
+690
+00:47:10,290 --> 00:47:13,013
+Why didn't she say anything?
+
+691
+00:47:13,043 --> 00:47:14,580
+Why would she lie to me?
+
+692
+00:47:14,612 --> 00:47:16,309
+Maybe she was trying
+to protect you, Jin.
+
+693
+00:47:16,340 --> 00:47:18,902
+Listen to me, Jin. Right now
+you need to get out of here.
+
+694
+00:47:18,930 --> 00:47:21,012
+- Go underground.
+- She's right.
+
+695
+00:47:21,043 --> 00:47:23,220
+- I'm not leaving.
+- Forget Iron Fist.
+
+696
+00:47:23,251 --> 00:47:26,422
+I don't give a damn
+about Iron Fist.
+
+697
+00:47:26,452 --> 00:47:30,231
+I came here to kill
+Heihachi Mishima.
+
+698
+00:47:31,187 --> 00:47:33,205
+[BOTH GRUNTING]
+
+699
+00:47:38,515 --> 00:47:41,237
+Do you know
+what a nightmare this is?
+
+700
+00:47:41,266 --> 00:47:45,493
+- I think you worry too much.
+- Don't talk back to me.
+
+701
+00:47:45,522 --> 00:47:49,110
+You failed me.
+He's still alive.
+
+702
+00:47:49,138 --> 00:47:52,373
+It was a fluke.
+It won't happen again.
+
+703
+00:47:52,402 --> 00:47:54,322
+No.
+
+704
+00:47:55,346 --> 00:47:57,332
+You underestimated him
+
+705
+00:47:58,418 --> 00:48:02,260
+and now I have to
+clean up your mess.
+
+706
+00:48:09,074 --> 00:48:09,074
+[MAN GRUNTS]
+
+707
+00:48:10,129 --> 00:48:11,698
+- [BEEPING]
+- [CROWD CHEERING]
+
+708
+00:48:12,657 --> 00:48:15,028
+Just stay where
+the TV cameras can see you.
+
+709
+00:48:15,057 --> 00:48:17,811
+They won't try anything
+with the world watching.
+
+710
+00:48:18,961 --> 00:48:22,676
+- [DINGS]
+- Announcer: Christie Monteiro!
+
+711
+00:48:23,857 --> 00:48:28,277
+- [DINGS]
+- Announcer: Nina Williams!
+
+712
+00:48:32,112 --> 00:48:34,419
+- I think it was her.
+- What?
+
+713
+00:48:35,601 --> 00:48:36,881
+Jin:
+Nina Williams.
+
+714
+00:48:36,913 --> 00:48:39,507
+She was one of the assassins.
+
+715
+00:48:42,993 --> 00:48:44,466
+Good to know.
+
+716
+00:49:06,768 --> 00:49:08,337
+Out a little late last night?
+
+717
+00:49:09,872 --> 00:49:12,242
+I like your boyfriend.
+He's cute.
+
+718
+00:49:36,110 --> 00:49:39,185
+Sorry. I don't share.
+
+719
+00:49:42,319 --> 00:49:47,186
+$100,000 Global to whoever kills
+that kid from the Anvil.
+
+720
+00:49:48,271 --> 00:49:50,642
+What makes you think
+I need your money?
+
+721
+00:49:53,422 --> 00:49:55,344
+Hyah!
+
+722
+00:49:56,430 --> 00:49:59,568
+Replacing bone with flex steel
+isn't cheap, is it, Bryan?
+
+723
+00:49:59,598 --> 00:50:02,256
+Neither is the maintenance.
+
+724
+00:50:02,286 --> 00:50:04,175
+It's no wonder
+you can punch through walls.
+
+725
+00:50:04,206 --> 00:50:07,537
+I am what the corporations made me.
+
+726
+00:50:07,567 --> 00:50:09,296
+As I recall
+
+727
+00:50:09,326 --> 00:50:12,272
+Bio-Enhancements are
+illegal in Iron Fist.
+
+728
+00:50:12,302 --> 00:50:15,569
+Christ, Bryan,
+you're half robot.
+
+729
+00:50:15,598 --> 00:50:18,256
+You'll be banned for life.
+
+730
+00:50:18,287 --> 00:50:19,728
+Hyah!
+
+731
+00:50:22,349 --> 00:50:24,399
+Lock in the fight selector.
+
+732
+00:50:27,886 --> 00:50:29,423
+Heihachi:
+What are the Jacks doing here?
+
+733
+00:50:29,453 --> 00:50:30,798
+Hazuya:
+Extra security.
+
+734
+00:50:30,828 --> 00:50:33,551
+There was an incident
+inside the barracks last night.
+
+735
+00:50:33,582 --> 00:50:37,745
+I read the report, insurgent
+forces inside Tekken.
+
+736
+00:50:37,773 --> 00:50:41,905
+There is no reason for concern. I have
+dealt with the problem personally.
+
+737
+00:50:41,933 --> 00:50:45,136
+Heihachi: I don't want anything
+to happen to this young fighter.
+
+738
+00:50:46,445 --> 00:50:48,365
+[CROWD CHEERING]
+
+739
+00:50:49,421 --> 00:50:52,303
+- Hey, how you feeling?
+- I'm good.
+
+740
+00:50:52,333 --> 00:50:53,901
+[BEEPING]
+
+741
+00:50:53,933 --> 00:50:56,655
+- [DINGS]
+- Announcer: Jin, the People's Choice!
+
+742
+00:50:56,686 --> 00:50:58,863
+Let me see.
+
+743
+00:50:58,892 --> 00:51:00,398
+Oh shit.
+
+744
+00:51:01,357 --> 00:51:04,880
+- [DINGS]
+- Announcer: Yoshimitsu!
+
+745
+00:51:06,029 --> 00:51:08,431
+Here, I have something for you.
+
+746
+00:51:13,196 --> 00:51:15,629
+My old power gloves.
+
+747
+00:51:15,660 --> 00:51:18,927
+[CHUCKLES]
+Whoa. It's been a long time.
+
+748
+00:51:18,956 --> 00:51:21,485
+A little worse for wear now.
+
+749
+00:51:23,884 --> 00:51:25,228
+Give me your hand.
+
+750
+00:51:25,260 --> 00:51:27,405
+Gonna keep these safe.
+
+751
+00:51:29,964 --> 00:51:31,597
+When you're out there today,
+
+752
+00:51:33,355 --> 00:51:35,053
+you stay smart, okay?
+
+753
+00:51:35,085 --> 00:51:37,679
+You've gotta bob. You've gotta weave.
+You've gotta fly if you have to.
+
+754
+00:51:37,708 --> 00:51:40,527
+But you don't let
+Yoshimitsu touch you...
+
+755
+00:51:40,556 --> 00:51:41,836
+ever.
+
+756
+00:51:44,011 --> 00:51:45,388
+Take him.
+
+757
+00:51:56,204 --> 00:51:58,509
+- Nice.
+- Uh-huh.
+
+758
+00:52:02,218 --> 00:52:05,421
+- [BEEPING]
+- Recycle the challenger selection.
+
+759
+00:52:05,450 --> 00:52:08,332
+- What are you doing?
+- This match is better suited
+
+760
+00:52:08,363 --> 00:52:09,835
+for the semifinal.
+
+761
+00:52:11,530 --> 00:52:13,452
+- Woman: Come on, Jin!
+- [CHEERING]
+
+762
+00:52:17,994 --> 00:52:21,678
+No. You can't do that.
+
+763
+00:52:21,707 --> 00:52:24,269
+These two have to fight now.
+
+764
+00:52:24,297 --> 00:52:26,539
+Are you questioning me?
+
+765
+00:52:26,569 --> 00:52:28,812
+No, I'm replacing you.
+
+766
+00:52:31,498 --> 00:52:33,067
+- [GRUNTS]
+- Jacks!
+
+767
+00:52:34,698 --> 00:52:37,003
+What are you doing?
+Stand down!
+
+768
+00:52:37,033 --> 00:52:40,588
+You put me in charge of security,
+remember, Father?
+
+769
+00:52:40,617 --> 00:52:43,371
+The Jackhammers answer to me.
+
+770
+00:52:43,400 --> 00:52:45,930
+Hazuya, do not do this.
+
+771
+00:52:45,962 --> 00:52:47,403
+It's done.
+
+772
+00:52:47,434 --> 00:52:49,867
+I am through waiting.
+
+773
+00:52:49,898 --> 00:52:53,165
+Tekken is mine.
+
+774
+00:52:53,194 --> 00:52:55,595
+Maintain the original
+fight selection.
+
+775
+00:53:14,569 --> 00:53:16,266
+Jesus.
+
+776
+00:54:12,135 --> 00:54:13,736
+TV announcer: Yoshimitsu was
+
+777
+00:54:13,767 --> 00:54:15,143
+- a past Iron Fist champion.
+- Let's go, man! Let's go, Let's go!
+
+778
+00:54:25,447 --> 00:54:26,696
+Oh, damn it.
+
+779
+00:54:51,077 --> 00:54:52,070
+- Yes!
+- Yeah!
+
+780
+00:55:11,492 --> 00:55:13,446
+Look at the ratings...
+
+781
+00:55:13,477 --> 00:55:14,630
+- through the roof.
+- [BEEPING]
+
+782
+00:55:15,685 --> 00:55:19,431
+You see, the only thing audiences
+crave more than blood is death.
+
+783
+00:55:20,422 --> 00:55:22,279
+You see, Father?
+
+784
+00:55:22,309 --> 00:55:24,486
+I have learned.
+[CHUCKLES]
+
+785
+00:55:39,556 --> 00:55:42,023
+Announcer:
+Yoshimitsu is out for blood!
+
+786
+00:55:42,051 --> 00:55:43,524
+He's decimating Jin!
+
+787
+00:55:43,557 --> 00:55:44,966
+[JIN GRUNTING]
+
+788
+00:55:44,995 --> 00:55:46,564
+Ah. Come on.
+
+789
+00:55:53,891 --> 00:55:55,781
+Stop the fight!
+
+790
+00:56:00,163 --> 00:56:02,822
+There is no honor in this.
+
+791
+00:56:03,812 --> 00:56:06,822
+You are about to witness
+the death of Jin Hazama.
+
+792
+00:56:06,851 --> 00:56:09,574
+- Hazama?
+- Hazuya: Apparently the byproduct
+
+793
+00:56:09,604 --> 00:56:11,845
+of one of my youthful indiscretions.
+
+794
+00:56:11,875 --> 00:56:13,860
+You have a son.
+
+795
+00:56:15,587 --> 00:56:17,124
+I had a son.
+
+796
+00:56:18,530 --> 00:56:20,003
+Ah!
+
+797
+00:56:23,780 --> 00:56:26,021
+- Man over P.A.: Security alert!
+- [ALARM BLARING]
+
+798
+00:56:26,051 --> 00:56:29,766
+- Security alert!
+- Destroy the mask of death
+
+799
+00:56:29,796 --> 00:56:32,934
+and you will see there is
+nothing behind it to fear.
+
+800
+00:56:38,531 --> 00:56:41,060
+[SHOUTS]
+
+801
+00:56:41,091 --> 00:56:45,190
+- [CHEERING STOPS]
+- Man: Security alert!
+
+802
+00:56:45,218 --> 00:56:47,203
+Damn you, old man!
+
+803
+00:56:47,234 --> 00:56:49,667
+You will regret this.
+
+804
+00:56:50,659 --> 00:56:53,093
+- Take him.
+- [JACK SPEAKS JAPANESE]
+
+805
+00:56:53,122 --> 00:56:56,133
+- Security alert!
+- Not like this.
+
+806
+00:56:59,970 --> 00:57:01,698
+[BOOING]
+
+807
+00:57:03,266 --> 00:57:05,733
+- Jin. Take these off.
+- Man: Security alert!
+
+808
+00:57:05,762 --> 00:57:07,139
+We've gotta get him
+out of Tekken City.
+
+809
+00:57:07,170 --> 00:57:09,572
+[JIN GROANING]
+
+810
+00:57:12,514 --> 00:57:14,691
+Man: Iron Fist fighters are
+to be detained.
+
+811
+00:57:16,162 --> 00:57:18,179
+- [JACK SPEAKS JAPANESE)
+- [CROWD BOOING]
+
+812
+00:57:20,129 --> 00:57:22,018
+[PEOPLE SCREAMING]
+
+813
+00:57:28,737 --> 00:57:30,242
+Over here.
+
+814
+00:57:35,328 --> 00:57:38,435
+Jesus.
+They're arresting Mishima.
+
+815
+00:57:39,904 --> 00:57:42,498
+We need to get out of here now.
+Come on, let's go. This way.
+
+816
+00:57:44,832 --> 00:57:46,752
+- Oh shoot.
+- [JACKS SPEAK JAPANESE]
+
+817
+00:57:48,353 --> 00:57:49,569
+Oh shit.
+
+818
+00:57:54,049 --> 00:57:56,611
+You can't arrest us.
+We're Iron Fist fighters.
+
+819
+00:57:58,208 --> 00:58:00,226
+Now get in there!
+
+820
+00:58:01,472 --> 00:58:02,817
+[GATE SHUTS]
+
+821
+00:58:02,849 --> 00:58:04,258
+[JIN GROANING]
+
+822
+00:58:04,287 --> 00:58:06,978
+- His shoulder's dislocated.
+- Get a hand over here?
+
+823
+00:58:07,007 --> 00:58:08,288
+Why the hell are you looking at me?
+
+824
+00:58:08,320 --> 00:58:10,144
+- You wanna help here?
+- Just do it!
+
+825
+00:58:11,103 --> 00:58:12,897
+Fox: Let's get you up.
+It's gonna hurt, okay?
+
+826
+00:58:12,928 --> 00:58:14,241
+Come on.
+
+827
+00:58:15,967 --> 00:58:17,569
+Okay?
+
+828
+00:58:17,600 --> 00:58:19,361
+Okay. On...
+
+829
+00:58:19,391 --> 00:58:21,088
+- [CRACKS)
+- ...three.
+
+830
+00:58:21,119 --> 00:58:22,497
+- Thanks.
+- [GROANS]
+
+831
+00:58:25,599 --> 00:58:27,168
+What are you trying to do?
+
+832
+00:58:27,199 --> 00:58:31,299
+My father always stressed
+the importance of Iron Fist.
+
+833
+00:58:31,327 --> 00:58:33,825
+Frankly, I never saw the value.
+
+834
+00:58:33,855 --> 00:58:37,538
+It was a brutal, mindless game,
+
+835
+00:58:37,567 --> 00:58:40,161
+but I finally understand.
+
+836
+00:58:40,192 --> 00:58:43,810
+In the arena, reception is power.
+
+837
+00:58:45,087 --> 00:58:48,098
+After the audience thought
+Jin killed Yoshimitsu,
+
+838
+00:58:48,127 --> 00:58:50,080
+ratings spiked
+to their highest level ever,
+
+839
+00:58:50,109 --> 00:58:51,968
+which is why I've decided
+
+840
+00:58:51,998 --> 00:58:55,297
+that the remainder
+of the tournament's fights
+
+841
+00:58:56,286 --> 00:58:57,888
+will be to the death.
+
+842
+00:58:58,878 --> 00:59:03,138
+I am sure you'd all rather die
+fighting in the arena.
+
+843
+00:59:03,167 --> 00:59:06,241
+lron Fist continues tomorrow.
+
+844
+00:59:09,087 --> 00:59:12,737
+I suggest you get some rest.
+
+845
+00:59:20,670 --> 00:59:22,080
+So what now?
+
+846
+00:59:23,261 --> 00:59:24,798
+Hill or be killed.
+
+847
+00:59:27,166 --> 00:59:28,286
+Jin:
+We have a choice.
+
+848
+00:59:31,710 --> 00:59:35,297
+If there are no fighters,
+there is no tournament
+
+849
+00:59:35,324 --> 00:59:38,206
+- and no one has to die.
+- [FOOTSTEPS APPROACH]
+
+850
+00:59:38,237 --> 00:59:39,647
+Man: All right,
+line up against the wall.
+
+851
+00:59:40,637 --> 00:59:42,430
+Hands behind your back.
+
+852
+00:59:42,461 --> 00:59:45,184
+Hands behind your back I said.
+
+853
+00:59:45,213 --> 00:59:46,782
+I don't think so.
+
+854
+00:59:57,244 --> 00:59:58,397
+Come on! Let's move now!
+
+855
+00:59:59,965 --> 01:00:01,727
+[GUNS FIRING]
+
+856
+01:00:03,067 --> 01:00:04,477
+This way! Come on!
+
+857
+01:00:08,316 --> 01:00:10,236
+[DISTANT GUNFIRE]
+
+858
+01:00:13,948 --> 01:00:16,190
+Damn.
+Lock us down.
+
+859
+01:00:32,219 --> 01:00:33,500
+Mishima.
+
+860
+01:00:38,204 --> 01:00:40,606
+- Mishima!
+- Fox: Take it easy, Jin.
+
+861
+01:00:40,635 --> 01:00:44,735
+- Jin Hazama.
+- You owe me a life, Mishima.
+
+862
+01:00:46,491 --> 01:00:48,124
+I owe you nothing, young man.
+
+863
+01:00:48,155 --> 01:00:50,492
+How does it feel to be behind bars?
+
+864
+01:00:51,836 --> 01:00:53,116
+We've gotta move!
+
+865
+01:00:57,946 --> 01:00:59,515
+I'm gonna need
+those access codes right now.
+
+866
+01:00:59,548 --> 01:01:02,077
+Get me out of here.
+I can help.
+
+867
+01:01:03,067 --> 01:01:04,861
+- [GUNSHOT]
+- [GRUNTS]
+
+868
+01:01:04,891 --> 01:01:06,427
+- Hey.
+- [GUNFIRE CONTINUES]
+
+869
+01:01:11,067 --> 01:01:13,437
+- [GRUNTS, GROANS)
+- [BEEPS]
+
+870
+01:01:15,482 --> 01:01:17,020
+- Fox: This way, old man.
+- [GUNFIRE CONTINUES]
+
+871
+01:01:23,034 --> 01:01:24,827
+Heihachi Mishima is with them.
+
+872
+01:01:24,858 --> 01:01:27,196
+They're heading towards
+the workers' access gate.
+
+873
+01:01:28,347 --> 01:01:32,478
+[HELICOPTER PASSES OVERHEAD]
+
+874
+01:01:36,890 --> 01:01:38,778
+Fox:
+Move it! Come on!
+
+875
+01:01:38,810 --> 01:01:40,250
+- [JIN GROANING]
+- Get in.
+
+876
+01:01:40,281 --> 01:01:41,594
+- Are you okay?
+- You'll be okay.
+
+877
+01:01:41,626 --> 01:01:43,547
+- Yes, I'm alive.
+- Hazuya will be sending
+
+878
+01:01:43,578 --> 01:01:45,243
+- the Jackhammers.
+- Jin: I know a safe house.
+
+879
+01:01:45,273 --> 01:01:46,875
+- It's not far.
+- So maybe I'm crazy.
+
+880
+01:01:46,905 --> 01:01:49,082
+- Can we go?
+- Come on.
+
+881
+01:02:00,409 --> 01:02:02,233
+Tear the Anvil apart.
+
+882
+01:02:03,225 --> 01:02:05,530
+I want the fighters found
+
+883
+01:02:05,561 --> 01:02:07,098
+and recaptured.
+
+884
+01:02:07,129 --> 01:02:09,627
+- Go!
+- [JACK SPEAKS JAPANESE]
+
+885
+01:02:37,912 --> 01:02:40,826
+- [WHISPERING] Rest. Rest.
+- [GROANS] Ow.
+
+886
+01:02:44,407 --> 01:02:45,976
+[DISTANT GUNSHOT]
+
+887
+01:02:51,287 --> 01:02:52,503
+A moment.
+
+888
+01:02:59,702 --> 01:03:01,720
+I knew your mother Jun Hazama.
+
+889
+01:03:02,807 --> 01:03:05,274
+Formidable fighter.
+One of Tekken's best.
+
+890
+01:03:05,304 --> 01:03:07,962
+My mother tried to keep me
+away from Tekken.
+
+891
+01:03:09,144 --> 01:03:12,026
+- Now I know why.
+- Do not judge alI of Tekken
+
+892
+01:03:12,055 --> 01:03:14,744
+- by Hazuya's mistakes.
+- Mistakes?
+
+893
+01:03:15,735 --> 01:03:18,137
+- Tekken destroys lives.
+- I created Tekken
+
+894
+01:03:18,166 --> 01:03:22,107
+not only as a corporation
+but as a means to stem the chaos.
+
+895
+01:03:22,134 --> 01:03:25,529
+We are remaking a world,
+raising it from the ashes.
+
+896
+01:03:25,558 --> 01:03:27,224
+You tell that to the people dying
+
+897
+01:03:27,255 --> 01:03:28,792
+every day in the Anvil.
+
+898
+01:03:28,823 --> 01:03:30,263
+We brought humanity
+back from the brink,
+
+899
+01:03:30,294 --> 01:03:33,272
+- restored order. Tekken is peace.
+- Tekken is fear!
+
+900
+01:03:33,301 --> 01:03:36,408
+My mother's blood is
+on your hands, Mishima.
+
+901
+01:03:36,438 --> 01:03:39,160
+I saved your mother's life.
+
+902
+01:03:41,302 --> 01:03:43,672
+What the hell are
+you talking about?
+
+903
+01:03:43,703 --> 01:03:45,304
+Many years ago after a tournament,
+
+904
+01:03:45,334 --> 01:03:47,832
+I found her beaten, violated.
+
+905
+01:03:47,861 --> 01:03:50,552
+I'm the one that had
+her taken from Tekken City.
+
+906
+01:03:50,581 --> 01:03:54,841
+There was always a sadistic part
+of him that I could never control.
+
+907
+01:03:54,869 --> 01:03:56,310
+Who?
+
+908
+01:03:58,357 --> 01:04:00,695
+Hazuya, my son,
+
+909
+01:04:00,726 --> 01:04:02,872
+your father.
+
+910
+01:04:05,589 --> 01:04:07,126
+You're lying!
+
+911
+01:04:09,237 --> 01:04:12,536
+Until today,
+there was only one heir
+
+912
+01:04:12,564 --> 01:04:14,166
+to the Tekken throne.
+
+913
+01:04:15,157 --> 01:04:17,047
+Now there are two.
+
+914
+01:04:19,797 --> 01:04:22,647
+- [SIRENS BLARING]
+- Jacks!
+
+915
+01:04:26,164 --> 01:04:27,189
+Ah!
+
+916
+01:04:33,268 --> 01:04:35,349
+- [HELICOPTER WHIRRING]
+- [JACK SPEAKING JAPANESE]
+
+917
+01:04:39,860 --> 01:04:40,949
+Get down, Jin!
+
+918
+01:05:13,907 --> 01:05:15,509
+Run! Run!
+
+919
+01:05:24,754 --> 01:05:26,196
+[JACK SPEAKS]
+
+920
+01:05:26,227 --> 01:05:28,789
+- [ELECTRICITY CRACKLING]
+- [SCREAMS]
+
+921
+01:05:48,594 --> 01:05:52,501
+What?
+You thought I'd do nothing?
+
+922
+01:05:52,530 --> 01:05:54,836
+Tekken belongs to me.
+
+923
+01:05:55,858 --> 01:05:58,356
+You never understood
+the spirit of Tekken.
+
+924
+01:05:59,506 --> 01:06:01,908
+That's why I could not place
+Tekken in your hands.
+
+925
+01:06:01,939 --> 01:06:05,109
+Tekken is in my hands, old man.
+
+926
+01:06:05,137 --> 01:06:07,027
+Don't you see?
+
+927
+01:06:07,057 --> 01:06:08,562
+It's over for you now.
+
+928
+01:06:09,937 --> 01:06:12,659
+It's not about me or you.
+
+929
+01:06:12,689 --> 01:06:14,610
+It's about the Mishima name...
+
+930
+01:06:14,641 --> 01:06:18,131
+a name that
+you have not lived up to.
+
+931
+01:06:18,161 --> 01:06:20,723
+And that's why, in the end,
+
+932
+01:06:20,754 --> 01:06:23,059
+you will fail.
+
+933
+01:06:23,089 --> 01:06:25,459
+Take Heihachi Mishima away.
+
+934
+01:06:26,513 --> 01:06:29,748
+Destroy everything,
+
+935
+01:06:29,778 --> 01:06:31,475
+including him.
+
+936
+01:07:04,464 --> 01:07:07,153
+I am Mishima Heihachi.
+
+937
+01:07:07,184 --> 01:07:11,124
+[EMPHATICALLY]
+I am Tekken.
+
+938
+01:07:16,752 --> 01:07:19,282
+Heihachi Mishima is dead.
+
+939
+01:07:28,784 --> 01:07:31,537
+[CROWD CHEERING]
+
+940
+01:07:38,607 --> 01:07:41,970
+Citizens of Tekken and the world,
+
+941
+01:07:41,998 --> 01:07:45,586
+today Iron Fist will make history
+
+942
+01:07:45,616 --> 01:07:48,401
+and you will be history's witness.
+
+943
+01:07:48,432 --> 01:07:52,403
+The remaining fighters will no longer
+fight for the simple glory of victory.
+
+944
+01:07:52,430 --> 01:07:56,915
+No, they will fight
+as we all must fight
+
+945
+01:07:56,943 --> 01:07:59,696
+every day we draw breath.
+
+946
+01:07:59,726 --> 01:08:01,840
+They will fight for their lives.
+
+947
+01:08:01,871 --> 01:08:03,985
+They will fight to the death.
+
+948
+01:08:04,014 --> 01:08:05,903
+[CROWD CHEERING]
+
+949
+01:08:05,933 --> 01:08:07,599
+[DISPLAY BEEPING]
+
+950
+01:08:08,557 --> 01:08:10,479
+[DINGS]
+
+951
+01:08:10,510 --> 01:08:14,034
+Announcer:
+Sergei Dragonov and Bryan Fury
+
+952
+01:08:14,062 --> 01:08:18,033
+in the first round
+of the Iron Fist semifinals!
+
+953
+01:08:31,695 --> 01:08:34,352
+- [SHOUTING)
+- [GROWLS]
+
+954
+01:08:36,109 --> 01:08:38,159
+[BOTH SHOUT]
+
+955
+01:09:04,781 --> 01:09:06,062
+Ah!
+
+956
+01:09:37,772 --> 01:09:40,526
+- [CHAIN SQUELCHES)
+- [CHEERING LOUDLY]
+
+957
+01:10:01,707 --> 01:10:04,782
+- What, no hug for your old man?
+- [YELLS]
+
+958
+01:10:08,810 --> 01:10:10,315
+I remember your mother.
+
+959
+01:10:10,347 --> 01:10:13,100
+She put up quite a fight.
+
+960
+01:10:13,130 --> 01:10:17,198
+Frankly, if I knew
+that whore was pregnant,
+
+961
+01:10:17,227 --> 01:10:19,756
+I would've killed her
+right then and there.
+
+962
+01:10:19,786 --> 01:10:22,700
+You want to kill me,
+don't you?
+
+963
+01:10:22,730 --> 01:10:25,612
+I understand that.
+
+964
+01:10:29,578 --> 01:10:34,093
+But in order to get to me, you'll have
+to kill the champion, Bryan Fury.
+
+965
+01:10:34,121 --> 01:10:36,907
+That's how Iron Fist works.
+
+966
+01:10:36,938 --> 01:10:40,557
+[YELLS, GROANS]
+
+967
+01:10:42,218 --> 01:10:45,388
+- Get off of me!
+- Imagine what I'll do to her
+
+968
+01:10:45,417 --> 01:10:46,633
+if you don't fight.
+
+969
+01:10:46,665 --> 01:10:49,099
+- [GRUNTS]
+- [GUN COCKS]
+
+970
+01:10:52,361 --> 01:10:55,403
+You will fight,
+the world will watch
+
+971
+01:10:55,433 --> 01:10:58,060
+and my legacy will be written
+with your blood.
+
+972
+01:11:00,937 --> 01:11:02,410
+Take her.
+
+973
+01:11:14,665 --> 01:11:16,586
+[DISTANT CHEERING]
+
+974
+01:11:25,736 --> 01:11:29,034
+When the time comes,
+I pray you die screaming.
+
+975
+01:11:33,448 --> 01:11:35,177
+Behave yourself.
+
+976
+01:11:40,456 --> 01:11:42,376
+[GROANING]
+
+977
+01:11:45,512 --> 01:11:48,297
+Jin, I saw what you did to Rojo.
+
+978
+01:11:48,328 --> 01:11:50,666
+You let your anger
+take control of you.
+
+979
+01:11:50,695 --> 01:11:55,019
+Anger doesn't fuel
+the fighter's soul, it incinerates it.
+
+980
+01:11:55,048 --> 01:11:56,776
+But before that I saw something.
+
+981
+01:11:57,832 --> 01:11:59,465
+I saw greatness in you.
+
+982
+01:12:00,455 --> 01:12:03,465
+You're not just fighting
+for yourself anymore, Jin.
+
+983
+01:12:03,494 --> 01:12:05,384
+You're fighting for all of us.
+
+984
+01:12:05,415 --> 01:12:07,817
+You can become champion.
+
+985
+01:12:07,846 --> 01:12:10,440
+There are a lot of people
+depending on it.
+
+986
+01:12:32,005 --> 01:12:34,216
+[CROWD CHEERING]
+
+987
+01:12:34,247 --> 01:12:36,456
+- Fox: So who taught you to fight?
+- Jin: My mother.
+
+988
+01:12:36,487 --> 01:12:38,024
+- Attack!
+- Hyah! Hyah! Hyah!
+
+989
+01:12:39,173 --> 01:12:41,191
+- Your mother?
+- She's dead.
+
+990
+01:12:41,222 --> 01:12:44,906
+[JUN LAUGHS] Do you think
+that life on the other side of that wall
+
+991
+01:12:44,934 --> 01:12:47,496
+- will bring you happiness?
+- [YELLING]
+
+992
+01:12:47,525 --> 01:12:49,703
+- Jun: Trust me, it won't.
+- I told you, man.
+
+993
+01:12:49,734 --> 01:12:51,751
+This asshole is a waste of time.
+
+994
+01:12:51,783 --> 01:12:53,831
+He's just another punk
+who'd rather die in the Anvil
+
+995
+01:12:53,862 --> 01:12:55,815
+than stand up like a man.
+
+996
+01:12:57,318 --> 01:13:00,616
+What you are, Jin, is a believer
+in the cause. You just don't know it.
+
+997
+01:13:02,564 --> 01:13:05,351
+Christie:
+So you're the People's Choice?
+
+998
+01:13:05,381 --> 01:13:06,726
+You don't look like much.
+
+999
+01:13:07,717 --> 01:13:10,407
+Hara: My father was killed
+in a Jackhammer raid.
+
+1000
+01:13:10,437 --> 01:13:12,294
+And what did anyone
+do about it? Nothing.
+
+1001
+01:13:13,733 --> 01:13:15,783
+Jun: One day we'll have
+a chance to make a difference.
+
+1002
+01:13:15,813 --> 01:13:19,240
+- That's why I trained you so hard.
+- [SHOUTS]
+
+1003
+01:13:21,541 --> 01:13:26,345
+Jun: Because one day you won't
+just be fighting for you or me.
+
+1004
+01:13:26,373 --> 01:13:28,070
+You'll be fighting for all of us.
+
+1005
+01:13:31,012 --> 01:13:32,805
+I love you, Jin.
+
+1006
+01:13:33,797 --> 01:13:35,717
+[CROWD CHEERING]
+
+1007
+01:13:36,805 --> 01:13:40,278
+Announcer:
+Bryan Fury versus Jin,
+
+1008
+01:13:40,279 --> 01:13:42,483
+the People's Choice!
+
+1009
+01:13:45,220 --> 01:13:48,262
+[CROWD CHANTS]
+Jin, Jin, Jin, Jin, Jin, Jin!
+
+1010
+01:13:48,292 --> 01:13:50,662
+It all comes down to this moment.
+
+1011
+01:13:50,692 --> 01:13:54,919
+Two fighters remain... Bryan Fury
+and Jin, the People's Choice!
+
+1012
+01:13:54,948 --> 01:13:58,599
+[CROWD CHANTING]
+Fury, Fury, Fury, Fury,
+
+1013
+01:13:58,628 --> 01:14:03,177
+Fury, Fury, Fury, Fury, Fury,
+
+1014
+01:14:03,203 --> 01:14:04,901
+Fury, Fury, Fury...
+
+1015
+01:14:04,931 --> 01:14:06,820
+[CHANTING FADES]
+
+1016
+01:14:08,195 --> 01:14:11,206
+Ain't nothing
+gonna save you now, boy.
+
+1017
+01:14:13,444 --> 01:14:14,981
+- [JIN YELLING]
+- [SHOUTS]
+
+1018
+01:14:15,011 --> 01:14:17,029
+[CROWD CHEERING]
+
+1019
+01:14:17,060 --> 01:14:19,012
+[GRUNTS]
+
+1020
+01:14:20,259 --> 01:14:23,109
+Announcer: It's been a hell
+of a run for this young fighter,
+
+1021
+01:14:23,139 --> 01:14:25,509
+but can he last
+against Bryan Fury?
+
+1022
+01:14:35,299 --> 01:14:38,213
+- [CLANGS]
+- [ELECTRICITY CRACKLES]
+
+1023
+01:14:58,274 --> 01:14:59,779
+[CLANGS]
+
+1024
+01:14:59,810 --> 01:15:01,891
+[CROWD SHOUTING]
+
+1025
+01:15:03,938 --> 01:15:05,858
+[CROWD CHEERING]
+
+1026
+01:15:56,897 --> 01:15:59,106
+Every opponent has its weakness.
+
+1027
+01:15:59,136 --> 01:16:00,481
+[RATCHETS]
+
+1028
+01:16:00,511 --> 01:16:04,547
+Jun:
+See it, exploit it and strike.
+
+1029
+01:16:17,920 --> 01:16:20,770
+Jin. Come on, Jin. Jin. Jin.
+
+1030
+01:16:24,704 --> 01:16:26,369
+[CHEERS]
+
+1031
+01:16:26,399 --> 01:16:30,788
+- Jin, Jin...
+- Both: Jin, Jin, Jin, Jin.
+
+1032
+01:16:38,239 --> 01:16:40,481
+[ALL CHANTING)
+Jin, Jin, Jin, Jin, Jin.
+
+1033
+01:16:51,776 --> 01:16:54,145
+[SHOUTS]
+
+1034
+01:16:55,806 --> 01:16:57,760
+- Yeah! Yeah!
+- Yes! Yes!
+
+1035
+01:16:57,790 --> 01:16:59,423
+- Yeah!
+- Announcer: What an impact!
+
+1036
+01:16:59,455 --> 01:17:01,729
+- Man: Did you see that?
+- This kid is full of surprises.
+
+1037
+01:17:01,757 --> 01:17:05,217
+- He just knocked out Bryan Fury.
+- [CHEERING]
+
+1038
+01:17:11,293 --> 01:17:13,887
+[BREATHING HEAVILY]
+
+1039
+01:17:22,302 --> 01:17:25,953
+Enough. Introduce me,
+the final match.
+
+1040
+01:17:25,982 --> 01:17:29,280
+- No.
+- [GRUNTS]
+
+1041
+01:17:30,461 --> 01:17:33,215
+Jin won. He's the champion.
+You can't kill him.
+
+1042
+01:17:33,244 --> 01:17:34,461
+Watch me.
+
+1043
+01:17:35,998 --> 01:17:37,247
+[DOOR SLAMS]
+
+1044
+01:17:42,269 --> 01:17:43,902
+[BEEPS]
+
+1045
+01:17:45,117 --> 01:17:48,480
+Announcer:
+Now entering the arena,
+
+1046
+01:17:48,509 --> 01:17:52,096
+fighting for the honor
+of the Tekken Corporation
+
+1047
+01:17:52,124 --> 01:17:55,904
+Hazuya Mishima!
+
+1048
+01:17:59,805 --> 01:18:01,533
+I should thank you.
+
+1049
+01:18:01,564 --> 01:18:04,414
+Your coming here
+gave me the opportunity
+
+1050
+01:18:04,444 --> 01:18:06,173
+to take control of Tekken.
+
+1051
+01:18:06,205 --> 01:18:08,478
+[HAZUYA GRUNTING]
+
+1052
+01:18:11,452 --> 01:18:13,054
+[SCREAMS]
+
+1053
+01:18:15,932 --> 01:18:17,469
+[CHEERING]
+
+1054
+01:18:22,013 --> 01:18:24,190
+Your mother taught you many styles,
+
+1055
+01:18:24,219 --> 01:18:26,365
+all quite strong.
+
+1056
+01:18:39,708 --> 01:18:41,437
+Yes.
+
+1057
+01:18:41,467 --> 01:18:43,421
+There it is.
+
+1058
+01:18:43,451 --> 01:18:45,980
+The lust for vengeance,
+
+1059
+01:18:46,012 --> 01:18:48,061
+the hunger to kill
+
+1060
+01:18:48,091 --> 01:18:51,327
+like fire coursing
+through your veins.
+
+1061
+01:18:51,355 --> 01:18:53,372
+You can't deny it, Jin.
+
+1062
+01:18:53,402 --> 01:18:55,804
+It's what makes you who you are,
+
+1063
+01:18:55,834 --> 01:18:58,140
+the curse of the Mishima blood.
+
+1064
+01:18:58,171 --> 01:19:00,893
+Like father, like son.
+
+1065
+01:19:16,250 --> 01:19:17,979
+[SCATTERED BOOS]
+
+1066
+01:19:29,433 --> 01:19:30,682
+[YELLS]
+
+1067
+01:19:30,713 --> 01:19:33,084
+[GUNS FIRING]
+
+1068
+01:19:43,386 --> 01:19:45,306
+[CROWD CHEERING]
+
+1069
+01:19:48,313 --> 01:19:51,356
+[GRUNTING]
+
+1070
+01:20:15,257 --> 01:20:17,594
+It's your curse, not mine.
+
+1071
+01:20:30,967 --> 01:20:32,376
+You won.
+
+1072
+01:20:36,567 --> 01:20:39,643
+Citizens of Tekken and the world,
+
+1073
+01:20:39,672 --> 01:20:41,592
+I give you Jin Hazama,
+
+1074
+01:20:41,624 --> 01:20:45,339
+the winner of Iron Fist,
+
+1075
+01:20:45,367 --> 01:20:47,288
+the People's Choice,
+
+1076
+01:20:47,319 --> 01:20:50,682
+- now the people's champion.
+- [CHEERING]
+
+1077
+01:20:53,814 --> 01:20:55,320
+- Yeah!
+- Hey!
+
+1078
+01:20:55,351 --> 01:20:56,536
+Yeah!
+
+1079
+01:21:01,719 --> 01:21:04,312
+I never thought
+I'd live to see this day.
+
+1080
+01:21:04,343 --> 01:21:06,648
+You have got to say that that is
+the greatest champion ever.
+
+1081
+01:21:06,679 --> 01:21:08,024
+Drinks on the house!
+
+1082
+01:21:08,054 --> 01:21:10,008
+- Drinks on me!
+- Both: Yeah!
+
+1083
+01:21:17,302 --> 01:21:20,569
+- Where you gonna go?
+- It's time to go home.
+
+1084
+01:21:20,598 --> 01:21:24,218
+[CROWD CHANTING]
+Jin, Jin, Jin, Jin, Jin,
+
+1085
+01:21:24,247 --> 01:21:28,379
+Jin, Jin, Jin,
+Jin, Jin, Jin,
+
+1086
+01:21:28,406 --> 01:21:31,961
+Jin, Jin, Jin, Jin, Jin, Jin,
+
+1087
+01:21:31,990 --> 01:21:34,970
+Jin, Jin, Jin,
+Jin, Jin, Jin,
+
+1088
+01:21:34,999 --> 01:21:36,375
+Jin, Jin, Jin, Jin!
+
+1089
+01:21:36,406 --> 01:21:38,327
+[CROWD CHEERING]
+
+1090
+01:21:51,286 --> 01:21:53,207
+[GRUNTING]
+
+1091
+01:21:58,998 --> 01:22:01,912
+[DOOR BANGS]
+
+1092
+01:22:44,436 --> 01:22:46,677
+Christie's voice:
+On that day, the house of Mishima fell,
+
+1093
+01:22:46,709 --> 01:22:49,494
+tyranny had been
+challenged and defeated
+
+1094
+01:22:50,613 --> 01:22:52,533
+and the name Hazama
+became synonymous
+
+1095
+01:22:52,564 --> 01:22:55,927
+with hope,
+strength and freedom.
+
+1096
+01:22:57,907 --> 01:22:59,573
+But freedom comes and goes,
+
+1097
+01:22:59,603 --> 01:23:02,485
+and the world had
+no idea or warning
+
+1098
+01:23:02,515 --> 01:23:05,301
+that the true legacy of Tekken
+was only just beginning.
+
+1099
+01:23:06,932 --> 01:23:06,932
+[ROCK MUSIC PLAYING]
+
+1100
+01:23:07,028 --> 01:23:09,783
+npdv.id@gmail.com
+
+1101
+01:24:58,160 --> 01:25:00,113
+[ROCK MUSIC PLAYING]
+
+1102
+01:27:13,228 --> 01:27:15,598
+I am Mishima Heihachi.
+
+1103
+01:27:16,908 --> 01:27:19,726
+[EMPHATICALLY]
+I am Tekken.
+
+1104
+01:27:22,135 --> 01:27:23,740
+You will obey.
+

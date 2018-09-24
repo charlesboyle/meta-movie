@@ -1,0 +1,6956 @@
+﻿1
+00:00:40,400 --> 00:00:44,041
+<i>When I was a kid,
+whenever I 'd feel small or lonely...</i>
+
+2
+00:00:44,280 --> 00:00:47,045
+<i>...I'd look up at the stars.</i>
+
+3
+00:00:47,800 --> 00:00:50,007
+<i>Wondered if there was life
+up there.</i>
+
+4
+00:00:51,080 --> 00:00:53,924
+<i>Turns out I was looking
+in the wrong direction.</i>
+
+5
+00:00:54,680 --> 00:00:59,527
+<i>When alien life entered our world it was
+from deep beneath the Pacific Ocean.</i>
+
+6
+00:00:59,760 --> 00:01:02,923
+<i>A fissure between two tectonic plates.</i>
+
+7
+00:01:03,840 --> 00:01:06,411
+<i>A portal between dimensions.</i>
+
+8
+00:01:07,480 --> 00:01:08,970
+<i>The Breach.</i>
+
+9
+00:01:09,880 --> 00:01:13,885
+<i>I was 15 when the first Kaiju
+made land in San Francisco.</i>
+
+12
+00:01:40,520 --> 00:01:43,569
+<i>By the time tanks,
+jets and missiles took it down...</i>
+
+13
+00:01:43,800 --> 00:01:46,280
+<i>...six days and 35 miles later...</i>
+
+14
+00:01:46,640 --> 00:01:47,687
+<i>...three cities...</i>
+
+15
+00:01:47,960 --> 00:01:48,688
+<i>...were destroyed.</i>
+
+16
+00:01:50,080 --> 00:01:51,320
+<i>Tens of thousands...</i>
+
+17
+00:01:51,560 --> 00:01:53,005
+<i>...of lives were lost.</i>
+
+21
+00:01:57,600 --> 00:01:58,203
+<i>We mourned...</i>
+
+22
+00:01:58,440 --> 00:01:59,202
+<i>...our dead...</i>
+
+23
+00:01:59,440 --> 00:02:00,600
+<i>...memorialized the attack...</i>
+
+24
+00:02:01,480 --> 00:02:02,641
+<i>...and moved on.</i>
+
+26
+00:02:08,080 --> 00:02:10,560
+<i>And then, only six months</i> later...
+
+27
+00:02:11,080 --> 00:02:12,161
+<i>...the second attack...</i>
+
+28
+00:02:12,440 --> 00:02:13,965
+<i>...hit Manila.</i>
+
+29
+00:02:14,200 --> 00:02:15,929
+<i>The acid factor of the Kaiju blood...</i>
+
+30
+00:02:16,160 --> 00:02:18,401
+<i>...creates a toxic phenomenon
+named Kaiju Blue.</i>
+
+31
+00:02:18,880 --> 00:02:20,723
+<i>And then the third one hit Cabo.</i>
+
+32
+00:02:21,640 --> 00:02:23,290
+<i>And then the fourth.</i>
+
+33
+00:02:23,520 --> 00:02:24,407
+<i>And then we learned...</i>
+
+34
+00:02:25,080 --> 00:02:26,764
+<i>...this was not gonna stop.</i>
+
+35
+00:02:27,040 --> 00:02:28,201
+<i>This was just the beginning.</i>
+
+37
+00:02:30,480 --> 00:02:31,288
+<i>We needed...</i>
+
+38
+00:02:31,520 --> 00:02:32,282
+<i>...a new weapon.</i>
+
+39
+00:02:33,080 --> 00:02:34,120
+<i>The world came together...</i>
+
+40
+00:02:34,320 --> 00:02:36,448
+<i>...pooling its resources
+and throwing aside...</i>
+
+41
+00:02:36,680 --> 00:02:37,841
+<i>...old rivalries...</i>
+
+42
+00:02:38,080 --> 00:02:39,525
+<i>...for the sake of the greater good.</i>
+
+43
+00:02:41,080 --> 00:02:42,923
+<i>To fight monsters...</i>
+
+44
+00:02:43,160 --> 00:02:45,242
+<i>...we created monsters of our own.</i>
+
+45
+00:02:46,400 --> 00:02:47,242
+<i>The Jaeger program...</i>
+
+46
+00:02:47,520 --> 00:02:48,760
+<i>...was born.</i>
+
+47
+00:02:50,440 --> 00:02:52,442
+<i>There were setbacks at first.</i>
+
+48
+00:02:52,840 --> 00:02:54,649
+<i>The neural load to interface...</i>
+
+49
+00:02:54,880 --> 00:02:57,690
+<i>...with a Jaeger proved too much
+for a single pilot.</i>
+
+51
+00:02:58,800 --> 00:03:00,882
+<i>A two-pilot system
+was implemented.</i>
+
+52
+00:03:01,120 --> 00:03:04,920
+<i>Left-hemisphere, right-hemisphere
+pilot control.</i>
+
+53
+00:03:05,200 --> 00:03:06,690
+<i>We started winning.</i>
+
+55
+00:03:08,400 --> 00:03:10,084
+<i>Jaegers stopping Kaijus
+everywhere.</i>
+
+56
+00:03:11,320 --> 00:03:13,482
+<i>But the Jaegers were only as good
+as their pilots.</i>
+
+57
+00:03:14,920 --> 00:03:15,680
+<i>So Jaeger pilots...</i>
+
+58
+00:03:15,920 --> 00:03:17,126
+<i>...turned into rock stars.</i>
+
+59
+00:03:17,360 --> 00:03:18,122
+Danger...
+
+60
+00:03:18,360 --> 00:03:19,600
+<i>...turned into propaganda.</i>
+
+61
+00:03:20,640 --> 00:03:21,323
+Kaijus...
+
+62
+00:03:21,560 --> 00:03:22,322
+<i>...into toys.</i>
+
+63
+00:03:25,440 --> 00:03:26,885
+<i>We got really good at it.</i>
+
+64
+00:03:28,040 --> 00:03:28,723
+<i>Winning.</i>
+
+66
+00:03:33,240 --> 00:03:34,526
+Then...
+
+67
+00:03:35,040 --> 00:03:35,723
+<i>Then it all...</i>
+
+68
+00:03:35,960 --> 00:03:37,041
+<i>...changed.</i>
+
+70
+00:03:38,760 --> 00:03:42,048
+<i>Gipsy Danger report to Bay 08,
+level A-42.</i>
+
+71
+00:03:42,320 --> 00:03:46,041
+<i>Kaiju. Code name: Knifehead.
+Category 3. 8700 metric tons.</i>
+
+72
+00:03:46,320 --> 00:03:48,209
+Yo, Yancy, wake up! Movement...
+
+73
+00:03:48,440 --> 00:03:49,441
+...in the Breach.
+
+74
+00:03:49,680 --> 00:03:53,401
+- Hey, come on! We're being deployed.
+- Great.
+
+75
+00:03:53,640 --> 00:03:55,802
+- Good morning.
+- Morning.
+
+76
+00:03:56,560 --> 00:03:59,370
+Kaiju's a Category 3, biggest one yet.
+
+77
+00:03:59,600 --> 00:04:02,206
+Code name: Knifehead.
+
+78
+00:04:02,560 --> 00:04:04,608
+- What time is it?
+- Two.
+
+79
+00:04:05,000 --> 00:04:06,081
+A.M.?
+
+80
+00:04:06,320 --> 00:04:07,367
+Yep.
+
+81
+00:04:08,880 --> 00:04:10,769
+What do you say?
+Fifth notch on the belt?
+
+83
+00:04:12,800 --> 00:04:14,086
+<i>Come on, Baskets.</i>
+
+84
+00:04:14,320 --> 00:04:15,606
+Time for the drop.
+
+85
+00:04:17,080 --> 00:04:17,842
+Hey, kid.
+
+86
+00:04:18,080 --> 00:04:18,808
+Yeah?
+
+87
+00:04:19,240 --> 00:04:20,810
+Don't get cocky.
+
+88
+00:04:22,560 --> 00:04:23,686
+<i>Years before...</i>
+
+89
+00:04:23,920 --> 00:04:27,367
+<i>...you wouldn't have picked my
+brother Yancy and I for heroes.</i>
+
+90
+00:04:27,600 --> 00:04:29,204
+<i>No chance.</i>
+
+91
+00:04:29,440 --> 00:04:32,046
+All right, let's suit up and kick some ass!
+
+92
+00:04:33,040 --> 00:04:35,088
+<i>We were never star athletes.</i>
+
+93
+00:04:35,320 --> 00:04:37,163
+<i>Never at the head of the class.</i>
+
+94
+00:04:37,760 --> 00:04:40,650
+<i>But we could hold our own
+in a fight.</i>
+
+95
+00:04:40,920 --> 00:04:42,206
+<i>And it turned out we had...</i>
+
+96
+00:04:42,440 --> 00:04:43,601
+<i>...a unique skill:</i>
+
+97
+00:04:43,880 --> 00:04:45,928
+<i>We were Drift compatible.</i>
+
+99
+00:05:03,040 --> 00:05:04,371
+<i>Data on helmet.</i>
+
+100
+00:05:04,600 --> 00:05:08,924
+<i>Data relay gel
+dispersing in circuitry suit.</i>
+
+101
+00:05:36,400 --> 00:05:37,890
+<i>Good morning, Becket boys!</i>
+
+102
+00:05:38,120 --> 00:05:41,124
+- Tendo, what's happening, my man?
+- How'd that date with Alison...
+
+103
+00:05:41,400 --> 00:05:42,606
+<i>...go last night, Mr. Choi?</i>
+
+104
+00:05:42,840 --> 00:05:44,888
+Oh, she loved me.
+Her boyfriend? Not so much.
+
+105
+00:05:45,120 --> 00:05:47,009
+You're gonna get your ass kicked.
+
+106
+00:05:47,280 --> 00:05:49,601
+<i>Ha, ha. A man's gotta do
+what a man's gotta do, brother.</i>
+
+107
+00:05:49,840 --> 00:05:51,285
+Engage drop, Mr. Choi.
+
+108
+00:05:51,520 --> 00:05:52,851
+Engaging drop, sir.
+
+109
+00:05:54,400 --> 00:05:56,129
+Marshal Pentecost on deck.
+
+110
+00:05:56,360 --> 00:05:57,247
+Securing the Conn Pod.
+
+111
+00:05:57,480 --> 00:05:59,528
+Getting ready to drop.
+
+112
+00:06:02,120 --> 00:06:03,929
+Conn Pod door lock secure.
+
+113
+00:06:06,480 --> 00:06:07,891
+- Release for drop.
+- Gipsy Danger...
+
+114
+00:06:08,120 --> 00:06:09,160
+...ready for the big drop.
+
+115
+00:06:11,880 --> 00:06:13,041
+- Here we go.
+- Yeah!
+
+116
+00:06:13,280 --> 00:06:14,645
+Here we go!
+
+117
+00:06:24,560 --> 00:06:25,760
+Coupling confirmed, sir.
+
+118
+00:06:25,800 --> 00:06:27,882
+Engage pilot-to-pilot protocol.
+
+119
+00:06:28,400 --> 00:06:30,084
+- Engaging now.
+<i>- Pilot to-pilot connection...</i>
+
+120
+00:06:30,360 --> 00:06:31,600
+<i>...protocol sequence.</i>
+
+121
+00:06:51,800 --> 00:06:54,883
+<i>Gipsy launch, Bay 6.</i>
+
+122
+00:07:08,640 --> 00:07:09,520
+Gipsy Danger...
+
+123
+00:07:09,600 --> 00:07:10,761
+- ...ready and aligned, sir.
+- Rangers, this is Marshal...
+
+124
+00:07:11,000 --> 00:07:13,526
+...Stacker Pentecost.
+Prepare for neural handshake.
+
+125
+00:07:13,760 --> 00:07:15,046
+Starting in 15 seconds.
+
+126
+00:07:16,080 --> 00:07:17,320
+Fourteen...
+
+127
+00:07:18,360 --> 00:07:19,361
+...thirteen...
+
+128
+00:07:19,600 --> 00:07:21,841
+<i>...twelve, eleven, ten.</i>
+
+129
+00:07:22,120 --> 00:07:23,963
+Ready to step into my head, kid?
+
+130
+00:07:24,200 --> 00:07:26,168
+Please, after you. Age...
+
+131
+00:07:26,400 --> 00:07:28,004
+- ...before beauty, old man.
+<i>- Pilot-to-pilot connection...</i>
+
+132
+00:07:28,240 --> 00:07:29,924
+<i>...protocol sequence.</i>
+
+133
+00:07:30,160 --> 00:07:33,289
+<i>Neural handshake initiated.</i>
+
+134
+00:07:34,840 --> 00:07:36,201
+<i>The Drift.</i>
+
+135
+00:07:36,360 --> 00:07:37,805
+<i>Jaeger tech.</i>
+
+136
+00:07:38,040 --> 00:07:41,169
+<i>Based on DARPA jet fighter
+neural systems.</i>
+
+137
+00:07:41,880 --> 00:07:44,451
+<i>Two pilots, mind-melding
+through memories...</i>
+
+138
+00:07:44,680 --> 00:07:47,047
+<i>...with the body
+of a giant machine.</i>
+
+139
+00:07:47,320 --> 00:07:48,970
+<i>The deeper the bond...</i>
+
+140
+00:07:50,120 --> 00:07:51,724
+<i>...the better you fight.</i>
+
+141
+00:07:53,800 --> 00:07:54,926
+Neural handshake...
+
+142
+00:07:55,200 --> 00:07:56,201
+...strong and holding.
+
+143
+00:07:57,640 --> 00:07:59,688
+<i>Right hemisphere is calibrating.</i>
+
+144
+00:08:00,120 --> 00:08:00,882
+Left hemisphere...
+
+145
+00:08:01,160 --> 00:08:02,082
+...calibrating.
+
+146
+00:08:04,680 --> 00:08:05,363
+<i>Proofed...</i>
+
+147
+00:08:05,600 --> 00:08:07,011
+<i>...and transmitting.</i>
+
+148
+00:08:16,680 --> 00:08:17,681
+<i>Gentlemen, your orders...</i>
+
+149
+00:08:17,920 --> 00:08:19,649
+...are to hold the miracle mile
+off Anchorage. Copy?
+
+150
+00:08:19,880 --> 00:08:20,760
+<i>Copy that, sir.</i>
+
+151
+00:08:20,960 --> 00:08:23,645
+Sir, there's still a civilian vessel
+in the Gulf...
+
+152
+00:08:23,880 --> 00:08:25,370
+You're protecting a city
+of two million people.
+
+153
+00:08:25,640 --> 00:08:27,841
+You will not risk those lives
+for a boat that holds ten.
+
+154
+00:08:27,960 --> 00:08:29,000
+<i>- Am I clear?</i>
+- Yes...
+
+155
+00:08:29,120 --> 00:08:31,327
+- ...sir.
+- Man, that's cold.
+
+156
+00:08:33,680 --> 00:08:34,886
+You know what I'm thinking.
+
+157
+00:08:35,120 --> 00:08:36,360
+I'm in your brain.
+
+158
+00:08:36,600 --> 00:08:38,011
+- I know.
+- Then let's go fishing.
+
+159
+00:08:38,920 --> 00:08:39,603
+Here we go!
+
+160
+00:08:39,840 --> 00:08:42,320
+Come on, bro!
+Put some muscle to it!
+
+161
+00:08:42,880 --> 00:08:45,201
+Worry about yourself, kiddo!
+
+162
+00:08:55,520 --> 00:08:58,444
+<i>There are
+things you can't fight, acts of God.</i>
+
+163
+00:08:58,720 --> 00:09:00,484
+<i>You see a hurricane coming...</i>
+
+164
+00:09:00,760 --> 00:09:02,125
+<i>...you have to get out of the way.</i>
+
+165
+00:09:02,360 --> 00:09:05,011
+<i>But when you're in a Jaeger, suddenly...</i>
+
+166
+00:09:05,240 --> 00:09:07,447
+<i>...you can fight the hurricane.</i>
+
+167
+00:09:07,680 --> 00:09:08,966
+<i>You can win.</i>
+
+169
+00:09:13,800 --> 00:09:15,006
+Get them tied down...
+
+170
+00:09:15,280 --> 00:09:18,045
+...and go down below! Now!
+
+171
+00:09:21,240 --> 00:09:22,446
+How far to the mainland?
+
+172
+00:09:22,680 --> 00:09:24,205
+Seven miles off Anchorage, sir.
+
+173
+00:09:24,440 --> 00:09:26,408
+But we won't even make it
+past the shallows.
+
+174
+00:09:26,640 --> 00:09:27,607
+No, we won't!
+
+175
+00:09:27,840 --> 00:09:30,320
+What about that island
+three miles east?
+
+176
+00:09:30,560 --> 00:09:32,449
+No! It's two miles, sir.
+
+177
+00:09:33,360 --> 00:09:34,885
+One mile, sir!
+
+178
+00:09:35,120 --> 00:09:36,724
+It's getting closer.
+
+179
+00:09:37,400 --> 00:09:38,481
+How the hell...
+
+180
+00:09:38,760 --> 00:09:40,125
+...can it be getting closer?
+
+182
+00:09:44,840 --> 00:09:46,126
+Kaiju.
+
+184
+00:09:54,360 --> 00:09:55,930
+Harder starboard!
+
+185
+00:09:56,160 --> 00:09:56,968
+Turn her around!
+
+186
+00:09:57,240 --> 00:09:58,480
+Now!
+
+188
+00:10:19,120 --> 00:10:20,963
+- Oh, God!
+- What the hell?
+
+190
+00:10:40,800 --> 00:10:41,608
+Hang on!
+
+191
+00:10:41,840 --> 00:10:43,001
+<i>Ship secure.</i>
+
+192
+00:10:43,280 --> 00:10:44,964
+- Adjust the torque!
+- I'm on it.
+
+193
+00:10:46,160 --> 00:10:47,127
+<i>Torque locked.</i>
+
+195
+00:11:27,600 --> 00:11:28,761
+Get him. Come on.
+
+196
+00:11:29,040 --> 00:11:30,680
+<i>- Shoot him.
+- I'm on it! I'm on it!</i>
+
+198
+00:11:41,440 --> 00:11:42,168
+Discharge reading, sir.
+
+199
+00:11:42,400 --> 00:11:43,561
+Plasma cannon in the shallow shelves...
+
+200
+00:11:43,840 --> 00:11:45,001
+- ...seven miles off the coastal line.
+- Gipsy...
+
+201
+00:11:45,240 --> 00:11:47,402
+<i>- ...what the hell is going on?</i>
+- Job's done, sir.
+
+202
+00:11:47,680 --> 00:11:50,047
+Lit it up twice. Bagged our fifth kill.
+
+203
+00:11:50,280 --> 00:11:53,170
+- You disobeyed a direct order!
+<i>- Respectfully,</i> sir...
+
+204
+00:11:53,440 --> 00:11:55,169
+...we intercepted a Kaiju...
+
+205
+00:11:55,440 --> 00:11:56,407
+...and saved everyone...
+
+206
+00:11:56,640 --> 00:11:58,520
+- ...on that boat.
+- Get back to your post. Now!
+
+207
+00:11:59,880 --> 00:12:01,723
+Yes, sir.
+
+208
+00:12:01,960 --> 00:12:02,882
+Kaiju signature rising!
+
+209
+00:12:06,160 --> 00:12:07,969
+That thing's still alive, sir.
+
+210
+00:12:08,400 --> 00:12:09,208
+Gipsy!
+
+211
+00:12:09,440 --> 00:12:10,805
+<i>We're still getting a signature!</i>
+
+212
+00:12:12,480 --> 00:12:14,448
+<i>That Kaiju is still alive!</i>
+
+213
+00:12:15,240 --> 00:12:17,163
+<i>Grab the boat and get out of there.</i>
+
+214
+00:12:17,720 --> 00:12:18,403
+<i>You copy?</i>
+
+215
+00:12:19,680 --> 00:12:22,160
+<i>Grab the boat
+and get out of there now!</i>
+
+217
+00:12:30,720 --> 00:12:31,369
+Take it, Raleigh!
+
+218
+00:12:31,640 --> 00:12:32,402
+I got this!
+
+220
+00:12:42,080 --> 00:12:43,320
+Loccent, we're hit!
+
+222
+00:12:47,960 --> 00:12:48,688
+Left arm's...
+
+223
+00:12:48,920 --> 00:12:50,126
+...gone cold, sir.
+
+224
+00:13:07,760 --> 00:13:09,480
+The hull! It went through the hull!
+
+225
+00:13:10,840 --> 00:13:11,720
+Raleigh, listen to me!
+
+226
+00:13:11,920 --> 00:13:12,762
+You need... Aah!
+
+227
+00:13:17,160 --> 00:13:18,650
+No!
+
+228
+00:13:18,880 --> 00:13:19,927
+No!
+
+230
+00:13:52,800 --> 00:13:54,165
+<i>Loading.</i>
+
+232
+00:14:12,920 --> 00:14:15,720
+Second discharge fried all the comms,
+sir. I'm not getting any signals.
+
+233
+00:14:20,080 --> 00:14:21,605
+No signatures, sir.
+
+234
+00:14:24,400 --> 00:14:26,084
+What do we do now, sir?
+
+235
+00:14:29,960 --> 00:14:33,009
+Now, I want you to keep your eye
+on that gauge there.
+
+236
+00:14:33,840 --> 00:14:35,763
+Now, you know what I'd like to find?
+
+237
+00:14:36,000 --> 00:14:39,447
+I'd like to find a whole ship.
+That's what I'd like to find.
+
+238
+00:14:39,680 --> 00:14:42,251
+Wait, wait! Wait, wait,
+wait, wait, wait! Wait!
+
+239
+00:14:42,520 --> 00:14:44,363
+Right there, right there! Dig!
+
+240
+00:14:46,080 --> 00:14:47,605
+Hey, what is it?
+
+241
+00:14:48,600 --> 00:14:50,523
+It's just an old toy.
+
+242
+00:14:50,880 --> 00:14:53,281
+We never find anything good.
+
+243
+00:14:54,320 --> 00:14:55,651
+Listen.
+
+245
+00:15:04,960 --> 00:15:06,849
+Oh, my God.
+
+248
+00:15:29,840 --> 00:15:31,205
+Stay here!
+
+250
+00:15:53,040 --> 00:15:54,280
+Mister?
+
+251
+00:15:57,040 --> 00:15:58,485
+Can I help?
+
+252
+00:16:06,800 --> 00:16:08,006
+Yancy.
+
+253
+00:16:09,120 --> 00:16:10,406
+Yancy.
+
+254
+00:16:16,120 --> 00:16:18,521
+Run! Get help, fast!
+
+255
+00:16:19,280 --> 00:16:21,806
+It's gonna be all right.
+
+257
+00:17:06,720 --> 00:17:09,246
+<i>The Kaiju are learning our defenses.</i>
+
+258
+00:17:09,480 --> 00:17:12,165
+<i>They're adapting. Evolving.</i>
+
+259
+00:17:12,480 --> 00:17:15,245
+<i>And we're losing Jaegers faster
+than we can build them.</i>
+
+260
+00:17:16,360 --> 00:17:17,361
+<i>Lima.</i>
+
+261
+00:17:17,840 --> 00:17:19,205
+<i>Seattle.</i>
+
+262
+00:17:19,760 --> 00:17:21,171
+<i>Vladivostok.</i>
+
+263
+00:17:21,800 --> 00:17:23,211
+<i>Category 4 Kaijus...</i>
+
+264
+00:17:23,440 --> 00:17:24,930
+<i>...are now coming through the Breach.</i>
+
+265
+00:17:25,160 --> 00:17:27,925
+<i>I think even you can see,
+marshal, this is no longer...</i>
+
+266
+00:17:28,160 --> 00:17:29,286
+<i>...a sound strategy.</i>
+
+267
+00:17:29,560 --> 00:17:31,528
+<i>The frequency of the attacks
+has increased.</i>
+
+268
+00:17:31,760 --> 00:17:35,890
+<i>The Jaegers are not the most viable
+line of defense anymore.</i>
+
+269
+00:17:36,120 --> 00:17:37,121
+I am aware.
+
+270
+00:17:38,280 --> 00:17:40,009
+Those are my rangers that die...
+
+271
+00:17:40,280 --> 00:17:41,611
+...every time a Jaeger falls...
+
+272
+00:17:41,840 --> 00:17:43,285
+...which is why I'm asking you...
+
+273
+00:17:43,520 --> 00:17:45,363
+- ...for one last chance.
+<i>- Excuse me, marshal.</i>
+
+274
+00:17:45,600 --> 00:17:48,251
+One final assault
+with everything we've got.
+
+275
+00:17:48,480 --> 00:17:50,244
+<i>The Jaeger program is dead, marshal.</i>
+
+276
+00:17:50,480 --> 00:17:52,244
+<i>On the other hand, the coastal wall...</i>
+
+277
+00:17:52,480 --> 00:17:54,323
+<i>...program is a promising option.</i>
+
+278
+00:17:54,880 --> 00:17:57,531
+<i>The world appreciates
+all that you and your men have done...</i>
+
+279
+00:17:57,800 --> 00:17:58,687
+<i>...but it's over.</i>
+
+280
+00:17:58,920 --> 00:18:01,161
+<i>We will authorize you to take
+all remaining Jaegers...</i>
+
+281
+00:18:01,400 --> 00:18:03,721
+<i>...to the last battle station: Hong Kong.</i>
+
+282
+00:18:04,320 --> 00:18:05,526
+<i>We're prepared to fund you...</i>
+
+283
+00:18:05,760 --> 00:18:07,410
+<i>...for the next eight months
+while the coastal wall...</i>
+
+284
+00:18:07,680 --> 00:18:08,806
+<i>...is completed.</i>
+
+285
+00:18:09,040 --> 00:18:11,805
+<i>After that, you will receive
+no further support.</i>
+
+286
+00:18:12,040 --> 00:18:13,929
+<i>You have your answer, marshal.</i>
+
+287
+00:18:16,880 --> 00:18:17,688
+So that's it?
+
+288
+00:18:19,520 --> 00:18:20,601
+It's over?
+
+289
+00:18:21,520 --> 00:18:23,124
+Suits and ties, flashy smiles.
+
+290
+00:18:24,600 --> 00:18:25,806
+That's all they are, Stacker.
+
+291
+00:18:30,640 --> 00:18:32,165
+We don't need them.
+
+293
+00:18:50,360 --> 00:18:52,567
+Eight hundred more beams.
+
+294
+00:18:54,000 --> 00:18:56,890
+Ration cards, guys! Come on, come on!
+
+295
+00:18:57,120 --> 00:18:58,246
+Let's go!
+
+296
+00:18:59,400 --> 00:19:03,246
+Now, I got good news and I got
+bad news, fellas. Which one...
+
+297
+00:19:03,480 --> 00:19:05,209
+- ...you wanna hear first?
+- Bad news!
+
+298
+00:19:05,680 --> 00:19:06,920
+Bad news:
+
+299
+00:19:07,560 --> 00:19:10,325
+Three guys died yesterday
+working the top of the wall.
+
+300
+00:19:11,480 --> 00:19:14,165
+- What's the good news?
+- The good news is...
+
+301
+00:19:15,200 --> 00:19:17,202
+...I got three new job openings.
+
+302
+00:19:17,440 --> 00:19:19,044
+Top of the wall.
+
+303
+00:19:19,720 --> 00:19:22,200
+Okay, who wants to work?
+Who wants to eat?
+
+304
+00:19:23,000 --> 00:19:24,365
+<i>Come on!</i>
+
+305
+00:20:06,120 --> 00:20:08,088
+<i>I am here in Sydney, where earlier today...</i>
+
+306
+00:20:08,320 --> 00:20:10,891
+<i>...yet another Kaiju attack took place.</i>
+
+307
+00:20:11,120 --> 00:20:13,726
+<i>The Kaiju, an enormous Category 4...</i>
+
+308
+00:20:13,960 --> 00:20:15,644
+<i>...broke through the coastal wall...</i>
+
+309
+00:20:15,880 --> 00:20:17,291
+<i>...in less than an hour.</i>
+
+311
+00:20:21,240 --> 00:20:24,449
+<i>The Wall of Life had been deemed
+unbreachable by its builders.</i>
+
+312
+00:20:24,680 --> 00:20:25,520
+Why the hell...
+
+313
+00:20:25,600 --> 00:20:27,170
+...are we even building this thing?
+
+314
+00:20:27,960 --> 00:20:30,770
+That thing went through the wall
+like it was nothing.
+
+315
+00:20:31,040 --> 00:20:31,927
+<i>Ironically, it was...</i>
+
+316
+00:20:32,200 --> 00:20:34,726
+ <i>...the recently decommissioned Jaeger,
+Striker Eureka...</i>
+
+317
+00:20:35,000 --> 00:20:35,842
+<i>...piloted by Herc...</i>
+
+318
+00:20:36,120 --> 00:20:37,770
+<i>...and Chuck Hansen that finally...</i>
+
+319
+00:20:38,040 --> 00:20:39,041
+<i>...took the beast down.</i>
+
+323
+00:21:02,760 --> 00:21:05,411
+<i>Look, they decommissioned
+the Jaeger program...</i>
+
+324
+00:21:05,640 --> 00:21:07,529
+<i>...because of mediocre pilots.
+It's that simple.</i>
+
+325
+00:21:07,760 --> 00:21:11,082
+<i>That's Striker Eureka's tenth kill
+to date. It's a new record.</i>
+
+326
+00:21:11,720 --> 00:21:14,963
+<i>And you're still going to Hong Kong,
+even at a time like this?</i>
+
+327
+00:21:15,200 --> 00:21:17,931
+<i>Well, orders are orders.
+What else am I supposed to do?</i>
+
+328
+00:21:24,000 --> 00:21:26,002
+<i>Chuck Hansen, one of the pilots...</i>
+
+329
+00:21:26,240 --> 00:21:27,207
+...of Striker Eureka...
+
+330
+00:21:27,440 --> 00:21:29,761
+<i>...the Jaeger that took down the Kaiju.</i>
+
+331
+00:21:37,480 --> 00:21:38,811
+Mr. Becket.
+
+332
+00:21:39,040 --> 00:21:39,723
+Marshal.
+
+333
+00:21:40,360 --> 00:21:41,691
+Looking sharp.
+
+334
+00:21:41,920 --> 00:21:43,160
+Long time.
+
+335
+00:21:43,760 --> 00:21:45,364
+Five years, four months.
+
+336
+00:21:46,480 --> 00:21:47,720
+Can I have a word?
+
+337
+00:21:50,480 --> 00:21:52,482
+Step into my office, marshal.
+
+338
+00:21:53,680 --> 00:21:55,523
+Took me a while to find you.
+
+339
+00:21:55,760 --> 00:21:57,569
+Anchorage, Sheldon Point, Nome...
+
+340
+00:21:57,800 --> 00:21:59,006
+Yeah, a man in my position...
+
+341
+00:21:59,240 --> 00:22:02,164
+...travels with the wall,
+chasing shifts to make a living.
+
+342
+00:22:02,400 --> 00:22:03,731
+What do you want?
+
+343
+00:22:06,160 --> 00:22:10,085
+I've spent the last six months activating
+everything I can get my hands on.
+
+344
+00:22:11,000 --> 00:22:13,970
+There's an old Jaeger, a Mark 3.
+
+345
+00:22:14,200 --> 00:22:16,567
+You may know it. It needs a pilot.
+
+346
+00:22:16,800 --> 00:22:18,609
+I'm guessing I wasn't your first choice.
+
+347
+00:22:19,680 --> 00:22:21,409
+You are my first choice.
+
+348
+00:22:21,640 --> 00:22:24,325
+All the other Mark 3 pilots are dead.
+
+349
+00:22:29,800 --> 00:22:31,040
+Look...
+
+350
+00:22:32,880 --> 00:22:36,089
+...I can't have anyone else
+in my head again.
+
+351
+00:22:37,120 --> 00:22:38,406
+I'm done.
+
+352
+00:22:39,640 --> 00:22:42,450
+I was still connected to my brother
+when he died.
+
+353
+00:22:42,680 --> 00:22:45,445
+I can't go through that again, man,
+I'm sorry.
+
+354
+00:22:46,360 --> 00:22:48,362
+Haven't you heard, Mr. Becket?
+
+355
+00:22:50,760 --> 00:22:52,683
+The world is coming to an end.
+
+356
+00:22:53,920 --> 00:22:54,762
+So where would you...
+
+357
+00:22:55,000 --> 00:22:55,967
+...rather die?
+
+358
+00:22:56,200 --> 00:22:59,283
+Here, or in a Jaeger?
+
+360
+00:24:07,960 --> 00:24:09,246
+Mr. Becket...
+
+361
+00:24:09,480 --> 00:24:10,811
+...this is Mako Mori.
+
+362
+00:24:11,040 --> 00:24:12,405
+One of our brightest.
+
+363
+00:24:12,640 --> 00:24:14,688
+Also in charge of the Mark 3
+restoration program.
+
+364
+00:24:15,640 --> 00:24:19,281
+She personally handpicked
+your copilot candidates.
+
+366
+00:24:24,160 --> 00:24:25,161
+Hey.
+
+368
+00:24:39,880 --> 00:24:41,166
+At ease.
+
+369
+00:24:41,800 --> 00:24:43,165
+We will tour the facility first...
+
+370
+00:24:43,400 --> 00:24:45,607
+...and then Miss Mori will show you
+to your Jaeger, Mr. Becket.
+
+371
+00:24:45,840 --> 00:24:46,602
+- Wait for us, please!
+- Hold the door...
+
+372
+00:24:46,880 --> 00:24:48,211
+- ...please!
+- Thank you.
+
+373
+00:24:48,440 --> 00:24:50,204
+Thank you. Thank you.
+
+374
+00:24:53,560 --> 00:24:55,449
+Stay back. Kaiju specimens
+are extremely rare...
+
+375
+00:24:55,720 --> 00:24:56,687
+...so look but don't touch, please.
+
+376
+00:24:56,920 --> 00:24:59,207
+Mr. Becket, this is our research team.
+
+377
+00:24:59,440 --> 00:25:01,442
+Dr. Gottlieb and Dr. Geiszler.
+
+378
+00:25:01,720 --> 00:25:02,767
+Oh, no, call me Newt.
+
+379
+00:25:03,000 --> 00:25:04,968
+Only my mother calls me Doctor.
+
+380
+00:25:05,960 --> 00:25:08,201
+Hermann, these are human beings.
+Why don't you say hello?
+
+381
+00:25:08,360 --> 00:25:11,001
+I have asked you not to refer to me
+by my first name around others.
+
+382
+00:25:11,080 --> 00:25:13,400
+I am a doctor with over 10 years
+of decorated experience...
+
+383
+00:25:13,600 --> 00:25:14,726
+Ten years! I'm very sorry.
+
+384
+00:25:14,960 --> 00:25:17,241
+- Oh, please.
+- Who is that...
+
+385
+00:25:17,360 --> 00:25:18,282
+...Yamarashi?
+
+386
+00:25:18,520 --> 00:25:21,205
+Oh, this little Kaiju?
+Yeah, you got a good eye.
+
+387
+00:25:21,440 --> 00:25:24,330
+My brother and I took him down in 2017.
+
+388
+00:25:24,560 --> 00:25:26,600
+You know he was one of the biggest
+Category 3s ever?
+
+389
+00:25:26,760 --> 00:25:29,161
+He was 2500 tons of awesome.
+
+390
+00:25:34,200 --> 00:25:36,043
+Or awful. You know,
+whatever you wanna call it.
+
+391
+00:25:36,280 --> 00:25:38,442
+Please excuse him. He's a Kaiju
+groupie. He loves them.
+
+392
+00:25:38,720 --> 00:25:41,485
+Shut up, Hermann, I don't love them,
+okay? I study them.
+
+393
+00:25:41,760 --> 00:25:44,650
+And unlike most people, I wanna see
+one alive and up close one day.
+
+394
+00:25:46,760 --> 00:25:47,682
+Trust me...
+
+395
+00:25:47,920 --> 00:25:48,921
+...you don't want to.
+
+396
+00:25:51,920 --> 00:25:53,888
+So that's your Research Division?
+
+397
+00:25:54,120 --> 00:25:55,884
+Things have changed.
+
+398
+00:25:58,720 --> 00:26:01,200
+We're not an army anymore, Mr. Becket.
+
+399
+00:26:01,840 --> 00:26:03,649
+We're the resistance.
+
+400
+00:26:04,440 --> 00:26:06,204
+Welcome to the Shatterdome.
+
+401
+00:26:25,720 --> 00:26:30,442
+War clock. We reset it after every
+Kaiju attack. Keeps everyone focused.
+
+402
+00:26:30,680 --> 00:26:32,569
+The frequency of attacks
+is accelerating.
+
+403
+00:26:32,800 --> 00:26:34,131
+How long till the next reset?
+
+404
+00:26:34,400 --> 00:26:36,402
+A week, if we're lucky.
+
+405
+00:26:37,320 --> 00:26:39,200
+My experts believe
+there'll be a Kaiju attack...
+
+406
+00:26:39,400 --> 00:26:40,640
+...even before that.
+
+407
+00:26:40,880 --> 00:26:42,041
+This complex used to lodge...
+
+408
+00:26:42,320 --> 00:26:45,369
+...30 Jaegers in five bays
+just like this one.
+
+409
+00:26:47,360 --> 00:26:49,681
+Now we only have four Jaegers left.
+
+410
+00:26:50,840 --> 00:26:52,410
+I didn't know it was this bad.
+
+411
+00:26:52,640 --> 00:26:54,210
+It is that bad.
+
+412
+00:26:54,440 --> 00:26:57,603
+Crimson Typhoon, China.
+One of the greatest.
+
+413
+00:26:57,880 --> 00:27:01,123
+Assembled in Changzhou.
+Full titanium core, no alloys.
+
+414
+00:27:01,360 --> 00:27:03,966
+Fifty diesel engines
+per muscle strand.
+
+415
+00:27:04,200 --> 00:27:05,440
+Deadly, precise fighter.
+
+416
+00:27:05,720 --> 00:27:08,929
+She's piloted by the Wei Tang
+brothers. Triplets.
+
+417
+00:27:09,160 --> 00:27:10,321
+Local lads.
+
+418
+00:27:10,600 --> 00:27:13,604
+They've successfully defended
+Hong Kong port seven times.
+
+419
+00:27:13,840 --> 00:27:15,569
+They use the Thundercloud formation.
+
+420
+00:27:15,800 --> 00:27:17,882
+Hell, yeah. Triple-arm technique.
+
+421
+00:27:18,120 --> 00:27:19,120
+Very effective.
+
+422
+00:27:24,320 --> 00:27:27,130
+That tank, last of the T-90s.
+Chemo Alpha.
+
+423
+00:27:27,360 --> 00:27:31,081
+First generation Mark 1. The heaviest
+and oldest Jaeger in the service.
+
+424
+00:27:31,320 --> 00:27:34,403
+But make no mistake, Mr. Becket,
+it's a brutal war machine.
+
+425
+00:27:34,640 --> 00:27:35,527
+And those two:
+
+426
+00:27:35,760 --> 00:27:37,489
+Sasha and Aleksis Kaidanovsky.
+
+427
+00:27:37,720 --> 00:27:41,008
+Yeah, I've heard of them.
+Perimeter patrol, Siberian wall.
+
+428
+00:27:41,600 --> 00:27:46,162
+On their watch it stayed
+unbreached for six years. Six years.
+
+430
+00:27:59,800 --> 00:28:02,007
+Herc! Chuck!
+
+431
+00:28:03,520 --> 00:28:06,171
+Gentlemen, welcome to Hong Kong!
+
+432
+00:28:06,600 --> 00:28:07,761
+Wait here.
+
+433
+00:28:08,600 --> 00:28:10,090
+Max! Come here!
+
+434
+00:28:10,880 --> 00:28:12,241
+- Remember me?
+- Don't drool...
+
+435
+00:28:12,400 --> 00:28:14,402
+...over Miss Mori. Sees a pretty girl...
+
+436
+00:28:14,640 --> 00:28:15,766
+...and he gets all wound up.
+
+437
+00:28:16,040 --> 00:28:19,567
+Raleigh, this is Hercules Hansen,
+an old friend from the Mark 1 glory days.
+
+438
+00:28:19,840 --> 00:28:21,480
+I know you, mate.
+We rode together before.
+
+439
+00:28:21,520 --> 00:28:23,682
+We did, sir. Six years ago.
+My brother and I.
+
+440
+00:28:23,920 --> 00:28:25,888
+- It was a three Jaeger team drop.
+- That's right. Manila.
+
+441
+00:28:26,120 --> 00:28:27,246
+Sorry about your brother.
+
+442
+00:28:27,880 --> 00:28:29,211
+Thank you, sir.
+
+443
+00:28:29,440 --> 00:28:32,250
+Herc and his son Chuck'll be running
+point using Striker Eureka.
+
+444
+00:28:32,800 --> 00:28:33,562
+Fastest Jaeger...
+
+445
+00:28:33,800 --> 00:28:36,883
+...in the world.
+First and last of the Mark 5s.
+
+446
+00:28:37,120 --> 00:28:39,600
+Australia decommissioned it
+a day before the Sydney attack.
+
+447
+00:28:39,840 --> 00:28:41,922
+- Yeah, it was lucky we were still around.
+- Yep.
+
+448
+00:28:42,160 --> 00:28:44,606
+- Now it's running point for us.
+- Wait, running point on what?
+
+449
+00:28:44,840 --> 00:28:47,207
+You haven't told me
+what I'm doing here yet.
+
+450
+00:28:48,200 --> 00:28:49,804
+We're going for the Breach, Mr. Becket.
+
+451
+00:28:50,080 --> 00:28:54,369
+We're gonna strap a 2400 pound
+thermonuclear warhead to Striker's back.
+
+452
+00:28:54,600 --> 00:28:56,204
+Detonate an equivalent of 1.2...
+
+453
+00:28:56,440 --> 00:28:58,090
+...million tons of TNT.
+
+454
+00:28:58,320 --> 00:28:59,890
+And you and two other Jaegers...
+
+455
+00:29:00,120 --> 00:29:02,487
+- ...will be running defense for them.
+- Thought we were the resistance.
+
+456
+00:29:02,920 --> 00:29:04,365
+Where'd you get something that big?
+
+457
+00:29:04,920 --> 00:29:08,208
+See the Russians back there?
+They can get us anything.
+
+458
+00:29:08,440 --> 00:29:09,407
+Herc, shall we?
+
+459
+00:29:09,680 --> 00:29:11,409
+- Good to have you back.
+- Thank you, sir.
+
+460
+00:29:11,680 --> 00:29:13,887
+- I'll show you to your Jaeger now.
+- Miss Mori...
+
+461
+00:29:15,520 --> 00:29:16,680
+...will you give me a minute?
+
+462
+00:29:18,000 --> 00:29:19,001
+Marshal!
+
+463
+00:29:20,320 --> 00:29:23,767
+Sir, we've hit the Breach before.
+It doesn't work. Nothing goes through.
+
+464
+00:29:24,000 --> 00:29:24,967
+What's changed?
+
+465
+00:29:25,560 --> 00:29:28,803
+I've got a plan. I need you ready.
+That's all.
+
+466
+00:29:29,040 --> 00:29:30,530
+Let's go, Herc!
+
+467
+00:29:31,600 --> 00:29:32,886
+Max, come here!
+
+468
+00:29:35,240 --> 00:29:36,002
+<i>Crew 17...</i>
+
+469
+00:29:36,240 --> 00:29:37,969
+<i>...please report to the fifth floor.</i>
+
+470
+00:29:39,560 --> 00:29:41,005
+Zero minus two.
+
+471
+00:29:41,240 --> 00:29:44,244
+XY minus two. R-E-Q...
+
+472
+00:29:44,480 --> 00:29:46,847
+In the beginning, the Kaiju attacks
+were spaced by 24 weeks.
+
+473
+00:29:47,600 --> 00:29:50,206
+Then twelve, then six,
+then every two weeks.
+
+474
+00:29:51,680 --> 00:29:53,444
+The last one in Sydney was a week.
+
+475
+00:29:54,360 --> 00:29:55,327
+In four days...
+
+476
+00:29:55,600 --> 00:29:57,011
+...we could be seeing
+a Kaiju every eight hours...
+
+477
+00:29:57,240 --> 00:29:59,049
+...until they are coming
+every four minutes.
+
+478
+00:29:59,280 --> 00:30:02,329
+Marshal, we should witness a double
+event within seven days.
+
+479
+00:30:03,200 --> 00:30:07,489
+Mr. Gottlieb, I'm to drop a 2400 pound
+thermonuclear bomb...
+
+480
+00:30:07,720 --> 00:30:08,607
+...I need more than...
+
+481
+00:30:08,840 --> 00:30:10,444
+- ...a prediction.
+- Well, uh...
+
+482
+00:30:10,680 --> 00:30:11,806
+...that's a problem, then...
+
+483
+00:30:12,080 --> 00:30:15,050
+...because see, he actually can't give
+you anything more than a prediction.
+
+484
+00:30:15,280 --> 00:30:18,124
+No Kaiju entrails over my side
+of the room. You know the rules.
+
+485
+00:30:18,360 --> 00:30:21,523
+- Every bloody day. It's incessant.
+- Gents! On point.
+
+486
+00:30:22,320 --> 00:30:23,924
+Numbers do not lie.
+
+487
+00:30:24,160 --> 00:30:27,209
+Politics and poetry, promises,
+these are lies.
+
+488
+00:30:27,440 --> 00:30:30,330
+Numbers are as close as we get
+to the handwriting of God.
+
+489
+00:30:30,560 --> 00:30:33,040
+- What?
+- Would you give me a moment?
+
+490
+00:30:33,280 --> 00:30:34,691
+There will be a double event.
+
+491
+00:30:35,080 --> 00:30:37,731
+And then, shortly thereafter,
+three. And then four...
+
+492
+00:30:37,960 --> 00:30:39,530
+And then we're dead.
+
+493
+00:30:39,760 --> 00:30:41,762
+- I get it.
+- Alas.
+
+494
+00:30:42,000 --> 00:30:44,002
+This is where the good news comes.
+
+495
+00:30:45,840 --> 00:30:49,367
+Here is our universe...
+
+496
+00:30:50,120 --> 00:30:52,521
+...and here is theirs.
+
+497
+00:30:52,760 --> 00:30:55,800
+And this is what we call "The Throat,"
+the passage between the Breach and us.
+
+498
+00:30:55,960 --> 00:30:57,405
+We know that it's atomic in nature.
+
+499
+00:30:57,640 --> 00:31:00,246
+I predict that the increased traffic...
+
+500
+00:31:00,480 --> 00:31:02,801
+...will force the Breach to stabilize...
+
+501
+00:31:03,080 --> 00:31:04,411
+...and remain open long enough...
+
+502
+00:31:04,640 --> 00:31:06,642
+...to get the device through...
+
+503
+00:31:08,240 --> 00:31:09,844
+...and collapse its structure.
+
+504
+00:31:10,560 --> 00:31:11,520
+Yeah, and that's...
+
+505
+00:31:11,680 --> 00:31:13,682
+...where I gotta chime in because,
+really...
+
+506
+00:31:13,920 --> 00:31:16,760
+...I wouldn't wanna go in there with
+that limited amount of information.
+
+507
+00:31:16,800 --> 00:31:18,643
+Newton, don't embarrass yourself.
+
+508
+00:31:18,880 --> 00:31:19,961
+Just hear me out for a second.
+Give me a second.
+
+509
+00:31:20,200 --> 00:31:21,122
+Please.
+
+510
+00:31:21,360 --> 00:31:23,488
+Why do we judge the Kaiju
+on a category system?
+
+511
+00:31:23,720 --> 00:31:24,721
+It's because each one...
+
+512
+00:31:24,960 --> 00:31:26,840
+...is completely different
+from the next, right?
+
+513
+00:31:26,960 --> 00:31:29,406
+You see what I'm saying? Like, one looks
+like a shark and one looks like a fish...
+
+514
+00:31:29,640 --> 00:31:31,529
+Dr. Geiszler. Just get to the point.
+
+515
+00:31:31,760 --> 00:31:32,841
+- Yes.
+- The point is...
+
+516
+00:31:33,040 --> 00:31:35,008
+...I don't think they're all
+completely different after all.
+
+517
+00:31:35,280 --> 00:31:37,081
+These are some samples
+I collected, all right?
+
+518
+00:31:38,160 --> 00:31:40,322
+Now, this one here
+was harvested in Sydney.
+
+519
+00:31:40,560 --> 00:31:42,767
+And this was harvested in Manila.
+
+520
+00:31:43,040 --> 00:31:44,007
+Six years ago.
+
+521
+00:31:44,760 --> 00:31:47,809
+They have the same exact DNA.
+
+522
+00:31:48,600 --> 00:31:50,090
+They're clones.
+
+523
+00:31:50,320 --> 00:31:51,003
+And this is...
+
+524
+00:31:51,240 --> 00:31:54,323
+...the point where he goes
+completely crazy.
+
+525
+00:31:55,240 --> 00:31:57,641
+NEWT: There's so much more
+to the Kaiju than we understand.
+
+526
+00:31:57,880 --> 00:31:59,962
+And we've really only scratched
+the surface.
+
+527
+00:32:00,320 --> 00:32:02,561
+This is a piece of a Kaiju's brain.
+
+528
+00:32:02,800 --> 00:32:05,929
+Now, unfortunately, it's damaged.
+It's a little bit weak.
+
+529
+00:32:06,160 --> 00:32:08,208
+But it's still alive. Now, I think...
+
+530
+00:32:08,480 --> 00:32:09,561
+...I can tap into it...
+
+531
+00:32:09,800 --> 00:32:12,371
+...using the same technology
+that allows the two Jaeger pilots...
+
+532
+00:32:12,600 --> 00:32:13,726
+...to share a neural bridge.
+
+533
+00:32:13,960 --> 00:32:15,450
+Now, think about that.
+
+534
+00:32:15,680 --> 00:32:17,569
+I could tell you exactly...
+
+535
+00:32:17,800 --> 00:32:19,520
+...how to get through
+the Breach yourselves.
+
+536
+00:32:19,640 --> 00:32:22,007
+You're suggesting that we initiate
+a Drift with a Kaiju?
+
+537
+00:32:22,240 --> 00:32:25,881
+No, no. No, no. Not like a whole Kaiju,
+you know, just a tiny piece of its brain.
+
+538
+00:32:26,120 --> 00:32:28,043
+The neural surge would be too much...
+
+539
+00:32:28,280 --> 00:32:29,361
+- ...for the human brain.
+- I agree.
+
+540
+00:32:29,600 --> 00:32:31,921
+- I don't agree.
+- Gottlieb...
+
+541
+00:32:32,160 --> 00:32:34,162
+...I'd like your data on my desk ASAP.
+
+542
+00:32:34,400 --> 00:32:35,083
+Sir.
+
+543
+00:32:35,320 --> 00:32:37,482
+- No, but his is so...
+- Thank you, Newt.
+
+544
+00:32:37,760 --> 00:32:39,842
+Guys, now, this is the most amazing
+thing...
+
+545
+00:32:40,080 --> 00:32:42,162
+Newton, I know that
+you're desperate to be right...
+
+546
+00:32:42,400 --> 00:32:44,846
+...so you've not wasted your life
+being a Kaiju groupie...
+
+547
+00:32:45,080 --> 00:32:46,286
+...but it's not going to work.
+
+548
+00:32:46,560 --> 00:32:48,528
+It is going to work, Hermann.
+And I'll tell you...
+
+549
+00:32:48,760 --> 00:32:49,807
+...something else.
+
+550
+00:32:50,040 --> 00:32:52,088
+- Fortune favors the brave, dude.
+- You heard them.
+
+551
+00:32:52,360 --> 00:32:55,011
+They won't give you the equipment
+and even if they did...
+
+552
+00:32:56,240 --> 00:32:57,241
+...you'd kill yourself.
+
+553
+00:32:57,520 --> 00:32:59,568
+Or I'd be a rock star.
+
+554
+00:33:03,000 --> 00:33:04,445
+There she is.
+
+556
+00:33:08,720 --> 00:33:10,290
+Oh, my God.
+
+557
+00:33:12,280 --> 00:33:13,281
+Look at her.
+
+558
+00:33:15,120 --> 00:33:17,088
+<i>Gipsy Danger.</i>
+
+559
+00:33:18,560 --> 00:33:21,006
+God, it's so beautiful.
+
+560
+00:33:21,240 --> 00:33:22,446
+She looks like new.
+
+561
+00:33:22,720 --> 00:33:23,562
+Better than new.
+
+562
+00:33:23,800 --> 00:33:26,201
+She has a double-core
+nuclear reactor.
+
+563
+00:33:26,920 --> 00:33:29,082
+She's one of a kind now.
+
+564
+00:33:30,400 --> 00:33:32,084
+She always was.
+
+565
+00:33:32,600 --> 00:33:34,648
+How do you like your ride, Becket boy?
+
+566
+00:33:34,880 --> 00:33:38,805
+Solid iron hull, no alloys.
+Forty engine blocks per muscle strand.
+
+567
+00:33:39,040 --> 00:33:41,281
+Hyper-torque driver for every limb
+and a new fluid...
+
+568
+00:33:41,520 --> 00:33:42,760
+...synapse system.
+
+569
+00:33:43,400 --> 00:33:44,481
+Come here.
+
+570
+00:33:44,720 --> 00:33:47,326
+Tendo. It's good to see you, buddy.
+
+571
+00:33:47,960 --> 00:33:51,726
+It's good to see you too, brother.
+It's just like old times.
+
+572
+00:33:54,080 --> 00:33:55,889
+So, what's your story?
+
+573
+00:33:56,120 --> 00:33:59,363
+Restoring old Jaegers,
+showing has-beans like me around.
+
+574
+00:34:00,000 --> 00:34:01,525
+That can't be it.
+
+575
+00:34:02,000 --> 00:34:03,047
+You a pilot?
+
+576
+00:34:03,280 --> 00:34:05,044
+No. Not yet.
+
+577
+00:34:06,080 --> 00:34:07,081
+But I wanna be one...
+
+578
+00:34:07,320 --> 00:34:08,446
+...more than anything.
+
+579
+00:34:08,920 --> 00:34:10,684
+What's your simulator score?
+
+580
+00:34:10,920 --> 00:34:13,924
+Fifty-one drops, 51 kills.
+
+581
+00:34:14,160 --> 00:34:15,446
+Wow, that's amazing.
+
+582
+00:34:15,720 --> 00:34:17,848
+But you're not
+one of the candidates tomorrow?
+
+583
+00:34:18,840 --> 00:34:20,251
+I am not.
+
+584
+00:34:20,480 --> 00:34:22,244
+The marshal has his reasons.
+
+585
+00:34:23,000 --> 00:34:24,525
+Yeah, he always does, doesn't he?
+
+586
+00:34:24,760 --> 00:34:27,570
+But with 51 kills,
+I can't imagine what they could be.
+
+587
+00:34:30,040 --> 00:34:32,520
+I hope you approve of my choices.
+
+588
+00:34:32,760 --> 00:34:35,206
+I've studied your fighting techniques
+and strategy.
+
+589
+00:34:35,600 --> 00:34:38,206
+Even Alaska.
+
+590
+00:34:38,440 --> 00:34:39,930
+And what do you think?
+
+591
+00:34:41,720 --> 00:34:45,281
+I think you're unpredictable.
+
+592
+00:34:45,680 --> 00:34:49,526
+You have a habit of deviating
+from standard combat techniques.
+
+593
+00:34:49,760 --> 00:34:53,401
+You take risks that endanger
+yourself and your crew.
+
+594
+00:34:53,640 --> 00:34:56,371
+I don't think you're the right man
+for this mission.
+
+595
+00:34:59,240 --> 00:35:00,730
+Wow.
+
+596
+00:35:01,400 --> 00:35:04,722
+Thank you for your honesty.
+You might be right.
+
+597
+00:35:05,120 --> 00:35:09,444
+But one day, when you're a pilot,
+you're gonna see that in combat...
+
+598
+00:35:10,200 --> 00:35:12,009
+...you make decisions.
+
+599
+00:35:15,640 --> 00:35:17,688
+And you have to live
+with the consequences.
+
+600
+00:35:19,960 --> 00:35:22,042
+That's what I'm trying to do.
+
+601
+00:35:54,480 --> 00:35:55,720
+The candidates are ready.
+
+602
+00:35:56,000 --> 00:35:58,002
+We will commence
+the trials immediately, sir.
+
+603
+00:35:58,240 --> 00:35:59,810
+- Good.
+- But there is one thing.
+
+604
+00:36:00,040 --> 00:36:02,611
+Mako, we have talked about this.
+
+605
+00:36:02,880 --> 00:36:05,247
+We will not be talking about it again.
+
+606
+00:36:06,240 --> 00:36:08,004
+You promised me.
+
+608
+00:36:10,960 --> 00:36:12,450
+Mako.
+
+609
+00:36:15,240 --> 00:36:18,449
+Vengeance is like an open wound.
+
+610
+00:36:18,880 --> 00:36:21,121
+You cannot take that level of emotion
+into the Drift.
+
+611
+00:36:21,400 --> 00:36:22,322
+For my family, I need...
+
+614
+00:36:36,120 --> 00:36:37,406
+Raleigh.
+
+615
+00:36:38,080 --> 00:36:39,411
+Come sit with us.
+
+616
+00:36:39,640 --> 00:36:41,130
+Oh, I'm okay, thank you.
+
+617
+00:36:41,360 --> 00:36:43,931
+Ah, come on,
+there's plenty of room at our table.
+
+618
+00:36:44,400 --> 00:36:46,129
+I haven't seen bread in a while.
+
+619
+00:36:46,360 --> 00:36:47,725
+Hong Kong.
+
+620
+00:36:47,960 --> 00:36:49,849
+Beauty of an open port, no rationing.
+
+621
+00:36:50,080 --> 00:36:54,051
+We've got potatoes, peas,
+sweet beans, decent meat loaf.
+
+622
+00:36:54,280 --> 00:36:55,486
+Pass the potatoes.
+
+623
+00:36:56,280 --> 00:36:57,320
+Raleigh, this is my son...
+
+624
+00:36:57,560 --> 00:36:59,324
+...Chuck. He's my copilot now.
+
+625
+00:36:59,560 --> 00:37:00,800
+He's more my copilot.
+
+626
+00:37:01,040 --> 00:37:02,530
+Right, Dad?
+
+627
+00:37:02,760 --> 00:37:04,444
+So you're the guy, eh?
+
+628
+00:37:04,680 --> 00:37:06,284
+You're the guy who's gonna run defense
+for me...
+
+629
+00:37:06,520 --> 00:37:09,126
+- ...in that old rust bucket of yours?
+- That's the plan.
+
+630
+00:37:09,360 --> 00:37:10,327
+Good.
+
+631
+00:37:10,560 --> 00:37:12,801
+So when was the last time
+you jockeyed, Ray?
+
+632
+00:37:14,360 --> 00:37:16,169
+About five years ago.
+
+633
+00:37:16,400 --> 00:37:19,768
+What have you been doing for five years?
+Something pretty important, I reckon.
+
+634
+00:37:20,840 --> 00:37:21,966
+I was in construction.
+
+635
+00:37:22,200 --> 00:37:24,328
+Oh, wow, that's great.
+
+636
+00:37:24,560 --> 00:37:26,210
+I mean, that's really useful.
+
+637
+00:37:26,440 --> 00:37:28,886
+We get into a fight, you can build
+our way out of it, eh, Ray?
+
+638
+00:37:30,720 --> 00:37:32,006
+It's Raleigh.
+
+639
+00:37:32,560 --> 00:37:33,721
+Whatever.
+
+640
+00:37:34,400 --> 00:37:36,607
+Look, you're Pentecost's bright idea.
+
+641
+00:37:36,840 --> 00:37:38,524
+And my old man, he seems to like you.
+
+642
+00:37:38,760 --> 00:37:42,082
+But it's guys like you who brought
+down the Jaeger program. To me...
+
+643
+00:37:42,360 --> 00:37:43,327
+...you're dead weight.
+
+644
+00:37:43,560 --> 00:37:44,607
+You slow me down...
+
+645
+00:37:44,840 --> 00:37:46,842
+...I'm gonna drop you
+like a sack of Kaiju shit.
+
+647
+00:37:48,760 --> 00:37:51,206
+I'll see you around, Raleigh.
+Come on, Max.
+
+648
+00:37:54,000 --> 00:37:56,526
+You can blame me for that one.
+I've raised him on my own.
+
+649
+00:37:56,760 --> 00:37:59,445
+He's a smart kid, but I never knew
+whether to give him a hug...
+
+650
+00:37:59,680 --> 00:38:01,205
+...or a kick in the ass.
+
+651
+00:38:03,280 --> 00:38:04,930
+With respect, sir...
+
+652
+00:38:06,000 --> 00:38:08,082
+...I'm pretty sure which one he needs.
+
+655
+00:38:16,640 --> 00:38:17,971
+Four points to 0.
+
+657
+00:38:29,040 --> 00:38:30,246
+Four points to 1.
+
+659
+00:38:45,600 --> 00:38:46,328
+Four points...
+
+660
+00:38:46,560 --> 00:38:47,402
+...to 2.
+
+661
+00:38:48,200 --> 00:38:49,247
+Okay, what?
+
+662
+00:38:50,160 --> 00:38:50,968
+You don't like them?
+
+663
+00:38:51,200 --> 00:38:52,042
+I thought you selected them...
+
+664
+00:38:52,280 --> 00:38:53,202
+...personally.
+
+665
+00:38:53,440 --> 00:38:54,327
+Excuse me?
+
+666
+00:38:54,600 --> 00:38:58,491
+Every time a match ends
+you make this little gesture...
+
+667
+00:38:58,760 --> 00:39:00,520
+...like you're critical
+of their performance.
+
+668
+00:39:00,640 --> 00:39:03,405
+It's not their performance,
+it's yours. Your gambit.
+
+669
+00:39:03,640 --> 00:39:05,130
+You could have taken...
+
+670
+00:39:05,400 --> 00:39:06,731
+...all of them two moves earlier.
+
+671
+00:39:08,240 --> 00:39:08,923
+You think so?
+
+672
+00:39:09,200 --> 00:39:10,122
+I know so.
+
+673
+00:39:10,480 --> 00:39:12,209
+Can we change this up?
+
+674
+00:39:12,640 --> 00:39:13,448
+How about we give...
+
+675
+00:39:13,680 --> 00:39:14,727
+...her a shot.
+
+676
+00:39:16,360 --> 00:39:19,807
+No. We stick to
+the cadet list we have, ranger.
+
+677
+00:39:20,080 --> 00:39:21,969
+Only candidates with Drift
+compatibility...
+
+678
+00:39:22,200 --> 00:39:23,406
+Which I have, marshal.
+
+679
+00:39:23,640 --> 00:39:25,244
+Mako, this is not only
+about a neural connection.
+
+680
+00:39:25,480 --> 00:39:27,448
+It's also about a physical compatibility.
+
+681
+00:39:27,680 --> 00:39:28,761
+What's the matter, marshal?
+
+682
+00:39:29,760 --> 00:39:32,041
+Don't think your brightest
+can cut it in the ring with me?
+
+683
+00:39:35,000 --> 00:39:36,206
+Go.
+
+684
+00:39:42,560 --> 00:39:43,721
+Four strikes marks a win.
+
+685
+00:39:49,160 --> 00:39:51,481
+Remember, it's about compatibility.
+
+686
+00:39:52,200 --> 00:39:53,361
+It's a dialogue, not a fight.
+
+687
+00:39:53,600 --> 00:39:55,080
+But I'm not gonna dial down my moves.
+
+688
+00:39:56,720 --> 00:39:57,562
+Okay.
+
+689
+00:39:58,880 --> 00:40:00,484
+Then neither will I.
+
+690
+00:40:17,920 --> 00:40:18,762
+One-zero.
+
+692
+00:40:20,960 --> 00:40:21,802
+One-one.
+
+693
+00:40:26,440 --> 00:40:28,329
+Two-one. Concentrate.
+
+695
+00:40:36,800 --> 00:40:37,722
+Two-two.
+
+696
+00:40:37,960 --> 00:40:39,007
+Better watch it.
+
+697
+00:40:49,360 --> 00:40:50,486
+Oh.
+
+698
+00:40:51,000 --> 00:40:52,365
+Three-two.
+
+700
+00:41:18,200 --> 00:41:18,803
+Enough.
+
+702
+00:41:21,400 --> 00:41:22,560
+I've seen what I need to see.
+
+703
+00:41:23,200 --> 00:41:24,406
+Me too.
+
+704
+00:41:24,640 --> 00:41:26,404
+She's my copilot.
+
+705
+00:41:26,640 --> 00:41:28,563
+That's not going to work.
+
+706
+00:41:29,280 --> 00:41:29,963
+Why not?
+
+707
+00:41:30,200 --> 00:41:31,725
+Because I said so, Mr. Becket.
+
+708
+00:41:32,000 --> 00:41:33,604
+I made my decision. Report to...
+
+709
+00:41:33,880 --> 00:41:37,009
+...the Shatterdome in two hours
+and find out who your copilot will be.
+
+710
+00:41:52,440 --> 00:41:53,680
+Mako.
+
+711
+00:41:54,600 --> 00:41:56,090
+What was all that about?
+
+712
+00:41:57,080 --> 00:41:57,763
+I mean...
+
+713
+00:41:58,000 --> 00:41:59,684
+...I'm not crazy. You felt it, right?
+
+714
+00:42:00,520 --> 00:42:01,681
+We are Drift compatible.
+
+715
+00:42:01,920 --> 00:42:03,570
+Thank you for standing up for me.
+
+716
+00:42:04,360 --> 00:42:07,569
+But there is nothing to talk about.
+
+718
+00:42:12,400 --> 00:42:13,890
+That's my room.
+
+719
+00:42:15,800 --> 00:42:17,006
+Excuse me.
+
+720
+00:42:17,720 --> 00:42:20,120
+I mean, come on.
+I thought you wanted to be a pilot.
+
+721
+00:42:20,360 --> 00:42:21,043
+Mako...
+
+722
+00:42:21,280 --> 00:42:23,123
+...this is worth fighting for.
+
+723
+00:42:25,240 --> 00:42:26,765
+We don't have to just obey him.
+
+724
+00:42:28,440 --> 00:42:30,204
+It's not obedience, Mr. Becket.
+
+725
+00:42:34,000 --> 00:42:35,525
+It's respect.
+
+726
+00:42:37,080 --> 00:42:38,286
+Would you at least tell me...
+
+727
+00:42:38,520 --> 00:42:39,760
+...what his problem is?
+
+728
+00:43:01,200 --> 00:43:02,440
+<i>In the wake...</i>
+
+729
+00:43:02,720 --> 00:43:05,690
+<i>...of the Sydney incident
+which showed the ineffective nature...</i>
+
+730
+00:43:05,920 --> 00:43:08,969
+<i>...of the Wall of Life program,
+many are questioning...</i>
+
+731
+00:43:09,200 --> 00:43:11,080
+<i>...the government's motives
+and wondering why...</i>
+
+732
+00:43:11,280 --> 00:43:13,851
+<i>...the Jaeger program
+has been discontinued.</i>
+
+733
+00:43:14,080 --> 00:43:16,651
+<i>Riots have erupted
+along the coastlines of several...</i>
+
+734
+00:43:16,880 --> 00:43:17,802
+<i>...Pan Pacific...</i>
+
+735
+00:43:18,040 --> 00:43:18,768
+<i>...cities.</i>
+
+736
+00:43:20,000 --> 00:43:24,483
+<i>We have now relocated
+millions of civilians and supplies...</i>
+
+737
+00:43:24,720 --> 00:43:27,121
+<i>...300 miles inland
+to the safe zones.</i>
+
+738
+00:43:27,360 --> 00:43:31,126
+<i>Safe zones? For the rich and powerful?
+What about the rest of us?</i>
+
+739
+00:43:31,360 --> 00:43:32,560
+<i>Yeah, answer the question.</i>
+
+740
+00:43:32,600 --> 00:43:35,843
+<i>I believe the Wall of Life
+is still our best option at this time.</i>
+
+741
+00:43:36,080 --> 00:43:38,200
+<i>And that's all I'm gonna say
+on the matter. Thank you.</i>
+
+742
+00:43:43,040 --> 00:43:43,800
+Kaiju/Human...
+
+743
+00:43:43,960 --> 00:43:45,928
+...Drift experiment, take one.
+
+744
+00:43:47,000 --> 00:43:48,365
+The, uh...
+
+745
+00:43:48,640 --> 00:43:51,325
+The brain segment is the frontal lobe.
+
+746
+00:43:51,720 --> 00:43:54,166
+Um, chances are...
+
+747
+00:43:54,440 --> 00:43:56,727
+...the segment's far too damaged
+to Drift with.
+
+748
+00:43:57,360 --> 00:43:59,328
+Unscientific aside:
+
+749
+00:43:59,560 --> 00:44:02,006
+Hermann,
+if you're listening to this...
+
+750
+00:44:02,280 --> 00:44:05,807
+...well, I'm either alive and
+I've proven what I've just done works...
+
+751
+00:44:06,160 --> 00:44:07,650
+...in which case, ha, ha, I won...
+
+752
+00:44:07,880 --> 00:44:10,451
+...or I'm dead and I'd like you to know
+that it's all your fault.
+
+753
+00:44:10,680 --> 00:44:12,125
+It really is. You know,
+you drove me to this.
+
+754
+00:44:12,360 --> 00:44:13,327
+In which case...
+
+755
+00:44:13,560 --> 00:44:15,050
+...ha, I also won.
+
+756
+00:44:16,040 --> 00:44:17,280
+Sort of.
+
+757
+00:44:18,320 --> 00:44:20,243
+I'm going in in three...
+
+758
+00:44:21,200 --> 00:44:22,565
+...two...
+
+759
+00:44:23,400 --> 00:44:24,242
+...one.
+
+764
+00:44:49,280 --> 00:44:50,964
+Newton. Newton!
+
+765
+00:44:51,440 --> 00:44:52,885
+What have you done?
+
+766
+00:45:00,320 --> 00:45:03,767
+<i>Gipsy Danger neural test commencing...</i>
+
+767
+00:45:04,000 --> 00:45:05,001
+<i>...in 20 minutes.</i>
+
+768
+00:45:07,280 --> 00:45:08,088
+<i>Gipsy Danger...</i>
+
+769
+00:45:08,320 --> 00:45:10,800
+<i>...neural test commencing...</i>
+
+770
+00:45:11,040 --> 00:45:12,610
+<i>...in 20 minutes.</i>
+
+771
+00:45:14,360 --> 00:45:16,647
+<i>Gipsy Danger neural test...</i>
+
+774
+00:45:26,400 --> 00:45:28,129
+May I come in, Mako?
+
+775
+00:45:34,240 --> 00:45:35,605
+A long time ago...
+
+776
+00:45:35,840 --> 00:45:37,365
+...I made you a promise.
+
+778
+00:45:47,840 --> 00:45:50,684
+These transmitters are non-operative.
+I need them replaced.
+
+779
+00:45:57,160 --> 00:45:58,685
+<i>Setting harness for test mode.</i>
+
+780
+00:45:58,920 --> 00:46:00,365
+Waiting for second pilot.
+
+781
+00:46:09,480 --> 00:46:10,925
+<i>Two pilots on board.</i>
+
+782
+00:46:11,200 --> 00:46:15,364
+I'm gonna take this side if you don't
+mind. My left arm's kind of shot.
+
+783
+00:46:15,600 --> 00:46:16,647
+Sure.
+
+784
+00:46:19,520 --> 00:46:21,363
+Are you gonna say anything?
+
+785
+00:46:22,560 --> 00:46:24,961
+No point. In five minutes
+you're gonna be...
+
+786
+00:46:25,200 --> 00:46:26,565
+...inside my head.
+
+787
+00:46:27,200 --> 00:46:28,326
+You look good.
+
+788
+00:46:31,720 --> 00:46:34,803
+<i>Pilots on board and ready to connect.</i>
+
+789
+00:46:35,040 --> 00:46:37,400
+- Prepare for neural handshake.
+- Initiating...
+
+790
+00:46:37,640 --> 00:46:38,607
+...neural handshake.
+
+791
+00:46:45,960 --> 00:46:48,327
+Okay.
+We're not in the simulator now, Mako.
+
+792
+00:46:48,560 --> 00:46:51,211
+Remember, don't chase the rabbit.
+
+793
+00:46:51,440 --> 00:46:53,283
+Random Access Brain Impulse
+Triggers. Memories.
+
+794
+00:46:53,520 --> 00:46:55,363
+Just let them flow, don't latch on.
+
+795
+00:46:55,600 --> 00:46:57,523
+Tune them out. Stay in the Drift.
+
+796
+00:46:57,760 --> 00:46:58,761
+The Drift is silence.
+
+797
+00:46:59,640 --> 00:47:03,281
+<i>Neural interface Drift initiated.</i>
+
+798
+00:47:03,520 --> 00:47:05,090
+<i>Raleigh!</i>
+
+801
+00:47:14,680 --> 00:47:16,250
+<i>Mama!</i>
+
+802
+00:47:17,000 --> 00:47:20,288
+<i>Raleigh, listen to me!
+Raleigh, listen to me!</i>
+
+804
+00:47:25,080 --> 00:47:27,401
+<i>Right hemisphere calibrated.</i>
+
+805
+00:47:27,640 --> 00:47:30,484
+<i>Left hemisphere calibrated.</i>
+
+806
+00:47:32,360 --> 00:47:34,249
+<i>Ready to activate...</i>
+
+807
+00:47:34,480 --> 00:47:35,686
+<i>...the Jaeger.</i>
+
+808
+00:47:37,040 --> 00:47:39,964
+Okay, Gipsy. Lining up nicely.
+
+809
+00:47:40,480 --> 00:47:41,811
+Better get ready.
+
+810
+00:47:42,080 --> 00:47:43,809
+<i>Pilot to Jaeger connection complete.</i>
+
+811
+00:47:44,080 --> 00:47:45,969
+Marshal! Marshal!
+
+812
+00:47:46,200 --> 00:47:47,247
+I need to talk to you.
+
+813
+00:47:47,680 --> 00:47:48,647
+Not now, Mr. Gottlieb.
+
+814
+00:47:48,920 --> 00:47:51,400
+I'm sure you can appreciate
+how important this moment is to me.
+
+815
+00:47:51,680 --> 00:47:55,048
+Newton created a neural bridge from
+garbage and Drifted with a Kaiju.
+
+816
+00:47:58,560 --> 00:48:00,210
+I found him prone...
+
+817
+00:48:00,480 --> 00:48:03,051
+...and he's sort of dazed.
+
+818
+00:48:03,280 --> 00:48:06,329
+I don't exactly know what to do.
+
+819
+00:48:09,840 --> 00:48:11,046
+I told you it would work.
+
+820
+00:48:11,400 --> 00:48:13,880
+Yes, you did.
+Well, what'd you see?
+
+821
+00:48:14,400 --> 00:48:17,722
+It was only a fragment of a brain, so
+really all I was able to get was, like...
+
+822
+00:48:17,960 --> 00:48:19,769
+...a series of, uh, images...
+
+823
+00:48:20,040 --> 00:48:21,087
+...or impressions.
+
+824
+00:48:21,320 --> 00:48:24,051
+Like when you blink your eyes over and
+over and over again all you really see...
+
+825
+00:48:24,280 --> 00:48:25,930
+...are, like, frames. It was emotion.
+
+826
+00:48:26,160 --> 00:48:27,082
+Newton, Newton.
+
+827
+00:48:27,320 --> 00:48:30,324
+Okay, Newton. Newton, look at me.
+
+828
+00:48:31,520 --> 00:48:35,730
+Now I want you to take your time
+and be very specific.
+
+829
+00:48:36,320 --> 00:48:38,766
+Okay. Okay.
+
+830
+00:48:39,000 --> 00:48:42,121
+Well, I don't feel like they're just
+following some sort of animalistic urge...
+
+831
+00:48:42,240 --> 00:48:43,841
+...you know, just hunting and gathering.
+
+832
+00:48:43,960 --> 00:48:45,803
+And I think they're attacking us
+under orders.
+
+833
+00:48:46,040 --> 00:48:47,121
+That's impossible.
+
+834
+00:48:47,400 --> 00:48:48,961
+- Is that impossible?
+- It's impossible.
+
+835
+00:48:49,160 --> 00:48:49,888
+Why don't you...
+
+836
+00:48:50,120 --> 00:48:50,723
+...Drift with a Kaiju?
+
+837
+00:48:50,960 --> 00:48:52,450
+You! Shut up!
+
+838
+00:48:54,040 --> 00:48:56,520
+You, keep talking.
+
+839
+00:48:59,520 --> 00:49:03,809
+These beings, these masters,
+they're colonists.
+
+840
+00:49:04,080 --> 00:49:05,969
+They overtake worlds.
+They just consume them...
+
+841
+00:49:06,200 --> 00:49:07,884
+...and then they move on to the next.
+
+842
+00:49:08,320 --> 00:49:11,244
+And they've been here before
+in sort of a trial run.
+
+843
+00:49:12,280 --> 00:49:13,122
+It was the dinosaurs.
+
+844
+00:49:13,360 --> 00:49:15,044
+But the atmosphere
+wasn't conducive, right?
+
+845
+00:49:15,280 --> 00:49:17,169
+So they waited it out.
+And they waited it out.
+
+846
+00:49:17,400 --> 00:49:20,244
+And now with ozone depletion,
+and carbon monoxide, polluted waters...
+
+847
+00:49:20,480 --> 00:49:22,767
+...well, we've practically
+terraformed it for them.
+
+848
+00:49:23,000 --> 00:49:25,241
+Because now they're coming back,
+and it's perfect.
+
+849
+00:49:25,520 --> 00:49:27,321
+See, the first wave,
+that was just the hounds.
+
+850
+00:49:27,560 --> 00:49:29,080
+Categories 1 through 4,
+it was nothing.
+
+851
+00:49:29,280 --> 00:49:31,009
+Their sole purpose was to aim
+for the populated areas...
+
+852
+00:49:31,240 --> 00:49:32,287
+...and to take out the vermin: Us!
+
+853
+00:49:32,520 --> 00:49:35,046
+The second wave,
+that is the exterminators.
+
+854
+00:49:35,320 --> 00:49:37,368
+And they will finish the job. And then...
+
+855
+00:49:37,600 --> 00:49:38,567
+...the new tenants...
+
+856
+00:49:38,800 --> 00:49:39,926
+...will take possession.
+
+857
+00:49:41,680 --> 00:49:44,921
+See, the reason that I found the identical
+DNA in the two separate Kaiju organs...
+
+858
+00:49:45,160 --> 00:49:46,810
+...is because they are grown!
+
+859
+00:49:47,080 --> 00:49:48,441
+Newton, I need you to do it again.
+
+860
+00:49:48,640 --> 00:49:50,768
+I need more information.
+
+861
+00:49:51,280 --> 00:49:53,248
+I can't do it again.
+
+862
+00:49:53,800 --> 00:49:55,962
+I mean, not unless you have
+a fresh Kaiju brain...
+
+863
+00:49:56,200 --> 00:49:57,247
+...lying around.
+
+864
+00:50:00,480 --> 00:50:01,481
+Do you?
+
+865
+00:50:09,320 --> 00:50:10,242
+Pretty impressive.
+
+866
+00:50:10,520 --> 00:50:12,045
+Yeah, he remembers how to turn it on.
+
+867
+00:50:12,320 --> 00:50:13,890
+Oi, show some respect.
+
+868
+00:50:14,120 --> 00:50:16,726
+When his brother died, he got
+the Jaeger back to shore on his own.
+
+869
+00:50:16,960 --> 00:50:19,121
+I've known one other pilot
+that's been able to do that.
+
+870
+00:50:20,720 --> 00:50:23,246
+Now, there are certain individuals
+whose business is the preservation...
+
+871
+00:50:23,480 --> 00:50:25,323
+...and exploitation of Kaiju remains.
+
+872
+00:50:25,560 --> 00:50:27,767
+Uh, yeah, right, um,
+black market dealers, right?
+
+873
+00:50:28,040 --> 00:50:29,963
+Yep. They're in and out
+in a matter of hours.
+
+874
+00:50:30,200 --> 00:50:32,123
+They neutralize the acidic factor
+of the blood...
+
+875
+00:50:32,360 --> 00:50:33,930
+...and they harvest what they need.
+
+876
+00:50:34,160 --> 00:50:36,970
+Now, this guy, this is Hannibal Chau.
+
+877
+00:50:37,440 --> 00:50:38,851
+He runs the Kaiju black market...
+
+878
+00:50:39,080 --> 00:50:40,525
+...here in Asia.
+When our funding ran out...
+
+879
+00:50:40,800 --> 00:50:42,245
+...we turned to him for help
+and in return...
+
+880
+00:50:42,480 --> 00:50:44,767
+...I gave him exclusive rights
+to all Kaiju remains in the region.
+
+881
+00:50:45,000 --> 00:50:45,967
+You did that?
+
+882
+00:50:46,200 --> 00:50:47,804
+Last days of war, gentlemen.
+
+883
+00:50:48,280 --> 00:50:49,486
+Go to the corner of Pong...
+
+884
+00:50:49,720 --> 00:50:51,165
+...and Tull. Show them that card.
+
+885
+00:50:51,440 --> 00:50:52,646
+Look for that symbol.
+
+886
+00:50:52,880 --> 00:50:55,486
+And a word to the wise, do not trust him.
+
+887
+00:51:00,160 --> 00:51:01,321
+<i>Calibration...</i>
+
+888
+00:51:01,560 --> 00:51:03,005
+<i>...complete.</i>
+
+889
+00:51:03,600 --> 00:51:05,523
+<i>The hull!
+Went through the hull!</i>
+
+890
+00:51:05,760 --> 00:51:07,410
+Raleigh, listen to me! You need...
+
+892
+00:51:10,040 --> 00:51:10,723
+<i>Pilot...</i>
+
+893
+00:51:11,000 --> 00:51:11,801
+<i>...out of alignment.</i>
+
+894
+00:51:12,040 --> 00:51:14,566
+- Both out of alignment.
+- Both of them?
+
+896
+00:51:15,560 --> 00:51:16,320
+Both of them.
+
+897
+00:51:16,480 --> 00:51:18,482
+Gipsy, Gipsy! You're out of alignment!
+
+898
+00:51:18,760 --> 00:51:20,967
+<i>- You are both out of alignment.</i>
+- I'm okay. Just let me control it.
+
+899
+00:51:21,200 --> 00:51:24,443
+<i>- Out of alignment. Code red: TENDO.
+- You're stabilizing. But Mako is way out.</i>
+
+900
+00:51:24,720 --> 00:51:26,449
+<i>She's starting to chase the rabbit!</i>
+
+901
+00:51:26,720 --> 00:51:28,961
+Mako, don't get stuck in a memory.
+
+902
+00:51:29,200 --> 00:51:31,441
+Stay with me. Stay in the now.
+
+903
+00:51:31,680 --> 00:51:33,921
+Don't engage in a memory.
+
+904
+00:51:34,240 --> 00:51:35,730
+Mako.
+
+905
+00:51:35,960 --> 00:51:38,645
+Mako! Listen to me.
+
+906
+00:51:38,880 --> 00:51:40,405
+Mako?
+
+907
+00:52:01,440 --> 00:52:02,726
+<i>Mama!</i>
+
+908
+00:52:04,440 --> 00:52:05,327
+<i>Mama!</i>
+
+914
+00:53:00,360 --> 00:53:01,600
+Mako.
+
+915
+00:53:02,280 --> 00:53:04,362
+This is just a memory.
+
+916
+00:53:04,600 --> 00:53:06,250
+None of this is real.
+
+920
+00:53:30,240 --> 00:53:32,402
+<i>Weapons system engaged.</i>
+
+921
+00:53:32,840 --> 00:53:35,161
+<i>Plasma cannon powering up.</i>
+
+922
+00:53:35,920 --> 00:53:36,682
+Oh, no.
+
+925
+00:53:49,880 --> 00:53:50,802
+Weapon system engaged!
+
+926
+00:53:51,080 --> 00:53:51,967
+Go to fail-safe!
+
+927
+00:53:52,240 --> 00:53:54,921
+Fail-safe not responding. There's
+a problem with the neural blocker!
+
+928
+00:53:55,400 --> 00:53:56,680
+Her connection's way too strong!
+
+929
+00:53:58,040 --> 00:53:59,280
+<i>- Fully charged.</i>
+- Mako!
+
+930
+00:54:00,120 --> 00:54:04,409
+Mako, listen to me. This is just
+a memory. None of it is real.
+
+932
+00:54:22,600 --> 00:54:24,728
+The power line! The power line!
+
+933
+00:54:24,960 --> 00:54:25,927
+Get the main power line!
+
+936
+00:54:46,840 --> 00:54:48,410
+Take them offline!
+
+937
+00:54:48,680 --> 00:54:49,408
+Take them offline!
+
+938
+00:54:51,440 --> 00:54:52,361
+I just did.
+
+940
+00:55:01,280 --> 00:55:03,487
+<i>Weapon system disengaged.</i>
+
+941
+00:55:05,760 --> 00:55:07,000
+Mako!
+
+942
+00:55:11,880 --> 00:55:13,245
+<i>Neural bridge exercise...</i>
+
+943
+00:55:13,960 --> 00:55:14,961
+<i>...invalid.</i>
+
+944
+00:55:18,280 --> 00:55:20,806
+It's okay. It's okay.
+
+945
+00:55:21,080 --> 00:55:23,970
+Drift sequence terminated.
+
+946
+00:55:24,200 --> 00:55:24,883
+<i>Would you like...</i>
+
+947
+00:55:25,840 --> 00:55:27,410
+<i>...to try again?</i>
+
+949
+00:55:47,360 --> 00:55:48,009
+Hmm...
+
+950
+00:55:58,160 --> 00:55:59,446
+Hello.
+
+951
+00:56:16,760 --> 00:56:17,807
+Pss, pss.
+
+952
+00:56:18,640 --> 00:56:20,961
+You looking for some Kaiju...
+
+953
+00:56:21,200 --> 00:56:23,282
+- ...bone powder?
+- Some...? Some bone...?
+
+954
+00:56:24,080 --> 00:56:25,764
+Some bone powder?
+
+955
+00:56:26,360 --> 00:56:28,362
+Uh, no, why would I want that?
+
+956
+00:56:28,600 --> 00:56:29,726
+Male potency.
+
+958
+00:56:31,040 --> 00:56:31,802
+I take it myself.
+
+959
+00:56:32,480 --> 00:56:34,801
+I see. Uh, no, thank you.
+
+960
+00:56:35,040 --> 00:56:35,882
+I'm looking...
+
+961
+00:56:36,160 --> 00:56:37,286
+...for Hannibal Chau.
+
+962
+00:56:39,600 --> 00:56:40,726
+Come.
+
+963
+00:56:43,600 --> 00:56:45,602
+You want Chau, huh?
+
+964
+00:56:46,640 --> 00:56:48,085
+Good luck.
+
+966
+00:56:56,000 --> 00:57:00,050
+Oh, my God! Oh, my God,
+this place is heaven!
+
+967
+00:57:00,280 --> 00:57:04,046
+That's a lymph gland from a Category 2!
+And what are you working on here?
+
+968
+00:57:04,280 --> 00:57:06,806
+Is this a cuticle? In mint condition?
+
+969
+00:57:07,840 --> 00:57:11,367
+Is that a Kaiju skin parasite?
+I've never seen them alive before!
+
+970
+00:57:11,600 --> 00:57:14,001
+They usually die
+as soon as the Kaiju falls!
+
+971
+00:57:14,280 --> 00:57:17,640
+- I thought you couldn't keep them alive!
+- You can if you soak them in ammonia.
+
+972
+00:57:22,840 --> 00:57:23,887
+What do you want?
+
+973
+00:57:24,160 --> 00:57:25,880
+I'm looking for Hannibal Chau.
+I was told...
+
+974
+00:57:26,120 --> 00:57:27,201
+...he was here.
+
+975
+00:57:29,840 --> 00:57:31,080
+Who wants to know?
+
+976
+00:57:32,080 --> 00:57:33,081
+I really can't say.
+
+978
+00:57:39,200 --> 00:57:40,240
+Stacker Pentecost sent me!
+
+980
+00:57:43,880 --> 00:57:46,451
+Oh, that's great. That's real great.
+
+981
+00:57:46,680 --> 00:57:48,762
+So I take it you're Hannibal Chau, right?
+
+982
+00:57:49,000 --> 00:57:51,082
+You like the name? I took it...
+
+983
+00:57:51,360 --> 00:57:52,850
+...from my favorite historical character...
+
+984
+00:57:53,080 --> 00:57:55,361
+...and my second-favorite
+Szechuan restaurant in Brooklyn.
+
+985
+00:57:55,760 --> 00:57:57,091
+Now tell me what you want...
+
+986
+00:57:57,360 --> 00:58:00,011
+...before I gut you like a pig
+and feed you to the skin louse.
+
+987
+00:58:00,280 --> 00:58:01,088
+<i>She can't control...</i>
+
+988
+00:58:01,320 --> 00:58:04,290
+<i>- ...her Drift, and he went out of phase first!
+- We all know what happened.</i>
+
+989
+00:58:04,520 --> 00:58:08,889
+<i>We can't afford mistakes. The Kaiju
+keep evolving, they keep kicking our asses!</i>
+
+990
+00:58:09,120 --> 00:58:11,122
+<i>He's a has-been, she's a rookie.</i>
+
+991
+00:58:11,360 --> 00:58:14,443
+<i>I don't want them protecting
+my bomb run, sir.</i>
+
+992
+00:58:16,720 --> 00:58:19,485
+You need to watch your tone,
+Mr. Hansen.
+
+993
+00:58:19,880 --> 00:58:21,848
+Hey, stay there.
+
+994
+00:58:22,600 --> 00:58:24,090
+Give me a moment.
+
+995
+00:58:27,440 --> 00:58:29,807
+You two are a goddamn disgrace.
+
+996
+00:58:30,360 --> 00:58:33,443
+You're gonna get us all killed,
+and here's the thing, Raleigh:
+
+997
+00:58:33,960 --> 00:58:35,883
+I want to come back
+from this mission...
+
+998
+00:58:36,120 --> 00:58:38,327
+...because I quite like my life.
+
+999
+00:58:39,840 --> 00:58:42,650
+So why don't you just do us all
+a favor and disappear?
+
+1000
+00:58:42,880 --> 00:58:44,280
+It's the only thing you're good at.
+
+1001
+00:58:44,320 --> 00:58:45,481
+Stop! Now!
+
+1002
+00:58:46,080 --> 00:58:47,605
+Yeah, that's right.
+
+1003
+00:58:48,040 --> 00:58:49,690
+You just hold back
+your little girlfriend.
+
+1004
+00:58:50,800 --> 00:58:52,882
+One of you bitches needs a leash.
+
+1005
+00:58:59,240 --> 00:59:01,083
+Apologize to her.
+
+1006
+00:59:01,520 --> 00:59:02,282
+Screw you.
+
+1008
+00:59:19,760 --> 00:59:23,242
+I said apologize to her.
+
+1009
+00:59:29,240 --> 00:59:30,287
+Hey, hey! Enough!
+
+1010
+00:59:31,280 --> 00:59:32,042
+What's going on?
+
+1011
+00:59:32,800 --> 00:59:34,723
+On your feet, both of you!
+
+1012
+00:59:39,560 --> 00:59:40,402
+Becket...
+
+1013
+00:59:40,680 --> 00:59:42,489
+- ...Mori, into my office.
+- No, we aren't finished!
+
+1014
+00:59:42,760 --> 00:59:43,886
+This is over!
+
+1015
+00:59:44,120 --> 00:59:46,520
+You're a ranger, for chrissake.
+Why don't you start acting...
+
+1016
+00:59:46,760 --> 00:59:47,602
+...like one?
+
+1017
+00:59:53,040 --> 00:59:54,724
+<i>I went out of phase first.</i>
+
+1018
+00:59:54,960 --> 00:59:57,088
+- It was my mistake.
+- No.
+
+1019
+00:59:58,640 --> 01:00:01,041
+It was my mistake.
+
+1020
+01:00:02,760 --> 01:00:04,800
+I should have never let you two
+in the same machine.
+
+1021
+01:00:04,880 --> 01:00:06,120
+So, what...
+
+1022
+01:00:06,360 --> 01:00:07,486
+...you're grounding us?
+
+1023
+01:00:07,720 --> 01:00:09,085
+Not you.
+
+1024
+01:00:16,920 --> 01:00:19,400
+Permission to be dismissed, sir.
+
+1025
+01:00:23,760 --> 01:00:26,001
+Permission granted, Miss Mori.
+
+1026
+01:00:30,880 --> 01:00:31,722
+Mako.
+
+1027
+01:00:34,440 --> 01:00:35,851
+Sir, what are you doing?
+
+1028
+01:00:36,080 --> 01:00:38,686
+She is the strongest candidate by far.
+
+1029
+01:00:40,920 --> 01:00:44,049
+What other options do we have?
+Huh? Tell me!
+
+1030
+01:00:44,320 --> 01:00:47,483
+Do not let my calm demeanor fool you...
+
+1031
+01:00:47,720 --> 01:00:48,960
+. . ranger!
+
+1032
+01:00:49,240 --> 01:00:51,163
+Now is not a good moment...
+
+1033
+01:00:51,400 --> 01:00:53,050
+...for your insubordination!
+
+1034
+01:00:54,560 --> 01:00:57,564
+Mako is too inexperienced to rein in
+her memories during combat.
+
+1035
+01:00:59,920 --> 01:01:01,206
+That's not why...
+
+1036
+01:01:01,440 --> 01:01:02,726
+...you grounded her.
+
+1037
+01:01:03,480 --> 01:01:06,689
+I was in her memories.
+I saw everything.
+
+1038
+01:01:07,160 --> 01:01:09,208
+I don't care what you think you saw.
+
+1042
+01:03:02,560 --> 01:03:05,689
+I know what she means to you. I saw it!
+
+1043
+01:03:06,200 --> 01:03:07,201
+Hey! Hey!
+
+1044
+01:03:07,440 --> 01:03:09,204
+This conversation is over.
+
+1045
+01:03:09,480 --> 01:03:12,848
+Marshal. Marshal,
+can we just talk about this...
+
+1046
+01:03:13,080 --> 01:03:14,161
+...for one second?
+
+1047
+01:03:19,160 --> 01:03:20,161
+You rescued her.
+
+1048
+01:03:21,240 --> 01:03:22,844
+You raised her.
+
+1049
+01:03:23,080 --> 01:03:25,048
+You're not protecting her now.
+
+1050
+01:03:25,320 --> 01:03:26,924
+You are holding her back.
+
+1051
+01:03:27,160 --> 01:03:28,491
+One:
+
+1052
+01:03:28,720 --> 01:03:30,802
+Don't you ever touch me again.
+
+1053
+01:03:31,040 --> 01:03:32,087
+Two:
+
+1054
+01:03:32,440 --> 01:03:34,681
+Don't you ever touch me again.
+
+1055
+01:03:37,120 --> 01:03:41,045
+Now, you have no idea who the hell
+I am or where I've come from...
+
+1056
+01:03:41,280 --> 01:03:43,681
+...and I'm not about to tell you
+my whole life story.
+
+1057
+01:03:44,120 --> 01:03:46,566
+All I need to be to you
+and everybody on this dome...
+
+1058
+01:03:46,840 --> 01:03:48,888
+...is a fixed point.
+
+1059
+01:03:49,120 --> 01:03:51,122
+The last man standing.
+
+1060
+01:03:52,240 --> 01:03:54,720
+I do not need your sympathy
+or your admiration.
+
+1061
+01:03:54,960 --> 01:03:58,965
+All I need is your compliance
+and your fighting skills.
+
+1062
+01:04:00,120 --> 01:04:01,360
+And if I can't get that...
+
+1063
+01:04:01,640 --> 01:04:05,281
+...then you can go back to the wall
+that I found you crawling on.
+
+1064
+01:04:05,560 --> 01:04:07,847
+Do I make myself clear?
+
+1065
+01:04:14,640 --> 01:04:15,562
+Yes, sir.
+
+1066
+01:04:18,320 --> 01:04:19,526
+Good.
+
+1069
+01:04:47,920 --> 01:04:49,160
+<i>I'm sorry.</i>
+
+1070
+01:04:49,800 --> 01:04:51,689
+<i>I should've warned you.</i>
+
+1071
+01:04:52,600 --> 01:04:54,568
+<i>First Drifts are rough.</i>
+
+1072
+01:04:54,800 --> 01:04:56,680
+But you weren't just tapping
+into my memories...
+
+1073
+01:04:56,880 --> 01:04:58,484
+...you were tapping into my brother's...
+
+1074
+01:04:58,720 --> 01:04:59,642
+...too.
+
+1075
+01:05:01,600 --> 01:05:04,763
+When Yancy was taken,
+we were still connected.
+
+1076
+01:05:07,120 --> 01:05:09,885
+I felt his fear, his pain,
+his helplessness...
+
+1077
+01:05:10,120 --> 01:05:11,201
+...and then...
+
+1078
+01:05:12,840 --> 01:05:14,046
+...he was gone.
+
+1079
+01:05:14,760 --> 01:05:17,001
+I felt it. I know.
+
+1080
+01:05:20,280 --> 01:05:22,806
+You know, you live in someone else's
+head for so long...
+
+1081
+01:05:23,040 --> 01:05:25,122
+...the hardest part to deal with
+is the silence.
+
+1082
+01:05:25,640 --> 01:05:28,883
+To let someone else in,
+to really connect...
+
+1083
+01:05:29,400 --> 01:05:31,368
+...you have to trust them.
+
+1084
+01:05:33,000 --> 01:05:35,685
+And today the Drift was strong.
+
+1085
+01:05:43,560 --> 01:05:44,561
+Her heart.
+
+1086
+01:05:45,280 --> 01:05:47,362
+When's the last time you saw it?
+
+1087
+01:05:48,240 --> 01:05:49,480
+Not in a long time.
+
+1088
+01:05:56,160 --> 01:05:58,288
+<i>Movement in the Breach.</i>
+
+1089
+01:05:58,520 --> 01:05:59,362
+<i>Double event.</i>
+
+1090
+01:06:02,600 --> 01:06:04,204
+<i>Two signatures.</i>
+
+1091
+01:06:04,480 --> 01:06:08,405
+<i>Dilation indicator, Category 4.</i>
+
+1093
+01:06:18,680 --> 01:06:19,920
+- Excuse me.
+- Breach was exposed...
+
+1094
+01:06:20,200 --> 01:06:20,881
+...at 2300 hours.
+
+1095
+01:06:21,880 --> 01:06:22,881
+We have two signatures...
+
+1096
+01:06:23,160 --> 01:06:23,961
+...both Category 4s.
+
+1097
+01:06:24,200 --> 01:06:26,009
+Code names:
+Otachi and Leatherback.
+
+1098
+01:06:26,240 --> 01:06:27,571
+They'll reach Hong Kong
+within the hour.
+
+1099
+01:06:27,800 --> 01:06:29,882
+Evacuate the city.
+Shut down the bridges.
+
+1100
+01:06:30,120 --> 01:06:32,566
+I want every single civilian
+in a refuge right now.
+
+1101
+01:06:32,840 --> 01:06:33,560
+<i>Crimson Typhoon...</i>
+
+1102
+01:06:33,800 --> 01:06:34,687
+Chemo Alpha...
+
+1103
+01:06:34,960 --> 01:06:36,564
+...I want you to frontline the harbor.
+
+1104
+01:06:36,840 --> 01:06:38,046
+Stay on the miracle mile.
+
+1105
+01:06:38,280 --> 01:06:41,204
+Striker, I want you to stay back,
+look after the coastline.
+
+1106
+01:06:41,440 --> 01:06:45,047
+We cannot afford to lose you,
+so only engage as a final option.
+
+1107
+01:06:45,280 --> 01:06:46,247
+Yes, sir!
+
+1108
+01:06:46,520 --> 01:06:47,248
+You two.
+
+1109
+01:06:47,920 --> 01:06:49,285
+You stay put.
+
+1110
+01:06:50,240 --> 01:06:51,401
+Let's go!
+
+1111
+01:07:07,080 --> 01:07:09,048
+<i>Loccent, Striker's got the ball...</i>
+
+1112
+01:07:09,280 --> 01:07:10,486
+...and we're on the roll.
+
+1113
+01:07:11,920 --> 01:07:13,206
+Loccent...
+
+1114
+01:07:13,640 --> 01:07:14,687
+...near positions...
+
+1115
+01:07:14,960 --> 01:07:16,530
+...and awaiting your orders.
+
+1116
+01:07:17,000 --> 01:07:20,209
+<i>Remain in the miracle mile.
+Engage at your discretion.</i>
+
+1117
+01:07:20,440 --> 01:07:21,646
+<i>Guys, keep your eyes open.</i>
+
+1118
+01:07:21,880 --> 01:07:24,963
+<i>These Category 4s are the biggest
+we've ever seen, both in size and weight.</i>
+
+1119
+01:07:27,840 --> 01:07:29,365
+<i>Chemo Alpha reaching target zone.</i>
+
+1120
+01:07:29,640 --> 01:07:31,165
+Disengaging transport.
+
+1122
+01:07:51,080 --> 01:07:53,686
+<i>Chemo Alpha in position. Miracle mile.</i>
+
+1123
+01:07:54,880 --> 01:07:56,928
+Chemo Alpha holding the coastline.
+
+1124
+01:07:57,160 --> 01:07:58,491
+<i>Beacon is on.</i>
+
+1126
+01:08:07,320 --> 01:08:08,606
+Look at them.
+
+1127
+01:08:08,840 --> 01:08:10,763
+They believe the Kaiju
+were sent from heaven.
+
+1128
+01:08:11,000 --> 01:08:14,049
+That the gods are expressing their
+displeasure with our behavior.
+
+1129
+01:08:14,280 --> 01:08:15,725
+The silly bastards.
+
+1130
+01:08:15,960 --> 01:08:17,371
+And what do you believe?
+
+1131
+01:08:17,600 --> 01:08:18,567
+Well...
+
+1132
+01:08:19,320 --> 01:08:22,688
+...I believe that Kaiju bone powder
+is 500 bucks a pound.
+
+1133
+01:08:22,920 --> 01:08:24,604
+- What do you want?
+- I need to access...
+
+1134
+01:08:24,840 --> 01:08:27,730
+...a Kaiju brain. Completely intact.
+
+1135
+01:08:27,960 --> 01:08:30,840
+No, no. The skull plate is so dense
+that by the time you drill into it...
+
+1136
+01:08:31,080 --> 01:08:32,445
+The brain's rotted away.
+But I'm talking...
+
+1137
+01:08:32,680 --> 01:08:33,966
+...about the secondary brain.
+
+1138
+01:08:34,200 --> 01:08:36,521
+Now we both know
+that the Kaiju are so large...
+
+1139
+01:08:36,760 --> 01:08:38,967
+...they need two brains to move
+around, like a dinosaur.
+
+1140
+01:08:39,200 --> 01:08:40,440
+I want to get my hands on that.
+
+1141
+01:08:41,040 --> 01:08:44,931
+Mm. What the hell do you want
+a secondary brain for, anyway?
+
+1142
+01:08:45,160 --> 01:08:47,401
+I mean, every part of the Kaiju sells.
+
+1143
+01:08:47,680 --> 01:08:49,330
+Cartilage, spleen, liver.
+
+1144
+01:08:49,600 --> 01:08:50,681
+Even the crap!
+
+1145
+01:08:50,920 --> 01:08:53,651
+One cubic meter of crap
+has enough phosphorous in it...
+
+1146
+01:08:53,880 --> 01:08:55,211
+...to fertilize a whole field!
+
+1147
+01:08:55,480 --> 01:08:56,811
+But the brain...
+
+1148
+01:08:57,360 --> 01:08:58,964
+Too much ammonia.
+
+1149
+01:08:59,880 --> 01:09:01,325
+So, what's the deal, little fella?
+
+1150
+01:09:01,560 --> 01:09:03,210
+Well, that's classified.
+
+1151
+01:09:03,440 --> 01:09:05,966
+So I couldn't tell you.
+Even if I wanted to.
+
+1152
+01:09:06,240 --> 01:09:09,289
+- Mm.
+- But it is pretty cool.
+
+1153
+01:09:09,920 --> 01:09:11,490
+So I might tell you.
+
+1154
+01:09:12,520 --> 01:09:13,885
+I'm gonna tell you.
+
+1155
+01:09:14,240 --> 01:09:16,208
+I figured out how to Drift
+with a Kaiju.
+
+1156
+01:09:16,440 --> 01:09:18,647
+Are you funning me, son?
+
+1157
+01:09:18,920 --> 01:09:20,729
+It's fascinating how their minds work.
+
+1158
+01:09:21,000 --> 01:09:22,161
+Every single Kaiju...
+
+1159
+01:09:22,400 --> 01:09:23,606
+...his mind's connected.
+
+1160
+01:09:23,880 --> 01:09:24,881
+The species has, like...
+
+1161
+01:09:25,120 --> 01:09:26,770
+Like a hive mind.
+
+1163
+01:09:29,800 --> 01:09:31,529
+Holy jeez.
+
+1164
+01:09:32,280 --> 01:09:33,770
+You've gone and done it, haven't you?
+
+1165
+01:09:34,720 --> 01:09:36,484
+I did it a little bit, yeah.
+
+1166
+01:09:39,840 --> 01:09:41,808
+You goddamn moron.
+
+1174
+01:11:16,160 --> 01:11:17,120
+Loccent! Typhoon...
+
+1175
+01:11:17,200 --> 01:11:18,531
+...and Alpha are in trouble.
+
+1176
+01:11:18,760 --> 01:11:19,443
+<i>We're moving in!</i>
+
+1177
+01:11:19,680 --> 01:11:21,967
+You are to hold your ground.
+Do not engage.
+
+1178
+01:11:22,200 --> 01:11:23,611
+<i>We need you to carry that bomb.</i>
+
+1179
+01:11:23,880 --> 01:11:24,927
+<i>Do you copy?</i>
+
+1181
+01:11:35,040 --> 01:11:36,520
+Jesus, we can't just sit here...
+
+1182
+01:11:36,640 --> 01:11:37,880
+...and watch them die. Come on!
+
+1183
+01:11:38,040 --> 01:11:38,723
+Screw this.
+
+1184
+01:11:38,960 --> 01:11:39,768
+Loccent, we're moving in...
+
+1185
+01:11:40,000 --> 01:11:41,411
+<i>...now!</i>
+
+1189
+01:12:12,680 --> 01:12:15,841
+Chemo Alpha,
+we've been hit with some type of acid!
+
+1190
+01:12:15,920 --> 01:12:17,365
+- Come on!
+- Hull has been compromised.
+
+1191
+01:12:18,080 --> 01:12:19,525
+We need backup immediately!
+
+1192
+01:12:19,760 --> 01:12:20,760
+Just hold on, Chemo!
+
+1193
+01:12:20,880 --> 01:12:22,245
+<i>We're on our way!</i>
+
+1196
+01:12:55,640 --> 01:12:57,369
+Our power move! Yeah!
+
+1199
+01:13:23,080 --> 01:13:24,280
+We just lost Chemo, sir.
+
+1201
+01:13:49,120 --> 01:13:50,007
+Engaging...
+
+1202
+01:13:50,240 --> 01:13:50,923
+...air missiles!
+
+1205
+01:14:18,640 --> 01:14:19,846
+What's going on? What happened?
+
+1206
+01:14:20,080 --> 01:14:22,447
+The blast. It jumbled all the Jaegers'
+electrical circuits.
+
+1207
+01:14:22,760 --> 01:14:24,046
+What the hell was that?
+
+1208
+01:14:24,280 --> 01:14:25,401
+I've never seen that before.
+
+1209
+01:14:25,600 --> 01:14:26,681
+- Loccent!
+- They're adapting.
+
+1210
+01:14:26,920 --> 01:14:29,127
+This isn't a defense mechanism,
+it's a weapon!
+
+1211
+01:14:29,400 --> 01:14:30,287
+Get me Striker.
+
+1212
+01:14:30,560 --> 01:14:32,280
+Nothing, sir. The Mark 5's digital's fried.
+
+1213
+01:14:32,520 --> 01:14:35,922
+It'll take me two hours to reroute the auxiliary.
+All the Jaegers, they're digital!
+
+1214
+01:14:36,200 --> 01:14:37,884
+Not all of them, marshal.
+
+1215
+01:14:38,440 --> 01:14:40,408
+Gipsy's analog. Nuclear.
+
+1216
+01:14:55,080 --> 01:14:57,845
+We got two Kaijus.
+We gotta get out. This way.
+
+1217
+01:14:58,080 --> 01:14:59,969
+Hang on a second. Excuse me.
+What's going on?
+
+1218
+01:15:00,200 --> 01:15:02,680
+There are two goddamn Kaiju
+headed straight for Hong Kong City.
+
+1219
+01:15:02,920 --> 01:15:03,762
+No, that's not possible.
+
+1220
+01:15:04,000 --> 01:15:04,922
+There's never been two before.
+
+1221
+01:15:05,160 --> 01:15:09,563
+Well, maybe that's because nobody ever
+Drifted with one before, eh? Genius!
+
+1222
+01:15:09,880 --> 01:15:12,690
+When Jaeger pilots Drift,
+it's a two-way street.
+
+1223
+01:15:12,920 --> 01:15:15,002
+A bridge, right?
+It sets up a connection.
+
+1224
+01:15:15,280 --> 01:15:16,770
+Both ways!
+
+1225
+01:15:17,760 --> 01:15:19,569
+"A hive mentality," you said!
+
+1226
+01:15:19,800 --> 01:15:22,246
+Maybe those Kaiju are trying to find you.
+
+1227
+01:15:22,640 --> 01:15:24,085
+What're we gonna do?
+
+1228
+01:15:24,320 --> 01:15:27,051
+I'm gonna wait out this shitstorm
+in my own private Kaiju bunker.
+
+1229
+01:15:27,280 --> 01:15:29,931
+But you are going to a public refuge.
+
+1230
+01:15:30,160 --> 01:15:31,161
+I tried it once.
+
+1231
+01:15:32,440 --> 01:15:33,771
+Once.
+
+1232
+01:15:34,040 --> 01:15:35,280
+Now get the hell out of here.
+
+1239
+01:16:28,880 --> 01:16:30,962
+Move! Move! I'm a doctor! I'm a doctor!
+
+1240
+01:16:32,840 --> 01:16:34,171
+Okay, hold on. Let me in.
+
+1241
+01:16:35,600 --> 01:16:37,568
+Okay, I'm a doctor. Okay, let me in,
+I'm a doctor.
+
+1242
+01:17:02,240 --> 01:17:04,041
+- There's no emergency power.
+- We gotta bail.
+
+1243
+01:17:04,200 --> 01:17:06,248
+- I'm gonna try something else.
+- No!
+
+1244
+01:17:06,880 --> 01:17:07,642
+<i>Don't disengage!</i>
+
+1246
+01:17:11,080 --> 01:17:11,922
+My arm!
+
+1247
+01:17:12,160 --> 01:17:13,571
+Come on! Get on your feet, old man!
+
+1248
+01:17:14,000 --> 01:17:16,048
+Don't call me that!
+
+1249
+01:17:22,040 --> 01:17:24,281
+<i>He's right outside.
+We gotta get out of here now!</i>
+
+1250
+01:17:24,480 --> 01:17:26,050
+<i>We're not going anywhere!</i>
+
+1251
+01:17:26,320 --> 01:17:29,081
+Now you and I are the only thing
+standing between that ugly bastard...
+
+1252
+01:17:29,280 --> 01:17:30,680
+...and a city of 10 million people.
+
+1253
+01:17:30,760 --> 01:17:32,808
+Now we have a choice here.
+We either sit and wait...
+
+1254
+01:17:33,080 --> 01:17:36,880
+...or we take these flare guns
+and do something really stupid.
+
+1256
+01:17:50,800 --> 01:17:52,920
+- How's your arm?
+- Ah, just give me the gun.
+
+1257
+01:17:54,200 --> 01:17:54,928
+Hey, you!
+
+1259
+01:18:05,880 --> 01:18:07,370
+I think we just pissed it off!
+
+1261
+01:18:31,640 --> 01:18:32,562
+All right, Mako.
+
+1262
+01:18:32,800 --> 01:18:34,609
+Get ready, this is for real!
+
+1263
+01:18:46,640 --> 01:18:47,961
+- Yeah!
+- Come on, Gipsy!
+
+1264
+01:18:48,720 --> 01:18:49,846
+Kick his ass!
+
+1266
+01:19:37,600 --> 01:19:38,283
+Come on!
+
+1267
+01:19:38,520 --> 01:19:39,567
+Let's do this! Together!
+
+1268
+01:20:00,440 --> 01:20:01,362
+<i>Elbow rocket!</i>
+
+1269
+01:20:01,640 --> 01:20:02,448
+<i>Elbow rocket...</i>
+
+1270
+01:20:02,680 --> 01:20:03,408
+...engaged.
+
+1271
+01:20:03,960 --> 01:20:05,086
+Now!
+
+1273
+01:20:46,960 --> 01:20:47,847
+Hang on, Mako!
+
+1274
+01:21:05,960 --> 01:21:07,849
+<i>Plasma cannon, now!</i>
+
+1275
+01:21:08,080 --> 01:21:09,889
+<i>Plasma cannon engaged.</i>
+
+1276
+01:21:14,960 --> 01:21:16,086
+Empty the clip!
+
+1277
+01:21:16,480 --> 01:21:18,130
+<i>Empty the clip!</i>
+
+1279
+01:21:52,600 --> 01:21:53,965
+<i>Wait.</i>
+
+1280
+01:21:56,000 --> 01:21:57,161
+I think this guy's dead.
+
+1281
+01:21:57,400 --> 01:21:59,402
+But let's check for a pulse.
+
+1282
+01:21:59,680 --> 01:22:00,363
+Okay.
+
+1283
+01:22:09,760 --> 01:22:11,046
+No pulse.
+
+1289
+01:22:41,520 --> 01:22:43,090
+He stopped right above us.
+
+1290
+01:22:43,960 --> 01:22:45,041
+Oh, my God.
+
+1291
+01:22:45,280 --> 01:22:46,964
+Oh, my God. This isn't a refuge.
+
+1292
+01:22:47,200 --> 01:22:48,326
+This is a buffet line!
+
+1294
+01:22:53,720 --> 01:22:55,006
+He knows I'm here.
+
+1295
+01:22:55,280 --> 01:22:57,408
+- He knows I'm here!
+- Shh. He knows we're all here.
+
+1296
+01:22:57,640 --> 01:23:00,484
+No, you don't understand, he's trying
+to get me! He knows I'm here!
+
+1298
+01:23:03,280 --> 01:23:05,408
+What was she saying?
+I gotta get out of here!
+
+1299
+01:23:06,440 --> 01:23:07,566
+Let me out of here!
+
+1300
+01:23:07,800 --> 01:23:09,290
+Oh, come on!
+
+1301
+01:23:10,960 --> 01:23:12,246
+Those were expensive glasses.
+
+1302
+01:23:12,600 --> 01:23:13,886
+This is the worst.
+
+1306
+01:24:27,280 --> 01:24:28,247
+<i>Torque...</i>
+
+1307
+01:24:28,480 --> 01:24:29,641
+<i>...engaged.</i>
+
+1310
+01:25:22,840 --> 01:25:24,171
+I can't pinpoint it.
+
+1311
+01:25:24,400 --> 01:25:26,971
+It's moving quick. Keep your eyes open.
+
+1312
+01:25:29,760 --> 01:25:32,650
+<i>Choppers, do you have
+a visual? Over.</i>
+
+1314
+01:26:15,280 --> 01:26:16,566
+Come on!
+
+1315
+01:26:40,240 --> 01:26:41,241
+I'll hold it!
+
+1316
+01:26:41,480 --> 01:26:44,165
+- Vent the coolant on the left flank!
+- Coolant venting.
+
+1317
+01:26:45,040 --> 01:26:46,121
+Venting coolant.
+
+1320
+01:27:49,600 --> 01:27:51,728
+<i>Atmosphere loss in progress.</i>
+
+1321
+01:27:51,960 --> 01:27:52,881
+Temperature's dropping!
+
+1322
+01:27:52,920 --> 01:27:53,967
+We're losing oxygen!
+
+1323
+01:27:54,240 --> 01:27:54,889
+Both plasma...
+
+1324
+01:27:55,160 --> 01:27:55,961
+...cannons are shot.
+
+1325
+01:27:56,080 --> 01:27:57,684
+We're out of options, Mako.
+
+1327
+01:28:02,400 --> 01:28:03,845
+<i>Sword deployment.</i>
+
+1329
+01:28:24,800 --> 01:28:27,644
+<i>Altitude actuation off-balance.</i>
+
+1330
+01:28:28,760 --> 01:28:32,287
+<i>50,000 feet to ground contact.</i>
+
+1331
+01:28:34,440 --> 01:28:35,680
+Look, there!
+
+1332
+01:28:37,760 --> 01:28:38,682
+<i>Altitude loss...</i>
+
+1333
+01:28:38,920 --> 01:28:40,410
+<i>...critical.</i>
+
+1334
+01:28:41,120 --> 01:28:42,326
+<i>40,000 feet.</i>
+
+1335
+01:28:45,440 --> 01:28:46,601
+<i>Gipsy, listen to me!</i>
+
+1336
+01:28:46,880 --> 01:28:49,167
+<i>Loosen all the shock
+absorbers, use your gyroscope...</i>
+
+1337
+01:28:49,400 --> 01:28:50,561
+<i>...as balance and ball up!</i>
+
+1338
+01:28:50,840 --> 01:28:52,490
+<i>It's your only chance!</i>
+
+1339
+01:28:52,760 --> 01:28:53,886
+<i>20, 000...</i>
+
+1340
+01:28:54,120 --> 01:28:55,531
+<i>...feet.</i>
+
+1341
+01:28:56,120 --> 01:28:56,882
+Fuel purge!
+
+1342
+01:28:57,960 --> 01:28:58,961
+<i>Now!</i>
+
+1343
+01:29:01,960 --> 01:29:03,803
+<i>Impact alert.</i>
+
+1344
+01:29:04,120 --> 01:29:05,485
+<i>We're coming in too fast.</i>
+
+1345
+01:29:06,600 --> 01:29:08,489
+<i>We're coming in too fast!
+Brace for it, Mako!</i>
+
+1349
+01:29:36,520 --> 01:29:39,000
+Mako, talk to me.
+
+1350
+01:29:41,120 --> 01:29:43,771
+Mako, you okay?
+
+1351
+01:29:44,160 --> 01:29:44,922
+Yeah.
+
+1352
+01:29:46,320 --> 01:29:47,128
+You?
+
+1354
+01:30:02,160 --> 01:30:04,367
+- Go to Dr. Geiszler now!
+- Yes, sir!
+
+1355
+01:30:04,600 --> 01:30:07,365
+I want the two remaining Jaegers back
+to 100 percent functionality.
+
+1356
+01:30:07,600 --> 01:30:08,840
+Yes, sir!
+
+1357
+01:30:10,560 --> 01:30:11,402
+We're gonna harvest...
+
+1358
+01:30:11,640 --> 01:30:13,688
+...the skin, the talons and the wing.
+
+1359
+01:30:14,400 --> 01:30:16,323
+Germans are gonna go nuts
+for that stuff.
+
+1360
+01:30:16,560 --> 01:30:18,164
+Let me see that map.
+
+1361
+01:30:20,720 --> 01:30:24,281
+Here is where the Kaiju fell, here's
+where we concentrate our efforts.
+
+1362
+01:30:24,560 --> 01:30:25,766
+- We'll get it, boss.
+- Right.
+
+1363
+01:30:26,000 --> 01:30:27,001
+Hey!
+
+1364
+01:30:28,760 --> 01:30:29,443
+Okay.
+
+1365
+01:30:29,680 --> 01:30:32,411
+Guess who's back,
+you one-eyed bitch?
+
+1366
+01:30:33,000 --> 01:30:35,162
+And you owe me a Kaiju brain.
+
+1368
+01:30:48,000 --> 01:30:48,808
+Raleigh!
+
+1369
+01:30:55,360 --> 01:30:57,283
+My kid'd never admit it...
+
+1370
+01:30:57,760 --> 01:30:58,600
+...but he's grateful.
+
+1371
+01:30:59,480 --> 01:31:00,606
+We both are.
+
+1373
+01:31:06,520 --> 01:31:07,442
+Mr. Becket!
+
+1374
+01:31:07,680 --> 01:31:08,886
+Miss Mori!
+
+1375
+01:31:11,560 --> 01:31:13,210
+In all of my years fighting...
+
+1376
+01:31:15,600 --> 01:31:17,125
+...I've never...
+
+1377
+01:31:17,400 --> 01:31:20,085
+...seen anything like that.
+
+1378
+01:31:20,720 --> 01:31:21,960
+Well done.
+
+1379
+01:31:23,360 --> 01:31:24,407
+Proud of you.
+
+1380
+01:31:26,400 --> 01:31:27,765
+Proud of us all.
+
+1381
+01:31:28,040 --> 01:31:29,326
+But...
+
+1382
+01:31:30,720 --> 01:31:33,087
+...as harsh as it sounds...
+
+1383
+01:31:33,640 --> 01:31:36,086
+...there is no time to celebrate.
+
+1384
+01:31:38,600 --> 01:31:40,682
+We lost two crews.
+
+1385
+01:31:42,280 --> 01:31:44,089
+No time to grieve.
+
+1386
+01:31:48,320 --> 01:31:49,651
+Reset that clock.
+
+1388
+01:32:03,000 --> 01:32:04,001
+Reset the clock.
+
+1391
+01:32:36,560 --> 01:32:39,723
+I still can't believe what you did to me.
+I mean, I could have been eaten.
+
+1392
+01:32:39,960 --> 01:32:41,644
+Well, that was definitely the plan.
+
+1393
+01:32:41,880 --> 01:32:43,803
+Lucky for you, that didn't
+become necessary, huh?
+
+1394
+01:32:44,440 --> 01:32:47,091
+Thank you so much, you're so kind.
+I really appreciate all of this.
+
+1395
+01:32:47,320 --> 01:32:49,368
+But now do you mind telling me
+exactly what is taking so long...
+
+1396
+01:32:49,600 --> 01:32:51,080
+...for your
+workers to get that brain?
+
+1397
+01:32:51,200 --> 01:32:53,680
+Well, they pump the cavity
+full of CO2...
+
+1398
+01:32:53,960 --> 01:32:55,801
+...just like in any other
+laparoscopic surgery.
+
+1399
+01:32:56,040 --> 01:32:57,080
+Okay, yes, obviously.
+
+1400
+01:32:57,160 --> 01:32:59,242
+The CO2's gonna delay
+the acidic reaction, yes.
+
+1401
+01:32:59,480 --> 01:33:01,369
+And it allows us to harvest.
+
+1402
+01:33:01,600 --> 01:33:04,171
+But our boys need oxygen
+pumped into their suits.
+
+1403
+01:33:04,400 --> 01:33:05,447
+They move slow.
+
+1404
+01:33:06,160 --> 01:33:07,650
+What's going on in there, boys?
+
+1405
+01:33:07,880 --> 01:33:09,291
+<i>We've reach...</i>
+
+1406
+01:33:09,560 --> 01:33:11,562
+...the upper pelvic area. Uh.
+
+1407
+01:33:11,800 --> 01:33:14,326
+Moving to the 25th vertebra.
+
+1408
+01:33:15,440 --> 01:33:16,441
+Shit.
+
+1409
+01:33:16,760 --> 01:33:21,049
+Even through the suit, boss,
+it smells like dead catfish in here.
+
+1410
+01:33:25,320 --> 01:33:26,321
+Boss.
+
+1411
+01:33:26,720 --> 01:33:28,768
+The secondary brain...
+
+1412
+01:33:29,480 --> 01:33:30,447
+<i>- ...is damage.</i>
+- Aw.
+
+1413
+01:33:30,680 --> 01:33:31,727
+<i>- It's ruin.</i>
+- Bitch!
+
+1414
+01:33:32,000 --> 01:33:33,286
+How could they screw that up?
+
+1415
+01:33:33,520 --> 01:33:34,646
+Wait. Wait.
+
+1416
+01:33:35,040 --> 01:33:35,723
+What was that?
+
+1417
+01:33:36,000 --> 01:33:37,764
+Did he say "wait"? Why wait?
+
+1418
+01:33:40,440 --> 01:33:41,566
+Do you hear that?
+
+1419
+01:33:42,400 --> 01:33:43,970
+It's like a heartbeat.
+
+1420
+01:33:45,520 --> 01:33:48,410
+Oh, my God. Oh, my God, this can't be.
+Hold on a second.
+
+1421
+01:33:48,680 --> 01:33:49,966
+Hey! Let me have that!
+
+1422
+01:33:50,200 --> 01:33:52,521
+Shh, shh! Listen, listen!
+
+1423
+01:33:53,040 --> 01:33:54,485
+Listen to this.
+
+1425
+01:34:02,920 --> 01:34:04,570
+It's pregnant.
+
+1432
+01:35:02,240 --> 01:35:04,402
+No, no! Please.
+
+1434
+01:35:22,760 --> 01:35:23,760
+- I knew it.
+- Uh.
+
+1435
+01:35:25,600 --> 01:35:26,442
+Gone.
+
+1436
+01:35:28,120 --> 01:35:29,610
+His lungs weren't fully formed.
+
+1437
+01:35:30,560 --> 01:35:32,801
+Umbilical cord tied around his neck.
+
+1438
+01:35:33,720 --> 01:35:37,281
+No way he could survive outside
+the womb for more than a minute.
+
+1439
+01:35:38,880 --> 01:35:42,043
+One look, that's all I needed.
+I knew he wouldn't make it.
+
+1443
+01:35:51,800 --> 01:35:52,722
+Ugly little bastard.
+
+1444
+01:35:53,480 --> 01:35:54,242
+Anyway, I would...
+
+1449
+01:36:41,440 --> 01:36:43,124
+How sick are you?
+
+1450
+01:36:43,920 --> 01:36:45,809
+And why didn't you tell me?
+
+1451
+01:36:46,640 --> 01:36:47,687
+Uh...
+
+1452
+01:36:48,920 --> 01:36:50,763
+What's to tell?
+
+1453
+01:36:53,400 --> 01:36:58,725
+You know, them Mark 1s, we scraped
+them bad boys together in 14 months.
+
+1454
+01:37:01,320 --> 01:37:04,927
+Last thing we were thinking about
+was radiation shielding.
+
+1455
+01:37:06,120 --> 01:37:08,600
+I ran nearly a dozen missions.
+
+1456
+01:37:10,120 --> 01:37:12,361
+I stayed under the medical radar
+for a while...
+
+1457
+01:37:13,440 --> 01:37:15,681
+...but the last time I jockeyed
+was in Tokyo.
+
+1458
+01:37:15,920 --> 01:37:17,365
+I finished the fight solo...
+
+1459
+01:37:17,640 --> 01:37:19,165
+...but for three hours...
+
+1460
+01:37:20,040 --> 01:37:21,201
+...I burned.
+
+1461
+01:37:21,480 --> 01:37:23,369
+They warned me if I ever stepped foot...
+
+1462
+01:37:23,640 --> 01:37:25,688
+...into a Jaeger again,
+the toll would be too much.
+
+1463
+01:37:28,560 --> 01:37:31,450
+You and I are the only two
+that ever ran solo combat.
+
+1464
+01:37:32,520 --> 01:37:34,124
+That's why I brought you here.
+
+1466
+01:37:44,080 --> 01:37:45,764
+- What is it?
+<i>- Sir, it's happening.</i>
+
+1467
+01:37:46,040 --> 01:37:49,681
+<i>I just got two signatures with
+unprecedented dilation, 40-meter spikes.</i>
+
+1468
+01:37:49,960 --> 01:37:50,882
+What category?
+
+1469
+01:37:51,120 --> 01:37:52,645
+<i>Checking the ratios, Category 4.</i>
+
+1470
+01:37:52,920 --> 01:37:53,842
+Where're they headed?
+
+1471
+01:37:54,080 --> 01:37:55,969
+<i>That's the thing, they're not heading
+anywhere. They're hovering...</i>
+
+1472
+01:37:56,200 --> 01:37:58,771
+<i>...just above the Breach.
+It's like they're protecting it...</i>
+
+1473
+01:37:59,000 --> 01:38:02,846
+<i>- ...or something.</i>
+- All right, Gipsy, Striker on deck.
+
+1474
+01:38:03,080 --> 01:38:05,242
+Sir, Herc cannot ride. His arm...
+
+1475
+01:38:05,520 --> 01:38:06,806
+You heard me.
+
+1476
+01:38:08,920 --> 01:38:11,321
+Two signatures. Two?
+
+1477
+01:38:12,600 --> 01:38:16,047
+There are two Kaiju signatures in
+the Breach, not three like I predicted!
+
+1478
+01:38:16,320 --> 01:38:18,926
+Hermann! I haven't exactly
+had a very good day, okay?
+
+1479
+01:38:19,200 --> 01:38:20,964
+I got about 5 minutes...
+
+1480
+01:38:21,240 --> 01:38:22,241
+Should be three Kaijus.
+
+1481
+01:38:22,480 --> 01:38:25,324
+...before brain death occurs here!
+I don't wanna spend it talking...
+
+1482
+01:38:25,560 --> 01:38:27,361
+- ...about your theories!
+- This is all wrong!
+
+1483
+01:38:27,520 --> 01:38:29,761
+There should be three Kaijus
+coming through, not two!
+
+1484
+01:38:30,040 --> 01:38:32,520
+There should be three and there's two?
+I'm sorry, it hurts to be wrong.
+
+1485
+01:38:32,800 --> 01:38:35,007
+I am not wrong, but there is something
+here we don't understand.
+
+1486
+01:38:35,240 --> 01:38:37,320
+Hopefully we can argue about
+any mistakes you made...
+
+1487
+01:38:37,400 --> 01:38:40,449
+...in your predictive model in the future!
+But in the meantime, the neural interface...
+
+1488
+01:38:40,720 --> 01:38:42,688
+...is way off the charts!
+If you want to help, help with that!
+
+1489
+01:38:42,920 --> 01:38:44,200
+Newton, I am not wrong.
+
+1490
+01:38:44,880 --> 01:38:46,689
+There is only one way
+to make sure...
+
+1491
+01:38:47,320 --> 01:38:49,049
+...and that is to do this...
+
+1492
+01:38:50,080 --> 01:38:50,967
+...together.
+
+1493
+01:38:52,320 --> 01:38:53,526
+I'll go with you.
+
+1494
+01:38:55,120 --> 01:38:58,283
+That's what the Jaeger pilots do,
+share the neural load.
+
+1495
+01:38:58,560 --> 01:39:00,005
+You're serious?
+
+1496
+01:39:00,400 --> 01:39:02,562
+You would do that for me?
+
+1497
+01:39:03,200 --> 01:39:04,690
+Or you would do that with me?
+
+1498
+01:39:04,920 --> 01:39:08,288
+Well, with worldwide destruction
+a certain alternative...
+
+1499
+01:39:08,720 --> 01:39:10,085
+...do I really have a choice?
+
+1500
+01:39:10,320 --> 01:39:12,561
+Then say it with me, my man:
+"We're gonna own...
+
+1501
+01:39:12,840 --> 01:39:13,682
+...this bad boy!"
+
+1502
+01:39:13,960 --> 01:39:18,329
+By Jove, we are going to own
+this thing for sure!
+
+1504
+01:39:24,160 --> 01:39:26,128
+Oi, Tendo. Tendo!
+
+1505
+01:39:27,800 --> 01:39:28,801
+You're not suited up.
+
+1506
+01:39:29,040 --> 01:39:31,520
+Yeah, I'm aware of that, Elvis.
+I need to know what's going on.
+
+1507
+01:39:31,760 --> 01:39:33,091
+He said suit up, so suit up.
+
+1508
+01:39:33,360 --> 01:39:36,603
+Tendo, I can't pilot Striker
+on my own, now, can I?
+
+1509
+01:39:36,840 --> 01:39:39,241
+Dad's hurt,
+so who's gonna be my copilot?
+
+1511
+01:40:01,520 --> 01:40:03,727
+I don't remember it being so tight.
+
+1512
+01:40:06,800 --> 01:40:09,531
+Getting back into that Jaeger
+will kill you.
+
+1513
+01:40:12,200 --> 01:40:14,248
+Not getting into one would kill us all.
+
+1514
+01:40:14,720 --> 01:40:15,881
+Listen...
+
+1515
+01:40:17,400 --> 01:40:19,050
+...you are a brave girl.
+
+1516
+01:40:20,440 --> 01:40:22,920
+I'm so lucky to have seen you grow.
+
+1517
+01:40:24,720 --> 01:40:26,802
+But if I'm going to do this...
+
+1518
+01:40:27,800 --> 01:40:30,087
+...I need you to protect me.
+
+1519
+01:40:34,920 --> 01:40:36,365
+Can you do that?
+
+1520
+01:40:41,560 --> 01:40:42,402
+Right.
+
+1521
+01:40:45,760 --> 01:40:47,091
+Everyone...
+
+1522
+01:40:48,160 --> 01:40:49,286
+...listen up!
+
+1523
+01:40:55,920 --> 01:40:57,126
+Today...
+
+1524
+01:40:58,800 --> 01:41:00,086
+...today...
+
+1525
+01:41:02,000 --> 01:41:03,889
+...at the edge of our hope...
+
+1526
+01:41:06,640 --> 01:41:08,961
+...at the end of our time...
+
+1527
+01:41:11,320 --> 01:41:15,405
+...we have chosen not only to believe
+in ourselves, but in each other.
+
+1528
+01:41:18,360 --> 01:41:19,168
+Today there's not...
+
+1529
+01:41:19,400 --> 01:41:21,971
+...a man nor woman in here
+that shall stand alone.
+
+1530
+01:41:23,400 --> 01:41:24,765
+Not today.
+
+1531
+01:41:26,040 --> 01:41:29,362
+Today we face the monsters
+that are at our door...
+
+1532
+01:41:29,640 --> 01:41:31,722
+...and bring the fight to them!
+
+1533
+01:41:32,560 --> 01:41:35,643
+Today we are canceling the apocalypse!
+
+1535
+01:41:56,360 --> 01:41:57,521
+Hey, marshal!
+
+1536
+01:41:57,760 --> 01:41:59,205
+You know, that was a great speech...
+
+1537
+01:41:59,440 --> 01:42:01,761
+...but how exactly are you and I
+supposed to match up...
+
+1538
+01:42:02,000 --> 01:42:02,967
+...in there?
+
+1539
+01:42:03,200 --> 01:42:05,328
+I carry nothing into the Drift.
+
+1540
+01:42:05,800 --> 01:42:08,041
+No memories, no fear.
+
+1541
+01:42:08,280 --> 01:42:09,441
+No rank.
+
+1542
+01:42:09,720 --> 01:42:11,324
+And as for you...
+
+1543
+01:42:11,680 --> 01:42:13,125
+...well, you're easy.
+
+1544
+01:42:13,360 --> 01:42:14,930
+You're an egotistical jerk...
+
+1545
+01:42:15,160 --> 01:42:16,002
+...with daddy issues.
+
+1546
+01:42:16,240 --> 01:42:18,720
+A simple puzzle I solved on day one.
+
+1548
+01:42:20,240 --> 01:42:22,129
+But you are your father's son...
+
+1549
+01:42:23,520 --> 01:42:24,851
+...so we'll Drift just fine.
+
+1550
+01:42:26,680 --> 01:42:28,011
+Works for me.
+
+1551
+01:42:43,400 --> 01:42:44,401
+Hey, now.
+
+1552
+01:42:50,280 --> 01:42:51,725
+<i>When you Drift with someone...</i>
+
+1553
+01:42:53,400 --> 01:42:56,006
+<i>...you feel like there's nothing
+to talk about.</i>
+
+1554
+01:42:59,320 --> 01:43:00,520
+I just don't want to regret...
+
+1555
+01:43:00,680 --> 01:43:02,881
+- ...all the things that I never said out loud.
+- Don't.
+
+1557
+01:43:06,760 --> 01:43:08,444
+You don't need to.
+
+1558
+01:43:11,600 --> 01:43:13,090
+I know them all.
+
+1559
+01:43:14,880 --> 01:43:16,325
+I always have.
+
+1561
+01:43:19,640 --> 01:43:21,449
+Hey. Hey, handsome.
+
+1563
+01:43:24,440 --> 01:43:26,363
+Oh, I'm gonna miss you.
+
+1564
+01:43:32,880 --> 01:43:34,564
+You look after him for me.
+
+1565
+01:43:36,600 --> 01:43:37,601
+Stacker.
+
+1566
+01:43:39,960 --> 01:43:41,883
+That's my son you got there.
+
+1567
+01:43:44,560 --> 01:43:46,005
+My son.
+
+1568
+01:43:51,880 --> 01:43:56,363
+You know, Mako, all those years
+I spent living in the past...
+
+1569
+01:43:56,920 --> 01:43:59,571
+...I never really thought
+about the future.
+
+1570
+01:44:01,440 --> 01:44:02,726
+Until now.
+
+1571
+01:44:05,120 --> 01:44:07,441
+I never did have very good timing.
+
+1573
+01:44:26,360 --> 01:44:27,566
+You ready for this?
+
+1574
+01:44:27,800 --> 01:44:31,964
+- Oh, yes, yes.
+- Initiating neural handshake in five...
+
+1575
+01:44:32,240 --> 01:44:33,162
+...four...
+
+1576
+01:44:33,400 --> 01:44:34,208
+...three...
+
+1577
+01:44:34,720 --> 01:44:35,562
+...two...
+
+1578
+01:44:35,800 --> 01:44:36,483
+...one.
+
+1583
+01:45:00,080 --> 01:45:01,650
+Are you okay?
+
+1584
+01:45:02,160 --> 01:45:03,730
+Yes, of course.
+
+1585
+01:45:04,720 --> 01:45:06,529
+I'm completely fine.
+
+1588
+01:45:14,400 --> 01:45:16,323
+- The Drift. You saw it?
+- Yeah.
+
+1589
+01:45:16,560 --> 01:45:18,528
+- Did you?
+- Listen, we have to warn them.
+
+1590
+01:45:18,760 --> 01:45:21,843
+The Jaegers... The Breach... The plan...
+
+1591
+01:45:22,760 --> 01:45:24,364
+It's not going to work.
+
+1592
+01:45:25,440 --> 01:45:27,329
+<i>Disengaging transport.</i>
+
+1593
+01:45:37,680 --> 01:45:40,524
+<i>Loccent, all ports sealed.
+Ready to submerge.</i>
+
+1594
+01:45:40,760 --> 01:45:42,171
+<i>All ports sealed.</i>
+
+1595
+01:45:42,400 --> 01:45:43,890
+<i>Ready to submerge.</i>
+
+1596
+01:45:51,080 --> 01:45:52,923
+<i>Both neural handshakes at
+100 percent.</i>
+
+1597
+01:45:53,720 --> 01:45:55,484
+Neural handshake confirmed, sir.
+
+1598
+01:45:55,720 --> 01:45:58,451
+Two actives still in circle formation
+in the Guam quadrant.
+
+1599
+01:45:58,880 --> 01:46:02,168
+<i>Code names: Scunner, Raiju.
+Both Category 4.</i>
+
+1600
+01:46:02,400 --> 01:46:03,242
+<i>Roger that.</i>
+
+1601
+01:46:03,680 --> 01:46:05,808
+Half a mile to the ocean cliff...
+
+1602
+01:46:06,080 --> 01:46:07,002
+...we jump!
+
+1603
+01:46:07,240 --> 01:46:09,083
+It's 3000 meters to the Breach.
+
+1604
+01:46:09,320 --> 01:46:10,924
+Half a mile? I can't even see...
+
+1605
+01:46:11,160 --> 01:46:11,763
+...a damn inch ahead!
+
+1606
+01:46:12,000 --> 01:46:14,480
+<i>How are we supposed
+to deliver the bomb?</i>
+
+1607
+01:46:16,760 --> 01:46:18,091
+Visibility's zero.
+
+1608
+01:46:18,320 --> 01:46:19,651
+Switching to instruments now.
+
+1609
+01:46:29,040 --> 01:46:30,166
+Sir!
+
+1610
+01:46:30,960 --> 01:46:33,122
+<i>Gipsy, you have movement on your right.
+Three o'clock! Three o'clock!</i>
+
+1611
+01:46:33,400 --> 01:46:35,209
+<i>100-feet radius...</i>
+
+1612
+01:46:35,440 --> 01:46:37,044
+<i>- ...clear.</i>
+- Right flank's clear.
+
+1613
+01:46:37,320 --> 01:46:38,207
+I got nothing.
+
+1614
+01:46:38,440 --> 01:46:41,250
+Left now! And moving fast!
+Fastest Kaiju on record!
+
+1616
+01:46:45,280 --> 01:46:47,647
+I don't see anything.
+It's moving too fast!
+
+1617
+01:46:47,920 --> 01:46:51,925
+<i>Eyes on the prize, Gipsy.
+600 meters from the drop.</i>
+
+1618
+01:47:17,000 --> 01:47:19,685
+<i>400 meters and closing.</i>
+
+1619
+01:47:24,800 --> 01:47:25,801
+Bogeys are stopping.
+
+1620
+01:47:27,000 --> 01:47:30,083
+<i>Striker! Bogeys are stopping.
+One o'clock.</i>
+
+1621
+01:47:31,400 --> 01:47:32,208
+Marshal, what are you doing?
+
+1622
+01:47:32,440 --> 01:47:33,282
+They're stopping.
+
+1623
+01:47:33,520 --> 01:47:35,329
+- Why the hell are they stopping?
+- I don't give a damn, sir!
+
+1624
+01:47:35,560 --> 01:47:36,971
+We're 300 meters from the jump!
+
+1625
+01:47:37,200 --> 01:47:38,008
+- Something's not right!
+- Striker...
+
+1626
+01:47:38,240 --> 01:47:39,207
+<i>...the bogeys aren't following.</i>
+
+1627
+01:47:39,440 --> 01:47:41,283
+Take the leap now.
+
+1628
+01:47:41,520 --> 01:47:42,851
+Don't do it! Don't do it!
+
+1629
+01:47:43,080 --> 01:47:43,881
+It's not gonna work!
+
+1630
+01:47:43,920 --> 01:47:46,360
+Move, you fascist! Blowing up
+the Breach, it's not gonna work!
+
+1631
+01:47:46,640 --> 01:47:47,607
+What do you mean?
+What's not gonna work?
+
+1632
+01:47:48,280 --> 01:47:50,886
+Just because the Breach is open does not
+mean you're able to get a bomb through.
+
+1633
+01:47:51,120 --> 01:47:52,770
+<i>The Breach genetically reads the Kaiju...</i>
+
+1634
+01:47:53,000 --> 01:47:54,923
+...like a barcode at the supermarket
+and then lets them pass.
+
+1635
+01:47:55,160 --> 01:47:57,845
+You're gonna have to fool the Breach into
+thinking that you have the same code!
+
+1636
+01:47:58,080 --> 01:48:00,640
+- And how are we supposed to do that?
+<i>- By making it</i> think...
+
+1637
+01:48:00,800 --> 01:48:01,767
+...you are a Kaiju.
+
+1638
+01:48:02,000 --> 01:48:03,604
+You have to lock onto the Kaiju,
+ride it into the Breach.
+
+1639
+01:48:03,840 --> 01:48:04,727
+The Throat will then read...
+
+1640
+01:48:04,960 --> 01:48:05,802
+...the Kaiju's genetic code...
+
+1641
+01:48:06,080 --> 01:48:08,048
+<i>- ...and let you pass.</i>
+<i>- If you don't do it...</i>
+
+1642
+01:48:08,280 --> 01:48:09,167
+<i>...the bomb will deflect off the Breach...</i>
+
+1643
+01:48:09,400 --> 01:48:10,401
+<i>...like it always has...</i>
+
+1644
+01:48:10,640 --> 01:48:11,800
+...and the mission will fail.
+
+1645
+01:48:12,040 --> 01:48:12,689
+All right.
+
+1646
+01:48:12,960 --> 01:48:14,485
+Now that you've heard all that,
+Striker, take the leap!
+
+1647
+01:48:14,720 --> 01:48:16,245
+Sir! I have a third signature...
+
+1648
+01:48:16,480 --> 01:48:17,811
+- ...emerging from the Breach!
+- Third signature...
+
+1649
+01:48:18,040 --> 01:48:19,565
+...emerging from the Breach.
+
+1650
+01:48:19,840 --> 01:48:20,887
+It's a triple event.
+
+1651
+01:48:21,120 --> 01:48:22,451
+Oh, God, I was right.
+
+1652
+01:48:23,120 --> 01:48:23,882
+How big is it?
+
+1653
+01:48:25,240 --> 01:48:27,242
+<i>- What category?</i>
+- Category 5
+
+1654
+01:48:28,640 --> 01:48:29,368
+<i>Striker...</i>
+
+1655
+01:48:29,640 --> 01:48:31,244
+<i>...it's a Category 5.</i>
+
+1656
+01:48:31,760 --> 01:48:33,250
+<i>The first ever.</i>
+
+1659
+01:48:57,680 --> 01:48:59,841
+<i>Striker, we see him.
+We're right behind you...</i>
+
+1660
+01:49:00,040 --> 01:49:01,007
+<i>...about 100 meters.</i>
+
+1661
+01:49:01,240 --> 01:49:03,925
+<i>We're gonna come around
+your 3 o'clock, try to flank him.</i>
+
+1662
+01:49:04,160 --> 01:49:05,969
+<i>Standard two-team formation.</i>
+
+1663
+01:49:06,200 --> 01:49:07,440
+<i>Just keep him busy for a few...</i>
+
+1665
+01:49:19,880 --> 01:49:20,927
+Brace for impact!
+
+1666
+01:49:28,880 --> 01:49:29,561
+<i>Chain sword...</i>
+
+1667
+01:49:29,720 --> 01:49:30,323
+<i>...deployed.</i>
+
+1669
+01:49:55,120 --> 01:49:57,407
+<i>Let's get this son of a bitch!</i>
+
+1671
+01:50:18,920 --> 01:50:19,682
+<i>Gipsy, coming up...</i>
+
+1672
+01:50:19,960 --> 01:50:20,847
+<i>...on your 12 o'clock!</i>
+
+1673
+01:50:21,080 --> 01:50:23,003
+<i>Full speed!</i>
+
+1674
+01:50:23,240 --> 01:50:24,730
+<i>Get out of the way!</i>
+
+1676
+01:50:44,800 --> 01:50:46,720
+The release is jammed!
+We can't deliver...
+
+1677
+01:50:46,800 --> 01:50:48,165
+<i>...the payload, sir!</i>
+
+1678
+01:50:48,720 --> 01:50:50,245
+<i>We're still armed.</i>
+
+1679
+01:50:50,480 --> 01:50:52,209
+But the hull is compromised!
+
+1680
+01:50:52,440 --> 01:50:53,801
+Half our systems are offline, sir.
+
+1681
+01:50:54,040 --> 01:50:55,246
+We need to override the...
+
+1684
+01:51:43,480 --> 01:51:44,163
+Both Kaijus...
+
+1685
+01:51:44,400 --> 01:51:45,600
+...converging on Striker fast!
+
+1687
+01:51:48,280 --> 01:51:50,009
+<i>Hang on, Striker!</i>
+
+1688
+01:51:50,240 --> 01:51:52,083
+<i>- We're coming to you!
+- No!</i>
+
+1689
+01:51:52,320 --> 01:51:54,004
+<i>Gipsy! Do not come to our aid!</i>
+
+1690
+01:51:54,240 --> 01:51:55,002
+<i>Do you copy?</i>
+
+1691
+01:51:55,240 --> 01:51:57,481
+<i>- Hang on!
+- Stay as far back as you can!</i>
+
+1692
+01:51:57,640 --> 01:52:00,007
+We can still reach you.
+We're coming for you.
+
+1693
+01:52:00,880 --> 01:52:02,484
+No, Raleigh, listen to me.
+
+1694
+01:52:02,720 --> 01:52:04,404
+You know exactly what you have to do!
+
+1695
+01:52:04,640 --> 01:52:05,766
+<i>Gipsy is nuclear!</i>
+
+1696
+01:52:06,000 --> 01:52:07,525
+<i>Take her to the Breach!</i>
+
+1697
+01:52:07,760 --> 01:52:09,000
+I hear you, sir.
+
+1698
+01:52:09,280 --> 01:52:10,691
+Heading for the Breach.
+
+1699
+01:52:10,920 --> 01:52:12,041
+<i>- Structural damage...</i>
+- Now.
+
+1700
+01:52:12,200 --> 01:52:13,247
+<i>- ...eighty percent.</i>
+- Uh.
+
+1701
+01:52:14,360 --> 01:52:15,168
+Mako.
+
+1702
+01:52:15,600 --> 01:52:16,283
+<i>Listen.</i>
+
+1703
+01:52:18,360 --> 01:52:20,283
+You can finish this.
+
+1704
+01:52:21,640 --> 01:52:23,961
+I'll always be here for you.
+
+1705
+01:52:24,520 --> 01:52:27,091
+You can always find me in the Drift.
+
+1706
+01:52:32,680 --> 01:52:33,647
+We're a walking...
+
+1707
+01:52:33,880 --> 01:52:35,245
+...nuclear reactor.
+
+1708
+01:52:35,640 --> 01:52:37,449
+We can destroy the Breach.
+
+1711
+01:52:51,080 --> 01:52:52,923
+<i>What can we do, sir?</i>
+
+1712
+01:52:53,200 --> 01:52:55,248
+We can clear a path!
+
+1713
+01:52:55,880 --> 01:52:57,405
+For the lady!
+
+1714
+01:52:58,200 --> 01:52:59,770
+They're gonna detonate the payload.
+
+1715
+01:53:00,440 --> 01:53:02,488
+<i>Well, my father always said:</i>
+
+1716
+01:53:02,720 --> 01:53:04,961
+If you have the shot, you take it!
+
+1717
+01:53:05,680 --> 01:53:07,330
+<i>So let's do this!</i>
+
+1718
+01:53:10,480 --> 01:53:12,005
+It was a pleasure, sir.
+
+1721
+01:54:10,120 --> 01:54:13,124
+<i>All systems critical. Fluid loss.</i>
+
+1722
+01:54:13,800 --> 01:54:15,689
+Systems are critical!
+
+1723
+01:54:15,920 --> 01:54:17,604
+Fuel is leaking!
+
+1724
+01:54:17,840 --> 01:54:18,840
+Our right leg's crippled!
+
+1725
+01:54:18,920 --> 01:54:20,570
+<i>Code red.</i>
+
+1726
+01:54:20,800 --> 01:54:22,564
+- Let's finish this.
+<i>- All systems critical.</i>
+
+1727
+01:54:22,800 --> 01:54:24,245
+What are they doing?
+
+1728
+01:54:24,880 --> 01:54:26,370
+Finishing the mission.
+
+1729
+01:54:26,600 --> 01:54:27,965
+Loccent. We have...
+
+1730
+01:54:28,200 --> 01:54:29,361
+<i>...the Kaiju carcass.</i>
+
+1731
+01:54:29,600 --> 01:54:30,806
+<i>We're heading for the Breach.</i>
+
+1732
+01:54:34,040 --> 01:54:35,690
+<i>You guys better be right.</i>
+
+1733
+01:54:35,920 --> 01:54:37,888
+<i>Because one way or another...</i>
+
+1734
+01:54:38,240 --> 01:54:40,481
+<i>...we're getting this thing done.</i>
+
+1736
+01:54:51,920 --> 01:54:54,890
+On my count, rear jets!
+
+1737
+01:54:55,120 --> 01:54:56,121
+Three...
+
+1738
+01:54:56,400 --> 01:54:57,481
+...two...
+
+1739
+01:54:57,720 --> 01:54:58,482
+...one.
+
+1740
+01:54:58,720 --> 01:54:59,243
+Now!
+
+1742
+01:55:08,520 --> 01:55:09,760
+Hold on.
+
+1744
+01:55:22,760 --> 01:55:25,127
+Mako's oxygen is down. Half capacity!
+
+1745
+01:55:26,280 --> 01:55:28,169
+- Can you reroute it?
+- I'm trying, sir.
+
+1746
+01:55:28,440 --> 01:55:29,327
+Hold on, Mako.
+
+1747
+01:55:30,160 --> 01:55:31,491
+<i>- Heat shaft purge.</i>
+- I'm gonna burn...
+
+1748
+01:55:31,720 --> 01:55:32,926
+<i>...this son of a bitch.</i>
+
+1750
+01:55:51,480 --> 01:55:52,208
+They're in.
+
+1751
+01:55:52,440 --> 01:55:54,363
+- They're in!
+- It worked.
+
+1752
+01:56:08,720 --> 01:56:10,006
+<i>Oxygen main...</i>
+
+1753
+01:56:10,240 --> 01:56:12,288
+<i>...left hemisphere, critical levels.</i>
+
+1754
+01:56:13,520 --> 01:56:14,328
+<i>Operating at...</i>
+
+1755
+01:56:16,080 --> 01:56:17,650
+<i>...fifteen percent capacity.</i>
+
+1756
+01:56:18,320 --> 01:56:20,288
+<i>Ten percent capacity.</i>
+
+1757
+01:56:21,080 --> 01:56:21,922
+<i>Five percent.</i>
+
+1758
+01:56:22,280 --> 01:56:23,566
+He's giving her his oxygen.
+
+1760
+01:56:27,840 --> 01:56:28,807
+It's okay now, Mako.
+
+1761
+01:56:30,080 --> 01:56:31,525
+We did it.
+
+1762
+01:56:32,240 --> 01:56:34,129
+I can finish this alone.
+
+1763
+01:56:35,040 --> 01:56:36,724
+All I have to do is fall.
+
+1764
+01:56:37,960 --> 01:56:39,485
+Anyone can fall.
+
+1765
+01:56:40,040 --> 01:56:40,723
+Raleigh...
+
+1766
+01:56:40,960 --> 01:56:41,927
+<i>...your oxygen levels...</i>
+
+1767
+01:56:42,160 --> 01:56:44,640
+<i>...are critical now.
+You don't have much time.</i>
+
+1768
+01:56:45,120 --> 01:56:48,647
+<i>Start the core meltdown and
+get out of there. Do you hear me?</i>
+
+1769
+01:56:48,880 --> 01:56:50,086
+<i>Get out of there now!</i>
+
+1770
+01:56:58,160 --> 01:57:01,243
+One pod is ejected. No detonation, sir.
+
+1771
+01:57:01,480 --> 01:57:02,891
+<i>Loccent, if you can still hear me...</i>
+
+1772
+01:57:03,160 --> 01:57:04,047
+...I'm initiating...
+
+1773
+01:57:04,320 --> 01:57:06,209
+...reactor override now.
+
+1775
+01:57:07,960 --> 01:57:08,881
+<i>Manual activation...</i>
+
+1776
+01:57:09,120 --> 01:57:10,610
+<i>...required.</i>
+
+1777
+01:57:10,840 --> 01:57:11,523
+What's going on?
+
+1778
+01:57:11,760 --> 01:57:13,649
+Trigger's offline!
+He has to do it by hand.
+
+1779
+01:57:13,920 --> 01:57:15,721
+He's out of time.
+He has to self-destruct now.
+
+1780
+01:57:18,320 --> 01:57:21,290
+<i>Manual activation required.</i>
+
+1781
+01:57:32,560 --> 01:57:34,164
+No!
+
+1783
+01:57:52,200 --> 01:57:54,202
+Manual override initiated.
+
+1784
+01:57:54,440 --> 01:57:56,966
+Core meltdown in T-minus 60.
+
+1785
+01:57:57,200 --> 01:58:00,488
+<i>Reactor meltdown in 55 seconds.</i>
+
+1786
+01:58:03,440 --> 01:58:05,124
+<i>Fifty seconds.</i>
+
+1788
+01:58:37,880 --> 01:58:39,325
+<i>E-vac pod engaged.</i>
+
+1789
+01:58:46,720 --> 01:58:47,846
+<i>Five...</i>
+
+1790
+01:58:48,080 --> 01:58:50,242
+<i>...four, three...</i>
+
+1791
+01:58:51,720 --> 01:58:53,563
+<i>...two, one.</i>
+
+1792
+01:58:53,800 --> 01:58:55,131
+<i>Reactor meltdown.</i>
+
+1793
+01:59:02,200 --> 01:59:04,965
+Direct hit! The Breach has collapsed!
+
+1795
+01:59:07,640 --> 01:59:11,201
+To the choppers! To the choppers now!
+
+1796
+01:59:28,240 --> 01:59:29,969
+Visuals on first pod.
+
+1797
+01:59:30,200 --> 01:59:33,283
+<i>Tracking solid. Vital signs are good.</i>
+
+1798
+01:59:38,640 --> 01:59:40,244
+Okay, where's the second pod?
+
+1799
+01:59:41,040 --> 01:59:43,566
+I'm tracking it,
+but I'm getting no vital signs.
+
+1800
+02:00:11,120 --> 02:00:12,849
+<i>I can't find his pulse.</i>
+
+1801
+02:00:13,240 --> 02:00:14,651
+<i>I don't think he's breathing.</i>
+
+1802
+02:00:14,880 --> 02:00:17,326
+Can you read his pulse?
+Does he have a pulse?
+
+1803
+02:00:17,600 --> 02:00:18,681
+<i>Raleigh?</i>
+
+1804
+02:00:19,320 --> 02:00:20,651
+<i>Mako, listen to me.</i>
+
+1805
+02:00:20,880 --> 02:00:22,481
+<i>It could be the sensors
+are not working.</i>
+
+1806
+02:00:23,440 --> 02:00:24,726
+<i>We can't be sure.</i>
+
+1807
+02:00:24,960 --> 02:00:25,927
+No.
+
+1808
+02:00:26,480 --> 02:00:28,767
+No. Don't go.
+
+1809
+02:00:29,640 --> 02:00:30,971
+- Please.
+- Mako.
+
+1810
+02:00:31,760 --> 02:00:32,921
+Don't go.
+
+1811
+02:00:33,200 --> 02:00:34,406
+Mako.
+
+1812
+02:00:36,800 --> 02:00:37,881
+No.
+
+1813
+02:00:38,400 --> 02:00:40,562
+Don't go. Please.
+
+1814
+02:00:43,040 --> 02:00:45,360
+You're squeezing me too tight.
+
+1816
+02:00:52,000 --> 02:00:53,843
+I couldn't breathe.
+
+1819
+02:01:09,560 --> 02:01:11,528
+This is Marshal Hercules Hansen.
+
+1820
+02:01:12,400 --> 02:01:14,129
+<i>The Breach is sealed.</i>
+
+1821
+02:01:15,280 --> 02:01:16,566
+Stop the clock!
+
+1824
+02:01:44,600 --> 02:01:45,601
+<i>Mako, Raleigh.</i>
+
+1825
+02:01:45,840 --> 02:01:48,161
+<i>We have your position.
+The choppers are on their way.</i>
+
+1826
+02:01:48,440 --> 02:01:49,566
+<i>Just hang on.</i>
+
+1828
+02:01:53,120 --> 02:01:54,451
+<i>Are you okay?</i>
+
+1829
+02:01:55,480 --> 02:01:57,005
+<i>Do you copy?</i>
+
+1830
+02:01:58,360 --> 02:02:00,647
+<i>Uh, guys?</i>
+
+1834
+02:04:59,960 --> 02:05:03,203
+Where is my goddamn shoe?
+
