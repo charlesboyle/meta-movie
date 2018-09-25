@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-@font-face {font-family:"Mensch";src:url('Mensch.ttf');}
 @font-face {font-family:"Nexa Bold";src:url('Nexa Bold.otf');}
 
 body {
@@ -209,19 +208,7 @@ p.fixedmenu {
 }
 */
 
-@font-face {font-family:"typograph pro ultralight";src:url('TYPOGRAPH PRO Ultra Light.ttf');}
-@font-face {font-family:"typograph pro light";src:url('TYPOGRAPH PRO Light_0.ttf');}
-@font-face {font-family:"typograph pro extrabold";src:url('TYPOGRAPH PRO Extra Bold_0.ttf');}
-@font-face {font-family:"crushed";src:url('TYPOGRAPH PRO Ultra Light.ttf');}
-@font-face {font-family:"bebas neue";src:url('BebasNeue.otf');}
-@font-face {font-family:"deibi";src:url('deibi.otf');}
-@font-face {font-family:"AnticFont";src:url('ANTIC.ttf');}
-@font-face {font-family:"roboto light";src:url('Roboto-light.ttf');}
-@font-face {font-family:"raleway";src:url('raleway_thin.otf');}
-@font-face {font-family:"nexabold";src:url('Nexa Bold.otf');}
-@font-face {font-family:"candela bold";src:url('CandelaBold.otf');}
-@font-face {font-family:"league gothic";src:url('LeagueGothic Regular.otf');}
-@font-face {font-family:"adelle sb";src:url('Adelle Semibold.otf');}
+
 @font-face {font-family:"Quicksand Light";src:url('Quicksand Light.otf');}
 @font-face {font-family:"Quicksand Bold";src:url('Quicksand Bold.otf');}		
 @font-face {font-family:"Nexa Light";src:url('Nexa Light.otf');}
@@ -436,22 +423,5 @@ p.fixedmenu {
   height: auto;
 }
 */
-
-@font-face {font-family:"typograph pro ultralight";src:url('TYPOGRAPH PRO Ultra Light.ttf');}
-@font-face {font-family:"typograph pro light";src:url('TYPOGRAPH PRO Light_0.ttf');}
-@font-face {font-family:"typograph pro extrabold";src:url('TYPOGRAPH PRO Extra Bold_0.ttf');}
-@font-face {font-family:"crushed";src:url('TYPOGRAPH PRO Ultra Light.ttf');}
-@font-face {font-family:"bebas neue";src:url('BebasNeue.otf');}
-@font-face {font-family:"deibi";src:url('deibi.otf');}
-@font-face {font-family:"AnticFont";src:url('ANTIC.ttf');}
-@font-face {font-family:"roboto light";src:url('Roboto-light.ttf');}
-@font-face {font-family:"raleway";src:url('raleway_thin.otf');}
-@font-face {font-family:"nexabold";src:url('Nexa Bold.otf');}
-@font-face {font-family:"candela bold";src:url('CandelaBold.otf');}
-@font-face {font-family:"league gothic";src:url('LeagueGothic Regular.otf');}
-@font-face {font-family:"adelle sb";src:url('Adelle Semibold.otf');}
-@font-face {font-family:"Quicksand Light";src:url('Quicksand Light.otf');}
-@font-face {font-family:"Quicksand Bold";src:url('Quicksand Bold.otf');}		
-@font-face {font-family:"Nexa Light";src:url('Nexa Light.otf');}
 
 >>>>>>> 44d65229aab14fc3249397e03006a11ed10189b3
