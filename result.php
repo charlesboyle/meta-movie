@@ -102,7 +102,7 @@
 		$timeElapsed = $timeEnd - $timeEnd;
 
 		echo "<center><font class=headline><p class=head>";
-		echo "We have found " . number_format($totalCount) . " instances for '" . $searchText . "' across " . $num . " movies in " . $timeElapsed . " ms.<br>";
+		echo "We have found " . number_format($totalCount) . " instances<br/>for '" . $searchText . "' across " . $num . " movies in " . $timeElapsed . " ms.<br>";
 		echo "<form method = 'get' action = 'result.php' id = 'search'><input type = 'text' id = 'txtbox' name = 'query' size = '80' value = '" . $searchText . "' style = 'box-shadow: 0px 0px 100px black;'></form><br/>";
 		if ($ub>1)	{
 			for ($i = 0; $i <= $ub; $i++)	{
