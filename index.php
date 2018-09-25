@@ -37,7 +37,7 @@
 					<td style=width:100%>
 						<br/><br/><br/><br/><br/><br/>
 						<center>
-							<a href = "index.php"><img style = "position:relative;z-index:2;blend-mode:color-burn;" src = logo2.png height = 350 width = 350></a>
+							<a href = "index.php"><img style = "position:relative;z-index:2;blend-mode:color-burn;" src = Logo2.png height = 350 width = 350></a>
 							<br/><br/>
 							<form method = "get" action = "result.php" id = "search">
 								<input type = "text" id = "txtbox" name = "query" size = "80" placeholder = "enter search query here" style = "box-shadow: 2px 2px 50px black;">
