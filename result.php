@@ -6,7 +6,7 @@
 	</head>
 	<body link = black bgcolor = F2F2F2>
 	<div id="fixed" font="Nexa Light">
-		<a href = "default.php"><img style = "position:relative;z-index:2;blend-mode:color-burn;padding: 25px 25px;" src = logo2.png height = 15%></a>
+		<a href = "index.php"><img style = "position:relative;z-index:2;blend-mode:color-burn;padding: 25px 25px;" src = logo2.png height = 15%></a>
 	</div>
 	<br>
 	<?php
