@@ -35,9 +35,9 @@
 			<table border=0>
 				<tr>
 					<td style=width:100%>
-						<br/><br/><br/><br/><br/><br/>
+						<br/><br/><br/><br/>
 						<center>
-							<a href = "index.php"><img style = "position:relative;z-index:2;blend-mode:color-burn;" src = Logo2.png height = 350 width = 350></a>
+							<a href = "index.php"><img style = "position:relative;z-index:2;blend-mode:color-burn;" src = Logo2.png height = 15%></a>
 							<br/><br/>
 							<form method = "get" action = "result.php" id = "search">
 								<input type = "text" id = "txtbox" name = "query" size = "80" placeholder = "enter search query here" style = "box-shadow: 2px 2px 50px black;">
@@ -46,7 +46,7 @@
 							<div id = "define">
 								<font face = "Quicksand Bold">
 									Enter a search query and we'll look for<br/>every instance of the terms<br/>occurrence in movies spanning<br/>several decades.
-								<br><font style = "font-size:16;">For a dictionary based search, click <a href = "dictionarytest.htm">here</a><font style = "font-family:Nexa Light;font-size:13"><sup>BETA</sup></font>
+								<br><font style = "font-size:14;">For a dictionary based search, click <a href = "dictionarytest.htm">here</a><font style = "font-family:Nexa Light;font-size:13"><sup>BETA</sup></font>
 								<br/><br/><br/><br/>
 								<big style = "text-shadow:none;">
 									Originally made with ❤️ using classic ASP for a high school project.

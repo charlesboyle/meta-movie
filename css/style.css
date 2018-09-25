@@ -41,15 +41,13 @@ table {
 }
 
 #video_background {
-	position: fixed;
-	bottom: 0px;
-	right: 0px;
-	min-width: 100%;
-	min-height: 100%;
+	height: 100%;
 	width: 100%;
-	height: auto;
-	z-index: -1;
-	overflow: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -2;
+	object-fit: cover;
 }
 
 table	{
@@ -423,5 +421,6 @@ p.fixedmenu {
   height: auto;
 }
 */
+
 
 >>>>>>> 44d65229aab14fc3249397e03006a11ed10189b3
