@@ -2,9 +2,9 @@
 	<head>
 		<title>metamovie.</title>
 		<link rel="icon" href=Logo2.png>
-		<link type="text/css" rel="stylesheet" href="css/project.css"/>
+		<link type="text/css" rel="stylesheet" href="css/style.css"/>
 	</head>
-	<body link = black bgcolor = F2F2F2>
+	<body link = black  bgcolor = F2F2F2>
 	<div id="fixed" font="Nexa Light">
 		<a href = "index.php"><img style = "position:relative;z-index:2;blend-mode:color-burn;padding: 25px 25px;" src = Logo2.png height = 15%></a>
 	</div>
@@ -15,7 +15,6 @@
 	static $searchText;
 	$searchText = strtolower($_GET["query"]);
 	$timeStart = microtime(true);
-	include('IMDbapi.php');
 	
 	if (strpos($searchText, ',') !== false)	{
 		searchMultiple();
@@ -30,7 +29,7 @@
 		$totalCount = 0;
 		$num = 0;
 		
-		echo "<center><br/><br/>	<br/><br/><br/><br/>";
+		echo "<center style=line-height:100%><br/><br/>	<br/><br/><br/><br/>";
 		echo "<form method = 'get' action = 'result.php' id = 'search'><input type = 'text' id = 'txtbox' name = 'query' size = '90' value = '" . $searchQuery . "' style = 'box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.3);'></form><br/><br/><br/>";
 		foreach (glob("trimmedFiles/*.txt") as $fileName)	{
 			$movieText = file_get_contents($fileName,  true);

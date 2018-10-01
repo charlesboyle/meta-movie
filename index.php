@@ -48,7 +48,7 @@
 									Enter a search query and we'll look for<br/>every instance of the terms<br/>occurrence in movies spanning<br/>several decades.
 								<br><font style = "font-size:14;">For a dictionary based search, click <a href = "dictionarytest.htm">here</a><font style = "font-family:Nexa Light;font-size:13"><sup>BETA</sup></font>
 								<br/><br/><br/><br/>
-								<big style = "text-shadow:none;">
+								<big>
 									Originally made with ❤️ using classic ASP for a high school project.
 								</big>
 								</font>
