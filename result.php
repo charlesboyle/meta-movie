@@ -4,7 +4,7 @@
 		<link rel="icon" href=Logo2.png>
 		<link type="text/css" rel="stylesheet" href="css/style.css"/>
 	</head>
-	<body link = black  bgcolor = F2F2F2>
+	<body link = black style=line-height:90% bgcolor = F2F2F2>
 	<div id="fixed" font="Nexa Light">
 		<a href = "index.php"><img style = "position:relative;z-index:2;blend-mode:color-burn;padding: 25px 25px;" src = Logo2.png height = 15%></a>
 	</div>
